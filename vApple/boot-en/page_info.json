@@ -1,0 +1,102 @@
+{
+  "Chart of Accounts": {
+    "route": "Tree/Account",
+    "title": "Chart of Accounts"
+  },
+  "Chart of Cost Centers": {
+    "route": "Tree/Cost Center",
+    "title": "Chart of Cost Centers"
+  },
+  "Customer Group Tree": {
+    "route": "Tree/Customer Group",
+    "title": "Customer Group Tree"
+  },
+  "Item Group Tree": {
+    "route": "Tree/Item Group",
+    "title": "Item Group Tree"
+  },
+  "Sales Person Tree": {
+    "route": "Tree/Sales Person",
+    "title": "Sales Person Tree"
+  },
+  "Territory Tree": {
+    "route": "Tree/Territory",
+    "title": "Territory Tree"
+  },
+  "activity": {
+    "modified": "2013-07-11 14:40:20.000001",
+    "title": "Activity"
+  },
+  "appointment-analytic": {
+    "modified": "2016-08-18 12:29:52.497819",
+    "title": "Appointment Analytics"
+  },
+  "chat": {
+    "modified": "2016-03-31 02:02:13.503910",
+    "title": "Chat"
+  },
+  "data-import-tool": {
+    "modified": "2016-05-11 03:37:53.385693",
+    "title": "Data Import Tool"
+  },
+  "desktop": {
+    "modified": "2013-07-11 14:41:56",
+    "title": "Desktop"
+  },
+  "hub": {
+    "modified": "2015-02-18 05:17:17.301735",
+    "title": "Hub"
+  },
+  "leaderboard": {
+    "modified": "2017-09-12 14:05:26.422064",
+    "title": "Leaderboard"
+  },
+  "medical_record": {
+    "modified": "2017-03-06 11:20:40.174661",
+    "title": "Medical Record"
+  },
+  "modules": {
+    "modified": "2016-03-07 04:46:00.420330",
+    "title": "Modules"
+  },
+  "modules_setup": {
+    "modified": "2017-04-12 18:44:53.283640",
+    "title": "Modules Setup"
+  },
+  "point-of-sale": {
+    "modified": "2017-09-11 13:49:05.415211",
+    "title": "Point of Sale"
+  },
+  "pos": {
+    "modified": "2014-08-08 05:59:33.045012",
+    "title": "POS"
+  },
+  "production-analytics": {
+    "modified": "2017-02-20 17:33:05.913097",
+    "title": "Production Analytics"
+  },
+  "purchase-analytics": {
+    "modified": "2013-07-11 14:43:52",
+    "title": "Purchase Analytics"
+  },
+  "sales-analytics": {
+    "modified": "2013-07-11 14:43:59",
+    "title": "Sales Analytics"
+  },
+  "sales-funnel": {
+    "modified": "2013-10-04 13:17:18",
+    "title": "Sales Funnel"
+  },
+  "stock-balance": {
+    "modified": "2016-07-14 06:39:09.096256",
+    "title": "Stock Summary"
+  },
+  "support-analytics": {
+    "modified": "2013-07-11 14:44:24",
+    "title": "Support Analytics"
+  },
+  "welcome-to-erpnext": {
+    "modified": "2015-10-28 16:27:02.197707",
+    "title": "Welcome to ERPNext"
+  }
+}

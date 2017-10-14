@@ -1,0 +1,571 @@
+{
+  "conditions": {
+    "Appraisal": {
+      "docstatus": 0.0
+    },
+    "Assessment Plan": {
+      "docstatus": 0.0
+    },
+    "Assessment Result": {
+      "docstatus": 0.0
+    },
+    "Asset": {
+      "docstatus": 0.0
+    },
+    "Asset Movement": {
+      "docstatus": 0.0
+    },
+    "Attendance": {
+      "docstatus": 0.0
+    },
+    "BOM": {
+      "docstatus": 0.0
+    },
+    "Bank Guarantee": {
+      "docstatus": 0.0
+    },
+    "Budget": {
+      "docstatus": 0.0
+    },
+    "C-Form": {
+      "docstatus": 0.0
+    },
+    "Communication": {
+      "communication_type": "Communication",
+      "status": "Open"
+    },
+    "Consultation": {
+      "docstatus": 0.0
+    },
+    "Contact": {
+      "status": "Open"
+    },
+    "Delivery Note": {
+      "docstatus": [
+        "\u003c",
+        2.0
+      ],
+      "status": [
+        "not in",
+        [
+          "Completed",
+          "Closed"
+        ]
+      ]
+    },
+    "Employee Loan": {
+      "docstatus": 0.0
+    },
+    "Employee Loan Application": {
+      "docstatus": 0.0
+    },
+    "Error Log": {
+      "seen": 0.0
+    },
+    "Error Snapshot": {
+      "parent_error_snapshot": null,
+      "seen": 0.0
+    },
+    "Event": "frappe.core.notifications.get_todays_events",
+    "Expense Claim": {
+      "approval_status": "Draft"
+    },
+    "Fee Schedule": {
+      "docstatus": 0.0
+    },
+    "Fee Structure": {
+      "docstatus": 0.0
+    },
+    "Fees": {
+      "docstatus": 0.0
+    },
+    "Grading Scale": {
+      "docstatus": 0.0
+    },
+    "Installation Note": {
+      "docstatus": 0.0
+    },
+    "Issue": {
+      "status": "Open"
+    },
+    "Item": {
+      "total_projected_qty": [
+        "\u003c",
+        0.0
+      ]
+    },
+    "Job Applicant": {
+      "status": "Open"
+    },
+    "Journal Entry": {
+      "docstatus": 0.0
+    },
+    "Lab Test": {
+      "docstatus": 0.0
+    },
+    "Landed Cost Voucher": {
+      "docstatus": 0.0
+    },
+    "Lead": {
+      "status": "Open"
+    },
+    "Leave Allocation": {
+      "docstatus": 0.0
+    },
+    "Leave Application": {
+      "status": "Open"
+    },
+    "Maintenance Schedule": {
+      "docstatus": 0.0
+    },
+    "Maintenance Visit": {
+      "docstatus": 0.0
+    },
+    "Material Request": {
+      "docstatus": [
+        "\u003c",
+        2.0
+      ],
+      "per_ordered": [
+        "\u003c",
+        100.0
+      ],
+      "status": [
+        "not in",
+        [
+          "Stopped"
+        ]
+      ]
+    },
+    "Offer Letter": {
+      "docstatus": 0.0
+    },
+    "Opportunity": {
+      "status": "Open"
+    },
+    "Packing Slip": {
+      "docstatus": 0.0
+    },
+    "Patient Appointment": {
+      "status": "Open"
+    },
+    "Payment Entry": {
+      "docstatus": 0.0
+    },
+    "Payment Request": {
+      "docstatus": 0.0
+    },
+    "Period Closing Voucher": {
+      "docstatus": 0.0
+    },
+    "Production Order": {
+      "status": [
+        "in",
+        [
+          "Draft",
+          "Not Started",
+          "In Process"
+        ]
+      ]
+    },
+    "Program Enrollment": {
+      "docstatus": 0.0
+    },
+    "Project": {
+      "status": "Open"
+    },
+    "Purchase Invoice": {
+      "docstatus": [
+        "\u003c",
+        2.0
+      ],
+      "outstanding_amount": [
+        "\u003e",
+        0.0
+      ]
+    },
+    "Purchase Order": {
+      "docstatus": [
+        "\u003c",
+        2.0
+      ],
+      "status": [
+        "not in",
+        [
+          "Completed",
+          "Closed"
+        ]
+      ]
+    },
+    "Purchase Receipt": {
+      "docstatus": [
+        "\u003c",
+        2.0
+      ],
+      "status": [
+        "not in",
+        [
+          "Completed",
+          "Closed"
+        ]
+      ]
+    },
+    "Quality Inspection": {
+      "docstatus": 0.0
+    },
+    "Quotation": {
+      "docstatus": 0.0
+    },
+    "Request for Quotation": {
+      "docstatus": 0.0
+    },
+    "Salary Slip": {
+      "docstatus": 0.0
+    },
+    "Sales Invoice": {
+      "docstatus": [
+        "\u003c",
+        2.0
+      ],
+      "outstanding_amount": [
+        "\u003e",
+        0.0
+      ]
+    },
+    "Sales Order": {
+      "docstatus": [
+        "\u003c",
+        2.0
+      ],
+      "status": [
+        "not in",
+        [
+          "Completed",
+          "Closed"
+        ]
+      ]
+    },
+    "Sample Collection": {
+      "docstatus": 0.0
+    },
+    "Stock Entry": {
+      "docstatus": 0.0
+    },
+    "Stock Reconciliation": {
+      "docstatus": 0.0
+    },
+    "Student Applicant": {
+      "docstatus": 0.0
+    },
+    "Student Leave Application": {
+      "docstatus": 0.0
+    },
+    "Subscription": {
+      "docstatus": 0.0
+    },
+    "Supplier Quotation": {
+      "docstatus": 0.0
+    },
+    "Task": {
+      "status": [
+        "in",
+        [
+          "Open",
+          "Overdue"
+        ]
+      ]
+    },
+    "Timesheet": {
+      "status": "Draft"
+    },
+    "ToDo": "frappe.core.notifications.get_things_todo",
+    "Training Event": {
+      "docstatus": 0.0
+    },
+    "Training Feedback": {
+      "docstatus": 0.0
+    },
+    "Training Result": {
+      "docstatus": 0.0
+    },
+    "Vehicle Log": {
+      "docstatus": 0.0
+    },
+    "Vital Signs": {
+      "docstatus": 0.0
+    },
+    "Warranty Claim": {
+      "status": "Open"
+    }
+  },
+  "module_doctypes": {
+    "Accounts": [
+      "Asset",
+      "POS Profile",
+      "Asset Movement",
+      "Account",
+      "Journal Entry",
+      "Purchase Taxes and Charges Template",
+      "Sales Invoice",
+      "Subscription",
+      "Budget",
+      "Payment Request",
+      "Cost Center",
+      "Payment Entry",
+      "Pricing Rule",
+      "Payment Reconciliation",
+      "Bank Reconciliation",
+      "GL Entry",
+      "Cheque Print Template",
+      "Period Closing Voucher",
+      "Bank Guarantee",
+      "Asset Category",
+      "Mode of Payment",
+      "POS Settings",
+      "Tax Rule",
+      "Purchase Invoice",
+      "Monthly Distribution",
+      "Fiscal Year",
+      "Sales Taxes and Charges Template",
+      "Shipping Rule",
+      "C-Form",
+      "Payment Gateway Account",
+      "Accounts Settings"
+    ],
+    "Buying": [
+      "Purchase Order",
+      "Supplier Quotation",
+      "Supplier",
+      "Request for Quotation"
+    ],
+    "CRM": [
+      "Lead",
+      "Opportunity"
+    ],
+    "Contacts": [
+      "Contact",
+      "Address",
+      "Gender",
+      "Salutation"
+    ],
+    "Core": [
+      "Error Snapshot",
+      "Report",
+      "Communication",
+      "User",
+      "Error Log",
+      "Authentication Log",
+      "File"
+    ],
+    "Desk": [
+      "Event",
+      "ToDo",
+      "Note",
+      "Kanban Board"
+    ],
+    "Email": [
+      "Standard Reply"
+    ],
+    "Geo": [
+      "Country",
+      "Currency"
+    ],
+    "HR": [
+      "Branch",
+      "Department",
+      "Appraisal Template",
+      "Offer Letter",
+      "Job Opening",
+      "Daily Work Summary Settings",
+      "Training Result",
+      "Appraisal",
+      "Expense Claim",
+      "Leave Control Panel",
+      "Leave Block List",
+      "Leave Type",
+      "Interest",
+      "Training Feedback",
+      "Training Event",
+      "Process Payroll",
+      "Loan Type",
+      "Salary Component",
+      "Attendance",
+      "Employee Attendance Tool",
+      "Salary Slip",
+      "Designation",
+      "Employment Type",
+      "Salary Structure",
+      "Vehicle Log",
+      "Employee",
+      "Expense Claim Type",
+      "Offer Term",
+      "Employee Loan",
+      "Job Applicant",
+      "Holiday List",
+      "Leave Application",
+      "Employee Loan Application",
+      "Upload Attendance",
+      "Leave Allocation"
+    ],
+    "Healthcare": [
+      "Patient Appointment",
+      "Lab Test",
+      "Vital Signs",
+      "Consultation",
+      "Sample Collection"
+    ],
+    "Maintenance": [
+      "Maintenance Schedule",
+      "Maintenance Visit"
+    ],
+    "Manufacturing": [
+      "Production Order",
+      "Manufacturing Settings",
+      "Production Planning Tool",
+      "Operation",
+      "BOM",
+      "Workstation",
+      "BOM Update Tool"
+    ],
+    "Printing": [
+      "Letter Head"
+    ],
+    "Projects": [
+      "Activity Cost",
+      "Timesheet",
+      "Task",
+      "Project",
+      "Activity Type",
+      "Project Type"
+    ],
+    "Schools": [
+      "Fee Schedule",
+      "Student Leave Application",
+      "Student Applicant",
+      "Fees",
+      "Fee Structure",
+      "Assessment Plan",
+      "Program Enrollment",
+      "Grading Scale",
+      "Assessment Result"
+    ],
+    "Selling": [
+      "Product Bundle",
+      "Lead Source",
+      "Campaign",
+      "Sales Order",
+      "Industry Type",
+      "Installation Note",
+      "Quotation",
+      "Customer"
+    ],
+    "Setup": [
+      "Item Group",
+      "Territory",
+      "Brand",
+      "Setup Progress",
+      "Sales Partner",
+      "UOM",
+      "Print Heading",
+      "Supplier Type",
+      "Sales Person",
+      "Company",
+      "Party Type",
+      "Terms and Conditions",
+      "Currency Exchange",
+      "Customer Group"
+    ],
+    "Stock": [
+      "Stock Settings",
+      "Material Request",
+      "Customs Tariff Number",
+      "Bin",
+      "Stock Entry",
+      "Price List",
+      "Batch",
+      "Packing Slip",
+      "Warehouse",
+      "Landed Cost Voucher",
+      "Stock Reconciliation",
+      "Stock Ledger Entry",
+      "Manufacturer",
+      "Quality Inspection",
+      "Serial No",
+      "Delivery Note",
+      "Purchase Receipt",
+      "Item"
+    ],
+    "Support": [
+      "Warranty Claim",
+      "Issue"
+    ],
+    "Website": [
+      "Help Article"
+    ]
+  },
+  "new_messages": [],
+  "open_count_doctype": {
+    "Appraisal": 0.0,
+    "Asset": 0.0,
+    "Asset Movement": 0.0,
+    "Attendance": 0.0,
+    "BOM": 0.0,
+    "Bank Guarantee": 0.0,
+    "Budget": 0.0,
+    "C-Form": 0.0,
+    "Communication": 0.0,
+    "Contact": 0.0,
+    "Delivery Note": 1.0,
+    "Employee Loan": 0.0,
+    "Employee Loan Application": 0.0,
+    "Event": 0.0,
+    "Expense Claim": 4.0,
+    "Installation Note": 0.0,
+    "Issue": 0.0,
+    "Item": 5.0,
+    "Job Applicant": 0.0,
+    "Journal Entry": 0.0,
+    "Landed Cost Voucher": 0.0,
+    "Lead": 0.0,
+    "Leave Allocation": 0.0,
+    "Leave Application": 0.0,
+    "Material Request": 4.0,
+    "Offer Letter": 0.0,
+    "Opportunity": 3.0,
+    "Packing Slip": 0.0,
+    "Payment Entry": 0.0,
+    "Payment Request": 0.0,
+    "Period Closing Voucher": 0.0,
+    "Production Order": 6.0,
+    "Project": 5.0,
+    "Purchase Invoice": 1.0,
+    "Purchase Order": 5.0,
+    "Purchase Receipt": 0.0,
+    "Quotation": 0.0,
+    "Request for Quotation": 0.0,
+    "Salary Slip": 0.0,
+    "Sales Invoice": 19.0,
+    "Sales Order": 6.0,
+    "Stock Entry": 3.0,
+    "Stock Reconciliation": 0.0,
+    "Subscription": 0.0,
+    "Supplier Quotation": 0.0,
+    "Task": 50.0,
+    "Timesheet": 1.0,
+    "ToDo": 0.0,
+    "Training Event": 0.0,
+    "Training Feedback": 0.0,
+    "Training Result": 0.0
+  },
+  "open_count_module": {},
+  "open_count_other": {
+    "Chat": 0.0,
+    "Email": 0.0,
+    "Likes": 0.0
+  },
+  "targets": {
+    "Company": {
+      "Wind Power LLC": 100.0
+    }
+  }
+}

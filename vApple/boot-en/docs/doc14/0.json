@@ -1,0 +1,10 @@
+{
+  "cost_center": "Main - WPL",
+  "default_bank_account": "National Bank - WPL",
+  "default_currency": "USD",
+  "default_letter_head": null,
+  "default_terms": null,
+  "doctype": ":Company",
+  "enable_perpetual_inventory": 1.0,
+  "name": "Wind Power LLC"
+}

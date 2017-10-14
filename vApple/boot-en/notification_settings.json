@@ -1,0 +1,18 @@
+{
+  "creation": "2017-10-14 11:02:35.344751",
+  "delivery_note": 0.0,
+  "docstatus": 0.0,
+  "doctype": "Notification Control",
+  "expense_claim": 0.0,
+  "idx": "0",
+  "modified": "2017-10-14 01:33:41.384050",
+  "modified_by": "Administrator",
+  "name": "Notification Control",
+  "owner": "Administrator",
+  "purchase_order": 1.0,
+  "purchase_receipt": 0.0,
+  "quotation": 1.0,
+  "sales_invoice": 1.0,
+  "sales_order": 0.0,
+  "select_transaction": ""
+}

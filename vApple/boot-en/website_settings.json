@@ -1,0 +1,17 @@
+{
+  "creation": "2017-10-14 11:00:47.854903",
+  "disable_signup": 0.0,
+  "docstatus": 0.0,
+  "doctype": "Website Settings",
+  "footer_items": [],
+  "hide_footer_signup": 0.0,
+  "home_page": "demo",
+  "idx": "0",
+  "modified": "2017-10-14 01:33:49.495447",
+  "modified_by": "Administrator",
+  "name": "Website Settings",
+  "navbar_search": 0.0,
+  "owner": "Administrator",
+  "top_bar_items": [],
+  "website_theme": "Standard"
+}

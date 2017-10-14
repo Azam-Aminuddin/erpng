@@ -1,0 +1,9 @@
+{
+  "doctype": ":Currency",
+  "fraction": "Rappen[K]",
+  "fraction_units": 100.0,
+  "name": "CHF",
+  "number_format": "#\u0027###.##",
+  "smallest_currency_fraction_value": 0.05,
+  "symbol": "Fr"
+}

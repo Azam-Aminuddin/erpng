@@ -1,0 +1,39 @@
+{
+  "_dynamic_page": 1.0,
+  "content": null,
+  "creation": "2013-02-14 17:37:37",
+  "docstatus": 0.0,
+  "doctype": "Page",
+  "icon": "fa fa-th",
+  "idx": 1.0,
+  "modified": "2013-07-11 14:41:56",
+  "modified_by": "Administrator",
+  "module": "Core",
+  "name": "desktop",
+  "owner": "Administrator",
+  "page_name": "desktop",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "restrict_to_domain": null,
+  "roles": [
+    {
+      "creation": "2013-02-14 17:37:37",
+      "docstatus": 0.0,
+      "doctype": "Has Role",
+      "idx": 1.0,
+      "modified": "2017-10-14 01:30:28.710737",
+      "modified_by": "Administrator",
+      "name": "dd58331839",
+      "owner": "Administrator",
+      "parent": "desktop",
+      "parentfield": "roles",
+      "parenttype": "Page",
+      "role": "All"
+    }
+  ],
+  "standard": "Yes",
+  "style": null,
+  "system_page": 0.0,
+  "title": "Desktop"
+}

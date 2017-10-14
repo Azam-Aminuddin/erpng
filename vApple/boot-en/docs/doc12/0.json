@@ -1,0 +1,9 @@
+{
+  "doctype": ":Currency",
+  "fraction": "Sen[G]",
+  "fraction_units": 100.0,
+  "name": "JPY",
+  "number_format": "#,###",
+  "smallest_currency_fraction_value": 0.0,
+  "symbol": "¥"
+}

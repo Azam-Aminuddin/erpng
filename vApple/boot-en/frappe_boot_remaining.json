@@ -1,0 +1,197 @@
+{
+  "active_domains": [
+    "Manufacturing",
+    ""
+  ],
+  "all_accounts": "",
+  "all_domains": [
+    "Healthcare",
+    "Education",
+    "Retail",
+    "Services",
+    "Manufacturing",
+    "Distribution"
+  ],
+  "customer_count": 20.0,
+  "desktop_icons": null,
+  "disable_async": null,
+  "docs": null,
+  "email_accounts": [],
+  "error_report_email": [
+    "support@erpnext.com"
+  ],
+  "expiry_message": "",
+  "feedback_triggers": {},
+  "from_cache": 1.0,
+  "gsuite_enabled": false,
+  "home_folder": "Home",
+  "home_page": "desktop",
+  "lang": "en",
+  "letter_heads": {},
+  "limits": {
+    "space_usage": {
+      "backup_size": 3.0,
+      "database_size": 12.56,
+      "files_size": 323.0,
+      "total": 338.56
+    }
+  },
+  "max_file_size": 1.048576E7,
+  "metadata_version": "e28ee2357e197cdaeb9f64daea180c55b8763de5f7f6e24c194919af",
+  "module_list": [],
+  "modules": {},
+  "notes": [],
+  "server_date": "2017-10-14",
+  "sid": "b744963b01415a605de9ad68c4ffc586f673edec58edcfa8f8ca2786",
+  "sitename": "demo.erpnext.com",
+  "socketio_port": 9000.0,
+  "user_info": {
+    "Administrator": {
+      "email": "admin@example.com",
+      "fullname": "Administrator",
+      "gender": null,
+      "image": null,
+      "name": "Administrator",
+      "username": "administrator"
+    },
+    "CharmaineGaudreau@example.com": {
+      "email": "CharmaineGaudreau@example.com",
+      "fullname": "Charmaine Gaudreau",
+      "gender": "Female",
+      "image": null,
+      "name": "CharmaineGaudreau@example.com",
+      "username": "charmaine"
+    },
+    "DikmanShervashidze@example.com": {
+      "email": "DikmanShervashidze@example.com",
+      "fullname": "Dikman Shervashidze",
+      "gender": "Female",
+      "image": null,
+      "name": "DikmanShervashidze@example.com",
+      "username": "dikman"
+    },
+    "GabrielleLoftus@example.com": {
+      "email": "GabrielleLoftus@example.com",
+      "fullname": "Gabrielle Loftus",
+      "gender": "Female",
+      "image": null,
+      "name": "GabrielleLoftus@example.com",
+      "username": "gabrielle"
+    },
+    "Guest": {
+      "email": "guest@example.com",
+      "fullname": "Guest",
+      "gender": null,
+      "image": null,
+      "name": "Guest",
+      "username": "guest"
+    },
+    "HatsueKashiwagi@example.com": {
+      "email": "HatsueKashiwagi@example.com",
+      "fullname": "Hatsue Kashiwagi",
+      "gender": "Female",
+      "image": null,
+      "name": "HatsueKashiwagi@example.com",
+      "username": "hatsue"
+    },
+    "LeonAbdulov@example.com": {
+      "email": "LeonAbdulov@example.com",
+      "fullname": "Leon Abdulov",
+      "gender": null,
+      "image": null,
+      "name": "LeonAbdulov@example.com",
+      "username": "leon"
+    },
+    "MichalSobczak@example.com": {
+      "email": "MichalSobczak@example.com",
+      "fullname": "Michał Sobczak",
+      "gender": "Male",
+      "image": null,
+      "name": "MichalSobczak@example.com",
+      "username": "michał"
+    },
+    "NuranVerkleij@example.com": {
+      "email": "NuranVerkleij@example.com",
+      "fullname": "Nuran Verkleij",
+      "gender": "Female",
+      "image": null,
+      "name": "NuranVerkleij@example.com",
+      "username": "nuran"
+    },
+    "TildeLindqvist@example.com": {
+      "email": "TildeLindqvist@example.com",
+      "fullname": "Tilde Lindqvist",
+      "gender": "Female",
+      "image": null,
+      "name": "TildeLindqvist@example.com",
+      "username": "tilde"
+    },
+    "VakhitaRyzaev@example.com": {
+      "email": "VakhitaRyzaev@example.com",
+      "fullname": "Vakhita Ryzaev",
+      "gender": "Male",
+      "image": null,
+      "name": "VakhitaRyzaev@example.com",
+      "username": "vakhita"
+    },
+    "WanMai@example.com": {
+      "email": "WanMai@example.com",
+      "fullname": "Wan Mai",
+      "gender": null,
+      "image": null,
+      "name": "WanMai@example.com",
+      "username": "wan"
+    },
+    "Zukutakitoteka@example.com": {
+      "email": "Zukutakitoteka@example.com",
+      "fullname": "Zukutakitoteka",
+      "gender": "Female",
+      "image": null,
+      "name": "Zukutakitoteka@example.com",
+      "username": "zukutakitoteka"
+    },
+    "aromn@example.com": {
+      "email": "aromn@example.com",
+      "fullname": "Arom Nolan",
+      "gender": "Male",
+      "image": null,
+      "name": "aromn@example.com",
+      "username": "arom"
+    },
+    "demo@erpnext.com": {
+      "email": "demo@erpnext.com",
+      "fullname": "Demo User",
+      "gender": null,
+      "image": null,
+      "name": "demo@erpnext.com",
+      "username": "demo"
+    },
+    "panca@example.com": {
+      "email": "panca@example.com",
+      "fullname": "Раиса Белякова",
+      "gender": null,
+      "image": null,
+      "name": "panca@example.com",
+      "username": "раиса"
+    },
+    "test_demo@erpnext.com": {
+      "email": "test_demo@erpnext.com",
+      "fullname": "Test User",
+      "gender": null,
+      "image": null,
+      "name": "test_demo@erpnext.com",
+      "username": "test"
+    }
+  },
+  "user_permissions": {
+    "User": [
+      "demo@erpnext.com"
+    ]
+  },
+  "versions": {
+    "erpnext": "9.1.3",
+    "erpnext_shopify": "2.0.14",
+    "frappe": "9.1.5",
+    "mandrill_integration": "0.0.1"
+  }
+}
