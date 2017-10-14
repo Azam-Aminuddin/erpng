@@ -1,0 +1,2002 @@
+{
+  "/css/desk.min.css": {
+    "path": "/css/desk.min.css",
+    "lastSync": 1506621307641,
+    "guid": "97808fd3-3270-4a43-81d3-71246b5af2b0"
+  },
+  "/css/erpnext.css": {
+    "path": "/css/erpnext.css",
+    "lastSync": 1506454828517,
+    "guid": "aa572c6a-27ee-4cab-9423-d9f08a1cf235"
+  },
+  "/css/form.min.css": {
+    "path": "/css/form.min.css",
+    "lastSync": 1502608539057,
+    "guid": "b54f9f87-d323-4bb2-b007-9471b91eef79"
+  },
+  "/css/frappe-web.css": {
+    "path": "/css/frappe-web.css",
+    "lastSync": 1506454828517,
+    "guid": "38ba73dc-c5d4-456a-bafd-59fe0d80b334"
+  },
+  "/css/list.min.css": {
+    "path": "/css/list.min.css",
+    "lastSync": 1506454828517,
+    "guid": "f90876eb-9c83-4ae1-b283-52b6ff665a3f"
+  },
+  "/css/module.min.css": {
+    "path": "/css/module.min.css",
+    "lastSync": 1502608539057,
+    "guid": "e7ffd7e1-d498-482a-bc12-290811f42dba"
+  },
+  "/css/report.min.css": {
+    "path": "/css/report.min.css",
+    "lastSync": 1505671935724,
+    "guid": "ceaf6d87-fdbb-4043-b05c-88305b8544df"
+  },
+  "/erpnext/build.json": {
+    "path": "/erpnext/build.json",
+    "lastSync": 1502608539057,
+    "guid": "3a03e947-bc61-41a9-92bf-52a03ee04272"
+  },
+  "/erpnext/css/erpnext.css": {
+    "path": "/erpnext/css/erpnext.css",
+    "lastSync": 1506454828517,
+    "guid": "526738df-4333-44d7-8fa3-4f727ab3ffed"
+  },
+  "/erpnext/css/website.css": {
+    "path": "/erpnext/css/website.css",
+    "lastSync": 1505671935724,
+    "guid": "e992a515-e452-45b8-89bb-f9be82b24002"
+  },
+  "/erpnext/images/erp-icon.svg": {
+    "path": "/erpnext/images/erp-icon.svg",
+    "lastSync": 1502608539057,
+    "guid": "82aa9319-6d43-4397-b704-47b784d0f9de"
+  },
+  "/erpnext/images/erpnext-footer.png": {
+    "path": "/erpnext/images/erpnext-footer.png",
+    "lastSync": 1502608539057,
+    "guid": "640a7408-f61f-4a16-92ef-d93123cee0b6"
+  },
+  "/erpnext/images/erpnext-video-placeholder.jpg": {
+    "path": "/erpnext/images/erpnext-video-placeholder.jpg",
+    "lastSync": 1502608539057,
+    "guid": "9f2929aa-4ded-4a8b-8689-ea747e5a5456"
+  },
+  "/erpnext/images/favicon.png": {
+    "path": "/erpnext/images/favicon.png",
+    "lastSync": 1502608539057,
+    "guid": "e882dd72-0530-4bdc-b846-5ccdfd0ae3ac"
+  },
+  "/erpnext/images/pos.svg": {
+    "path": "/erpnext/images/pos.svg",
+    "lastSync": 1502608539057,
+    "guid": "7d5349b8-a08f-4f6e-8d08-5a8ddee084fd"
+  },
+  "/erpnext/images/splash.png": {
+    "path": "/erpnext/images/splash.png",
+    "lastSync": 1502608539057,
+    "guid": "c5b04c53-c49f-4ea8-9110-e6910079aecb"
+  },
+  "/erpnext/images/YouTube-icon-full_color.png": {
+    "path": "/erpnext/images/YouTube-icon-full_color.png",
+    "lastSync": 1502608539057,
+    "guid": "d86d5ca9-6ced-4b79-8d17-8e51bb9ff325"
+  },
+  "/erpnext/js/account_tree_grid.js": {
+    "path": "/erpnext/js/account_tree_grid.js",
+    "lastSync": 1502608539057,
+    "guid": "1254e8b0-c16a-4597-913b-88287a1692f2"
+  },
+  "/erpnext/js/conf.js": {
+    "path": "/erpnext/js/conf.js",
+    "lastSync": 1502608539057,
+    "guid": "25eef959-4038-45b2-8d11-b9f2b4d85893"
+  },
+  "/erpnext/js/controllers/accounts.js": {
+    "path": "/erpnext/js/controllers/accounts.js",
+    "lastSync": 1502608539057,
+    "guid": "aa2d1298-4c5f-4331-847d-6b14d9baf03a"
+  },
+  "/erpnext/js/controllers/stock_controller.js": {
+    "path": "/erpnext/js/controllers/stock_controller.js",
+    "lastSync": 1502608539057,
+    "guid": "22b87866-adf0-4c26-930f-0896f50ee429"
+  },
+  "/erpnext/js/controllers/taxes_and_totals.js": {
+    "path": "/erpnext/js/controllers/taxes_and_totals.js",
+    "lastSync": 1506621307641,
+    "guid": "cc29a847-3171-4994-a359-f0f73a35cf57"
+  },
+  "/erpnext/js/controllers/transaction.js": {
+    "path": "/erpnext/js/controllers/transaction.js",
+    "lastSync": 1506454828517,
+    "guid": "b68a45c2-6be7-499d-b618-aa20d52efb46"
+  },
+  "/erpnext/js/financial_statements.js": {
+    "path": "/erpnext/js/financial_statements.js",
+    "lastSync": 1502608539057,
+    "guid": "107f8986-6e56-4b89-b7cc-ab3f07103bfc"
+  },
+  "/erpnext/js/help_links.js": {
+    "path": "/erpnext/js/help_links.js",
+    "lastSync": 1505671935724,
+    "guid": "97ffe1b7-0ee5-43e8-a44c-c3b152615028"
+  },
+  "/erpnext/js/payment/payments.js": {
+    "path": "/erpnext/js/payment/payments.js",
+    "lastSync": 1502608539057,
+    "guid": "8ca04234-9e96-4c06-868f-bf5c29befcec"
+  },
+  "/erpnext/js/payment/payment_details.html": {
+    "path": "/erpnext/js/payment/payment_details.html",
+    "lastSync": 1502608539057,
+    "guid": "5a6839be-cb2a-4d3b-b463-8834e849e2c0"
+  },
+  "/erpnext/js/payment/pos_payment.html": {
+    "path": "/erpnext/js/payment/pos_payment.html",
+    "lastSync": 1502608539057,
+    "guid": "e1ca8649-f8e2-4dc1-b757-ba190ccc12bf"
+  },
+  "/erpnext/js/pos/pos.html": {
+    "path": "/erpnext/js/pos/pos.html",
+    "lastSync": 1502608539057,
+    "guid": "bb3531f3-7406-41df-9d8b-4904904ff3de"
+  },
+  "/erpnext/js/pos/pos_bill_item.html": {
+    "path": "/erpnext/js/pos/pos_bill_item.html",
+    "lastSync": 1502608539057,
+    "guid": "aa5a9d74-1050-4b66-b125-8071432f86ae"
+  },
+  "/erpnext/js/pos/pos_invoice_list.html": {
+    "path": "/erpnext/js/pos/pos_invoice_list.html",
+    "lastSync": 1502608539057,
+    "guid": "2b1eab64-b565-47fc-9529-b8e9e76f76ca"
+  },
+  "/erpnext/js/pos/pos_item.html": {
+    "path": "/erpnext/js/pos/pos_item.html",
+    "lastSync": 1502608539057,
+    "guid": "cac24903-a65f-422e-acd1-b55f1473bf1c"
+  },
+  "/erpnext/js/pos/pos_tax_row.html": {
+    "path": "/erpnext/js/pos/pos_tax_row.html",
+    "lastSync": 1502608539057,
+    "guid": "e0401fd3-a776-4cf3-a542-7d7cc31acadc"
+  },
+  "/erpnext/js/purchase_trends_filters.js": {
+    "path": "/erpnext/js/purchase_trends_filters.js",
+    "lastSync": 1502608539057,
+    "guid": "eb302352-784e-4174-a43b-fc334eef3629"
+  },
+  "/erpnext/js/queries.js": {
+    "path": "/erpnext/js/queries.js",
+    "lastSync": 1502608539057,
+    "guid": "1e0e49d4-3f4f-41fb-98a7-f37dde70d090"
+  },
+  "/erpnext/js/sales_trends_filters.js": {
+    "path": "/erpnext/js/sales_trends_filters.js",
+    "lastSync": 1502608539057,
+    "guid": "2b72df45-dcd4-4810-83f6-c5764b5e1fa8"
+  },
+  "/erpnext/js/schools/student_button.html": {
+    "path": "/erpnext/js/schools/student_button.html",
+    "lastSync": 1502608539057,
+    "guid": "ab26ef64-10b5-4699-98c1-ccc738d69d0e"
+  },
+  "/erpnext/js/setup_wizard.js": {
+    "path": "/erpnext/js/setup_wizard.js",
+    "lastSync": 1506182352957,
+    "guid": "27d7be10-64a2-4953-9010-e4d8d58549aa"
+  },
+  "/erpnext/js/shopping_cart.js": {
+    "path": "/erpnext/js/shopping_cart.js",
+    "lastSync": 1502608539057,
+    "guid": "b63269c1-b066-40d5-853c-daf98011cf37"
+  },
+  "/erpnext/js/sms_manager.js": {
+    "path": "/erpnext/js/sms_manager.js",
+    "lastSync": 1505671935724,
+    "guid": "1649fb3f-aa34-470d-bdd8-5e1843df0acc"
+  },
+  "/erpnext/js/stock_analytics.js": {
+    "path": "/erpnext/js/stock_analytics.js",
+    "lastSync": 1502608539057,
+    "guid": "066d0b9e-f504-42ab-864a-74cbc434b27a"
+  },
+  "/erpnext/js/stock_grid_report.js": {
+    "path": "/erpnext/js/stock_grid_report.js",
+    "lastSync": 1502608539057,
+    "guid": "c6db8d90-44cf-495d-b7b5-82993e104315"
+  },
+  "/erpnext/js/templates/address_list.html": {
+    "path": "/erpnext/js/templates/address_list.html",
+    "lastSync": 1502608539057,
+    "guid": "abf80239-7ec5-4cf0-8306-936e6ca5455d"
+  },
+  "/erpnext/js/templates/contact_list.html": {
+    "path": "/erpnext/js/templates/contact_list.html",
+    "lastSync": 1502608539057,
+    "guid": "8e17fe9f-927f-46f2-87b1-1fdde67f5112"
+  },
+  "/erpnext/js/templates/item_selector.html": {
+    "path": "/erpnext/js/templates/item_selector.html",
+    "lastSync": 1502608539057,
+    "guid": "4b0a1342-1851-4ed9-86c0-8f596b4282a1"
+  },
+  "/erpnext/js/utils/item_selector.js": {
+    "path": "/erpnext/js/utils/item_selector.js",
+    "lastSync": 1502608539057,
+    "guid": "b51e253e-01f2-42e3-9ef1-d1f0ad955784"
+  },
+  "/erpnext/js/utils/party.js": {
+    "path": "/erpnext/js/utils/party.js",
+    "lastSync": 1502608539057,
+    "guid": "e174cf6b-b8aa-4df4-9620-ceff1ad5f09d"
+  },
+  "/erpnext/js/utils.js": {
+    "path": "/erpnext/js/utils.js",
+    "lastSync": 1506454828517,
+    "guid": "c26ae0f3-c490-4056-86e6-af6c9ce45e9c"
+  },
+  "/erpnext/js/website_utils.js": {
+    "path": "/erpnext/js/website_utils.js",
+    "lastSync": 1502608539057,
+    "guid": "0832df8c-d733-43ee-a536-590e1428cd8d"
+  },
+  "/frappe/css/animate.min.css": {
+    "path": "/frappe/css/animate.min.css",
+    "lastSync": 1502608539057,
+    "guid": "af3aa785-8bfc-40b3-8331-b5f5618048de"
+  },
+  "/frappe/css/avatar.css": {
+    "path": "/frappe/css/avatar.css",
+    "lastSync": 1502608539057,
+    "guid": "2efdf4dd-8d0c-44fa-ac41-9be2e280aa3a"
+  },
+  "/frappe/css/bootstrap.css": {
+    "path": "/frappe/css/bootstrap.css",
+    "lastSync": 1502608539057,
+    "guid": "259ba3bc-0609-4656-9ea6-28d738bcd6e6"
+  },
+  "/frappe/css/c3.min.css": {
+    "path": "/frappe/css/c3.min.css",
+    "lastSync": 1502608539057,
+    "guid": "c843eb11-e1db-4c1a-97a4-b281fd3a89b1"
+  },
+  "/frappe/css/calendar.css": {
+    "path": "/frappe/css/calendar.css",
+    "lastSync": 1505671935724,
+    "guid": "2df7c2be-ac54-4344-b9bf-9814ac33ec51"
+  },
+  "/frappe/css/common.css": {
+    "path": "/frappe/css/common.css",
+    "lastSync": 1502608539057,
+    "guid": "5732686e-213e-47e4-9422-2ebc20af4717"
+  },
+  "/frappe/css/desk.css": {
+    "path": "/frappe/css/desk.css",
+    "lastSync": 1506621307641,
+    "guid": "9d96f6ad-b1c2-4ced-9b15-ce1c47570aa9"
+  },
+  "/frappe/css/desktop.css": {
+    "path": "/frappe/css/desktop.css",
+    "lastSync": 1502608539057,
+    "guid": "18642be4-bcee-407b-aad7-9c89c6a5e165"
+  },
+  "/frappe/css/docs.css": {
+    "path": "/frappe/css/docs.css",
+    "lastSync": 1502608539057,
+    "guid": "acd25b9d-27bd-4e7b-a889-d00cd632da9f"
+  },
+  "/frappe/css/font-awesome.css": {
+    "path": "/frappe/css/font-awesome.css",
+    "lastSync": 1502608539057,
+    "guid": "64cbe1f7-72b1-469a-8445-63b05d1b468b"
+  },
+  "/frappe/css/font-awesome.min.css": {
+    "path": "/frappe/css/font-awesome.min.css",
+    "lastSync": 1502608539057,
+    "guid": "f74ba965-207e-43f7-8581-a3f2e5bf3aea"
+  },
+  "/frappe/css/fonts/fontawesome/fontawesome-webfont.eot": {
+    "path": "/frappe/css/fonts/fontawesome/fontawesome-webfont.eot",
+    "lastSync": 1502608539057,
+    "guid": "9121bfc7-c122-4b69-920e-76df2405340c"
+  },
+  "/frappe/css/fonts/fontawesome/fontawesome-webfont.svg": {
+    "path": "/frappe/css/fonts/fontawesome/fontawesome-webfont.svg",
+    "lastSync": 1502608539057,
+    "guid": "00658098-74d5-4b3c-baa6-770fa511a90e"
+  },
+  "/frappe/css/fonts/fontawesome/fontawesome-webfont.ttf": {
+    "path": "/frappe/css/fonts/fontawesome/fontawesome-webfont.ttf",
+    "lastSync": 1502608539057,
+    "guid": "2c1b2c8d-b907-41f1-b5f1-0623bb0f17f0"
+  },
+  "/frappe/css/fonts/fontawesome/fontawesome-webfont.woff": {
+    "path": "/frappe/css/fonts/fontawesome/fontawesome-webfont.woff",
+    "lastSync": 1502608539057,
+    "guid": "e188f2e8-479a-46e6-9cb9-d4af6af92336"
+  },
+  "/frappe/css/fonts/fontawesome/fontawesome-webfont.woff2": {
+    "path": "/frappe/css/fonts/fontawesome/fontawesome-webfont.woff2",
+    "lastSync": 1502608539057,
+    "guid": "d2ea264e-71c4-4870-a0aa-c83288d9be23"
+  },
+  "/frappe/css/fonts/fontawesome/FontAwesome.otf": {
+    "path": "/frappe/css/fonts/fontawesome/FontAwesome.otf",
+    "lastSync": 1502608539057,
+    "guid": "fdd7a902-faed-488e-adb0-f0f84419849f"
+  },
+  "/frappe/css/fonts/glyphicons/glyphicons-halflings-regular.eot": {
+    "path": "/frappe/css/fonts/glyphicons/glyphicons-halflings-regular.eot",
+    "lastSync": 1502608539057,
+    "guid": "56cdddce-2a8b-43bd-b125-9b99f8a33218"
+  },
+  "/frappe/css/fonts/glyphicons/glyphicons-halflings-regular.svg": {
+    "path": "/frappe/css/fonts/glyphicons/glyphicons-halflings-regular.svg",
+    "lastSync": 1502608539057,
+    "guid": "fecbdd7b-f6e2-47c8-b12e-ce9eac2e235e"
+  },
+  "/frappe/css/fonts/glyphicons/glyphicons-halflings-regular.ttf": {
+    "path": "/frappe/css/fonts/glyphicons/glyphicons-halflings-regular.ttf",
+    "lastSync": 1502608539057,
+    "guid": "2027a6f3-4525-4f3f-97a9-2fd52642feed"
+  },
+  "/frappe/css/fonts/glyphicons/glyphicons-halflings-regular.woff": {
+    "path": "/frappe/css/fonts/glyphicons/glyphicons-halflings-regular.woff",
+    "lastSync": 1502608539057,
+    "guid": "952ed0f4-a348-4d00-b4ed-b74b48f6ed03"
+  },
+  "/frappe/css/fonts/glyphicons/glyphicons-halflings-regular.woff2": {
+    "path": "/frappe/css/fonts/glyphicons/glyphicons-halflings-regular.woff2",
+    "lastSync": 1502608539057,
+    "guid": "65e70b65-f6d9-4f8f-bffd-b110c9f2339a"
+  },
+  "/frappe/css/fonts/ionicons/ionicons.eot": {
+    "path": "/frappe/css/fonts/ionicons/ionicons.eot",
+    "lastSync": 1502608539057,
+    "guid": "5be329e3-647d-4159-9454-0c1bcb423869"
+  },
+  "/frappe/css/fonts/ionicons/ionicons.svg": {
+    "path": "/frappe/css/fonts/ionicons/ionicons.svg",
+    "lastSync": 1502608539057,
+    "guid": "ed1ea7c9-5b70-461b-b988-34614537470e"
+  },
+  "/frappe/css/fonts/ionicons/ionicons.ttf": {
+    "path": "/frappe/css/fonts/ionicons/ionicons.ttf",
+    "lastSync": 1502608539057,
+    "guid": "68933689-810e-4157-b236-68831906980c"
+  },
+  "/frappe/css/fonts/ionicons/ionicons.woff": {
+    "path": "/frappe/css/fonts/ionicons/ionicons.woff",
+    "lastSync": 1502608539057,
+    "guid": "c823e740-f2f5-4703-bb22-2d01a0f9c582"
+  },
+  "/frappe/css/fonts/open-sans/open-sans.css": {
+    "path": "/frappe/css/fonts/open-sans/open-sans.css",
+    "lastSync": 1502608539057,
+    "guid": "c0577f7b-6baf-4958-93cd-21aaf0e6555b"
+  },
+  "/frappe/css/fonts/open-sans/OpenSans-Bold-webfont.eot": {
+    "path": "/frappe/css/fonts/open-sans/OpenSans-Bold-webfont.eot",
+    "lastSync": 1502608539057,
+    "guid": "9c7fc3e4-0690-42ce-89ec-ac48cbfe0993"
+  },
+  "/frappe/css/fonts/open-sans/OpenSans-Bold-webfont.svg": {
+    "path": "/frappe/css/fonts/open-sans/OpenSans-Bold-webfont.svg",
+    "lastSync": 1502608539057,
+    "guid": "9dd10e30-532b-4c60-b293-af345a71386d"
+  },
+  "/frappe/css/fonts/open-sans/OpenSans-Bold-webfont.ttf": {
+    "path": "/frappe/css/fonts/open-sans/OpenSans-Bold-webfont.ttf",
+    "lastSync": 1502608539057,
+    "guid": "fb208c12-1ad2-4487-8844-b238cab1bbf7"
+  },
+  "/frappe/css/fonts/open-sans/OpenSans-Bold-webfont.woff": {
+    "path": "/frappe/css/fonts/open-sans/OpenSans-Bold-webfont.woff",
+    "lastSync": 1502608539057,
+    "guid": "252311a4-07e5-433a-9416-0da52d7d17d5"
+  },
+  "/frappe/css/fonts/open-sans/OpenSans-Italic-webfont.eot": {
+    "path": "/frappe/css/fonts/open-sans/OpenSans-Italic-webfont.eot",
+    "lastSync": 1502608539057,
+    "guid": "8184e56e-f92a-4538-9660-a372283eba35"
+  },
+  "/frappe/css/fonts/open-sans/OpenSans-Italic-webfont.svg": {
+    "path": "/frappe/css/fonts/open-sans/OpenSans-Italic-webfont.svg",
+    "lastSync": 1502608539057,
+    "guid": "5254b654-d540-4b01-ab8f-6a799a558541"
+  },
+  "/frappe/css/fonts/open-sans/OpenSans-Italic-webfont.ttf": {
+    "path": "/frappe/css/fonts/open-sans/OpenSans-Italic-webfont.ttf",
+    "lastSync": 1502608539057,
+    "guid": "3466f699-9bf1-4c58-8f56-c0881066bc56"
+  },
+  "/frappe/css/fonts/open-sans/OpenSans-Italic-webfont.woff": {
+    "path": "/frappe/css/fonts/open-sans/OpenSans-Italic-webfont.woff",
+    "lastSync": 1502608539057,
+    "guid": "c2417c2f-f4e0-4c3b-a0fd-7bec1ba0bfe1"
+  },
+  "/frappe/css/fonts/open-sans/OpenSans-Light-webfont.eot": {
+    "path": "/frappe/css/fonts/open-sans/OpenSans-Light-webfont.eot",
+    "lastSync": 1502608539057,
+    "guid": "8c3dd246-2e05-4920-9b71-99b0e380cae8"
+  },
+  "/frappe/css/fonts/open-sans/OpenSans-Light-webfont.svg": {
+    "path": "/frappe/css/fonts/open-sans/OpenSans-Light-webfont.svg",
+    "lastSync": 1502608539057,
+    "guid": "5aebbb6f-ce49-4364-9923-de39b3dc298a"
+  },
+  "/frappe/css/fonts/open-sans/OpenSans-Light-webfont.ttf": {
+    "path": "/frappe/css/fonts/open-sans/OpenSans-Light-webfont.ttf",
+    "lastSync": 1502608539057,
+    "guid": "24cd4671-0ab5-4bec-9e72-6ca39b0b317d"
+  },
+  "/frappe/css/fonts/open-sans/OpenSans-Light-webfont.woff": {
+    "path": "/frappe/css/fonts/open-sans/OpenSans-Light-webfont.woff",
+    "lastSync": 1502608539057,
+    "guid": "60fbd918-19a1-4b77-ac5a-f21415d78ec8"
+  },
+  "/frappe/css/fonts/open-sans/OpenSans-Regular-webfont.eot": {
+    "path": "/frappe/css/fonts/open-sans/OpenSans-Regular-webfont.eot",
+    "lastSync": 1502608539057,
+    "guid": "a574ad24-d119-41ac-ba87-046c7cc1be91"
+  },
+  "/frappe/css/fonts/open-sans/OpenSans-Regular-webfont.svg": {
+    "path": "/frappe/css/fonts/open-sans/OpenSans-Regular-webfont.svg",
+    "lastSync": 1502608539057,
+    "guid": "ae02a5d8-a598-4f56-bf7d-3789b783999d"
+  },
+  "/frappe/css/fonts/open-sans/OpenSans-Regular-webfont.ttf": {
+    "path": "/frappe/css/fonts/open-sans/OpenSans-Regular-webfont.ttf",
+    "lastSync": 1502608539057,
+    "guid": "3cefa34d-62de-4dea-84c4-a0d8a9246f2e"
+  },
+  "/frappe/css/fonts/open-sans/OpenSans-Regular-webfont.woff": {
+    "path": "/frappe/css/fonts/open-sans/OpenSans-Regular-webfont.woff",
+    "lastSync": 1502608539057,
+    "guid": "d78a1f59-f32b-49e9-b00f-06f435d573a4"
+  },
+  "/frappe/css/fonts/open-sans/OpenSans-Semibold-webfont.eot": {
+    "path": "/frappe/css/fonts/open-sans/OpenSans-Semibold-webfont.eot",
+    "lastSync": 1502608539057,
+    "guid": "ea6912c0-f470-4fad-8bd3-d272f69c091c"
+  },
+  "/frappe/css/fonts/open-sans/OpenSans-Semibold-webfont.svg": {
+    "path": "/frappe/css/fonts/open-sans/OpenSans-Semibold-webfont.svg",
+    "lastSync": 1502608539057,
+    "guid": "f172d200-6962-44f4-b8ed-8790aa18013b"
+  },
+  "/frappe/css/fonts/open-sans/OpenSans-Semibold-webfont.ttf": {
+    "path": "/frappe/css/fonts/open-sans/OpenSans-Semibold-webfont.ttf",
+    "lastSync": 1502608539057,
+    "guid": "7b75e07e-f9f2-4593-9279-bd7ae754a84e"
+  },
+  "/frappe/css/fonts/open-sans/OpenSans-Semibold-webfont.woff": {
+    "path": "/frappe/css/fonts/open-sans/OpenSans-Semibold-webfont.woff",
+    "lastSync": 1502608539057,
+    "guid": "5ae78be6-ea48-4d7f-8c6f-187c655813ce"
+  },
+  "/frappe/css/form.css": {
+    "path": "/frappe/css/form.css",
+    "lastSync": 1506454828517,
+    "guid": "3635db2e-9880-4f7e-8bd0-f12c1d5876b4"
+  },
+  "/frappe/css/form_grid.css": {
+    "path": "/frappe/css/form_grid.css",
+    "lastSync": 1502608539057,
+    "guid": "da08f59f-71ee-4662-8e8b-288891696c74"
+  },
+  "/frappe/css/gantt.css": {
+    "path": "/frappe/css/gantt.css",
+    "lastSync": 1502608539057,
+    "guid": "1d46eabf-ba55-4f72-99f3-f65be897f5d0"
+  },
+  "/frappe/css/hljs.css": {
+    "path": "/frappe/css/hljs.css",
+    "lastSync": 1502608539057,
+    "guid": "5f06e069-7555-40b0-bc09-a65a35cf25e4"
+  },
+  "/frappe/css/indicator.css": {
+    "path": "/frappe/css/indicator.css",
+    "lastSync": 1502608539057,
+    "guid": "35f40a30-3c3e-4bc4-9bc8-e51342c151ec"
+  },
+  "/frappe/css/ionicons.min.css": {
+    "path": "/frappe/css/ionicons.min.css",
+    "lastSync": 1502608539057,
+    "guid": "f611d683-1386-4ff1-bdbf-53a84e374814"
+  },
+  "/frappe/css/list.css": {
+    "path": "/frappe/css/list.css",
+    "lastSync": 1506454828517,
+    "guid": "7f91cab4-4a02-4a06-ad39-b35aca4b1f7e"
+  },
+  "/frappe/css/mixins.css": {
+    "path": "/frappe/css/mixins.css",
+    "lastSync": 1502608539057,
+    "guid": "fba3474b-704e-4b7e-8801-b2aafea2b337"
+  },
+  "/frappe/css/mobile.css": {
+    "path": "/frappe/css/mobile.css",
+    "lastSync": 1506621307641,
+    "guid": "e37714c7-592c-44a8-86f1-ff5779b4b23b"
+  },
+  "/frappe/css/module.css": {
+    "path": "/frappe/css/module.css",
+    "lastSync": 1502608539057,
+    "guid": "4c0f4036-c69e-4ddd-9976-dc57ba84be95"
+  },
+  "/frappe/css/navbar.css": {
+    "path": "/frappe/css/navbar.css",
+    "lastSync": 1506621307641,
+    "guid": "d44bd47c-0fef-42f8-900c-0e7ced5be52f"
+  },
+  "/frappe/css/octicons/LICENSE.txt": {
+    "path": "/frappe/css/octicons/LICENSE.txt",
+    "lastSync": 1502608539057,
+    "guid": "aa4054c7-ff29-4663-bdff-5ea6a2dac926"
+  },
+  "/frappe/css/octicons/octicons-local.ttf": {
+    "path": "/frappe/css/octicons/octicons-local.ttf",
+    "lastSync": 1502608539057,
+    "guid": "dfd348e0-0c9b-4b38-a394-069aa3c9df24"
+  },
+  "/frappe/css/octicons/octicons.css": {
+    "path": "/frappe/css/octicons/octicons.css",
+    "lastSync": 1502608539057,
+    "guid": "803603ba-fc1f-4a8b-b571-46f41a8e590e"
+  },
+  "/frappe/css/octicons/octicons.eot": {
+    "path": "/frappe/css/octicons/octicons.eot",
+    "lastSync": 1502608539057,
+    "guid": "f56dc7a1-d5c0-4351-8c9b-8c21f14811ad"
+  },
+  "/frappe/css/octicons/octicons.less": {
+    "path": "/frappe/css/octicons/octicons.less",
+    "lastSync": 1502608539057,
+    "guid": "db07a596-b2db-4703-88a4-92ebe38ece33"
+  },
+  "/frappe/css/octicons/octicons.scss": {
+    "path": "/frappe/css/octicons/octicons.scss",
+    "lastSync": 1502608539057,
+    "guid": "001475b8-634a-4e9b-a385-549ab1107969"
+  },
+  "/frappe/css/octicons/octicons.svg": {
+    "path": "/frappe/css/octicons/octicons.svg",
+    "lastSync": 1502608539057,
+    "guid": "664dfe01-2ba4-4075-8a44-9a044a821f17"
+  },
+  "/frappe/css/octicons/octicons.ttf": {
+    "path": "/frappe/css/octicons/octicons.ttf",
+    "lastSync": 1502608539057,
+    "guid": "f26d556a-5c6e-4ee3-b2f5-840e53318773"
+  },
+  "/frappe/css/octicons/octicons.woff": {
+    "path": "/frappe/css/octicons/octicons.woff",
+    "lastSync": 1502608539057,
+    "guid": "43cdd3d6-2cdf-44d2-a436-595d9b73fc9a"
+  },
+  "/frappe/css/octicons/README.md": {
+    "path": "/frappe/css/octicons/README.md",
+    "lastSync": 1502608539057,
+    "guid": "3a314a00-604c-47e8-a25d-3013f42ad636"
+  },
+  "/frappe/css/octicons/sprockets-octicons.scss": {
+    "path": "/frappe/css/octicons/sprockets-octicons.scss",
+    "lastSync": 1502608539057,
+    "guid": "962b6214-ee1f-46ee-a20e-9eddef5e43cf"
+  },
+  "/frappe/css/offcanvas-website.css": {
+    "path": "/frappe/css/offcanvas-website.css",
+    "lastSync": 1502608539057,
+    "guid": "0f79f80e-5bb8-4f48-9b31-666050a857e4"
+  },
+  "/frappe/css/offcanvas.css": {
+    "path": "/frappe/css/offcanvas.css",
+    "lastSync": 1502608539057,
+    "guid": "bec6e931-31d8-4af6-9899-deb8a8a23b2a"
+  },
+  "/frappe/css/page.css": {
+    "path": "/frappe/css/page.css",
+    "lastSync": 1506182352957,
+    "guid": "4b9ed0b8-f98d-4a3e-9787-dd81496cc266"
+  },
+  "/frappe/css/prism.css": {
+    "path": "/frappe/css/prism.css",
+    "lastSync": 1502608539057,
+    "guid": "da4df913-0fa4-49a3-a691-7631d2417860"
+  },
+  "/frappe/css/report.css": {
+    "path": "/frappe/css/report.css",
+    "lastSync": 1502608539057,
+    "guid": "2e58e246-4cff-4c1e-b857-b58f6eb8a757"
+  },
+  "/frappe/css/shepherd/shepherd-theme-arrows-plain-buttons.css": {
+    "path": "/frappe/css/shepherd/shepherd-theme-arrows-plain-buttons.css",
+    "lastSync": 1502608539057,
+    "guid": "4f8892e8-d27d-4323-a019-b0cfac007c28"
+  },
+  "/frappe/css/shepherd/shepherd-theme-arrows.css": {
+    "path": "/frappe/css/shepherd/shepherd-theme-arrows.css",
+    "lastSync": 1502608539057,
+    "guid": "84b60723-a2d9-4cb3-92f6-983f4c5ff316"
+  },
+  "/frappe/css/shepherd/shepherd-theme-dark.css": {
+    "path": "/frappe/css/shepherd/shepherd-theme-dark.css",
+    "lastSync": 1502608539057,
+    "guid": "d647c026-b84e-4241-a797-0edbad540a75"
+  },
+  "/frappe/css/shepherd/shepherd-theme-default.css": {
+    "path": "/frappe/css/shepherd/shepherd-theme-default.css",
+    "lastSync": 1502608539057,
+    "guid": "e19cf0c3-0dc4-4d86-b8b5-69dd4d95645b"
+  },
+  "/frappe/css/shepherd/shepherd-theme-square-dark.css": {
+    "path": "/frappe/css/shepherd/shepherd-theme-square-dark.css",
+    "lastSync": 1502608539057,
+    "guid": "3359688f-2732-4683-98c0-891d3bf0c95a"
+  },
+  "/frappe/css/shepherd/shepherd-theme-square.css": {
+    "path": "/frappe/css/shepherd/shepherd-theme-square.css",
+    "lastSync": 1502608539057,
+    "guid": "903ae446-3885-47b9-ae91-ceb6b0ba6703"
+  },
+  "/frappe/css/sidebar.css": {
+    "path": "/frappe/css/sidebar.css",
+    "lastSync": 1506182352957,
+    "guid": "a3f68278-3ebe-4b53-a10b-475511a53ae2"
+  },
+  "/frappe/css/slickgrid.css": {
+    "path": "/frappe/css/slickgrid.css",
+    "lastSync": 1505671935724,
+    "guid": "d9632448-87c9-4d42-9b52-055768fab708"
+  },
+  "/frappe/css/tree.css": {
+    "path": "/frappe/css/tree.css",
+    "lastSync": 1502608539057,
+    "guid": "9d4a5233-e29d-455c-8cc9-20ae19a2df84"
+  },
+  "/frappe/css/tree_grid.css": {
+    "path": "/frappe/css/tree_grid.css",
+    "lastSync": 1502608539057,
+    "guid": "1af4f4db-57af-4dda-836d-390b2ff915ab"
+  },
+  "/frappe/css/website.css": {
+    "path": "/frappe/css/website.css",
+    "lastSync": 1506454828517,
+    "guid": "4733ca19-64ae-42e2-85f2-ec89ddd782a3"
+  },
+  "/frappe/html/print_template.html": {
+    "path": "/frappe/html/print_template.html",
+    "lastSync": 1502608539057,
+    "guid": "c4fa042c-8bf3-4792-9883-d3690e22c3ef"
+  },
+  "/frappe/images/background.png": {
+    "path": "/frappe/images/background.png",
+    "lastSync": 1502608539057,
+    "guid": "91b17dc5-6ca9-43cb-b3b9-8919f85c3ba1"
+  },
+  "/frappe/images/favicon.png": {
+    "path": "/frappe/images/favicon.png",
+    "lastSync": 1502608539057,
+    "guid": "d81b3289-8aeb-4634-a921-eefa87f0e08d"
+  },
+  "/frappe/images/frappe-bird-grey.svg": {
+    "path": "/frappe/images/frappe-bird-grey.svg",
+    "lastSync": 1502608539057,
+    "guid": "9047bad1-be53-4bda-a5e7-24f9b52c5850"
+  },
+  "/frappe/images/frappe-bird-thin.svg": {
+    "path": "/frappe/images/frappe-bird-thin.svg",
+    "lastSync": 1502608539057,
+    "guid": "7ecdc705-60e6-406e-9d03-554a80ed8b32"
+  },
+  "/frappe/images/help/print-style-classic.png": {
+    "path": "/frappe/images/help/print-style-classic.png",
+    "lastSync": 1502608539057,
+    "guid": "f449c5da-6a7b-481f-bac5-f3885ba141bb"
+  },
+  "/frappe/images/help/print-style-modern.png": {
+    "path": "/frappe/images/help/print-style-modern.png",
+    "lastSync": 1502608539057,
+    "guid": "2852fbb4-d9b7-41d9-8594-103a69a02f23"
+  },
+  "/frappe/images/help/print-style-monochrome.png": {
+    "path": "/frappe/images/help/print-style-monochrome.png",
+    "lastSync": 1502608539057,
+    "guid": "2a34636f-131e-4399-b7b8-94fae99e992b"
+  },
+  "/frappe/images/help/print-style-standard.png": {
+    "path": "/frappe/images/help/print-style-standard.png",
+    "lastSync": 1502608539057,
+    "guid": "8d86beae-2152-4fa7-b338-799a96121645"
+  },
+  "/frappe/images/help/style-settings-help.png": {
+    "path": "/frappe/images/help/style-settings-help.png",
+    "lastSync": 1502608539057,
+    "guid": "35e56d9f-4ce9-4128-a98f-5a3d6388d39a"
+  },
+  "/frappe/images/smiley.png": {
+    "path": "/frappe/images/smiley.png",
+    "lastSync": 1502608539057,
+    "guid": "441a375e-e8e5-44b6-a8d1-12d8e77cd1d3"
+  },
+  "/frappe/images/ui/ajax-loader.gif": {
+    "path": "/frappe/images/ui/ajax-loader.gif",
+    "lastSync": 1502608539057,
+    "guid": "932a8888-9fcb-4936-98f1-0d5815bde5c8"
+  },
+  "/frappe/images/ui/bot.png": {
+    "path": "/frappe/images/ui/bot.png",
+    "lastSync": 1502608539057,
+    "guid": "e8a8a0f7-2af6-4407-a798-a80d39ae16bf"
+  },
+  "/frappe/images/ui/bubble-tea-happy.svg": {
+    "path": "/frappe/images/ui/bubble-tea-happy.svg",
+    "lastSync": 1502608539057,
+    "guid": "337b13ec-4aa3-45f7-95b8-85d0aebd4ad7"
+  },
+  "/frappe/images/ui/bubble-tea-smile.svg": {
+    "path": "/frappe/images/ui/bubble-tea-smile.svg",
+    "lastSync": 1502608539057,
+    "guid": "20d9a82f-1f0e-421b-af7e-cccd3e3732ab"
+  },
+  "/frappe/images/ui/bubble-tea-sorry.svg": {
+    "path": "/frappe/images/ui/bubble-tea-sorry.svg",
+    "lastSync": 1502608539057,
+    "guid": "19404b66-5c04-4861-9e1a-9fbbc1d02f7f"
+  },
+  "/frappe/images/up.png": {
+    "path": "/frappe/images/up.png",
+    "lastSync": 1502608539057,
+    "guid": "66487337-d186-4c07-89c7-337668757448"
+  },
+  "/frappe/js/docs.js": {
+    "path": "/frappe/js/docs.js",
+    "lastSync": 1502608539057,
+    "guid": "584c189c-3aad-404c-9a2a-35410c255517"
+  },
+  "/frappe/js/frappe/assets.js": {
+    "path": "/frappe/js/frappe/assets.js",
+    "lastSync": 1506454828517,
+    "guid": "b09e5737-5cf5-427c-b672-bd955fed0c95"
+  },
+  "/frappe/js/frappe/change_log.html": {
+    "path": "/frappe/js/frappe/change_log.html",
+    "lastSync": 1502608539057,
+    "guid": "fa0e7c8f-d17f-4056-8dce-22e386f5a8db"
+  },
+  "/frappe/js/frappe/class.js": {
+    "path": "/frappe/js/frappe/class.js",
+    "lastSync": 1502608539057,
+    "guid": "8d4bb8d2-f442-4a61-8b2a-225ff0a19589"
+  },
+  "/frappe/js/frappe/db.js": {
+    "path": "/frappe/js/frappe/db.js",
+    "lastSync": 1502608539057,
+    "guid": "b8740964-4039-42b7-8fef-b7be453436f5"
+  },
+  "/frappe/js/frappe/defaults.js": {
+    "path": "/frappe/js/frappe/defaults.js",
+    "lastSync": 1502608539057,
+    "guid": "92327a82-0718-492f-b738-63d068e78f3e"
+  },
+  "/frappe/js/frappe/desk.js": {
+    "path": "/frappe/js/frappe/desk.js",
+    "lastSync": 1506454828517,
+    "guid": "b29a74b1-4f3b-4c96-ac3e-8610115efc2f"
+  },
+  "/frappe/js/frappe/dom.js": {
+    "path": "/frappe/js/frappe/dom.js",
+    "lastSync": 1505671935724,
+    "guid": "b5901acf-72ed-4b0e-ba14-7b7b4c04b634"
+  },
+  "/frappe/js/frappe/form/dashboard.js": {
+    "path": "/frappe/js/frappe/form/dashboard.js",
+    "lastSync": 1505671935724,
+    "guid": "1eb73e9f-2540-4a09-9ac3-6e39e1dfe61b"
+  },
+  "/frappe/js/frappe/form/document_flow.js": {
+    "path": "/frappe/js/frappe/form/document_flow.js",
+    "lastSync": 1502608539057,
+    "guid": "3a7bd6ed-0a91-495f-bcab-ec6c94508657"
+  },
+  "/frappe/js/frappe/form/footer/assign_to.js": {
+    "path": "/frappe/js/frappe/form/footer/assign_to.js",
+    "lastSync": 1502608539057,
+    "guid": "732c0af1-93a2-469b-a890-812fcc5c5c30"
+  },
+  "/frappe/js/frappe/form/footer/attachments.js": {
+    "path": "/frappe/js/frappe/form/footer/attachments.js",
+    "lastSync": 1505671935724,
+    "guid": "5041fe26-3d86-4bfa-808b-70a38a147c70"
+  },
+  "/frappe/js/frappe/form/footer/footer.js": {
+    "path": "/frappe/js/frappe/form/footer/footer.js",
+    "lastSync": 1502608539057,
+    "guid": "1fbad9e9-75fd-4eb2-a0a5-1efd557d476d"
+  },
+  "/frappe/js/frappe/form/footer/form_footer.html": {
+    "path": "/frappe/js/frappe/form/footer/form_footer.html",
+    "lastSync": 1502608539057,
+    "guid": "7ba02a34-419b-4cf9-97cd-634652acab6e"
+  },
+  "/frappe/js/frappe/form/footer/timeline.html": {
+    "path": "/frappe/js/frappe/form/footer/timeline.html",
+    "lastSync": 1502608539057,
+    "guid": "be98c58b-b0b3-4033-a8e1-d3683de128ee"
+  },
+  "/frappe/js/frappe/form/footer/timeline.js": {
+    "path": "/frappe/js/frappe/form/footer/timeline.js",
+    "lastSync": 1506182352957,
+    "guid": "edbb2b72-7f8a-4313-86e3-607c01be24c1"
+  },
+  "/frappe/js/frappe/form/footer/timeline_item.html": {
+    "path": "/frappe/js/frappe/form/footer/timeline_item.html",
+    "lastSync": 1505671935724,
+    "guid": "a61e2c78-02ee-4ec0-9bfa-8787570c6a6a"
+  },
+  "/frappe/js/frappe/form/formatters.js": {
+    "path": "/frappe/js/frappe/form/formatters.js",
+    "lastSync": 1506621307641,
+    "guid": "4455f04f-fd7f-446b-93cd-98f2794e38d2"
+  },
+  "/frappe/js/frappe/form/form_viewers.js": {
+    "path": "/frappe/js/frappe/form/form_viewers.js",
+    "lastSync": 1505671935724,
+    "guid": "a368aeb9-e520-4a5f-ba51-ed1bcfaf0b1a"
+  },
+  "/frappe/js/frappe/form/grid.js": {
+    "path": "/frappe/js/frappe/form/grid.js",
+    "lastSync": 1506454828517,
+    "guid": "625d8fe7-068f-4599-acbb-46c7e7ea1c7c"
+  },
+  "/frappe/js/frappe/form/layout.js": {
+    "path": "/frappe/js/frappe/form/layout.js",
+    "lastSync": 1506454828517,
+    "guid": "4dd51269-195f-412d-8f9e-3a28979af13e"
+  },
+  "/frappe/js/frappe/form/linked_with.js": {
+    "path": "/frappe/js/frappe/form/linked_with.js",
+    "lastSync": 1502608539057,
+    "guid": "a50abb47-4c4d-4392-b62c-9e804d449692"
+  },
+  "/frappe/js/frappe/form/link_selector.js": {
+    "path": "/frappe/js/frappe/form/link_selector.js",
+    "lastSync": 1505671935724,
+    "guid": "496a18ff-bc65-4b96-80f9-5498d288591f"
+  },
+  "/frappe/js/frappe/form/print.js": {
+    "path": "/frappe/js/frappe/form/print.js",
+    "lastSync": 1505671935724,
+    "guid": "5c2b4583-74df-4459-bd79-d770eb109a59"
+  },
+  "/frappe/js/frappe/form/quick_entry.js": {
+    "path": "/frappe/js/frappe/form/quick_entry.js",
+    "lastSync": 1506182352957,
+    "guid": "71eb6480-88d2-49a6-ae72-06f5b92ab324"
+  },
+  "/frappe/js/frappe/form/save.js": {
+    "path": "/frappe/js/frappe/form/save.js",
+    "lastSync": 1505671935724,
+    "guid": "56e3e6a2-f251-4c8b-8bc7-e6eb9f20e5a4"
+  },
+  "/frappe/js/frappe/form/script_manager.js": {
+    "path": "/frappe/js/frappe/form/script_manager.js",
+    "lastSync": 1502608539057,
+    "guid": "5618f12a-b6d7-4a5e-a1fd-09fefe152c20"
+  },
+  "/frappe/js/frappe/form/share.js": {
+    "path": "/frappe/js/frappe/form/share.js",
+    "lastSync": 1506454828517,
+    "guid": "0ede8a50-69b3-48bf-b5d8-cfb65cfa2c75"
+  },
+  "/frappe/js/frappe/form/sidebar.js": {
+    "path": "/frappe/js/frappe/form/sidebar.js",
+    "lastSync": 1505671935724,
+    "guid": "60844b5a-b1ca-4655-b8ce-8a5727290c89"
+  },
+  "/frappe/js/frappe/form/templates/form_dashboard.html": {
+    "path": "/frappe/js/frappe/form/templates/form_dashboard.html",
+    "lastSync": 1505671935724,
+    "guid": "e3f423fb-edca-465c-a983-1b32612edd08"
+  },
+  "/frappe/js/frappe/form/templates/form_document_flow.html": {
+    "path": "/frappe/js/frappe/form/templates/form_document_flow.html",
+    "lastSync": 1502608539057,
+    "guid": "30ca94e6-b005-450f-86c8-76b80a32101a"
+  },
+  "/frappe/js/frappe/form/templates/form_links.html": {
+    "path": "/frappe/js/frappe/form/templates/form_links.html",
+    "lastSync": 1502608539057,
+    "guid": "80527845-8ec3-4a28-a476-b38543bcab52"
+  },
+  "/frappe/js/frappe/form/templates/form_sidebar.html": {
+    "path": "/frappe/js/frappe/form/templates/form_sidebar.html",
+    "lastSync": 1502608539057,
+    "guid": "af67fd7d-4cb6-4757-9e20-cd3aeee4e827"
+  },
+  "/frappe/js/frappe/form/templates/grid_body.html": {
+    "path": "/frappe/js/frappe/form/templates/grid_body.html",
+    "lastSync": 1506454828517,
+    "guid": "6001d75e-d78e-4404-b736-2836e348cdc6"
+  },
+  "/frappe/js/frappe/form/templates/grid_form.html": {
+    "path": "/frappe/js/frappe/form/templates/grid_form.html",
+    "lastSync": 1502608539057,
+    "guid": "c962e86b-07bd-4c0b-b540-d43bde0e0b5b"
+  },
+  "/frappe/js/frappe/form/templates/print_layout.html": {
+    "path": "/frappe/js/frappe/form/templates/print_layout.html",
+    "lastSync": 1505671935724,
+    "guid": "f83eb487-25f4-4f8a-83b9-4073fc2179b9"
+  },
+  "/frappe/js/frappe/form/templates/set_sharing.html": {
+    "path": "/frappe/js/frappe/form/templates/set_sharing.html",
+    "lastSync": 1506454828517,
+    "guid": "3302940e-b8b9-48af-ba15-f6e7ba79b2bd"
+  },
+  "/frappe/js/frappe/form/templates/users_in_sidebar.html": {
+    "path": "/frappe/js/frappe/form/templates/users_in_sidebar.html",
+    "lastSync": 1502608539057,
+    "guid": "c168a209-cb9f-4186-b245-32c965b94a67"
+  },
+  "/frappe/js/frappe/form/toolbar.js": {
+    "path": "/frappe/js/frappe/form/toolbar.js",
+    "lastSync": 1505671935724,
+    "guid": "ed9455a2-9aa8-4013-b1af-e9a46f8795d6"
+  },
+  "/frappe/js/frappe/form/user_image.js": {
+    "path": "/frappe/js/frappe/form/user_image.js",
+    "lastSync": 1502608539057,
+    "guid": "1e4a88f8-deea-41d4-a4f7-681ef1f3ba5a"
+  },
+  "/frappe/js/frappe/form/workflow.js": {
+    "path": "/frappe/js/frappe/form/workflow.js",
+    "lastSync": 1502608539057,
+    "guid": "9eb631ce-0e6e-4904-a54e-66d476510732"
+  },
+  "/frappe/js/frappe/format.js": {
+    "path": "/frappe/js/frappe/format.js",
+    "lastSync": 1502608539057,
+    "guid": "e667fc67-c76c-4a39-9c6e-06770f80d05f"
+  },
+  "/frappe/js/frappe/list/header_select_all_like_filter.html": {
+    "path": "/frappe/js/frappe/list/header_select_all_like_filter.html",
+    "lastSync": 1502608539057,
+    "guid": "496446d9-1b99-450c-9a55-426061e89889"
+  },
+  "/frappe/js/frappe/list/item_assigned_to_comment_count.html": {
+    "path": "/frappe/js/frappe/list/item_assigned_to_comment_count.html",
+    "lastSync": 1502608539057,
+    "guid": "7090a21b-69e7-40c6-97ab-2bdaa4f11e61"
+  },
+  "/frappe/js/frappe/list/list_item_main.html": {
+    "path": "/frappe/js/frappe/list/list_item_main.html",
+    "lastSync": 1506182352957,
+    "guid": "0b9a50da-3b61-4b7f-83ff-e61bb4d6fdee"
+  },
+  "/frappe/js/frappe/list/list_item_main_head.html": {
+    "path": "/frappe/js/frappe/list/list_item_main_head.html",
+    "lastSync": 1502608539057,
+    "guid": "25903fe5-8249-4e17-8994-95e9978ab1ee"
+  },
+  "/frappe/js/frappe/list/list_item_row.html": {
+    "path": "/frappe/js/frappe/list/list_item_row.html",
+    "lastSync": 1502608539057,
+    "guid": "4ce46822-c1a7-4a66-827f-5ef5449b6cd4"
+  },
+  "/frappe/js/frappe/list/list_item_row_head.html": {
+    "path": "/frappe/js/frappe/list/list_item_row_head.html",
+    "lastSync": 1502608539057,
+    "guid": "a8b04f6f-0f76-4a83-beca-36ef4f81b7e5"
+  },
+  "/frappe/js/frappe/list/list_item_subject.html": {
+    "path": "/frappe/js/frappe/list/list_item_subject.html",
+    "lastSync": 1502608539057,
+    "guid": "f546e72e-6a70-4951-87f8-551b8794d77b"
+  },
+  "/frappe/js/frappe/list/list_permission_footer.html": {
+    "path": "/frappe/js/frappe/list/list_permission_footer.html",
+    "lastSync": 1502608539057,
+    "guid": "afc5321b-980b-4404-957a-4063d2bc6b43"
+  },
+  "/frappe/js/frappe/list/list_sidebar.html": {
+    "path": "/frappe/js/frappe/list/list_sidebar.html",
+    "lastSync": 1502608539057,
+    "guid": "ee2fca9a-3134-4543-b914-6970fce7e6f4"
+  },
+  "/frappe/js/frappe/list/list_sidebar.js": {
+    "path": "/frappe/js/frappe/list/list_sidebar.js",
+    "lastSync": 1505671935724,
+    "guid": "c6ecbdeb-6931-4077-a3cb-c66fefabde7f"
+  },
+  "/frappe/js/frappe/list/list_sidebar_stat.html": {
+    "path": "/frappe/js/frappe/list/list_sidebar_stat.html",
+    "lastSync": 1505671935724,
+    "guid": "26df9877-4ec9-4034-9b53-207dcdf3ce79"
+  },
+  "/frappe/js/frappe/misc/common.js": {
+    "path": "/frappe/js/frappe/misc/common.js",
+    "lastSync": 1502608539057,
+    "guid": "47ba908d-2e7f-4c5f-a335-3c61688c9630"
+  },
+  "/frappe/js/frappe/misc/datetime.js": {
+    "path": "/frappe/js/frappe/misc/datetime.js",
+    "lastSync": 1502608539057,
+    "guid": "509f96c1-20d9-4db9-b6c7-f1815f9856e1"
+  },
+  "/frappe/js/frappe/misc/display_image.js": {
+    "path": "/frappe/js/frappe/misc/display_image.js",
+    "lastSync": 1502608539057,
+    "guid": "ab7b98b1-9c06-42b6-a324-150b0b27c732"
+  },
+  "/frappe/js/frappe/misc/help.js": {
+    "path": "/frappe/js/frappe/misc/help.js",
+    "lastSync": 1505671935724,
+    "guid": "35f3de86-88cf-484a-bdd5-68927818b24f"
+  },
+  "/frappe/js/frappe/misc/help_links.js": {
+    "path": "/frappe/js/frappe/misc/help_links.js",
+    "lastSync": 1502608539057,
+    "guid": "e13ba5af-c1ce-41cd-88da-f5ad27bbf989"
+  },
+  "/frappe/js/frappe/misc/number_format.js": {
+    "path": "/frappe/js/frappe/misc/number_format.js",
+    "lastSync": 1502608539057,
+    "guid": "4184db7b-c6b0-463e-9695-632aa077244c"
+  },
+  "/frappe/js/frappe/misc/pretty_date.js": {
+    "path": "/frappe/js/frappe/misc/pretty_date.js",
+    "lastSync": 1502608539057,
+    "guid": "da32610e-1ddd-4225-8bf0-bf4ae5a75f7d"
+  },
+  "/frappe/js/frappe/misc/tools.js": {
+    "path": "/frappe/js/frappe/misc/tools.js",
+    "lastSync": 1505671935724,
+    "guid": "4c960ee6-1e5e-4ab5-ae0f-4da5c0a418cc"
+  },
+  "/frappe/js/frappe/misc/user.js": {
+    "path": "/frappe/js/frappe/misc/user.js",
+    "lastSync": 1502608539057,
+    "guid": "2675c04e-f1bf-41ce-9779-5175b91b45b7"
+  },
+  "/frappe/js/frappe/misc/utils.js": {
+    "path": "/frappe/js/frappe/misc/utils.js",
+    "lastSync": 1502608539057,
+    "guid": "845bfe72-778a-448a-9dde-dfb2486afc3e"
+  },
+  "/frappe/js/frappe/model/create_new.js": {
+    "path": "/frappe/js/frappe/model/create_new.js",
+    "lastSync": 1505671935724,
+    "guid": "7a1c4abf-5634-4b81-a9af-d7ef721e1f89"
+  },
+  "/frappe/js/frappe/model/indicator.js": {
+    "path": "/frappe/js/frappe/model/indicator.js",
+    "lastSync": 1505671935724,
+    "guid": "07f35a4b-3d38-4b26-8c16-1d5d10faeed3"
+  },
+  "/frappe/js/frappe/model/meta.js": {
+    "path": "/frappe/js/frappe/model/meta.js",
+    "lastSync": 1502608539057,
+    "guid": "4b8cf1f6-ecb8-4225-bd06-c12bd3c31ca9"
+  },
+  "/frappe/js/frappe/model/model.js": {
+    "path": "/frappe/js/frappe/model/model.js",
+    "lastSync": 1506454828517,
+    "guid": "702930f4-306e-408b-b0c5-573d4fb9a05b"
+  },
+  "/frappe/js/frappe/model/perm.js": {
+    "path": "/frappe/js/frappe/model/perm.js",
+    "lastSync": 1502608539057,
+    "guid": "571f179f-bdc8-4020-9ef9-4304f2347720"
+  },
+  "/frappe/js/frappe/model/sync.js": {
+    "path": "/frappe/js/frappe/model/sync.js",
+    "lastSync": 1502608539057,
+    "guid": "8c792b28-eba5-4980-ae44-2a7f741a1afb"
+  },
+  "/frappe/js/frappe/model/workflow.js": {
+    "path": "/frappe/js/frappe/model/workflow.js",
+    "lastSync": 1502608539057,
+    "guid": "70edfbc4-86f3-463f-bfdc-c40ea2e02704"
+  },
+  "/frappe/js/frappe/provide.js": {
+    "path": "/frappe/js/frappe/provide.js",
+    "lastSync": 1502608539057,
+    "guid": "fdde7ae9-cdcd-4d66-88fd-d3412936d049"
+  },
+  "/frappe/js/frappe/query_string.js": {
+    "path": "/frappe/js/frappe/query_string.js",
+    "lastSync": 1505671935724,
+    "guid": "7047b12d-eba1-458a-909c-94fa3dbd5a5f"
+  },
+  "/frappe/js/frappe/request.js": {
+    "path": "/frappe/js/frappe/request.js",
+    "lastSync": 1506182352957,
+    "guid": "e85e1bea-7c90-4f83-946f-902e785f3185"
+  },
+  "/frappe/js/frappe/router.js": {
+    "path": "/frappe/js/frappe/router.js",
+    "lastSync": 1502608539057,
+    "guid": "ac15cb56-a112-4475-935c-8b9ecc12f27e"
+  },
+  "/frappe/js/frappe/socketio_client.js": {
+    "path": "/frappe/js/frappe/socketio_client.js",
+    "lastSync": 1506621307641,
+    "guid": "22455f1c-d169-4ab9-8d54-7f98f2b9d4a1"
+  },
+  "/frappe/js/frappe/toolbar.js": {
+    "path": "/frappe/js/frappe/toolbar.js",
+    "lastSync": 1502608539057,
+    "guid": "a301c90d-be0b-40e3-ac76-1bc1a893487f"
+  },
+  "/frappe/js/frappe/translate.js": {
+    "path": "/frappe/js/frappe/translate.js",
+    "lastSync": 1502608539057,
+    "guid": "ec0ad231-0a42-4297-95be-375b56fedbe2"
+  },
+  "/frappe/js/frappe/ui/app_icon.js": {
+    "path": "/frappe/js/frappe/ui/app_icon.js",
+    "lastSync": 1506454828517,
+    "guid": "2b94883e-9396-4007-9590-494db8336430"
+  },
+  "/frappe/js/frappe/ui/charts.js": {
+    "path": "/frappe/js/frappe/ui/charts.js",
+    "lastSync": 1502608539057,
+    "guid": "68533a1d-5c88-4c10-b168-1bf0064a2831"
+  },
+  "/frappe/js/frappe/ui/dialog.js": {
+    "path": "/frappe/js/frappe/ui/dialog.js",
+    "lastSync": 1505671935724,
+    "guid": "12ce68ab-712f-4713-a902-0ad755a13175"
+  },
+  "/frappe/js/frappe/ui/field_group.js": {
+    "path": "/frappe/js/frappe/ui/field_group.js",
+    "lastSync": 1506621307641,
+    "guid": "8d8e44af-9c4d-40b8-9eac-683ee360d677"
+  },
+  "/frappe/js/frappe/ui/filters/edit_filter.html": {
+    "path": "/frappe/js/frappe/ui/filters/edit_filter.html",
+    "lastSync": 1502608539057,
+    "guid": "af27a693-c17a-4314-8886-311d15e29327"
+  },
+  "/frappe/js/frappe/ui/filters/filters.js": {
+    "path": "/frappe/js/frappe/ui/filters/filters.js",
+    "lastSync": 1506621307641,
+    "guid": "5824c100-8f4c-453b-98d6-bdb10a2be894"
+  },
+  "/frappe/js/frappe/ui/iconbar.js": {
+    "path": "/frappe/js/frappe/ui/iconbar.js",
+    "lastSync": 1502608539057,
+    "guid": "3b137f56-83e2-47b5-b496-7c9ff6f7ad84"
+  },
+  "/frappe/js/frappe/ui/keyboard.js": {
+    "path": "/frappe/js/frappe/ui/keyboard.js",
+    "lastSync": 1505671935724,
+    "guid": "f9371682-5074-4bfb-ab59-d706fa92a4de"
+  },
+  "/frappe/js/frappe/ui/like.js": {
+    "path": "/frappe/js/frappe/ui/like.js",
+    "lastSync": 1502608539057,
+    "guid": "b0f8ac40-9bae-4686-94b0-fe6336b8bd1b"
+  },
+  "/frappe/js/frappe/ui/liked_by.html": {
+    "path": "/frappe/js/frappe/ui/liked_by.html",
+    "lastSync": 1502608539057,
+    "guid": "f28b6cdb-1b14-4840-8638-ed77c91db097"
+  },
+  "/frappe/js/frappe/ui/listing.html": {
+    "path": "/frappe/js/frappe/ui/listing.html",
+    "lastSync": 1502608539057,
+    "guid": "52849ba2-b7d5-47ae-b683-32b1328ccb7f"
+  },
+  "/frappe/js/frappe/ui/messages.js": {
+    "path": "/frappe/js/frappe/ui/messages.js",
+    "lastSync": 1506621307641,
+    "guid": "5a27057d-0cf7-4cd8-b24f-669de6419f63"
+  },
+  "/frappe/js/frappe/ui/modal.html": {
+    "path": "/frappe/js/frappe/ui/modal.html",
+    "lastSync": 1502608539057,
+    "guid": "1446df45-6ac9-4903-b01b-acaaea0aff81"
+  },
+  "/frappe/js/frappe/ui/page.html": {
+    "path": "/frappe/js/frappe/ui/page.html",
+    "lastSync": 1502608539057,
+    "guid": "362d2966-12e7-4332-92c1-4c1f066ffeaa"
+  },
+  "/frappe/js/frappe/ui/page.js": {
+    "path": "/frappe/js/frappe/ui/page.js",
+    "lastSync": 1506182352957,
+    "guid": "34f6fc39-e8a5-41c6-b443-48c43f8ea7df"
+  },
+  "/frappe/js/frappe/ui/sort_selector.html": {
+    "path": "/frappe/js/frappe/ui/sort_selector.html",
+    "lastSync": 1502608539057,
+    "guid": "aad30ca3-1f2a-43b7-bbe1-e075658f45e5"
+  },
+  "/frappe/js/frappe/ui/sort_selector.js": {
+    "path": "/frappe/js/frappe/ui/sort_selector.js",
+    "lastSync": 1502608539057,
+    "guid": "a3983f85-733b-40f3-8b98-adae7b114eb8"
+  },
+  "/frappe/js/frappe/ui/tags.js": {
+    "path": "/frappe/js/frappe/ui/tags.js",
+    "lastSync": 1505671935724,
+    "guid": "9638ac47-63a5-4137-8706-f158ede9ea2c"
+  },
+  "/frappe/js/frappe/ui/toolbar/about.js": {
+    "path": "/frappe/js/frappe/ui/toolbar/about.js",
+    "lastSync": 1505671935724,
+    "guid": "0f72b34e-ab28-411e-82ac-408325141c43"
+  },
+  "/frappe/js/frappe/ui/toolbar/awesome_bar.js": {
+    "path": "/frappe/js/frappe/ui/toolbar/awesome_bar.js",
+    "lastSync": 1505671935724,
+    "guid": "d0bb8b95-402c-4256-b12a-364ab7f417d2"
+  },
+  "/frappe/js/frappe/ui/toolbar/navbar.html": {
+    "path": "/frappe/js/frappe/ui/toolbar/navbar.html",
+    "lastSync": 1505671935724,
+    "guid": "f7d3c0ce-09b8-4cdd-b20f-23ac2f396d05"
+  },
+  "/frappe/js/frappe/ui/toolbar/notifications.js": {
+    "path": "/frappe/js/frappe/ui/toolbar/notifications.js",
+    "lastSync": 1506454828517,
+    "guid": "43951003-c522-4f5a-a55d-b8b8d0abed8d"
+  },
+  "/frappe/js/frappe/ui/toolbar/toolbar.js": {
+    "path": "/frappe/js/frappe/ui/toolbar/toolbar.js",
+    "lastSync": 1505671935724,
+    "guid": "4b66b219-71f0-48b4-8675-1b24620031a9"
+  },
+  "/frappe/js/frappe/ui/tree.js": {
+    "path": "/frappe/js/frappe/ui/tree.js",
+    "lastSync": 1502608539057,
+    "guid": "c1c0656d-a2d2-4b27-9de0-0d9089c8e6c3"
+  },
+  "/frappe/js/frappe/ui/upload.html": {
+    "path": "/frappe/js/frappe/ui/upload.html",
+    "lastSync": 1502608539057,
+    "guid": "75a5aa8d-cae2-4eb2-962e-1a522eaa49c3"
+  },
+  "/frappe/js/frappe/upload.js": {
+    "path": "/frappe/js/frappe/upload.js",
+    "lastSync": 1506454828517,
+    "guid": "8ee3861b-35a2-4779-87c4-32d567341a84"
+  },
+  "/frappe/js/frappe/views/breadcrumbs.js": {
+    "path": "/frappe/js/frappe/views/breadcrumbs.js",
+    "lastSync": 1502608539057,
+    "guid": "2ebc005c-7c62-4bc5-85bc-86c092c79e84"
+  },
+  "/frappe/js/frappe/views/communication.js": {
+    "path": "/frappe/js/frappe/views/communication.js",
+    "lastSync": 1505671935724,
+    "guid": "fce0f2d7-ac0d-401c-9ff8-7fb55a8eba44"
+  },
+  "/frappe/js/frappe/views/container.js": {
+    "path": "/frappe/js/frappe/views/container.js",
+    "lastSync": 1502608539057,
+    "guid": "87fe2571-4ac8-45f1-b04c-686d48099030"
+  },
+  "/frappe/js/frappe/views/factory.js": {
+    "path": "/frappe/js/frappe/views/factory.js",
+    "lastSync": 1502608539057,
+    "guid": "220319d5-66b5-4d17-8996-e1692198de7e"
+  },
+  "/frappe/js/frappe/views/formview.js": {
+    "path": "/frappe/js/frappe/views/formview.js",
+    "lastSync": 1502608539057,
+    "guid": "a0181f47-5b7c-470a-8024-97eae092085e"
+  },
+  "/frappe/js/frappe/views/pageview.js": {
+    "path": "/frappe/js/frappe/views/pageview.js",
+    "lastSync": 1502608539057,
+    "guid": "ae9856f1-d4d3-4918-b8f9-b5f75c8008cf"
+  },
+  "/frappe/js/frappe/views/reports/grid_report.js": {
+    "path": "/frappe/js/frappe/views/reports/grid_report.js",
+    "lastSync": 1502608539057,
+    "guid": "1af50931-5a3e-44f1-96d5-9d25147bd485"
+  },
+  "/frappe/js/frappe/views/reports/print_grid.html": {
+    "path": "/frappe/js/frappe/views/reports/print_grid.html",
+    "lastSync": 1506182352957,
+    "guid": "ede837b3-f06e-480b-9ac2-c30c27047670"
+  },
+  "/frappe/js/frappe/views/reports/query_report.js": {
+    "path": "/frappe/js/frappe/views/reports/query_report.js",
+    "lastSync": 1505671935724,
+    "guid": "fac7abae-e66c-41f3-9612-9f904f0eb3bd"
+  },
+  "/frappe/js/frappe/views/reports/reportview.js": {
+    "path": "/frappe/js/frappe/views/reports/reportview.js",
+    "lastSync": 1506621307641,
+    "guid": "b4879d21-cc0c-406a-bdb2-5d0618cad90d"
+  },
+  "/frappe/js/frappe/views/treeview.js": {
+    "path": "/frappe/js/frappe/views/treeview.js",
+    "lastSync": 1506621307641,
+    "guid": "b00b5825-6a22-4cb0-bb9c-0f768611656c"
+  },
+  "/frappe/js/integrations/razorpay.js": {
+    "path": "/frappe/js/integrations/razorpay.js",
+    "lastSync": 1502608539057,
+    "guid": "e6b17f8b-dc47-4474-8317-0e61ddb52950"
+  },
+  "/frappe/js/legacy/clientscriptAPI.js": {
+    "path": "/frappe/js/legacy/clientscriptAPI.js",
+    "lastSync": 1502608539057,
+    "guid": "74dcdc77-a726-4efa-a58c-b8543a2e6e2f"
+  },
+  "/frappe/js/legacy/datatype.js": {
+    "path": "/frappe/js/legacy/datatype.js",
+    "lastSync": 1502608539057,
+    "guid": "5ffd7714-580b-4603-b7f1-22c809a2b70d"
+  },
+  "/frappe/js/legacy/dom.js": {
+    "path": "/frappe/js/legacy/dom.js",
+    "lastSync": 1502608539057,
+    "guid": "6eb347ec-c179-4240-97b3-710af3512ecf"
+  },
+  "/frappe/js/legacy/form.js": {
+    "path": "/frappe/js/legacy/form.js",
+    "lastSync": 1506454828517,
+    "guid": "75afcbd9-7502-4b9c-8d2e-bf69be3a9df9"
+  },
+  "/frappe/js/legacy/globals.js": {
+    "path": "/frappe/js/legacy/globals.js",
+    "lastSync": 1502608539057,
+    "guid": "71d5588a-1bdc-4064-9a1b-645f5b2fce7f"
+  },
+  "/frappe/js/legacy/handler.js": {
+    "path": "/frappe/js/legacy/handler.js",
+    "lastSync": 1505671935724,
+    "guid": "055fbb90-d4b1-4c14-b163-2ff32eb3f90d"
+  },
+  "/frappe/js/legacy/layout.js": {
+    "path": "/frappe/js/legacy/layout.js",
+    "lastSync": 1502608539057,
+    "guid": "e2c81f96-570f-4119-b870-e6d04156e708"
+  },
+  "/frappe/js/legacy/print_format.js": {
+    "path": "/frappe/js/legacy/print_format.js",
+    "lastSync": 1502608539057,
+    "guid": "1c3e4d5a-36ce-4de2-a06a-d090b4a0ef35"
+  },
+  "/frappe/js/legacy/print_table.js": {
+    "path": "/frappe/js/legacy/print_table.js",
+    "lastSync": 1502608539057,
+    "guid": "e44beca5-d39f-45bd-97f3-b0eeea21019d"
+  },
+  "/frappe/js/lib/beautify-html.js": {
+    "path": "/frappe/js/lib/beautify-html.js",
+    "lastSync": 1502608539057,
+    "guid": "125d6d54-7bf8-4af1-8293-c7eab16e0344"
+  },
+  "/frappe/js/lib/bootstrap.min.js": {
+    "path": "/frappe/js/lib/bootstrap.min.js",
+    "lastSync": 1502608539057,
+    "guid": "1618a7a4-1c4b-4900-a612-032fe1b80103"
+  },
+  "/frappe/js/lib/c3.min.js": {
+    "path": "/frappe/js/lib/c3.min.js",
+    "lastSync": 1502608539057,
+    "guid": "81b10d0f-b624-4489-a9fa-763d86276800"
+  },
+  "/frappe/js/lib/Chart.min.js": {
+    "path": "/frappe/js/lib/Chart.min.js",
+    "lastSync": 1502608539057,
+    "guid": "480d4df0-345f-469f-a5b4-2cfec3d2497f"
+  },
+  "/frappe/js/lib/d3.min.js": {
+    "path": "/frappe/js/lib/d3.min.js",
+    "lastSync": 1502608539057,
+    "guid": "2afabd82-b674-4d8c-b010-9c047bd9ca22"
+  },
+  "/frappe/js/lib/fullcalendar/fullcalendar.min.css": {
+    "path": "/frappe/js/lib/fullcalendar/fullcalendar.min.css",
+    "lastSync": 1505671935724,
+    "guid": "423c55d5-15ab-440e-886a-003455b21321"
+  },
+  "/frappe/js/lib/fullcalendar/fullcalendar.min.js": {
+    "path": "/frappe/js/lib/fullcalendar/fullcalendar.min.js",
+    "lastSync": 1505671935724,
+    "guid": "b870d1f8-f344-44e4-bfa9-de5b10829afa"
+  },
+  "/frappe/js/lib/fullcalendar/fullcalendar.print.css": {
+    "path": "/frappe/js/lib/fullcalendar/fullcalendar.print.css",
+    "lastSync": 1505671935724,
+    "guid": "cdf42d7f-2bbb-4d68-a7e9-b80841d6ce1f"
+  },
+  "/frappe/js/lib/fullcalendar/gcal.js": {
+    "path": "/frappe/js/lib/fullcalendar/gcal.js",
+    "lastSync": 1505671935724,
+    "guid": "31f0dfe5-82e6-4c7a-b501-7320e45bfbc5"
+  },
+  "/frappe/js/lib/highlight.pack.js": {
+    "path": "/frappe/js/lib/highlight.pack.js",
+    "lastSync": 1502608539057,
+    "guid": "d6bb1335-cf82-4dc5-a5cd-7e46067327b0"
+  },
+  "/frappe/js/lib/jquery/bootstrap_theme/images/ui-bg_flat_0_aaaaaa_40x100.png": {
+    "path": "/frappe/js/lib/jquery/bootstrap_theme/images/ui-bg_flat_0_aaaaaa_40x100.png",
+    "lastSync": 1502608539057,
+    "guid": "994fea93-209f-4315-a751-5013587b7d3b"
+  },
+  "/frappe/js/lib/jquery/bootstrap_theme/images/ui-bg_glass_55_fbf9ee_1x400.png": {
+    "path": "/frappe/js/lib/jquery/bootstrap_theme/images/ui-bg_glass_55_fbf9ee_1x400.png",
+    "lastSync": 1502608539057,
+    "guid": "08c66c3f-fdc1-4dd4-8176-076f2e3288fc"
+  },
+  "/frappe/js/lib/jquery/bootstrap_theme/images/ui-bg_glass_65_ffffff_1x400.png": {
+    "path": "/frappe/js/lib/jquery/bootstrap_theme/images/ui-bg_glass_65_ffffff_1x400.png",
+    "lastSync": 1502608539057,
+    "guid": "85c18df1-9cf1-4afb-a8d3-e90d9a9d13ae"
+  },
+  "/frappe/js/lib/jquery/bootstrap_theme/images/ui-bg_glass_75_dadada_1x400.png": {
+    "path": "/frappe/js/lib/jquery/bootstrap_theme/images/ui-bg_glass_75_dadada_1x400.png",
+    "lastSync": 1502608539057,
+    "guid": "08c551d8-0189-400e-bc5d-cf2874aa4698"
+  },
+  "/frappe/js/lib/jquery/bootstrap_theme/images/ui-bg_glass_75_e6e6e6_1x400.png": {
+    "path": "/frappe/js/lib/jquery/bootstrap_theme/images/ui-bg_glass_75_e6e6e6_1x400.png",
+    "lastSync": 1502608539057,
+    "guid": "06d9a912-7e96-43d1-ae14-dbe27ab19b28"
+  },
+  "/frappe/js/lib/jquery/bootstrap_theme/images/ui-bg_glass_75_ffffff_1x400.png": {
+    "path": "/frappe/js/lib/jquery/bootstrap_theme/images/ui-bg_glass_75_ffffff_1x400.png",
+    "lastSync": 1502608539057,
+    "guid": "5a1a0640-efd9-47b9-a11c-a1ebc6fc1d33"
+  },
+  "/frappe/js/lib/jquery/bootstrap_theme/images/ui-bg_highlight-soft_75_cccccc_1x100.png": {
+    "path": "/frappe/js/lib/jquery/bootstrap_theme/images/ui-bg_highlight-soft_75_cccccc_1x100.png",
+    "lastSync": 1502608539057,
+    "guid": "a3f2984d-faa6-41f0-9a23-0682a573d9a0"
+  },
+  "/frappe/js/lib/jquery/bootstrap_theme/images/ui-bg_inset-soft_95_fef1ec_1x100.png": {
+    "path": "/frappe/js/lib/jquery/bootstrap_theme/images/ui-bg_inset-soft_95_fef1ec_1x100.png",
+    "lastSync": 1502608539057,
+    "guid": "d057b77c-fb95-4ef9-9e33-3dfcc4771f57"
+  },
+  "/frappe/js/lib/jquery/bootstrap_theme/images/ui-icons_222222_256x240.png": {
+    "path": "/frappe/js/lib/jquery/bootstrap_theme/images/ui-icons_222222_256x240.png",
+    "lastSync": 1502608539057,
+    "guid": "61d8af6f-a11a-4d0b-b122-b7b3044af72c"
+  },
+  "/frappe/js/lib/jquery/bootstrap_theme/images/ui-icons_2e83ff_256x240.png": {
+    "path": "/frappe/js/lib/jquery/bootstrap_theme/images/ui-icons_2e83ff_256x240.png",
+    "lastSync": 1502608539057,
+    "guid": "3ecbaf07-1bd8-441d-90ce-754ed8be66ed"
+  },
+  "/frappe/js/lib/jquery/bootstrap_theme/images/ui-icons_454545_256x240.png": {
+    "path": "/frappe/js/lib/jquery/bootstrap_theme/images/ui-icons_454545_256x240.png",
+    "lastSync": 1502608539057,
+    "guid": "0b1d129b-d5a4-446e-93a6-f852ba2b4185"
+  },
+  "/frappe/js/lib/jquery/bootstrap_theme/images/ui-icons_888888_256x240.png": {
+    "path": "/frappe/js/lib/jquery/bootstrap_theme/images/ui-icons_888888_256x240.png",
+    "lastSync": 1502608539057,
+    "guid": "047922cd-3370-4dbb-bc6b-cadb1c966aea"
+  },
+  "/frappe/js/lib/jquery/bootstrap_theme/images/ui-icons_cd0a0a_256x240.png": {
+    "path": "/frappe/js/lib/jquery/bootstrap_theme/images/ui-icons_cd0a0a_256x240.png",
+    "lastSync": 1502608539057,
+    "guid": "c6334965-c6fe-498e-8787-4ccd5b6d144c"
+  },
+  "/frappe/js/lib/jquery/bootstrap_theme/images/ui-icons_f6cf3b_256x240.png": {
+    "path": "/frappe/js/lib/jquery/bootstrap_theme/images/ui-icons_f6cf3b_256x240.png",
+    "lastSync": 1502608539057,
+    "guid": "12378b1b-7c4a-44b8-a0d6-00ab6428c84a"
+  },
+  "/frappe/js/lib/jquery/jquery.hotkeys.js": {
+    "path": "/frappe/js/lib/jquery/jquery.hotkeys.js",
+    "lastSync": 1502608539057,
+    "guid": "96c377ec-2e51-4d3b-9f34-ad4b9b7cce06"
+  },
+  "/frappe/js/lib/jquery/jquery.min.js": {
+    "path": "/frappe/js/lib/jquery/jquery.min.js",
+    "lastSync": 1502608539057,
+    "guid": "e5395bd0-1fc7-49d1-bcae-72cf28f4c4f3"
+  },
+  "/frappe/js/lib/jquery/qunit.css": {
+    "path": "/frappe/js/lib/jquery/qunit.css",
+    "lastSync": 1502608539057,
+    "guid": "22074146-4da6-41db-a9f3-53b75a4058aa"
+  },
+  "/frappe/js/lib/jquery/qunit.js": {
+    "path": "/frappe/js/lib/jquery/qunit.js",
+    "lastSync": 1502608539057,
+    "guid": "ee8d5ff1-17b5-47a1-964f-bfb8d983108b"
+  },
+  "/frappe/js/lib/jscolor/arrow.gif": {
+    "path": "/frappe/js/lib/jscolor/arrow.gif",
+    "lastSync": 1502608539057,
+    "guid": "46d1e61e-e33d-4467-8b3d-2128e309d17a"
+  },
+  "/frappe/js/lib/jscolor/cross.gif": {
+    "path": "/frappe/js/lib/jscolor/cross.gif",
+    "lastSync": 1502608539057,
+    "guid": "a6746235-61f6-4ed6-8369-cee240f88a93"
+  },
+  "/frappe/js/lib/jscolor/demo.html": {
+    "path": "/frappe/js/lib/jscolor/demo.html",
+    "lastSync": 1502608539057,
+    "guid": "158888bb-6872-4486-878a-f6241f5b8e6b"
+  },
+  "/frappe/js/lib/jscolor/hs.png": {
+    "path": "/frappe/js/lib/jscolor/hs.png",
+    "lastSync": 1502608539057,
+    "guid": "8832e423-ff9f-4b7f-a8a3-6575dbe25980"
+  },
+  "/frappe/js/lib/jscolor/hv.png": {
+    "path": "/frappe/js/lib/jscolor/hv.png",
+    "lastSync": 1502608539057,
+    "guid": "bfa4afb5-ebaa-424c-8985-ff4c44e41c0c"
+  },
+  "/frappe/js/lib/jscolor/jscolor.js": {
+    "path": "/frappe/js/lib/jscolor/jscolor.js",
+    "lastSync": 1502608539057,
+    "guid": "a4ed3fff-22ad-42d5-9625-fa4eb79b9152"
+  },
+  "/frappe/js/lib/json2.js": {
+    "path": "/frappe/js/lib/json2.js",
+    "lastSync": 1502608539057,
+    "guid": "13a32588-98ce-475a-8e41-488a7af5734d"
+  },
+  "/frappe/js/lib/markdown.js": {
+    "path": "/frappe/js/lib/markdown.js",
+    "lastSync": 1502608539057,
+    "guid": "b42e21a8-58fb-497a-ac1f-2034128ecffa"
+  },
+  "/frappe/js/lib/md5.min.js": {
+    "path": "/frappe/js/lib/md5.min.js",
+    "lastSync": 1502608539057,
+    "guid": "76f1e2a3-c770-4e05-8dbb-ef83e2532497"
+  },
+  "/frappe/js/lib/microtemplate.js": {
+    "path": "/frappe/js/lib/microtemplate.js",
+    "lastSync": 1505671935724,
+    "guid": "73c482da-3e22-4462-8875-11b6d7cf009c"
+  },
+  "/frappe/js/lib/moment/moment-timezone-with-data.min.js": {
+    "path": "/frappe/js/lib/moment/moment-timezone-with-data.min.js",
+    "lastSync": 1505671935724,
+    "guid": "824d81c5-2c8e-485d-a0be-064334378817"
+  },
+  "/frappe/js/lib/moment/moment-with-locales.min.js": {
+    "path": "/frappe/js/lib/moment/moment-with-locales.min.js",
+    "lastSync": 1505671935724,
+    "guid": "0ce26538-7f74-47de-a339-dc2a7d3af35c"
+  },
+  "/frappe/js/lib/moment/moment.min.js": {
+    "path": "/frappe/js/lib/moment/moment.min.js",
+    "lastSync": 1505671935724,
+    "guid": "17649bad-f8a1-453b-a7c9-1c52a1b23184"
+  },
+  "/frappe/js/lib/prettydate.js": {
+    "path": "/frappe/js/lib/prettydate.js",
+    "lastSync": 1502608539057,
+    "guid": "85d62a03-2367-40e5-81ef-b25274bcbefb"
+  },
+  "/frappe/js/lib/README.md": {
+    "path": "/frappe/js/lib/README.md",
+    "lastSync": 1502608539057,
+    "guid": "43354dc5-cf33-4600-8347-bd4ac51ae823"
+  },
+  "/frappe/js/lib/slickgrid/images/actions.gif": {
+    "path": "/frappe/js/lib/slickgrid/images/actions.gif",
+    "lastSync": 1502608539057,
+    "guid": "1a7d9928-29a4-480b-992c-3cc9fb295659"
+  },
+  "/frappe/js/lib/slickgrid/images/ajax-loader-small.gif": {
+    "path": "/frappe/js/lib/slickgrid/images/ajax-loader-small.gif",
+    "lastSync": 1502608539057,
+    "guid": "1e3d3be0-7c6f-4d6b-b5ae-1cdce19852e1"
+  },
+  "/frappe/js/lib/slickgrid/images/arrow_redo.png": {
+    "path": "/frappe/js/lib/slickgrid/images/arrow_redo.png",
+    "lastSync": 1502608539057,
+    "guid": "b1da5558-2198-41b1-a459-73eb1ab58db9"
+  },
+  "/frappe/js/lib/slickgrid/images/arrow_right_peppermint.png": {
+    "path": "/frappe/js/lib/slickgrid/images/arrow_right_peppermint.png",
+    "lastSync": 1502608539057,
+    "guid": "0bfe31c3-06ff-4041-8324-e3453dda2c82"
+  },
+  "/frappe/js/lib/slickgrid/images/arrow_right_spearmint.png": {
+    "path": "/frappe/js/lib/slickgrid/images/arrow_right_spearmint.png",
+    "lastSync": 1502608539057,
+    "guid": "acfef474-5d66-4faf-b701-ecf24f360893"
+  },
+  "/frappe/js/lib/slickgrid/images/arrow_undo.png": {
+    "path": "/frappe/js/lib/slickgrid/images/arrow_undo.png",
+    "lastSync": 1502608539057,
+    "guid": "3aee59c7-2926-4197-ba7a-6b8f8fd18a87"
+  },
+  "/frappe/js/lib/slickgrid/images/bullet_blue.png": {
+    "path": "/frappe/js/lib/slickgrid/images/bullet_blue.png",
+    "lastSync": 1502608539057,
+    "guid": "1643c997-4352-476c-bab4-cebb24d6f620"
+  },
+  "/frappe/js/lib/slickgrid/images/bullet_star.png": {
+    "path": "/frappe/js/lib/slickgrid/images/bullet_star.png",
+    "lastSync": 1502608539057,
+    "guid": "fc6d3c8e-8568-4e55-8c60-57d0ace8c319"
+  },
+  "/frappe/js/lib/slickgrid/images/bullet_toggle_minus.png": {
+    "path": "/frappe/js/lib/slickgrid/images/bullet_toggle_minus.png",
+    "lastSync": 1502608539057,
+    "guid": "7fe43760-b7eb-4947-bb72-0cc1a27557cf"
+  },
+  "/frappe/js/lib/slickgrid/images/bullet_toggle_plus.png": {
+    "path": "/frappe/js/lib/slickgrid/images/bullet_toggle_plus.png",
+    "lastSync": 1502608539057,
+    "guid": "be91ed38-2dd3-43b8-b7b0-14e810887343"
+  },
+  "/frappe/js/lib/slickgrid/images/calendar.gif": {
+    "path": "/frappe/js/lib/slickgrid/images/calendar.gif",
+    "lastSync": 1502608539057,
+    "guid": "789165df-5cdf-4978-ae0d-da18a4d11dce"
+  },
+  "/frappe/js/lib/slickgrid/images/collapse.gif": {
+    "path": "/frappe/js/lib/slickgrid/images/collapse.gif",
+    "lastSync": 1502608539057,
+    "guid": "5ba17fb7-b13e-4517-83dd-576152165e22"
+  },
+  "/frappe/js/lib/slickgrid/images/comment_yellow.gif": {
+    "path": "/frappe/js/lib/slickgrid/images/comment_yellow.gif",
+    "lastSync": 1502608539057,
+    "guid": "a3be5efc-4fad-41b4-92b1-25b246a521e3"
+  },
+  "/frappe/js/lib/slickgrid/images/down.gif": {
+    "path": "/frappe/js/lib/slickgrid/images/down.gif",
+    "lastSync": 1502608539057,
+    "guid": "b3a21317-88b5-4ee2-94db-a973c4d0e9ea"
+  },
+  "/frappe/js/lib/slickgrid/images/drag-handle.png": {
+    "path": "/frappe/js/lib/slickgrid/images/drag-handle.png",
+    "lastSync": 1502608539057,
+    "guid": "8857cb08-3b06-48b9-899a-ac76317e2d8e"
+  },
+  "/frappe/js/lib/slickgrid/images/editor-helper-bg.gif": {
+    "path": "/frappe/js/lib/slickgrid/images/editor-helper-bg.gif",
+    "lastSync": 1502608539057,
+    "guid": "f58ebb7b-f3cd-4561-8697-865f4e27cec9"
+  },
+  "/frappe/js/lib/slickgrid/images/expand.gif": {
+    "path": "/frappe/js/lib/slickgrid/images/expand.gif",
+    "lastSync": 1502608539057,
+    "guid": "b1c93c14-d266-4e9b-abe7-d031594417f4"
+  },
+  "/frappe/js/lib/slickgrid/images/header-bg.gif": {
+    "path": "/frappe/js/lib/slickgrid/images/header-bg.gif",
+    "lastSync": 1502608539057,
+    "guid": "aa2a79ba-0586-45df-8092-9edb382a48d8"
+  },
+  "/frappe/js/lib/slickgrid/images/header-columns-bg.gif": {
+    "path": "/frappe/js/lib/slickgrid/images/header-columns-bg.gif",
+    "lastSync": 1502608539057,
+    "guid": "a31289ef-3e66-4417-b571-612482268873"
+  },
+  "/frappe/js/lib/slickgrid/images/header-columns-over-bg.gif": {
+    "path": "/frappe/js/lib/slickgrid/images/header-columns-over-bg.gif",
+    "lastSync": 1502608539057,
+    "guid": "010a41fd-2525-43e9-b90d-59949a2e639b"
+  },
+  "/frappe/js/lib/slickgrid/images/help.png": {
+    "path": "/frappe/js/lib/slickgrid/images/help.png",
+    "lastSync": 1502608539057,
+    "guid": "c6b23aed-b073-4315-8c08-037284701f6d"
+  },
+  "/frappe/js/lib/slickgrid/images/info.gif": {
+    "path": "/frappe/js/lib/slickgrid/images/info.gif",
+    "lastSync": 1502608539057,
+    "guid": "ae39e3c5-8f58-4102-8e48-cb0db1a63d8a"
+  },
+  "/frappe/js/lib/slickgrid/images/listview.gif": {
+    "path": "/frappe/js/lib/slickgrid/images/listview.gif",
+    "lastSync": 1502608539057,
+    "guid": "e21a7dea-50db-421d-a1c4-8d36a0eddf96"
+  },
+  "/frappe/js/lib/slickgrid/images/pencil.gif": {
+    "path": "/frappe/js/lib/slickgrid/images/pencil.gif",
+    "lastSync": 1502608539057,
+    "guid": "2a95b6aa-36f8-4377-9808-f6d4223b8341"
+  },
+  "/frappe/js/lib/slickgrid/images/row-over-bg.gif": {
+    "path": "/frappe/js/lib/slickgrid/images/row-over-bg.gif",
+    "lastSync": 1502608539057,
+    "guid": "193f3042-ff0f-456c-8c2e-13d524039006"
+  },
+  "/frappe/js/lib/slickgrid/images/sort-asc.gif": {
+    "path": "/frappe/js/lib/slickgrid/images/sort-asc.gif",
+    "lastSync": 1502608539057,
+    "guid": "8aa20b3e-e26c-4903-b9ba-145b35fdae36"
+  },
+  "/frappe/js/lib/slickgrid/images/sort-asc.png": {
+    "path": "/frappe/js/lib/slickgrid/images/sort-asc.png",
+    "lastSync": 1502608539057,
+    "guid": "5da9de3a-ec72-49a2-883d-c076028e2736"
+  },
+  "/frappe/js/lib/slickgrid/images/sort-desc.gif": {
+    "path": "/frappe/js/lib/slickgrid/images/sort-desc.gif",
+    "lastSync": 1502608539057,
+    "guid": "50972715-c635-4fd0-b287-254362f7c867"
+  },
+  "/frappe/js/lib/slickgrid/images/sort-desc.png": {
+    "path": "/frappe/js/lib/slickgrid/images/sort-desc.png",
+    "lastSync": 1502608539057,
+    "guid": "3b0e2529-4d9a-44af-8394-10b187ca9753"
+  },
+  "/frappe/js/lib/slickgrid/images/stripes.png": {
+    "path": "/frappe/js/lib/slickgrid/images/stripes.png",
+    "lastSync": 1502608539057,
+    "guid": "a6704c0c-8f34-4d25-b290-0432ea9ec943"
+  },
+  "/frappe/js/lib/slickgrid/images/tag_red.png": {
+    "path": "/frappe/js/lib/slickgrid/images/tag_red.png",
+    "lastSync": 1502608539057,
+    "guid": "8f4ce659-b19b-4e1e-9b54-8a2d82dfbfd6"
+  },
+  "/frappe/js/lib/slickgrid/images/tick.png": {
+    "path": "/frappe/js/lib/slickgrid/images/tick.png",
+    "lastSync": 1502608539057,
+    "guid": "55a6b5e4-92a7-4752-9e59-c3c2578890a2"
+  },
+  "/frappe/js/lib/slickgrid/images/user_identity.gif": {
+    "path": "/frappe/js/lib/slickgrid/images/user_identity.gif",
+    "lastSync": 1502608539057,
+    "guid": "5096ba38-5608-499f-82ee-2b25774d6510"
+  },
+  "/frappe/js/lib/slickgrid/images/user_identity_plus.gif": {
+    "path": "/frappe/js/lib/slickgrid/images/user_identity_plus.gif",
+    "lastSync": 1502608539057,
+    "guid": "0b1f4b71-cb9b-4720-90c5-378523536fcd"
+  },
+  "/frappe/js/lib/slickgrid/jquery.event.drag.js": {
+    "path": "/frappe/js/lib/slickgrid/jquery.event.drag.js",
+    "lastSync": 1502608539057,
+    "guid": "c3eaa5c3-6d70-441e-9789-ffb30c918509"
+  },
+  "/frappe/js/lib/slickgrid/plugins/slick.autotooltips.js": {
+    "path": "/frappe/js/lib/slickgrid/plugins/slick.autotooltips.js",
+    "lastSync": 1502608539057,
+    "guid": "4952f2ca-d611-4727-a7f9-202e3c97797a"
+  },
+  "/frappe/js/lib/slickgrid/plugins/slick.cellcopymanager.js": {
+    "path": "/frappe/js/lib/slickgrid/plugins/slick.cellcopymanager.js",
+    "lastSync": 1502608539057,
+    "guid": "2285e72f-9082-43c7-9c98-7e0c51cbfc16"
+  },
+  "/frappe/js/lib/slickgrid/plugins/slick.cellexternalcopymanager.js": {
+    "path": "/frappe/js/lib/slickgrid/plugins/slick.cellexternalcopymanager.js",
+    "lastSync": 1502608539057,
+    "guid": "03937308-07f5-4fc6-919d-f2122c952653"
+  },
+  "/frappe/js/lib/slickgrid/plugins/slick.cellrangedecorator.js": {
+    "path": "/frappe/js/lib/slickgrid/plugins/slick.cellrangedecorator.js",
+    "lastSync": 1502608539057,
+    "guid": "9949b66a-1944-403a-a2a6-faba8acbf5ee"
+  },
+  "/frappe/js/lib/slickgrid/plugins/slick.cellrangeselector.js": {
+    "path": "/frappe/js/lib/slickgrid/plugins/slick.cellrangeselector.js",
+    "lastSync": 1502608539057,
+    "guid": "00e0037a-d726-4f00-8ade-8a86183bda94"
+  },
+  "/frappe/js/lib/slickgrid/plugins/slick.cellselectionmodel.js": {
+    "path": "/frappe/js/lib/slickgrid/plugins/slick.cellselectionmodel.js",
+    "lastSync": 1502608539057,
+    "guid": "c7500520-52fe-4b94-bee5-e1e43b72af94"
+  },
+  "/frappe/js/lib/slickgrid/plugins/slick.checkboxselectcolumn.js": {
+    "path": "/frappe/js/lib/slickgrid/plugins/slick.checkboxselectcolumn.js",
+    "lastSync": 1502608539057,
+    "guid": "42ff7fe7-10e8-416b-94ec-50bd60dda116"
+  },
+  "/frappe/js/lib/slickgrid/plugins/slick.headerbuttons.css": {
+    "path": "/frappe/js/lib/slickgrid/plugins/slick.headerbuttons.css",
+    "lastSync": 1502608539057,
+    "guid": "20fe005a-cf8c-45ea-96b9-6581047c0924"
+  },
+  "/frappe/js/lib/slickgrid/plugins/slick.headerbuttons.js": {
+    "path": "/frappe/js/lib/slickgrid/plugins/slick.headerbuttons.js",
+    "lastSync": 1502608539057,
+    "guid": "afee2aa2-c966-4d84-9363-d3ed4331a0d4"
+  },
+  "/frappe/js/lib/slickgrid/plugins/slick.headermenu.css": {
+    "path": "/frappe/js/lib/slickgrid/plugins/slick.headermenu.css",
+    "lastSync": 1502608539057,
+    "guid": "22f30190-4c85-499d-8aa7-b6a7750caba0"
+  },
+  "/frappe/js/lib/slickgrid/plugins/slick.headermenu.js": {
+    "path": "/frappe/js/lib/slickgrid/plugins/slick.headermenu.js",
+    "lastSync": 1502608539057,
+    "guid": "553a1d34-8a56-4599-b770-6c35dacacf1f"
+  },
+  "/frappe/js/lib/slickgrid/plugins/slick.rowmovemanager.js": {
+    "path": "/frappe/js/lib/slickgrid/plugins/slick.rowmovemanager.js",
+    "lastSync": 1502608539057,
+    "guid": "d9f68398-7e89-4692-9af8-1b235255a32c"
+  },
+  "/frappe/js/lib/slickgrid/plugins/slick.rowselectionmodel.js": {
+    "path": "/frappe/js/lib/slickgrid/plugins/slick.rowselectionmodel.js",
+    "lastSync": 1502608539057,
+    "guid": "b8bad689-eb69-4d55-861b-ff3872b5ec80"
+  },
+  "/frappe/js/lib/slickgrid/slick-default-theme.css": {
+    "path": "/frappe/js/lib/slickgrid/slick-default-theme.css",
+    "lastSync": 1502608539057,
+    "guid": "a86cbd3a-2263-4397-b621-18c8c8f027d5"
+  },
+  "/frappe/js/lib/slickgrid/slick.core.js": {
+    "path": "/frappe/js/lib/slickgrid/slick.core.js",
+    "lastSync": 1502608539057,
+    "guid": "370e454d-a741-48e3-a86e-9eb2a2193c04"
+  },
+  "/frappe/js/lib/slickgrid/slick.dataview.js": {
+    "path": "/frappe/js/lib/slickgrid/slick.dataview.js",
+    "lastSync": 1502608539057,
+    "guid": "6c634185-e8a4-447c-9746-49f7ba59a3d1"
+  },
+  "/frappe/js/lib/slickgrid/slick.editors.js": {
+    "path": "/frappe/js/lib/slickgrid/slick.editors.js",
+    "lastSync": 1502608539057,
+    "guid": "72f955ef-c991-4e32-b042-a362878eaa41"
+  },
+  "/frappe/js/lib/slickgrid/slick.formatters.js": {
+    "path": "/frappe/js/lib/slickgrid/slick.formatters.js",
+    "lastSync": 1502608539057,
+    "guid": "379eff5c-8a23-4bb4-a37b-5457f7512d7c"
+  },
+  "/frappe/js/lib/slickgrid/slick.grid.css": {
+    "path": "/frappe/js/lib/slickgrid/slick.grid.css",
+    "lastSync": 1502608539057,
+    "guid": "a66c3154-a7d1-42ce-b3cb-65d56680a210"
+  },
+  "/frappe/js/lib/slickgrid/slick.grid.js": {
+    "path": "/frappe/js/lib/slickgrid/slick.grid.js",
+    "lastSync": 1502608539057,
+    "guid": "269726a9-13ec-4f32-9780-e8948d01e369"
+  },
+  "/frappe/js/lib/slickgrid/slick.groupitemmetadataprovider.js": {
+    "path": "/frappe/js/lib/slickgrid/slick.groupitemmetadataprovider.js",
+    "lastSync": 1502608539057,
+    "guid": "2a90e5da-9397-4255-842c-d725c9fb4c3b"
+  },
+  "/frappe/js/lib/slickgrid/slick.remotemodel.js": {
+    "path": "/frappe/js/lib/slickgrid/slick.remotemodel.js",
+    "lastSync": 1502608539057,
+    "guid": "6ca858fd-9f60-4818-a706-348a212b4c02"
+  },
+  "/frappe/js/lib/snap.svg-min.js": {
+    "path": "/frappe/js/lib/snap.svg-min.js",
+    "lastSync": 1502608539057,
+    "guid": "853de37d-4fdd-482c-a254-134f971a4653"
+  },
+  "/frappe/js/lib/socket.io.min.js": {
+    "path": "/frappe/js/lib/socket.io.min.js",
+    "lastSync": 1502608539057,
+    "guid": "37062498-d4b9-42ae-a0e5-e0a743a03ad7"
+  },
+  "/frappe/js/lib/Sortable.min.js": {
+    "path": "/frappe/js/lib/Sortable.min.js",
+    "lastSync": 1502608539057,
+    "guid": "7d7ea541-530a-4e41-9600-96040301d421"
+  },
+  "/frappe/sounds/alert.mp3": {
+    "path": "/frappe/sounds/alert.mp3",
+    "lastSync": 1502608539057,
+    "guid": "9445965c-ca67-469a-a126-a1a48c56fa75"
+  },
+  "/frappe/sounds/cancel.mp3": {
+    "path": "/frappe/sounds/cancel.mp3",
+    "lastSync": 1502608539057,
+    "guid": "58bc085a-05c4-4d11-9ef6-d207813470e0"
+  },
+  "/frappe/sounds/chime.mp3": {
+    "path": "/frappe/sounds/chime.mp3",
+    "lastSync": 1502608539057,
+    "guid": "7a83290f-ac89-49f2-a467-ae8d37e952ad"
+  },
+  "/frappe/sounds/click.mp3": {
+    "path": "/frappe/sounds/click.mp3",
+    "lastSync": 1502608539057,
+    "guid": "a38da64e-8040-4dce-9182-7699b82ccedd"
+  },
+  "/frappe/sounds/delete.mp3": {
+    "path": "/frappe/sounds/delete.mp3",
+    "lastSync": 1502608539057,
+    "guid": "45921b91-8d9b-42e7-b81e-aadead7910f5"
+  },
+  "/frappe/sounds/email.mp3": {
+    "path": "/frappe/sounds/email.mp3",
+    "lastSync": 1502608539057,
+    "guid": "127add1d-c306-4c7d-88de-61e526417a0d"
+  },
+  "/frappe/sounds/error.mp3": {
+    "path": "/frappe/sounds/error.mp3",
+    "lastSync": 1502608539057,
+    "guid": "ba2957f5-9d40-4a06-b898-210b64cd3204"
+  },
+  "/frappe/sounds/submit.mp3": {
+    "path": "/frappe/sounds/submit.mp3",
+    "lastSync": 1502608539057,
+    "guid": "62db9bb0-5869-4f58-a5f2-f323696cc377"
+  },
+  "/js/control.min.js": {
+    "path": "/js/control.min.js",
+    "lastSync": 1506621307641,
+    "guid": "cce8991b-73ba-49a6-b73e-09967f4e8e70"
+  },
+  "/js/d3.min.js": {
+    "path": "/js/d3.min.js",
+    "lastSync": 1505671935724,
+    "guid": "57857c82-a4b4-4cdc-8bc8-d3d312f99916"
+  },
+  "/js/desk.min.js": {
+    "path": "/js/desk.min.js",
+    "lastSync": 1506621307641,
+    "guid": "053e207c-09cb-4564-91e6-9c7c004627bc"
+  },
+  "/js/dialog.min.js": {
+    "path": "/js/dialog.min.js",
+    "lastSync": 1506621307641,
+    "guid": "61bf4aa6-26c2-40be-8fea-8d6f47573a4e"
+  },
+  "/js/editor.min.js": {
+    "path": "/js/editor.min.js",
+    "lastSync": 1502608539057,
+    "guid": "d2976e19-2501-4007-aabc-c646d51805f0"
+  },
+  "/js/erpnext-web.min.js": {
+    "path": "/js/erpnext-web.min.js",
+    "lastSync": 1502608539057,
+    "guid": "f44cf8c2-0097-4494-bf22-8f0f4385770b"
+  },
+  "/js/erpnext.min.js": {
+    "path": "/js/erpnext.min.js",
+    "lastSync": 1506621307641,
+    "guid": "1f2f8173-91e4-4300-b7cc-fbb69f2e836e"
+  },
+  "/js/form.min.js": {
+    "path": "/js/form.min.js",
+    "lastSync": 1506454828517,
+    "guid": "5077c705-636c-46d3-944e-c77692b32364"
+  },
+  "/js/frappe-web.min.js": {
+    "path": "/js/frappe-web.min.js",
+    "lastSync": 1505671935724,
+    "guid": "3ec01ce5-c254-4c26-a22b-b2c3758ba1e1"
+  },
+  "/js/item-dashboard.min.js": {
+    "path": "/js/item-dashboard.min.js",
+    "lastSync": 1502608539057,
+    "guid": "83b3c9ad-afa2-46a4-a612-9308bfbb7450"
+  },
+  "/js/libs.min.js": {
+    "path": "/js/libs.min.js",
+    "lastSync": 1505671935724,
+    "guid": "59f974ba-f0c5-4259-9dce-6b7c41b1f3d2"
+  },
+  "/js/list.min.js": {
+    "path": "/js/list.min.js",
+    "lastSync": 1506621307641,
+    "guid": "40fe3541-abe2-44c3-8985-c91f06c60394"
+  },
+  "/js/print_format_v3.min.js": {
+    "path": "/js/print_format_v3.min.js",
+    "lastSync": 1502608539057,
+    "guid": "4e417781-89fd-4713-b8cb-c61d24cd0670"
+  },
+  "/js/report.min.js": {
+    "path": "/js/report.min.js",
+    "lastSync": 1506621307641,
+    "guid": "39d23d82-c8d5-4fdc-baa9-7c6f0945e847"
+  }
+}
