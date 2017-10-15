@@ -246,18 +246,23 @@
   },
   "/frappe/css/animate.min.css": {
     "path": "/frappe/css/animate.min.css",
-    "lastSync": 1502608539057,
-    "guid": "af3aa785-8bfc-40b3-8331-b5f5618048de"
+    "lastSync": 1508064333696,
+    "guid": "ff811356-f813-474e-b2fe-c895fb5b74bb"
   },
   "/frappe/css/avatar.css": {
     "path": "/frappe/css/avatar.css",
-    "lastSync": 1502608539057,
-    "guid": "2efdf4dd-8d0c-44fa-ac41-9be2e280aa3a"
+    "lastSync": 1508064333696,
+    "guid": "838fcf27-72ae-40a9-9995-289d56773813"
+  },
+  "/frappe/css/bootstrap-rtl.css": {
+    "path": "/frappe/css/bootstrap-rtl.css",
+    "lastSync": 1508064333696,
+    "guid": "501373ec-ad1a-46d7-bd05-f2e926ee274a"
   },
   "/frappe/css/bootstrap.css": {
     "path": "/frappe/css/bootstrap.css",
-    "lastSync": 1502608539057,
-    "guid": "259ba3bc-0609-4656-9ea6-28d738bcd6e6"
+    "lastSync": 1508064333696,
+    "guid": "801374a5-416c-4192-9b1f-fb72fbeb2771"
   },
   "/frappe/css/c3.min.css": {
     "path": "/frappe/css/c3.min.css",
@@ -266,38 +271,48 @@
   },
   "/frappe/css/calendar.css": {
     "path": "/frappe/css/calendar.css",
-    "lastSync": 1505671935724,
-    "guid": "2df7c2be-ac54-4344-b9bf-9814ac33ec51"
+    "lastSync": 1508064333696,
+    "guid": "00fb5193-2844-4510-b6d9-e8a7047384b3"
   },
   "/frappe/css/common.css": {
     "path": "/frappe/css/common.css",
-    "lastSync": 1502608539057,
-    "guid": "5732686e-213e-47e4-9422-2ebc20af4717"
+    "lastSync": 1508064333696,
+    "guid": "a35523b1-8aa8-476c-bc26-fa6bcf839f2d"
+  },
+  "/frappe/css/desk-rtl.css": {
+    "path": "/frappe/css/desk-rtl.css",
+    "lastSync": 1508064333696,
+    "guid": "c5dddebc-4aca-455e-9866-ffd7c43c6de9"
   },
   "/frappe/css/desk.css": {
     "path": "/frappe/css/desk.css",
-    "lastSync": 1506621307641,
-    "guid": "9d96f6ad-b1c2-4ced-9b15-ce1c47570aa9"
+    "lastSync": 1508064333696,
+    "guid": "2afef2ef-0fb4-413b-84bb-64cb88dc05ae"
   },
   "/frappe/css/desktop.css": {
     "path": "/frappe/css/desktop.css",
-    "lastSync": 1508026613541,
-    "guid": "a55df63d-ada6-48b8-a102-6a4e30b92d1d"
+    "lastSync": 1508064333696,
+    "guid": "44eb0b54-3d75-4e3f-a576-17ab6f3b8381"
   },
   "/frappe/css/docs.css": {
     "path": "/frappe/css/docs.css",
-    "lastSync": 1508026613541,
-    "guid": "25b395ce-55ce-4559-a4fe-055979f4a0a5"
+    "lastSync": 1508064333696,
+    "guid": "01655728-2635-4400-92ec-3fc87f9e0117"
+  },
+  "/frappe/css/email.css": {
+    "path": "/frappe/css/email.css",
+    "lastSync": 1508064333696,
+    "guid": "6a5a4559-4d56-49f2-86ca-bcc854635374"
   },
   "/frappe/css/font-awesome.css": {
     "path": "/frappe/css/font-awesome.css",
-    "lastSync": 1502608539057,
-    "guid": "64cbe1f7-72b1-469a-8445-63b05d1b468b"
+    "lastSync": 1508064333696,
+    "guid": "ac1da669-bb8f-4c64-8b70-ef3220c6e31f"
   },
   "/frappe/css/font-awesome.min.css": {
     "path": "/frappe/css/font-awesome.min.css",
-    "lastSync": 1502608539057,
-    "guid": "f74ba965-207e-43f7-8581-a3f2e5bf3aea"
+    "lastSync": 1508064333696,
+    "guid": "94c0f951-dab9-4ffb-86e6-518b96eae381"
   },
   "/frappe/css/fonts/fontawesome/fontawesome-webfont.eot": {
     "path": "/frappe/css/fonts/fontawesome/fontawesome-webfont.eot",
@@ -306,8 +321,8 @@
   },
   "/frappe/css/fonts/fontawesome/fontawesome-webfont.svg": {
     "path": "/frappe/css/fonts/fontawesome/fontawesome-webfont.svg",
-    "lastSync": 1502608539057,
-    "guid": "00658098-74d5-4b3c-baa6-770fa511a90e"
+    "lastSync": 1508064333696,
+    "guid": "8980aaf9-76c7-4f30-a006-dad8065f914f"
   },
   "/frappe/css/fonts/fontawesome/fontawesome-webfont.ttf": {
     "path": "/frappe/css/fonts/fontawesome/fontawesome-webfont.ttf",
@@ -321,13 +336,13 @@
   },
   "/frappe/css/fonts/fontawesome/fontawesome-webfont.woff2": {
     "path": "/frappe/css/fonts/fontawesome/fontawesome-webfont.woff2",
-    "lastSync": 1502608539057,
-    "guid": "d2ea264e-71c4-4870-a0aa-c83288d9be23"
+    "lastSync": 1508064333696,
+    "guid": "24ed1241-3c0e-4556-9a0e-eba0b04dd500"
   },
   "/frappe/css/fonts/fontawesome/FontAwesome.otf": {
     "path": "/frappe/css/fonts/fontawesome/FontAwesome.otf",
-    "lastSync": 1502608539057,
-    "guid": "fdd7a902-faed-488e-adb0-f0f84419849f"
+    "lastSync": 1508064333696,
+    "guid": "62e9c56d-8253-43e6-82ff-7f8fff956bf9"
   },
   "/frappe/css/fonts/glyphicons/glyphicons-halflings-regular.eot": {
     "path": "/frappe/css/fonts/glyphicons/glyphicons-halflings-regular.eot",
@@ -336,8 +351,8 @@
   },
   "/frappe/css/fonts/glyphicons/glyphicons-halflings-regular.svg": {
     "path": "/frappe/css/fonts/glyphicons/glyphicons-halflings-regular.svg",
-    "lastSync": 1502608539057,
-    "guid": "fecbdd7b-f6e2-47c8-b12e-ce9eac2e235e"
+    "lastSync": 1508064333696,
+    "guid": "d565810c-05f6-48c0-b56b-9f5c62775c3a"
   },
   "/frappe/css/fonts/glyphicons/glyphicons-halflings-regular.ttf": {
     "path": "/frappe/css/fonts/glyphicons/glyphicons-halflings-regular.ttf",
@@ -351,8 +366,8 @@
   },
   "/frappe/css/fonts/glyphicons/glyphicons-halflings-regular.woff2": {
     "path": "/frappe/css/fonts/glyphicons/glyphicons-halflings-regular.woff2",
-    "lastSync": 1502608539057,
-    "guid": "65e70b65-f6d9-4f8f-bffd-b110c9f2339a"
+    "lastSync": 1508064333696,
+    "guid": "540aa86c-91ac-418a-98e2-bd91daa74a77"
   },
   "/frappe/css/fonts/ionicons/ionicons.eot": {
     "path": "/frappe/css/fonts/ionicons/ionicons.eot",
@@ -361,8 +376,8 @@
   },
   "/frappe/css/fonts/ionicons/ionicons.svg": {
     "path": "/frappe/css/fonts/ionicons/ionicons.svg",
-    "lastSync": 1502608539057,
-    "guid": "ed1ea7c9-5b70-461b-b988-34614537470e"
+    "lastSync": 1508064333696,
+    "guid": "f8a513db-a674-4395-96bc-dbd160471f2a"
   },
   "/frappe/css/fonts/ionicons/ionicons.ttf": {
     "path": "/frappe/css/fonts/ionicons/ionicons.ttf",
@@ -376,8 +391,8 @@
   },
   "/frappe/css/fonts/open-sans/open-sans.css": {
     "path": "/frappe/css/fonts/open-sans/open-sans.css",
-    "lastSync": 1502608539057,
-    "guid": "c0577f7b-6baf-4958-93cd-21aaf0e6555b"
+    "lastSync": 1508064333696,
+    "guid": "c1a30e6d-9f66-46c9-9e9e-91cc3781a9c3"
   },
   "/frappe/css/fonts/open-sans/OpenSans-Bold-webfont.eot": {
     "path": "/frappe/css/fonts/open-sans/OpenSans-Bold-webfont.eot",
@@ -386,8 +401,8 @@
   },
   "/frappe/css/fonts/open-sans/OpenSans-Bold-webfont.svg": {
     "path": "/frappe/css/fonts/open-sans/OpenSans-Bold-webfont.svg",
-    "lastSync": 1502608539057,
-    "guid": "9dd10e30-532b-4c60-b293-af345a71386d"
+    "lastSync": 1508064333696,
+    "guid": "521e37ba-c1b1-4b8e-b308-7ad3de148f73"
   },
   "/frappe/css/fonts/open-sans/OpenSans-Bold-webfont.ttf": {
     "path": "/frappe/css/fonts/open-sans/OpenSans-Bold-webfont.ttf",
@@ -406,8 +421,8 @@
   },
   "/frappe/css/fonts/open-sans/OpenSans-Italic-webfont.svg": {
     "path": "/frappe/css/fonts/open-sans/OpenSans-Italic-webfont.svg",
-    "lastSync": 1502608539057,
-    "guid": "5254b654-d540-4b01-ab8f-6a799a558541"
+    "lastSync": 1508064333696,
+    "guid": "a073d4da-82b1-4d5f-8420-e5b9690e6ceb"
   },
   "/frappe/css/fonts/open-sans/OpenSans-Italic-webfont.ttf": {
     "path": "/frappe/css/fonts/open-sans/OpenSans-Italic-webfont.ttf",
@@ -426,8 +441,8 @@
   },
   "/frappe/css/fonts/open-sans/OpenSans-Light-webfont.svg": {
     "path": "/frappe/css/fonts/open-sans/OpenSans-Light-webfont.svg",
-    "lastSync": 1502608539057,
-    "guid": "5aebbb6f-ce49-4364-9923-de39b3dc298a"
+    "lastSync": 1508064333696,
+    "guid": "195378cb-6f36-4924-aa31-9106c3ce8aa8"
   },
   "/frappe/css/fonts/open-sans/OpenSans-Light-webfont.ttf": {
     "path": "/frappe/css/fonts/open-sans/OpenSans-Light-webfont.ttf",
@@ -446,8 +461,8 @@
   },
   "/frappe/css/fonts/open-sans/OpenSans-Regular-webfont.svg": {
     "path": "/frappe/css/fonts/open-sans/OpenSans-Regular-webfont.svg",
-    "lastSync": 1502608539057,
-    "guid": "ae02a5d8-a598-4f56-bf7d-3789b783999d"
+    "lastSync": 1508064333696,
+    "guid": "7bc4f8b9-d24e-4a94-af90-85de309157af"
   },
   "/frappe/css/fonts/open-sans/OpenSans-Regular-webfont.ttf": {
     "path": "/frappe/css/fonts/open-sans/OpenSans-Regular-webfont.ttf",
@@ -466,8 +481,8 @@
   },
   "/frappe/css/fonts/open-sans/OpenSans-Semibold-webfont.svg": {
     "path": "/frappe/css/fonts/open-sans/OpenSans-Semibold-webfont.svg",
-    "lastSync": 1502608539057,
-    "guid": "f172d200-6962-44f4-b8ed-8790aa18013b"
+    "lastSync": 1508064333696,
+    "guid": "fbcaad4b-e023-427e-b476-d084cfe5fba2"
   },
   "/frappe/css/fonts/open-sans/OpenSans-Semibold-webfont.ttf": {
     "path": "/frappe/css/fonts/open-sans/OpenSans-Semibold-webfont.ttf",
@@ -481,63 +496,73 @@
   },
   "/frappe/css/form.css": {
     "path": "/frappe/css/form.css",
-    "lastSync": 1508026613541,
-    "guid": "4ae27f2b-ac4d-4e62-9ec6-7133fb8a175e"
+    "lastSync": 1508064333696,
+    "guid": "42149bfd-a463-4a53-bc8f-57dfd06ac6ec"
   },
   "/frappe/css/form_grid.css": {
     "path": "/frappe/css/form_grid.css",
-    "lastSync": 1502608539057,
-    "guid": "da08f59f-71ee-4662-8e8b-288891696c74"
+    "lastSync": 1508064333696,
+    "guid": "1fdfad44-f2d8-408a-9e06-8ee56c8156df"
   },
   "/frappe/css/gantt.css": {
     "path": "/frappe/css/gantt.css",
-    "lastSync": 1502608539057,
-    "guid": "1d46eabf-ba55-4f72-99f3-f65be897f5d0"
+    "lastSync": 1508064333696,
+    "guid": "0a1b86d0-a4ad-4638-a8eb-db8f5c1522e5"
+  },
+  "/frappe/css/graphs.css": {
+    "path": "/frappe/css/graphs.css",
+    "lastSync": 1508064333696,
+    "guid": "c2beff25-8484-4a51-9556-ff2bbcd3eb64"
   },
   "/frappe/css/hljs.css": {
     "path": "/frappe/css/hljs.css",
-    "lastSync": 1502608539057,
-    "guid": "5f06e069-7555-40b0-bc09-a65a35cf25e4"
+    "lastSync": 1508064333696,
+    "guid": "e0ddf702-c7e7-428b-ab4b-b22f51d7c75a"
   },
   "/frappe/css/indicator.css": {
     "path": "/frappe/css/indicator.css",
-    "lastSync": 1502608539057,
-    "guid": "35f40a30-3c3e-4bc4-9bc8-e51342c151ec"
+    "lastSync": 1508064333696,
+    "guid": "ac014b81-aa93-4b67-a8ec-d39f8e0a3257"
   },
   "/frappe/css/ionicons.min.css": {
     "path": "/frappe/css/ionicons.min.css",
-    "lastSync": 1502608539057,
-    "guid": "f611d683-1386-4ff1-bdbf-53a84e374814"
+    "lastSync": 1508064333696,
+    "guid": "7e39186b-4a19-4c18-91c1-1b1e3045a60a"
+  },
+  "/frappe/css/kanban.css": {
+    "path": "/frappe/css/kanban.css",
+    "lastSync": 1508064333696,
+    "guid": "79505eba-04e5-45f7-8e93-1ec3458e7293"
   },
   "/frappe/css/list.css": {
     "path": "/frappe/css/list.css",
-    "lastSync": 1506454828517,
-    "guid": "7f91cab4-4a02-4a06-ad39-b35aca4b1f7e"
+    "lastSync": 1508064333696,
+    "guid": "7cb3ea44-979f-481d-87df-75eefb628ed0"
   },
   "/frappe/css/mixins.css": {
     "path": "/frappe/css/mixins.css",
-    "lastSync": 1502608539057,
-    "guid": "fba3474b-704e-4b7e-8801-b2aafea2b337"
+    "lastSync": 1508064333696,
+    "guid": "82aa6074-817a-419f-815a-c8f3929a4e1b"
   },
   "/frappe/css/mobile.css": {
     "path": "/frappe/css/mobile.css",
-    "lastSync": 1506621307641,
-    "guid": "e37714c7-592c-44a8-86f1-ff5779b4b23b"
+    "lastSync": 1508064333696,
+    "guid": "d91b2556-f4ab-4c73-a745-6f879f16bec6"
   },
   "/frappe/css/module.css": {
     "path": "/frappe/css/module.css",
-    "lastSync": 1502608539057,
-    "guid": "4c0f4036-c69e-4ddd-9976-dc57ba84be95"
+    "lastSync": 1508064333696,
+    "guid": "f8072fd0-0a73-4995-a8fa-89e011713461"
   },
   "/frappe/css/navbar.css": {
     "path": "/frappe/css/navbar.css",
-    "lastSync": 1506621307641,
-    "guid": "d44bd47c-0fef-42f8-900c-0e7ced5be52f"
+    "lastSync": 1508064333696,
+    "guid": "cc307a15-bfdf-435d-ad49-f53843b5aff5"
   },
   "/frappe/css/octicons/LICENSE.txt": {
     "path": "/frappe/css/octicons/LICENSE.txt",
-    "lastSync": 1502608539057,
-    "guid": "aa4054c7-ff29-4663-bdff-5ea6a2dac926"
+    "lastSync": 1508064333696,
+    "guid": "51fa05dc-3c19-49c8-91b3-e3eca4e14c36"
   },
   "/frappe/css/octicons/octicons-local.ttf": {
     "path": "/frappe/css/octicons/octicons-local.ttf",
@@ -546,8 +571,8 @@
   },
   "/frappe/css/octicons/octicons.css": {
     "path": "/frappe/css/octicons/octicons.css",
-    "lastSync": 1502608539057,
-    "guid": "803603ba-fc1f-4a8b-b571-46f41a8e590e"
+    "lastSync": 1508064333696,
+    "guid": "daf4a5d4-feb0-4be2-ad62-277cb49346d4"
   },
   "/frappe/css/octicons/octicons.eot": {
     "path": "/frappe/css/octicons/octicons.eot",
@@ -556,18 +581,18 @@
   },
   "/frappe/css/octicons/octicons.less": {
     "path": "/frappe/css/octicons/octicons.less",
-    "lastSync": 1502608539057,
-    "guid": "db07a596-b2db-4703-88a4-92ebe38ece33"
+    "lastSync": 1508064333696,
+    "guid": "76df8394-af92-41d0-b5c2-a3bcf2aa80e3"
   },
   "/frappe/css/octicons/octicons.scss": {
     "path": "/frappe/css/octicons/octicons.scss",
-    "lastSync": 1502608539057,
-    "guid": "001475b8-634a-4e9b-a385-549ab1107969"
+    "lastSync": 1508064333696,
+    "guid": "85a1384d-0b2f-4653-ad1c-d0512e78144a"
   },
   "/frappe/css/octicons/octicons.svg": {
     "path": "/frappe/css/octicons/octicons.svg",
-    "lastSync": 1502608539057,
-    "guid": "664dfe01-2ba4-4075-8a44-9a044a821f17"
+    "lastSync": 1508064333696,
+    "guid": "d9471cfe-08f3-4611-808c-7bd06468e828"
   },
   "/frappe/css/octicons/octicons.ttf": {
     "path": "/frappe/css/octicons/octicons.ttf",
@@ -581,18 +606,18 @@
   },
   "/frappe/css/octicons/README.md": {
     "path": "/frappe/css/octicons/README.md",
-    "lastSync": 1502608539057,
-    "guid": "3a314a00-604c-47e8-a25d-3013f42ad636"
+    "lastSync": 1508064333696,
+    "guid": "f4760c87-2235-47ef-807d-3dad7951f4ab"
   },
   "/frappe/css/octicons/sprockets-octicons.scss": {
     "path": "/frappe/css/octicons/sprockets-octicons.scss",
-    "lastSync": 1502608539057,
-    "guid": "962b6214-ee1f-46ee-a20e-9eddef5e43cf"
+    "lastSync": 1508064333696,
+    "guid": "612d1354-9846-4448-a2f8-79d9d4773170"
   },
   "/frappe/css/offcanvas-website.css": {
     "path": "/frappe/css/offcanvas-website.css",
-    "lastSync": 1502608539057,
-    "guid": "0f79f80e-5bb8-4f48-9b31-666050a857e4"
+    "lastSync": 1508064333696,
+    "guid": "3b909d4d-6c1c-4a34-8c16-63cc7ab52709"
   },
   "/frappe/css/offcanvas.css": {
     "path": "/frappe/css/offcanvas.css",
@@ -601,298 +626,498 @@
   },
   "/frappe/css/page.css": {
     "path": "/frappe/css/page.css",
-    "lastSync": 1508026613541,
-    "guid": "4600163c-0312-498d-ad48-5a1e8604ae36"
+    "lastSync": 1508064333696,
+    "guid": "1bf6e8e7-c5cd-44b1-83d1-205b399ed365"
   },
   "/frappe/css/prism.css": {
     "path": "/frappe/css/prism.css",
-    "lastSync": 1502608539057,
-    "guid": "da4df913-0fa4-49a3-a691-7631d2417860"
+    "lastSync": 1508064333696,
+    "guid": "cad5e960-612c-4b58-a0a5-eaa3c121fc61"
+  },
+  "/frappe/css/report-rtl.css": {
+    "path": "/frappe/css/report-rtl.css",
+    "lastSync": 1508064333696,
+    "guid": "5386921c-5da0-4eff-8fac-5097e7f90eb1"
   },
   "/frappe/css/report.css": {
     "path": "/frappe/css/report.css",
-    "lastSync": 1502608539057,
-    "guid": "2e58e246-4cff-4c1e-b857-b58f6eb8a757"
+    "lastSync": 1508064333696,
+    "guid": "2e48aeb0-0913-47d9-ad2d-3d17a3499194"
+  },
+  "/frappe/css/role_editor.css": {
+    "path": "/frappe/css/role_editor.css",
+    "lastSync": 1508064333696,
+    "guid": "6870648f-8018-433f-aca3-a7de46ab1903"
   },
   "/frappe/css/shepherd/shepherd-theme-arrows-plain-buttons.css": {
     "path": "/frappe/css/shepherd/shepherd-theme-arrows-plain-buttons.css",
-    "lastSync": 1502608539057,
-    "guid": "4f8892e8-d27d-4323-a019-b0cfac007c28"
+    "lastSync": 1508064333696,
+    "guid": "80e7dbff-de4a-4759-a796-02377dca9b5b"
   },
   "/frappe/css/shepherd/shepherd-theme-arrows.css": {
     "path": "/frappe/css/shepherd/shepherd-theme-arrows.css",
-    "lastSync": 1502608539057,
-    "guid": "84b60723-a2d9-4cb3-92f6-983f4c5ff316"
+    "lastSync": 1508064333696,
+    "guid": "ee6f9db5-3195-4b5a-a3d2-8a7aa95b99b0"
   },
   "/frappe/css/shepherd/shepherd-theme-dark.css": {
     "path": "/frappe/css/shepherd/shepherd-theme-dark.css",
-    "lastSync": 1502608539057,
-    "guid": "d647c026-b84e-4241-a797-0edbad540a75"
+    "lastSync": 1508064333696,
+    "guid": "c9b4d0c3-23f7-4b1d-b601-65f40958dce2"
   },
   "/frappe/css/shepherd/shepherd-theme-default.css": {
     "path": "/frappe/css/shepherd/shepherd-theme-default.css",
-    "lastSync": 1502608539057,
-    "guid": "e19cf0c3-0dc4-4d86-b8b5-69dd4d95645b"
+    "lastSync": 1508064333696,
+    "guid": "38223d1c-b306-443f-a83f-035a9f11cfc9"
   },
   "/frappe/css/shepherd/shepherd-theme-square-dark.css": {
     "path": "/frappe/css/shepherd/shepherd-theme-square-dark.css",
-    "lastSync": 1502608539057,
-    "guid": "3359688f-2732-4683-98c0-891d3bf0c95a"
+    "lastSync": 1508064333696,
+    "guid": "bc45b526-af63-4f23-aa57-9c8ec00db78e"
   },
   "/frappe/css/shepherd/shepherd-theme-square.css": {
     "path": "/frappe/css/shepherd/shepherd-theme-square.css",
-    "lastSync": 1502608539057,
-    "guid": "903ae446-3885-47b9-ae91-ceb6b0ba6703"
+    "lastSync": 1508064333696,
+    "guid": "b80791d3-37a3-4a50-b8c8-40ce5bc7d58c"
   },
   "/frappe/css/sidebar.css": {
     "path": "/frappe/css/sidebar.css",
-    "lastSync": 1506182352957,
-    "guid": "a3f68278-3ebe-4b53-a10b-475511a53ae2"
+    "lastSync": 1508064333696,
+    "guid": "4dcbcd8c-e10d-4f75-968c-4b967bb70181"
   },
   "/frappe/css/slickgrid.css": {
     "path": "/frappe/css/slickgrid.css",
-    "lastSync": 1505671935724,
-    "guid": "d9632448-87c9-4d42-9b52-055768fab708"
+    "lastSync": 1508064333696,
+    "guid": "4a3287e7-4c85-42bb-a081-89ad5252e36b"
   },
   "/frappe/css/tree.css": {
     "path": "/frappe/css/tree.css",
-    "lastSync": 1502608539057,
-    "guid": "9d4a5233-e29d-455c-8cc9-20ae19a2df84"
+    "lastSync": 1508064333696,
+    "guid": "3c5723a0-f259-4abf-abb5-f6df30e4f28a"
   },
   "/frappe/css/tree_grid.css": {
     "path": "/frappe/css/tree_grid.css",
-    "lastSync": 1502608539057,
-    "guid": "1af4f4db-57af-4dda-836d-390b2ff915ab"
+    "lastSync": 1508064333696,
+    "guid": "411b1699-3272-4ed0-8631-49654a012a26"
+  },
+  "/frappe/css/variables.css": {
+    "path": "/frappe/css/variables.css",
+    "lastSync": 1508064333696,
+    "guid": "c7f71983-2af4-4e24-812a-10a4184f95eb"
   },
   "/frappe/css/website.css": {
     "path": "/frappe/css/website.css",
-    "lastSync": 1506454828517,
-    "guid": "4733ca19-64ae-42e2-85f2-ec89ddd782a3"
+    "lastSync": 1508064333696,
+    "guid": "270e3329-222b-4a37-97a9-bcbd29c3ea14"
   },
   "/frappe/html/print_template.html": {
     "path": "/frappe/html/print_template.html",
-    "lastSync": 1502608539057,
-    "guid": "c4fa042c-8bf3-4792-9883-d3690e22c3ef"
+    "lastSync": 1508064333696,
+    "guid": "362ccee6-4c12-4e09-82c7-5b2032e47665"
   },
   "/frappe/images/background.png": {
     "path": "/frappe/images/background.png",
-    "lastSync": 1502608539057,
-    "guid": "91b17dc5-6ca9-43cb-b3b9-8919f85c3ba1"
+    "lastSync": 1508064333696,
+    "guid": "66d38223-ad64-45af-bb4d-f2e72b1845f9"
+  },
+  "/frappe/images/default-avatar.png": {
+    "path": "/frappe/images/default-avatar.png",
+    "lastSync": 1508064333696,
+    "guid": "1215da96-5a8f-4448-bc4f-34a38924e270"
+  },
+  "/frappe/images/default-skin.svg": {
+    "path": "/frappe/images/default-skin.svg",
+    "lastSync": 1508064333696,
+    "guid": "56aa0128-0bc8-44a7-a967-e74f2cfcff38"
   },
   "/frappe/images/favicon.png": {
     "path": "/frappe/images/favicon.png",
-    "lastSync": 1502608539057,
-    "guid": "d81b3289-8aeb-4634-a921-eefa87f0e08d"
+    "lastSync": 1508064333696,
+    "guid": "2be0ff38-0d3a-48ae-a2ac-860b7c68839c"
   },
   "/frappe/images/frappe-bird-grey.svg": {
     "path": "/frappe/images/frappe-bird-grey.svg",
-    "lastSync": 1502608539057,
-    "guid": "9047bad1-be53-4bda-a5e7-24f9b52c5850"
+    "lastSync": 1508064333696,
+    "guid": "dda716c3-563b-4137-b90a-6b593c29d59a"
   },
   "/frappe/images/frappe-bird-thin.svg": {
     "path": "/frappe/images/frappe-bird-thin.svg",
-    "lastSync": 1502608539057,
-    "guid": "7ecdc705-60e6-406e-9d03-554a80ed8b32"
+    "lastSync": 1508064333696,
+    "guid": "b3b35b69-583e-46b6-bc0e-fcc646eeeca9"
   },
   "/frappe/images/help/print-style-classic.png": {
     "path": "/frappe/images/help/print-style-classic.png",
-    "lastSync": 1502608539057,
-    "guid": "f449c5da-6a7b-481f-bac5-f3885ba141bb"
+    "lastSync": 1508064333696,
+    "guid": "48e6bbf8-c7d9-423d-9dd5-b2396192880f"
   },
   "/frappe/images/help/print-style-modern.png": {
     "path": "/frappe/images/help/print-style-modern.png",
-    "lastSync": 1502608539057,
-    "guid": "2852fbb4-d9b7-41d9-8594-103a69a02f23"
+    "lastSync": 1508064333696,
+    "guid": "f64b3446-facd-41ee-a254-f31d76dfb142"
   },
   "/frappe/images/help/print-style-monochrome.png": {
     "path": "/frappe/images/help/print-style-monochrome.png",
-    "lastSync": 1502608539057,
-    "guid": "2a34636f-131e-4399-b7b8-94fae99e992b"
+    "lastSync": 1508064333696,
+    "guid": "eb351d86-a3e5-4f03-b066-d8bfb5f7a0f4"
   },
   "/frappe/images/help/print-style-standard.png": {
     "path": "/frappe/images/help/print-style-standard.png",
-    "lastSync": 1502608539057,
-    "guid": "8d86beae-2152-4fa7-b338-799a96121645"
+    "lastSync": 1508064333696,
+    "guid": "d0e3876b-a25b-46b8-9968-b1d6179e5228"
   },
   "/frappe/images/help/style-settings-help.png": {
     "path": "/frappe/images/help/style-settings-help.png",
-    "lastSync": 1502608539057,
-    "guid": "35e56d9f-4ce9-4128-a98f-5a3d6388d39a"
+    "lastSync": 1508064333696,
+    "guid": "08f71d97-ccf4-466c-a2fc-ced6dc4970f6"
   },
   "/frappe/images/smiley.png": {
     "path": "/frappe/images/smiley.png",
-    "lastSync": 1502608539057,
-    "guid": "441a375e-e8e5-44b6-a8d1-12d8e77cd1d3"
+    "lastSync": 1508064333696,
+    "guid": "36bde139-7480-4727-9b67-4e84be0ca7c5"
   },
   "/frappe/images/ui/ajax-loader.gif": {
     "path": "/frappe/images/ui/ajax-loader.gif",
-    "lastSync": 1502608539057,
-    "guid": "932a8888-9fcb-4936-98f1-0d5815bde5c8"
+    "lastSync": 1508064333696,
+    "guid": "1051806a-5a72-4b16-a1c7-07aaf428b4d5"
   },
   "/frappe/images/ui/bot.png": {
     "path": "/frappe/images/ui/bot.png",
-    "lastSync": 1502608539057,
-    "guid": "e8a8a0f7-2af6-4407-a798-a80d39ae16bf"
+    "lastSync": 1508064333696,
+    "guid": "7a46acb7-42ce-408b-be4a-c9ff219670ca"
   },
   "/frappe/images/ui/bubble-tea-happy.svg": {
     "path": "/frappe/images/ui/bubble-tea-happy.svg",
-    "lastSync": 1502608539057,
-    "guid": "337b13ec-4aa3-45f7-95b8-85d0aebd4ad7"
+    "lastSync": 1508064333696,
+    "guid": "36ff3eec-a942-44a7-b2d2-4127112173c9"
   },
   "/frappe/images/ui/bubble-tea-smile.svg": {
     "path": "/frappe/images/ui/bubble-tea-smile.svg",
-    "lastSync": 1502608539057,
-    "guid": "20d9a82f-1f0e-421b-af7e-cccd3e3732ab"
+    "lastSync": 1508064333696,
+    "guid": "a570a372-0db0-459e-9bba-26651b912e56"
   },
   "/frappe/images/ui/bubble-tea-sorry.svg": {
     "path": "/frappe/images/ui/bubble-tea-sorry.svg",
-    "lastSync": 1502608539057,
-    "guid": "19404b66-5c04-4861-9e1a-9fbbc1d02f7f"
+    "lastSync": 1508064333696,
+    "guid": "9f346f82-ece4-4694-8a11-3d7cf0b26fc6"
   },
   "/frappe/images/up.png": {
     "path": "/frappe/images/up.png",
-    "lastSync": 1502608539057,
-    "guid": "66487337-d186-4c07-89c7-337668757448"
+    "lastSync": 1508064333696,
+    "guid": "7108249e-aa22-4213-8587-e636f500dad1"
   },
   "/frappe/js/docs.js": {
     "path": "/frappe/js/docs.js",
-    "lastSync": 1502608539057,
-    "guid": "584c189c-3aad-404c-9a2a-35410c255517"
+    "lastSync": 1508064333696,
+    "guid": "1a344363-124c-431f-b3a6-7dbb69dfa6a6"
   },
   "/frappe/js/frappe/assets.js": {
     "path": "/frappe/js/frappe/assets.js",
-    "lastSync": 1506454828517,
-    "guid": "b09e5737-5cf5-427c-b672-bd955fed0c95"
+    "lastSync": 1508064333696,
+    "guid": "ac6f2d5c-a174-4a02-97c4-496fbda7743c"
   },
   "/frappe/js/frappe/change_log.html": {
     "path": "/frappe/js/frappe/change_log.html",
-    "lastSync": 1502608539057,
-    "guid": "fa0e7c8f-d17f-4056-8dce-22e386f5a8db"
+    "lastSync": 1508064333696,
+    "guid": "91d269b7-fa98-43f0-a5e9-7d3e1c577d10"
+  },
+  "/frappe/js/frappe/checkbox_editor.js": {
+    "path": "/frappe/js/frappe/checkbox_editor.js",
+    "lastSync": 1508064333696,
+    "guid": "090fa187-a2c8-440d-81f2-63ac8bacdfbf"
   },
   "/frappe/js/frappe/class.js": {
     "path": "/frappe/js/frappe/class.js",
-    "lastSync": 1502608539057,
-    "guid": "8d4bb8d2-f442-4a61-8b2a-225ff0a19589"
+    "lastSync": 1508064333696,
+    "guid": "2036a88f-3721-4871-b260-ad1c801c22c9"
   },
   "/frappe/js/frappe/db.js": {
     "path": "/frappe/js/frappe/db.js",
-    "lastSync": 1502608539057,
-    "guid": "b8740964-4039-42b7-8fef-b7be453436f5"
+    "lastSync": 1508064333696,
+    "guid": "3ef1ef53-625a-47bf-85a5-7d5fa9719e3e"
   },
   "/frappe/js/frappe/defaults.js": {
     "path": "/frappe/js/frappe/defaults.js",
-    "lastSync": 1502608539057,
-    "guid": "92327a82-0718-492f-b738-63d068e78f3e"
+    "lastSync": 1508064333696,
+    "guid": "84b429f6-bd9b-4ec3-82bf-463c593919cc"
   },
   "/frappe/js/frappe/desk.js": {
     "path": "/frappe/js/frappe/desk.js",
-    "lastSync": 1506454828517,
-    "guid": "b29a74b1-4f3b-4c96-ac3e-8610115efc2f"
+    "lastSync": 1508064333696,
+    "guid": "6be9782d-fc06-4a34-b7f4-85d1c8bba625"
   },
   "/frappe/js/frappe/dom.js": {
     "path": "/frappe/js/frappe/dom.js",
-    "lastSync": 1505671935724,
-    "guid": "b5901acf-72ed-4b0e-ba14-7b7b4c04b634"
+    "lastSync": 1508064333696,
+    "guid": "d676b67b-b390-459d-a9b4-1cf1c1d8320a"
+  },
+  "/frappe/js/frappe/feedback.js": {
+    "path": "/frappe/js/frappe/feedback.js",
+    "lastSync": 1508064333696,
+    "guid": "9d9e65ff-8b47-40fb-bccb-3cfc741ded40"
+  },
+  "/frappe/js/frappe/form/controls/attach.js": {
+    "path": "/frappe/js/frappe/form/controls/attach.js",
+    "lastSync": 1508064333696,
+    "guid": "4f46fa8f-7369-43fc-8a3f-dc6e0ee30501"
+  },
+  "/frappe/js/frappe/form/controls/attach_image.js": {
+    "path": "/frappe/js/frappe/form/controls/attach_image.js",
+    "lastSync": 1508064333696,
+    "guid": "b19c45f2-e6a4-4ab7-a72d-369bfd33c28d"
+  },
+  "/frappe/js/frappe/form/controls/autocomplete.js": {
+    "path": "/frappe/js/frappe/form/controls/autocomplete.js",
+    "lastSync": 1508064333696,
+    "guid": "6101e377-4a99-4d7d-b56f-403e4366493e"
+  },
+  "/frappe/js/frappe/form/controls/base_control.js": {
+    "path": "/frappe/js/frappe/form/controls/base_control.js",
+    "lastSync": 1508064333696,
+    "guid": "3ed2c3bf-33aa-4f70-a6e3-841f13e20aff"
+  },
+  "/frappe/js/frappe/form/controls/base_input.js": {
+    "path": "/frappe/js/frappe/form/controls/base_input.js",
+    "lastSync": 1508064333696,
+    "guid": "957835bf-c7fa-4d15-adf9-c0adfd8eea02"
+  },
+  "/frappe/js/frappe/form/controls/button.js": {
+    "path": "/frappe/js/frappe/form/controls/button.js",
+    "lastSync": 1508064333696,
+    "guid": "ab2f962c-2fbd-4cf9-9304-c7fecfdb6b96"
+  },
+  "/frappe/js/frappe/form/controls/check.js": {
+    "path": "/frappe/js/frappe/form/controls/check.js",
+    "lastSync": 1508064333696,
+    "guid": "559251ac-e1a4-4c36-ac46-91204788646c"
+  },
+  "/frappe/js/frappe/form/controls/code.js": {
+    "path": "/frappe/js/frappe/form/controls/code.js",
+    "lastSync": 1508064333696,
+    "guid": "1c7f1486-af56-49e4-998e-ea6bacc66ec5"
+  },
+  "/frappe/js/frappe/form/controls/color.js": {
+    "path": "/frappe/js/frappe/form/controls/color.js",
+    "lastSync": 1508064333696,
+    "guid": "c9b190e3-e5b5-4c69-ab71-a16711f84920"
+  },
+  "/frappe/js/frappe/form/controls/currency.js": {
+    "path": "/frappe/js/frappe/form/controls/currency.js",
+    "lastSync": 1508064333696,
+    "guid": "1a340049-3890-4e2d-a794-230472b4bf7e"
+  },
+  "/frappe/js/frappe/form/controls/data.js": {
+    "path": "/frappe/js/frappe/form/controls/data.js",
+    "lastSync": 1508064333696,
+    "guid": "d3e00829-df57-4c69-be1b-41de72484766"
+  },
+  "/frappe/js/frappe/form/controls/date.js": {
+    "path": "/frappe/js/frappe/form/controls/date.js",
+    "lastSync": 1508064333696,
+    "guid": "5f438cc7-53ca-4e42-85d3-d05a3ea14315"
+  },
+  "/frappe/js/frappe/form/controls/datetime.js": {
+    "path": "/frappe/js/frappe/form/controls/datetime.js",
+    "lastSync": 1508064333696,
+    "guid": "2c840d05-fcfe-431c-bd43-a1146a23543c"
+  },
+  "/frappe/js/frappe/form/controls/date_range.js": {
+    "path": "/frappe/js/frappe/form/controls/date_range.js",
+    "lastSync": 1508064333696,
+    "guid": "bdcca937-c0c4-426a-bfb1-39f16056c572"
+  },
+  "/frappe/js/frappe/form/controls/dynamic_link.js": {
+    "path": "/frappe/js/frappe/form/controls/dynamic_link.js",
+    "lastSync": 1508064333696,
+    "guid": "16d480b0-76ab-46f0-8f13-8049976f515c"
+  },
+  "/frappe/js/frappe/form/controls/float.js": {
+    "path": "/frappe/js/frappe/form/controls/float.js",
+    "lastSync": 1508064333696,
+    "guid": "cc05207b-5ee8-4188-a97a-826c443ccb9e"
+  },
+  "/frappe/js/frappe/form/controls/heading.js": {
+    "path": "/frappe/js/frappe/form/controls/heading.js",
+    "lastSync": 1508064333696,
+    "guid": "b06a6fa9-6aff-4949-b398-2a5a23e5d248"
+  },
+  "/frappe/js/frappe/form/controls/html.js": {
+    "path": "/frappe/js/frappe/form/controls/html.js",
+    "lastSync": 1508064333696,
+    "guid": "88ad24a3-5b03-4629-930b-7318a81ab44c"
+  },
+  "/frappe/js/frappe/form/controls/image.js": {
+    "path": "/frappe/js/frappe/form/controls/image.js",
+    "lastSync": 1508064333696,
+    "guid": "96b0509c-6916-4d93-9ca6-4ccc9af1e117"
+  },
+  "/frappe/js/frappe/form/controls/int.js": {
+    "path": "/frappe/js/frappe/form/controls/int.js",
+    "lastSync": 1508064333696,
+    "guid": "f607afcc-2f2f-4738-8c61-e6b747d21ec9"
+  },
+  "/frappe/js/frappe/form/controls/link.js": {
+    "path": "/frappe/js/frappe/form/controls/link.js",
+    "lastSync": 1508064333696,
+    "guid": "6f2d7fcb-b6f7-4c84-bf42-84702b76d35b"
+  },
+  "/frappe/js/frappe/form/controls/password.js": {
+    "path": "/frappe/js/frappe/form/controls/password.js",
+    "lastSync": 1508064333696,
+    "guid": "4e530aa4-5fb5-4771-8d2e-34c853cd88e1"
+  },
+  "/frappe/js/frappe/form/controls/read_only.js": {
+    "path": "/frappe/js/frappe/form/controls/read_only.js",
+    "lastSync": 1508064333696,
+    "guid": "ef6bd4d6-98ee-429e-9344-81b5d3255cf7"
+  },
+  "/frappe/js/frappe/form/controls/select.js": {
+    "path": "/frappe/js/frappe/form/controls/select.js",
+    "lastSync": 1508064333696,
+    "guid": "58ce7a4b-4fb2-463c-8829-f067874fbe5b"
+  },
+  "/frappe/js/frappe/form/controls/signature.js": {
+    "path": "/frappe/js/frappe/form/controls/signature.js",
+    "lastSync": 1508064333696,
+    "guid": "3c84d764-f4fb-4890-9ff2-68ff141f8afa"
+  },
+  "/frappe/js/frappe/form/controls/table.js": {
+    "path": "/frappe/js/frappe/form/controls/table.js",
+    "lastSync": 1508064333696,
+    "guid": "c0aaca6b-83f2-4a33-bef5-dfb672e29a9c"
+  },
+  "/frappe/js/frappe/form/controls/text.js": {
+    "path": "/frappe/js/frappe/form/controls/text.js",
+    "lastSync": 1508064333696,
+    "guid": "936da158-ca52-415c-8987-64b022d0eee9"
+  },
+  "/frappe/js/frappe/form/controls/text_editor.js": {
+    "path": "/frappe/js/frappe/form/controls/text_editor.js",
+    "lastSync": 1508064333696,
+    "guid": "3394d89d-7b30-46c0-9b7a-59ab72d944b3"
+  },
+  "/frappe/js/frappe/form/controls/time.js": {
+    "path": "/frappe/js/frappe/form/controls/time.js",
+    "lastSync": 1508064333696,
+    "guid": "1afb433e-a3da-4ef4-ab27-71ad081829eb"
   },
   "/frappe/js/frappe/form/dashboard.js": {
     "path": "/frappe/js/frappe/form/dashboard.js",
-    "lastSync": 1505671935724,
-    "guid": "1eb73e9f-2540-4a09-9ac3-6e39e1dfe61b"
+    "lastSync": 1508064333696,
+    "guid": "290a43f4-cd72-451e-8433-25f027a04c65"
   },
   "/frappe/js/frappe/form/document_flow.js": {
     "path": "/frappe/js/frappe/form/document_flow.js",
-    "lastSync": 1502608539057,
-    "guid": "3a7bd6ed-0a91-495f-bcab-ec6c94508657"
+    "lastSync": 1508064333696,
+    "guid": "9cbaabb6-3ab9-45e6-8b54-4b5c96ead042"
   },
   "/frappe/js/frappe/form/footer/assign_to.js": {
     "path": "/frappe/js/frappe/form/footer/assign_to.js",
-    "lastSync": 1502608539057,
-    "guid": "732c0af1-93a2-469b-a890-812fcc5c5c30"
+    "lastSync": 1508064333696,
+    "guid": "f503ed8d-6a22-4943-a470-adedb6f0246b"
   },
   "/frappe/js/frappe/form/footer/attachments.js": {
     "path": "/frappe/js/frappe/form/footer/attachments.js",
-    "lastSync": 1505671935724,
-    "guid": "5041fe26-3d86-4bfa-808b-70a38a147c70"
+    "lastSync": 1508064333696,
+    "guid": "1df64c51-f60c-45ea-9058-6c799d5e3027"
   },
   "/frappe/js/frappe/form/footer/footer.js": {
     "path": "/frappe/js/frappe/form/footer/footer.js",
-    "lastSync": 1502608539057,
-    "guid": "1fbad9e9-75fd-4eb2-a0a5-1efd557d476d"
+    "lastSync": 1508064333696,
+    "guid": "d0c5b66b-91da-4213-8f86-36c6d9582f17"
   },
   "/frappe/js/frappe/form/footer/form_footer.html": {
     "path": "/frappe/js/frappe/form/footer/form_footer.html",
-    "lastSync": 1508026613541,
-    "guid": "5e718848-abca-46a5-9c5e-22c71333b8c2"
+    "lastSync": 1508064333696,
+    "guid": "411771e3-9de7-4776-a0b7-852ac4a3ce5f"
   },
   "/frappe/js/frappe/form/footer/timeline.html": {
     "path": "/frappe/js/frappe/form/footer/timeline.html",
-    "lastSync": 1502608539057,
-    "guid": "be98c58b-b0b3-4033-a8e1-d3683de128ee"
+    "lastSync": 1508064333696,
+    "guid": "f48c3b17-16ff-4c88-94c2-87ac3bfee076"
   },
   "/frappe/js/frappe/form/footer/timeline.js": {
     "path": "/frappe/js/frappe/form/footer/timeline.js",
-    "lastSync": 1508026613541,
-    "guid": "10447aab-a7c8-4b63-9e09-7596f295ca82"
+    "lastSync": 1508064333696,
+    "guid": "ce572de5-25c5-44a7-85e8-c0765d3d0ebf"
   },
   "/frappe/js/frappe/form/footer/timeline_item.html": {
     "path": "/frappe/js/frappe/form/footer/timeline_item.html",
-    "lastSync": 1505671935724,
-    "guid": "a61e2c78-02ee-4ec0-9bfa-8787570c6a6a"
+    "lastSync": 1508064333696,
+    "guid": "92f5cd6e-d11d-45e5-9601-ac19393a6775"
   },
   "/frappe/js/frappe/form/formatters.js": {
     "path": "/frappe/js/frappe/form/formatters.js",
-    "lastSync": 1506621307641,
-    "guid": "4455f04f-fd7f-446b-93cd-98f2794e38d2"
+    "lastSync": 1508064333696,
+    "guid": "e70262a7-8326-4352-8865-e5edad3e4499"
+  },
+  "/frappe/js/frappe/form/form_sidebar.js": {
+    "path": "/frappe/js/frappe/form/form_sidebar.js",
+    "lastSync": 1508064333696,
+    "guid": "87d5c310-a116-4f4c-9cff-25752b3fb490"
   },
   "/frappe/js/frappe/form/form_viewers.js": {
     "path": "/frappe/js/frappe/form/form_viewers.js",
-    "lastSync": 1505671935724,
-    "guid": "a368aeb9-e520-4a5f-ba51-ed1bcfaf0b1a"
+    "lastSync": 1508064333696,
+    "guid": "66f95805-b4a7-4006-b564-35b916919726"
   },
   "/frappe/js/frappe/form/grid.js": {
     "path": "/frappe/js/frappe/form/grid.js",
-    "lastSync": 1508026613541,
-    "guid": "65e525dd-13e0-4a28-a926-3d5bf059fcb5"
+    "lastSync": 1508064333696,
+    "guid": "dfb1b8b9-b7a7-434e-b71b-16ea80c7c10e"
+  },
+  "/frappe/js/frappe/form/grid_row.js": {
+    "path": "/frappe/js/frappe/form/grid_row.js",
+    "lastSync": 1508064333696,
+    "guid": "3a214b39-edd9-4f59-96ee-5b4de898c752"
+  },
+  "/frappe/js/frappe/form/grid_row_form.js": {
+    "path": "/frappe/js/frappe/form/grid_row_form.js",
+    "lastSync": 1508064333696,
+    "guid": "c023c78d-f2e6-4f8f-8525-3b3a8e8de123"
   },
   "/frappe/js/frappe/form/layout.js": {
     "path": "/frappe/js/frappe/form/layout.js",
-    "lastSync": 1506454828517,
-    "guid": "4dd51269-195f-412d-8f9e-3a28979af13e"
+    "lastSync": 1508064333696,
+    "guid": "99a248d7-0b2b-4173-8bb5-41f05140494e"
   },
   "/frappe/js/frappe/form/linked_with.js": {
     "path": "/frappe/js/frappe/form/linked_with.js",
-    "lastSync": 1502608539057,
-    "guid": "a50abb47-4c4d-4392-b62c-9e804d449692"
+    "lastSync": 1508064333696,
+    "guid": "1a44a54e-e4b9-468d-a55c-ca818a4597e5"
   },
   "/frappe/js/frappe/form/link_selector.js": {
     "path": "/frappe/js/frappe/form/link_selector.js",
-    "lastSync": 1505671935724,
-    "guid": "496a18ff-bc65-4b96-80f9-5498d288591f"
+    "lastSync": 1508064333696,
+    "guid": "821085ac-8063-475a-a6cd-527353628a59"
+  },
+  "/frappe/js/frappe/form/multi_select_dialog.js": {
+    "path": "/frappe/js/frappe/form/multi_select_dialog.js",
+    "lastSync": 1508064333696,
+    "guid": "de8aaf0f-65e4-4fc4-b3ba-a5b3d0d7b077"
   },
   "/frappe/js/frappe/form/print.js": {
     "path": "/frappe/js/frappe/form/print.js",
-    "lastSync": 1505671935724,
-    "guid": "5c2b4583-74df-4459-bd79-d770eb109a59"
+    "lastSync": 1508064333696,
+    "guid": "d25a7027-c0b7-4b3a-a548-15ab38d438b6"
   },
   "/frappe/js/frappe/form/quick_entry.js": {
     "path": "/frappe/js/frappe/form/quick_entry.js",
-    "lastSync": 1506182352957,
-    "guid": "71eb6480-88d2-49a6-ae72-06f5b92ab324"
+    "lastSync": 1508064333696,
+    "guid": "99d53cbc-7380-48a3-9571-4e4da44cc846"
   },
   "/frappe/js/frappe/form/save.js": {
     "path": "/frappe/js/frappe/form/save.js",
-    "lastSync": 1508026613541,
-    "guid": "09ea7bff-5a91-4cd2-9626-136d554f528e"
+    "lastSync": 1508064333696,
+    "guid": "f3e2deed-61da-4a2e-9b70-9845bb6cb636"
   },
   "/frappe/js/frappe/form/script_manager.js": {
     "path": "/frappe/js/frappe/form/script_manager.js",
-    "lastSync": 1502608539057,
-    "guid": "5618f12a-b6d7-4a5e-a1fd-09fefe152c20"
+    "lastSync": 1508064333696,
+    "guid": "9ce16508-9023-4c6a-ac8f-b1d28c42d407"
   },
   "/frappe/js/frappe/form/share.js": {
     "path": "/frappe/js/frappe/form/share.js",
-    "lastSync": 1506454828517,
-    "guid": "0ede8a50-69b3-48bf-b5d8-cfb65cfa2c75"
+    "lastSync": 1508064333696,
+    "guid": "84bfe17b-4d4e-4411-80b9-937f25f8bb41"
   },
   "/frappe/js/frappe/form/sidebar.js": {
     "path": "/frappe/js/frappe/form/sidebar.js",
@@ -901,133 +1126,148 @@
   },
   "/frappe/js/frappe/form/templates/form_dashboard.html": {
     "path": "/frappe/js/frappe/form/templates/form_dashboard.html",
-    "lastSync": 1505671935724,
-    "guid": "e3f423fb-edca-465c-a983-1b32612edd08"
+    "lastSync": 1508064333696,
+    "guid": "bc78510a-8b49-4c24-bec7-0ecbc8adcc1b"
   },
   "/frappe/js/frappe/form/templates/form_document_flow.html": {
     "path": "/frappe/js/frappe/form/templates/form_document_flow.html",
-    "lastSync": 1502608539057,
-    "guid": "30ca94e6-b005-450f-86c8-76b80a32101a"
+    "lastSync": 1508064333696,
+    "guid": "cc56422a-58fe-4a46-be76-b0d7be387b85"
   },
   "/frappe/js/frappe/form/templates/form_links.html": {
     "path": "/frappe/js/frappe/form/templates/form_links.html",
-    "lastSync": 1502608539057,
-    "guid": "80527845-8ec3-4a28-a476-b38543bcab52"
+    "lastSync": 1508064333696,
+    "guid": "12318d42-44be-4606-9dc7-97e35dd27e40"
   },
   "/frappe/js/frappe/form/templates/form_sidebar.html": {
     "path": "/frappe/js/frappe/form/templates/form_sidebar.html",
-    "lastSync": 1502608539057,
-    "guid": "af67fd7d-4cb6-4757-9e20-cd3aeee4e827"
+    "lastSync": 1508064333696,
+    "guid": "378e3358-3b6e-40fc-bb4b-cba8c8bfecb0"
   },
   "/frappe/js/frappe/form/templates/grid_body.html": {
     "path": "/frappe/js/frappe/form/templates/grid_body.html",
-    "lastSync": 1506454828517,
-    "guid": "6001d75e-d78e-4404-b736-2836e348cdc6"
+    "lastSync": 1508064333696,
+    "guid": "2721f178-4a3d-4d7c-950b-d3970426d73e"
   },
   "/frappe/js/frappe/form/templates/grid_form.html": {
     "path": "/frappe/js/frappe/form/templates/grid_form.html",
-    "lastSync": 1502608539057,
-    "guid": "c962e86b-07bd-4c0b-b540-d43bde0e0b5b"
+    "lastSync": 1508064333696,
+    "guid": "930c034c-2797-4e36-b040-1725c44cd8dc"
   },
   "/frappe/js/frappe/form/templates/print_layout.html": {
     "path": "/frappe/js/frappe/form/templates/print_layout.html",
-    "lastSync": 1505671935724,
-    "guid": "f83eb487-25f4-4f8a-83b9-4073fc2179b9"
+    "lastSync": 1508064333696,
+    "guid": "c07e8274-21ef-4964-9c9c-2fa688b32679"
   },
   "/frappe/js/frappe/form/templates/set_sharing.html": {
     "path": "/frappe/js/frappe/form/templates/set_sharing.html",
-    "lastSync": 1506454828517,
-    "guid": "3302940e-b8b9-48af-ba15-f6e7ba79b2bd"
+    "lastSync": 1508064333696,
+    "guid": "49ac4e5a-1f77-4b7e-a42c-55eef308a134"
   },
   "/frappe/js/frappe/form/templates/users_in_sidebar.html": {
     "path": "/frappe/js/frappe/form/templates/users_in_sidebar.html",
-    "lastSync": 1502608539057,
-    "guid": "c168a209-cb9f-4186-b245-32c965b94a67"
+    "lastSync": 1508064333696,
+    "guid": "070d3d3b-0f90-4cf8-80de-4d8b64627124"
   },
   "/frappe/js/frappe/form/toolbar.js": {
     "path": "/frappe/js/frappe/form/toolbar.js",
-    "lastSync": 1505671935724,
-    "guid": "ed9455a2-9aa8-4013-b1af-e9a46f8795d6"
+    "lastSync": 1508064333696,
+    "guid": "059bd073-cf55-4333-a781-5cadbd3bf308"
   },
   "/frappe/js/frappe/form/user_image.js": {
     "path": "/frappe/js/frappe/form/user_image.js",
-    "lastSync": 1502608539057,
-    "guid": "1e4a88f8-deea-41d4-a4f7-681ef1f3ba5a"
+    "lastSync": 1508064333696,
+    "guid": "24726f56-50c9-40c7-8acc-5ebc995732d3"
   },
   "/frappe/js/frappe/form/workflow.js": {
     "path": "/frappe/js/frappe/form/workflow.js",
-    "lastSync": 1502608539057,
-    "guid": "9eb631ce-0e6e-4904-a54e-66d476510732"
+    "lastSync": 1508064333696,
+    "guid": "69b3da46-c0b9-4aab-afc8-5ba030f8d22d"
   },
   "/frappe/js/frappe/format.js": {
     "path": "/frappe/js/frappe/format.js",
-    "lastSync": 1502608539057,
-    "guid": "e667fc67-c76c-4a39-9c6e-06770f80d05f"
+    "lastSync": 1508064333696,
+    "guid": "1f4f297d-2ba9-4e90-94fa-9818ebcc5ac3"
   },
   "/frappe/js/frappe/list/header_select_all_like_filter.html": {
     "path": "/frappe/js/frappe/list/header_select_all_like_filter.html",
-    "lastSync": 1502608539057,
-    "guid": "496446d9-1b99-450c-9a55-426061e89889"
+    "lastSync": 1508064333696,
+    "guid": "0c6550bb-38cf-4bae-8c9c-92d19138ee66"
   },
   "/frappe/js/frappe/list/item_assigned_to_comment_count.html": {
     "path": "/frappe/js/frappe/list/item_assigned_to_comment_count.html",
-    "lastSync": 1502608539057,
-    "guid": "7090a21b-69e7-40c6-97ab-2bdaa4f11e61"
+    "lastSync": 1508064333696,
+    "guid": "e4b7eb34-5768-47c6-9bd0-e86c00510976"
   },
   "/frappe/js/frappe/list/list_item_main.html": {
     "path": "/frappe/js/frappe/list/list_item_main.html",
-    "lastSync": 1506182352957,
-    "guid": "0b9a50da-3b61-4b7f-83ff-e61bb4d6fdee"
+    "lastSync": 1508064333696,
+    "guid": "41cb8e6d-28ba-4008-b645-02d1715fc150"
   },
   "/frappe/js/frappe/list/list_item_main_head.html": {
     "path": "/frappe/js/frappe/list/list_item_main_head.html",
-    "lastSync": 1502608539057,
-    "guid": "25903fe5-8249-4e17-8994-95e9978ab1ee"
+    "lastSync": 1508064333696,
+    "guid": "f9ace58a-58e3-435c-8439-b80f845bb5d8"
   },
   "/frappe/js/frappe/list/list_item_row.html": {
     "path": "/frappe/js/frappe/list/list_item_row.html",
-    "lastSync": 1502608539057,
-    "guid": "4ce46822-c1a7-4a66-827f-5ef5449b6cd4"
+    "lastSync": 1508064333696,
+    "guid": "202e6352-bb66-4847-87d1-f68fab0766ae"
   },
   "/frappe/js/frappe/list/list_item_row_head.html": {
     "path": "/frappe/js/frappe/list/list_item_row_head.html",
-    "lastSync": 1502608539057,
-    "guid": "a8b04f6f-0f76-4a83-beca-36ef4f81b7e5"
+    "lastSync": 1508064333696,
+    "guid": "8703075c-bd35-443f-862d-784420d745e2"
   },
   "/frappe/js/frappe/list/list_item_subject.html": {
     "path": "/frappe/js/frappe/list/list_item_subject.html",
-    "lastSync": 1502608539057,
-    "guid": "f546e72e-6a70-4951-87f8-551b8794d77b"
+    "lastSync": 1508064333696,
+    "guid": "45989c99-3797-4379-8fd4-e385c1cce713"
   },
   "/frappe/js/frappe/list/list_permission_footer.html": {
     "path": "/frappe/js/frappe/list/list_permission_footer.html",
-    "lastSync": 1502608539057,
-    "guid": "afc5321b-980b-4404-957a-4063d2bc6b43"
+    "lastSync": 1508064333696,
+    "guid": "2324b796-b94e-4598-b9c3-42afeda208f5"
+  },
+  "/frappe/js/frappe/list/list_renderer.js": {
+    "path": "/frappe/js/frappe/list/list_renderer.js",
+    "lastSync": 1508064333696,
+    "guid": "bb72a296-2399-4098-869d-480e0eda01e2"
   },
   "/frappe/js/frappe/list/list_sidebar.html": {
     "path": "/frappe/js/frappe/list/list_sidebar.html",
-    "lastSync": 1502608539057,
-    "guid": "ee2fca9a-3134-4543-b914-6970fce7e6f4"
+    "lastSync": 1508064333696,
+    "guid": "24d6bd2c-e39d-45ff-a2bf-4e296236a318"
   },
   "/frappe/js/frappe/list/list_sidebar.js": {
     "path": "/frappe/js/frappe/list/list_sidebar.js",
-    "lastSync": 1508026613541,
-    "guid": "8712d2cc-7969-4427-a030-601f645a4423"
+    "lastSync": 1508064333696,
+    "guid": "5824727d-9bc8-4e2f-bf2a-f4667c94c13c"
   },
   "/frappe/js/frappe/list/list_sidebar_stat.html": {
     "path": "/frappe/js/frappe/list/list_sidebar_stat.html",
-    "lastSync": 1505671935724,
-    "guid": "26df9877-4ec9-4034-9b53-207dcdf3ce79"
+    "lastSync": 1508064333696,
+    "guid": "6ea8a83d-d1d3-40f8-83fc-5f2a6409628e"
+  },
+  "/frappe/js/frappe/list/list_view.js": {
+    "path": "/frappe/js/frappe/list/list_view.js",
+    "lastSync": 1508064333696,
+    "guid": "3e6c2d58-c9ad-4378-83fd-80609443da62"
+  },
+  "/frappe/js/frappe/misc/address_and_contact.js": {
+    "path": "/frappe/js/frappe/misc/address_and_contact.js",
+    "lastSync": 1508064333696,
+    "guid": "5dd1eebf-8d1f-43f4-9d35-ca2a89c268c4"
   },
   "/frappe/js/frappe/misc/common.js": {
     "path": "/frappe/js/frappe/misc/common.js",
-    "lastSync": 1502608539057,
-    "guid": "47ba908d-2e7f-4c5f-a335-3c61688c9630"
+    "lastSync": 1508064333696,
+    "guid": "75501e12-f2ca-4456-a983-625adca70070"
   },
   "/frappe/js/frappe/misc/datetime.js": {
     "path": "/frappe/js/frappe/misc/datetime.js",
-    "lastSync": 1502608539057,
-    "guid": "509f96c1-20d9-4db9-b6c7-f1815f9856e1"
+    "lastSync": 1508064333696,
+    "guid": "44137030-a955-4a38-8239-180c4c6102b1"
   },
   "/frappe/js/frappe/misc/display_image.js": {
     "path": "/frappe/js/frappe/misc/display_image.js",
@@ -1036,393 +1276,623 @@
   },
   "/frappe/js/frappe/misc/help.js": {
     "path": "/frappe/js/frappe/misc/help.js",
-    "lastSync": 1505671935724,
-    "guid": "35f3de86-88cf-484a-bdd5-68927818b24f"
+    "lastSync": 1508064333696,
+    "guid": "942be5f7-71b7-46f4-b5d8-b43d7c029eea"
   },
   "/frappe/js/frappe/misc/help_links.js": {
     "path": "/frappe/js/frappe/misc/help_links.js",
-    "lastSync": 1502608539057,
-    "guid": "e13ba5af-c1ce-41cd-88da-f5ad27bbf989"
+    "lastSync": 1508064333696,
+    "guid": "7050b3aa-bc6e-4b85-997f-bd43a1245a15"
   },
   "/frappe/js/frappe/misc/number_format.js": {
     "path": "/frappe/js/frappe/misc/number_format.js",
-    "lastSync": 1502608539057,
-    "guid": "4184db7b-c6b0-463e-9695-632aa077244c"
+    "lastSync": 1508064333696,
+    "guid": "22d30e47-072e-49fb-8ad1-b65b65117fe9"
   },
   "/frappe/js/frappe/misc/pretty_date.js": {
     "path": "/frappe/js/frappe/misc/pretty_date.js",
-    "lastSync": 1502608539057,
-    "guid": "da32610e-1ddd-4225-8bf0-bf4ae5a75f7d"
+    "lastSync": 1508064333696,
+    "guid": "74196f09-6675-4e98-8e53-0659a98ea44b"
+  },
+  "/frappe/js/frappe/misc/preview_email.js": {
+    "path": "/frappe/js/frappe/misc/preview_email.js",
+    "lastSync": 1508064333696,
+    "guid": "c43f8eaa-6228-456a-9be9-f5816ba4d87d"
+  },
+  "/frappe/js/frappe/misc/ratings.html": {
+    "path": "/frappe/js/frappe/misc/ratings.html",
+    "lastSync": 1508064333696,
+    "guid": "94970857-6a71-4832-9b43-fdbf77ccd314"
+  },
+  "/frappe/js/frappe/misc/rating_icons.html": {
+    "path": "/frappe/js/frappe/misc/rating_icons.html",
+    "lastSync": 1508064333696,
+    "guid": "ac6cea09-2ffd-41a8-87ab-dfe4469f994b"
+  },
+  "/frappe/js/frappe/misc/test_utils.js": {
+    "path": "/frappe/js/frappe/misc/test_utils.js",
+    "lastSync": 1508064333696,
+    "guid": "39544b94-35b4-487e-9cb9-fb1d444ec028"
   },
   "/frappe/js/frappe/misc/tools.js": {
     "path": "/frappe/js/frappe/misc/tools.js",
-    "lastSync": 1505671935724,
-    "guid": "4c960ee6-1e5e-4ab5-ae0f-4da5c0a418cc"
+    "lastSync": 1508064333696,
+    "guid": "198743e5-47ea-43b7-b364-71a94487ea64"
   },
   "/frappe/js/frappe/misc/user.js": {
     "path": "/frappe/js/frappe/misc/user.js",
-    "lastSync": 1502608539057,
-    "guid": "2675c04e-f1bf-41ce-9779-5175b91b45b7"
+    "lastSync": 1508064333696,
+    "guid": "93496ac8-2e6e-4342-af41-e6bf3400bef4"
   },
   "/frappe/js/frappe/misc/utils.js": {
     "path": "/frappe/js/frappe/misc/utils.js",
-    "lastSync": 1508026613541,
-    "guid": "a754c8a8-a9b4-49a2-b802-bb510c73a3e4"
+    "lastSync": 1508064333696,
+    "guid": "20bf6b78-18e1-4e83-8017-33e64d96c0a3"
   },
   "/frappe/js/frappe/model/create_new.js": {
     "path": "/frappe/js/frappe/model/create_new.js",
-    "lastSync": 1505671935724,
-    "guid": "7a1c4abf-5634-4b81-a9af-d7ef721e1f89"
+    "lastSync": 1508064333696,
+    "guid": "aa76974b-825d-4aa4-b65c-a277fe755363"
   },
   "/frappe/js/frappe/model/indicator.js": {
     "path": "/frappe/js/frappe/model/indicator.js",
-    "lastSync": 1505671935724,
-    "guid": "07f35a4b-3d38-4b26-8c16-1d5d10faeed3"
+    "lastSync": 1508064333696,
+    "guid": "55bf9368-6601-4809-a9aa-474d96b499e5"
   },
   "/frappe/js/frappe/model/meta.js": {
     "path": "/frappe/js/frappe/model/meta.js",
-    "lastSync": 1502608539057,
-    "guid": "4b8cf1f6-ecb8-4225-bd06-c12bd3c31ca9"
+    "lastSync": 1508064333696,
+    "guid": "50b0daef-5602-4140-ae09-700315f96b80"
   },
   "/frappe/js/frappe/model/model.js": {
     "path": "/frappe/js/frappe/model/model.js",
-    "lastSync": 1506454828517,
-    "guid": "702930f4-306e-408b-b0c5-573d4fb9a05b"
+    "lastSync": 1508064333696,
+    "guid": "7c2b8f37-0122-46d0-ae53-dde332ea2dde"
   },
   "/frappe/js/frappe/model/perm.js": {
     "path": "/frappe/js/frappe/model/perm.js",
-    "lastSync": 1502608539057,
-    "guid": "571f179f-bdc8-4020-9ef9-4304f2347720"
+    "lastSync": 1508064333696,
+    "guid": "c89c7657-47f5-4680-9fc6-64612f54f164"
   },
   "/frappe/js/frappe/model/sync.js": {
     "path": "/frappe/js/frappe/model/sync.js",
-    "lastSync": 1502608539057,
-    "guid": "8c792b28-eba5-4980-ae44-2a7f741a1afb"
+    "lastSync": 1508064333696,
+    "guid": "9cad07dc-cb2b-40ca-9b2e-a49c7790684b"
+  },
+  "/frappe/js/frappe/model/user_settings.js": {
+    "path": "/frappe/js/frappe/model/user_settings.js",
+    "lastSync": 1508064333696,
+    "guid": "00acc219-8034-4785-81f4-896fa1b35875"
   },
   "/frappe/js/frappe/model/workflow.js": {
     "path": "/frappe/js/frappe/model/workflow.js",
-    "lastSync": 1502608539057,
-    "guid": "70edfbc4-86f3-463f-bfdc-c40ea2e02704"
+    "lastSync": 1508064333696,
+    "guid": "a120847e-5638-4f4e-a7e9-5e95676ff0b8"
   },
   "/frappe/js/frappe/provide.js": {
     "path": "/frappe/js/frappe/provide.js",
-    "lastSync": 1502608539057,
-    "guid": "fdde7ae9-cdcd-4d66-88fd-d3412936d049"
+    "lastSync": 1508064333696,
+    "guid": "91f3b965-c0ae-4db6-b9cd-55039257a602"
   },
   "/frappe/js/frappe/query_string.js": {
     "path": "/frappe/js/frappe/query_string.js",
-    "lastSync": 1505671935724,
-    "guid": "7047b12d-eba1-458a-909c-94fa3dbd5a5f"
+    "lastSync": 1508064333696,
+    "guid": "9dd781ff-4553-454b-bc3c-f725ce68d509"
   },
   "/frappe/js/frappe/request.js": {
     "path": "/frappe/js/frappe/request.js",
-    "lastSync": 1508026613541,
-    "guid": "3950880d-edd4-4c52-b088-97a0e46b5896"
+    "lastSync": 1508064333696,
+    "guid": "eda5ccdd-398b-4884-bedb-44690b42a591"
+  },
+  "/frappe/js/frappe/roles_editor.js": {
+    "path": "/frappe/js/frappe/roles_editor.js",
+    "lastSync": 1508064333696,
+    "guid": "60a8a16d-fe6d-4888-9fd6-4cdb603e7a22"
   },
   "/frappe/js/frappe/router.js": {
     "path": "/frappe/js/frappe/router.js",
-    "lastSync": 1502608539057,
-    "guid": "ac15cb56-a112-4475-935c-8b9ecc12f27e"
+    "lastSync": 1508064333696,
+    "guid": "8fbe9978-b998-41bf-a148-9afa2f51f928"
   },
   "/frappe/js/frappe/socketio_client.js": {
     "path": "/frappe/js/frappe/socketio_client.js",
-    "lastSync": 1508026613541,
-    "guid": "2a2bc479-4718-43d8-b222-9eabbd7a0260"
+    "lastSync": 1508064333696,
+    "guid": "59c5b09a-6d6d-4e21-9869-7dd4c3112b9d"
   },
   "/frappe/js/frappe/toolbar.js": {
     "path": "/frappe/js/frappe/toolbar.js",
-    "lastSync": 1508026613541,
-    "guid": "e272aeb9-8648-4b3e-a7f2-54acfed44b56"
+    "lastSync": 1508064333696,
+    "guid": "82b07aeb-d5d4-4725-a673-a64bcaece3e9"
   },
   "/frappe/js/frappe/translate.js": {
     "path": "/frappe/js/frappe/translate.js",
-    "lastSync": 1502608539057,
-    "guid": "ec0ad231-0a42-4297-95be-375b56fedbe2"
+    "lastSync": 1508064333696,
+    "guid": "75a996e4-d385-4478-a709-aa14d814173b"
   },
   "/frappe/js/frappe/ui/app_icon.js": {
     "path": "/frappe/js/frappe/ui/app_icon.js",
-    "lastSync": 1506454828517,
-    "guid": "2b94883e-9396-4007-9590-494db8336430"
+    "lastSync": 1508064333696,
+    "guid": "f6c4722b-b6eb-4893-b056-5112a7ae7e7f"
+  },
+  "/frappe/js/frappe/ui/base_list.js": {
+    "path": "/frappe/js/frappe/ui/base_list.js",
+    "lastSync": 1508064333696,
+    "guid": "3196e5f3-3739-467d-903c-2042ef5a24aa"
+  },
+  "/frappe/js/frappe/ui/capture.js": {
+    "path": "/frappe/js/frappe/ui/capture.js",
+    "lastSync": 1508064333696,
+    "guid": "5cbba03c-9c1f-40b5-aee4-9ae987a7ed7a"
   },
   "/frappe/js/frappe/ui/charts.js": {
     "path": "/frappe/js/frappe/ui/charts.js",
-    "lastSync": 1502608539057,
-    "guid": "68533a1d-5c88-4c10-b168-1bf0064a2831"
+    "lastSync": 1508064333696,
+    "guid": "8c884b17-78ae-4aca-b39f-7134c094ccd5"
+  },
+  "/frappe/js/frappe/ui/colors.js": {
+    "path": "/frappe/js/frappe/ui/colors.js",
+    "lastSync": 1508064333696,
+    "guid": "6b4a7e59-c7c1-4aed-a1da-a3d0081f3cb8"
+  },
+  "/frappe/js/frappe/ui/comment.js": {
+    "path": "/frappe/js/frappe/ui/comment.js",
+    "lastSync": 1508064333696,
+    "guid": "3156fa2b-7a10-4271-ae13-e48aa7c522b8"
   },
   "/frappe/js/frappe/ui/dialog.js": {
     "path": "/frappe/js/frappe/ui/dialog.js",
-    "lastSync": 1505671935724,
-    "guid": "12ce68ab-712f-4713-a902-0ad755a13175"
+    "lastSync": 1508064333696,
+    "guid": "8d39d20e-ca7e-476b-a7ad-34cab305904a"
+  },
+  "/frappe/js/frappe/ui/emoji.js": {
+    "path": "/frappe/js/frappe/ui/emoji.js",
+    "lastSync": 1508064333696,
+    "guid": "8613d6d8-3b21-4b31-b41f-ddb94394f0e4"
   },
   "/frappe/js/frappe/ui/field_group.js": {
     "path": "/frappe/js/frappe/ui/field_group.js",
-    "lastSync": 1506621307641,
-    "guid": "8d8e44af-9c4d-40b8-9eac-683ee360d677"
+    "lastSync": 1508064333696,
+    "guid": "e49d0971-6e36-4fb9-ab9f-f71113ee8287"
   },
   "/frappe/js/frappe/ui/filters/edit_filter.html": {
     "path": "/frappe/js/frappe/ui/filters/edit_filter.html",
-    "lastSync": 1502608539057,
-    "guid": "af27a693-c17a-4314-8886-311d15e29327"
+    "lastSync": 1508064333696,
+    "guid": "c34fc0bd-316c-4a10-ba6a-f471babead49"
   },
   "/frappe/js/frappe/ui/filters/filters.js": {
     "path": "/frappe/js/frappe/ui/filters/filters.js",
-    "lastSync": 1508026613541,
-    "guid": "12dcda83-9fd2-4df5-9c00-d8de3683848f"
+    "lastSync": 1508064333696,
+    "guid": "777a8f32-9853-4fbd-8cec-644fbc7c5fd6"
+  },
+  "/frappe/js/frappe/ui/find.js": {
+    "path": "/frappe/js/frappe/ui/find.js",
+    "lastSync": 1508064333696,
+    "guid": "94923512-6014-4360-a4a5-9063367dda5d"
+  },
+  "/frappe/js/frappe/ui/graphs.js": {
+    "path": "/frappe/js/frappe/ui/graphs.js",
+    "lastSync": 1508064333696,
+    "guid": "b3e508b7-1005-4dba-9b82-aad8ad4fe525"
   },
   "/frappe/js/frappe/ui/iconbar.js": {
     "path": "/frappe/js/frappe/ui/iconbar.js",
-    "lastSync": 1502608539057,
-    "guid": "3b137f56-83e2-47b5-b496-7c9ff6f7ad84"
+    "lastSync": 1508064333696,
+    "guid": "affb924f-32e5-4b87-a1a0-38bf17c48cdb"
   },
   "/frappe/js/frappe/ui/keyboard.js": {
     "path": "/frappe/js/frappe/ui/keyboard.js",
-    "lastSync": 1505671935724,
-    "guid": "f9371682-5074-4bfb-ab59-d706fa92a4de"
+    "lastSync": 1508064333696,
+    "guid": "7e934b26-20be-458b-b0bf-77a33dabc1f4"
   },
   "/frappe/js/frappe/ui/like.js": {
     "path": "/frappe/js/frappe/ui/like.js",
-    "lastSync": 1502608539057,
-    "guid": "b0f8ac40-9bae-4686-94b0-fe6336b8bd1b"
+    "lastSync": 1508064333696,
+    "guid": "ac558b78-11c3-43e5-a9b0-d9f395831db4"
   },
   "/frappe/js/frappe/ui/liked_by.html": {
     "path": "/frappe/js/frappe/ui/liked_by.html",
-    "lastSync": 1502608539057,
-    "guid": "f28b6cdb-1b14-4840-8638-ed77c91db097"
+    "lastSync": 1508064333696,
+    "guid": "469e72b1-93e0-4d19-a229-47cf2a92a2ec"
   },
   "/frappe/js/frappe/ui/listing.html": {
     "path": "/frappe/js/frappe/ui/listing.html",
-    "lastSync": 1502608539057,
-    "guid": "52849ba2-b7d5-47ae-b683-32b1328ccb7f"
+    "lastSync": 1508064333696,
+    "guid": "e76886f2-24c7-47b6-a417-1aab724c1b30"
   },
   "/frappe/js/frappe/ui/messages.js": {
     "path": "/frappe/js/frappe/ui/messages.js",
-    "lastSync": 1506621307641,
-    "guid": "5a27057d-0cf7-4cd8-b24f-669de6419f63"
+    "lastSync": 1508064333696,
+    "guid": "8576e9a4-3b9f-40f2-b327-a337a612473d"
   },
   "/frappe/js/frappe/ui/modal.html": {
     "path": "/frappe/js/frappe/ui/modal.html",
-    "lastSync": 1502608539057,
-    "guid": "1446df45-6ac9-4903-b01b-acaaea0aff81"
+    "lastSync": 1508064333696,
+    "guid": "ee002cfc-db58-49f5-8fcc-edb2091377d5"
   },
   "/frappe/js/frappe/ui/page.html": {
     "path": "/frappe/js/frappe/ui/page.html",
-    "lastSync": 1502608539057,
-    "guid": "362d2966-12e7-4332-92c1-4c1f066ffeaa"
+    "lastSync": 1508064333696,
+    "guid": "51b2b394-1ee1-42e0-af39-ae98a1bf6f04"
   },
   "/frappe/js/frappe/ui/page.js": {
     "path": "/frappe/js/frappe/ui/page.js",
-    "lastSync": 1508026613541,
-    "guid": "9e8d43a0-7123-47f3-b55a-cc54795e7c74"
+    "lastSync": 1508064333696,
+    "guid": "d2ab4a05-b719-4dcc-ba43-f773ec3dd08f"
+  },
+  "/frappe/js/frappe/ui/sidebar.js": {
+    "path": "/frappe/js/frappe/ui/sidebar.js",
+    "lastSync": 1508064333696,
+    "guid": "ddc92240-bd04-434c-acb0-23a6ce3ea361"
+  },
+  "/frappe/js/frappe/ui/slides.js": {
+    "path": "/frappe/js/frappe/ui/slides.js",
+    "lastSync": 1508064333696,
+    "guid": "f6e1b281-5b44-48bd-8cb4-7b5b9f756def"
   },
   "/frappe/js/frappe/ui/sort_selector.html": {
     "path": "/frappe/js/frappe/ui/sort_selector.html",
-    "lastSync": 1502608539057,
-    "guid": "aad30ca3-1f2a-43b7-bbe1-e075658f45e5"
+    "lastSync": 1508064333696,
+    "guid": "9e667367-0b49-4b54-a78a-ec93f0f960b4"
   },
   "/frappe/js/frappe/ui/sort_selector.js": {
     "path": "/frappe/js/frappe/ui/sort_selector.js",
-    "lastSync": 1502608539057,
-    "guid": "a3983f85-733b-40f3-8b98-adae7b114eb8"
+    "lastSync": 1508064333696,
+    "guid": "efaba34c-6137-498c-b23c-d13e39c8cb69"
   },
   "/frappe/js/frappe/ui/tags.js": {
     "path": "/frappe/js/frappe/ui/tags.js",
-    "lastSync": 1505671935724,
-    "guid": "9638ac47-63a5-4137-8706-f158ede9ea2c"
+    "lastSync": 1508064333696,
+    "guid": "f96c4877-6d1a-4678-a58c-8816f7df1197"
   },
   "/frappe/js/frappe/ui/toolbar/about.js": {
     "path": "/frappe/js/frappe/ui/toolbar/about.js",
-    "lastSync": 1505671935724,
-    "guid": "0f72b34e-ab28-411e-82ac-408325141c43"
+    "lastSync": 1508064333696,
+    "guid": "8437ac45-7c00-4ac2-9a9c-7af470c20615"
   },
   "/frappe/js/frappe/ui/toolbar/awesome_bar.js": {
     "path": "/frappe/js/frappe/ui/toolbar/awesome_bar.js",
-    "lastSync": 1505671935724,
-    "guid": "d0bb8b95-402c-4256-b12a-364ab7f417d2"
+    "lastSync": 1508064333696,
+    "guid": "1c9e9c50-53bf-410c-9f37-9ed83db9b01f"
   },
   "/frappe/js/frappe/ui/toolbar/navbar.html": {
     "path": "/frappe/js/frappe/ui/toolbar/navbar.html",
-    "lastSync": 1505671935724,
-    "guid": "f7d3c0ce-09b8-4cdd-b20f-23ac2f396d05"
+    "lastSync": 1508064333696,
+    "guid": "b337639e-94f4-4c7d-8539-c3efeaab7a61"
   },
   "/frappe/js/frappe/ui/toolbar/notifications.js": {
     "path": "/frappe/js/frappe/ui/toolbar/notifications.js",
-    "lastSync": 1506454828517,
-    "guid": "43951003-c522-4f5a-a55d-b8b8d0abed8d"
+    "lastSync": 1508064333696,
+    "guid": "a13ba3d1-3e3b-4cd7-841b-e1a6b962e249"
+  },
+  "/frappe/js/frappe/ui/toolbar/search.html": {
+    "path": "/frappe/js/frappe/ui/toolbar/search.html",
+    "lastSync": 1508064333696,
+    "guid": "6296c1c3-a6df-4e1c-a95b-20c3e17c6015"
+  },
+  "/frappe/js/frappe/ui/toolbar/search.js": {
+    "path": "/frappe/js/frappe/ui/toolbar/search.js",
+    "lastSync": 1508064333696,
+    "guid": "6bfc187c-da0f-4ac1-bf35-b78705647087"
+  },
+  "/frappe/js/frappe/ui/toolbar/search_header.html": {
+    "path": "/frappe/js/frappe/ui/toolbar/search_header.html",
+    "lastSync": 1508064333696,
+    "guid": "45f40e38-85ca-4db9-94b8-a58c79235904"
+  },
+  "/frappe/js/frappe/ui/toolbar/search_utils.js": {
+    "path": "/frappe/js/frappe/ui/toolbar/search_utils.js",
+    "lastSync": 1508064333696,
+    "guid": "90584805-3f41-43be-ae79-6ba3a1592361"
   },
   "/frappe/js/frappe/ui/toolbar/toolbar.js": {
     "path": "/frappe/js/frappe/ui/toolbar/toolbar.js",
-    "lastSync": 1505671935724,
-    "guid": "4b66b219-71f0-48b4-8675-1b24620031a9"
+    "lastSync": 1508064333696,
+    "guid": "e3772ce1-7587-4502-ab2e-a8547f123b9a"
+  },
+  "/frappe/js/frappe/ui/toolbar/user_progress_dialog.js": {
+    "path": "/frappe/js/frappe/ui/toolbar/user_progress_dialog.js",
+    "lastSync": 1508064333696,
+    "guid": "597d2909-383f-4af5-b0da-80640f1180c5"
   },
   "/frappe/js/frappe/ui/tree.js": {
     "path": "/frappe/js/frappe/ui/tree.js",
-    "lastSync": 1502608539057,
-    "guid": "c1c0656d-a2d2-4b27-9de0-0d9089c8e6c3"
+    "lastSync": 1508064333696,
+    "guid": "84fbeb2c-bd2f-4780-ae7f-f112f0556fff"
   },
   "/frappe/js/frappe/ui/upload.html": {
     "path": "/frappe/js/frappe/ui/upload.html",
-    "lastSync": 1502608539057,
-    "guid": "75a5aa8d-cae2-4eb2-962e-1a522eaa49c3"
+    "lastSync": 1508064333696,
+    "guid": "838ed415-788f-4164-a87e-3454385e6337"
   },
   "/frappe/js/frappe/upload.js": {
     "path": "/frappe/js/frappe/upload.js",
-    "lastSync": 1508026613541,
-    "guid": "fb3643a5-5cbf-49b0-868c-432a7f81b5e9"
+    "lastSync": 1508064333696,
+    "guid": "af4ead66-482f-411c-9ead-49bd8f2eddc5"
   },
   "/frappe/js/frappe/views/breadcrumbs.js": {
     "path": "/frappe/js/frappe/views/breadcrumbs.js",
-    "lastSync": 1502608539057,
-    "guid": "2ebc005c-7c62-4bc5-85bc-86c092c79e84"
+    "lastSync": 1508064333696,
+    "guid": "62ed45d1-e46d-42f4-a933-4967aa990a7e"
+  },
+  "/frappe/js/frappe/views/calendar/calendar.js": {
+    "path": "/frappe/js/frappe/views/calendar/calendar.js",
+    "lastSync": 1508064333696,
+    "guid": "3ef785ab-81a8-44ec-af74-df8e737afe7e"
   },
   "/frappe/js/frappe/views/communication.js": {
     "path": "/frappe/js/frappe/views/communication.js",
-    "lastSync": 1508026613541,
-    "guid": "1d563a36-24e0-4907-aa07-3d34bbe83a9c"
+    "lastSync": 1508064333696,
+    "guid": "d3690cd9-4f91-4221-ab94-f09bf3e15b7f"
   },
   "/frappe/js/frappe/views/container.js": {
     "path": "/frappe/js/frappe/views/container.js",
-    "lastSync": 1502608539057,
-    "guid": "87fe2571-4ac8-45f1-b04c-686d48099030"
+    "lastSync": 1508064333696,
+    "guid": "9bd11225-2602-4a79-9d65-c0e5c62a71db"
   },
   "/frappe/js/frappe/views/factory.js": {
     "path": "/frappe/js/frappe/views/factory.js",
-    "lastSync": 1502608539057,
-    "guid": "220319d5-66b5-4d17-8996-e1692198de7e"
+    "lastSync": 1508064333696,
+    "guid": "a75499a3-9ef0-465f-ab74-527460129b86"
   },
   "/frappe/js/frappe/views/formview.js": {
     "path": "/frappe/js/frappe/views/formview.js",
-    "lastSync": 1502608539057,
-    "guid": "a0181f47-5b7c-470a-8024-97eae092085e"
+    "lastSync": 1508064333696,
+    "guid": "a1da553f-2da8-4501-bf00-ea9acc94e03d"
+  },
+  "/frappe/js/frappe/views/gantt/gantt_view.js": {
+    "path": "/frappe/js/frappe/views/gantt/gantt_view.js",
+    "lastSync": 1508064333696,
+    "guid": "3bbb8b42-98cd-46c2-80a5-b0fb0f82495b"
+  },
+  "/frappe/js/frappe/views/image/image_view.js": {
+    "path": "/frappe/js/frappe/views/image/image_view.js",
+    "lastSync": 1508064333696,
+    "guid": "955f5df2-4b68-46bc-b08f-b7655dac61d5"
+  },
+  "/frappe/js/frappe/views/image/image_view_item_row.html": {
+    "path": "/frappe/js/frappe/views/image/image_view_item_row.html",
+    "lastSync": 1508064333696,
+    "guid": "6a9aefd8-582b-428e-9366-72b9e928d2a7"
+  },
+  "/frappe/js/frappe/views/image/photoswipe_dom.html": {
+    "path": "/frappe/js/frappe/views/image/photoswipe_dom.html",
+    "lastSync": 1508064333696,
+    "guid": "57204692-2715-4ff4-833a-099203aa5ca5"
+  },
+  "/frappe/js/frappe/views/inbox/inbox_no_result.html": {
+    "path": "/frappe/js/frappe/views/inbox/inbox_no_result.html",
+    "lastSync": 1508064333696,
+    "guid": "07fa1674-0382-44cd-ae8b-1a0c631a3e48"
+  },
+  "/frappe/js/frappe/views/inbox/inbox_view.js": {
+    "path": "/frappe/js/frappe/views/inbox/inbox_view.js",
+    "lastSync": 1508064333696,
+    "guid": "f08260fd-d3b6-42b0-a46f-dbd9b23a8ad9"
+  },
+  "/frappe/js/frappe/views/inbox/inbox_view_item_main_head.html": {
+    "path": "/frappe/js/frappe/views/inbox/inbox_view_item_main_head.html",
+    "lastSync": 1508064333696,
+    "guid": "6ebfd798-c963-48cd-9eed-2c6eb1accbee"
+  },
+  "/frappe/js/frappe/views/inbox/inbox_view_item_row.html": {
+    "path": "/frappe/js/frappe/views/inbox/inbox_view_item_row.html",
+    "lastSync": 1508064333696,
+    "guid": "cb500993-b5e3-4917-8eff-eb867104589e"
+  },
+  "/frappe/js/frappe/views/kanban/kanban_board.html": {
+    "path": "/frappe/js/frappe/views/kanban/kanban_board.html",
+    "lastSync": 1508064333696,
+    "guid": "9274680c-ae11-497a-96e6-c4e11ed0853e"
+  },
+  "/frappe/js/frappe/views/kanban/kanban_board.js": {
+    "path": "/frappe/js/frappe/views/kanban/kanban_board.js",
+    "lastSync": 1508064333696,
+    "guid": "6d9ae41a-9b7b-4fd8-9a36-144e78083407"
+  },
+  "/frappe/js/frappe/views/kanban/kanban_card.html": {
+    "path": "/frappe/js/frappe/views/kanban/kanban_card.html",
+    "lastSync": 1508064333696,
+    "guid": "75ba3f7d-6a01-4bd8-8a0f-2165bcc1ee17"
+  },
+  "/frappe/js/frappe/views/kanban/kanban_column.html": {
+    "path": "/frappe/js/frappe/views/kanban/kanban_column.html",
+    "lastSync": 1508064333696,
+    "guid": "9c92b7c0-e86f-4a04-a8a1-429d0f462087"
+  },
+  "/frappe/js/frappe/views/kanban/kanban_view.js": {
+    "path": "/frappe/js/frappe/views/kanban/kanban_view.js",
+    "lastSync": 1508064333696,
+    "guid": "a3699d08-af23-4781-8966-d105217e4d9c"
   },
   "/frappe/js/frappe/views/pageview.js": {
     "path": "/frappe/js/frappe/views/pageview.js",
-    "lastSync": 1502608539057,
-    "guid": "ae9856f1-d4d3-4918-b8f9-b5f75c8008cf"
+    "lastSync": 1508064333696,
+    "guid": "d0d8b70b-4a5b-4667-92d3-07022f9caaa1"
   },
   "/frappe/js/frappe/views/reports/grid_report.js": {
     "path": "/frappe/js/frappe/views/reports/grid_report.js",
-    "lastSync": 1502608539057,
-    "guid": "1af50931-5a3e-44f1-96d5-9d25147bd485"
+    "lastSync": 1508064333696,
+    "guid": "36b6639d-5a5f-41b9-a9e8-edc68ea44051"
   },
   "/frappe/js/frappe/views/reports/print_grid.html": {
     "path": "/frappe/js/frappe/views/reports/print_grid.html",
-    "lastSync": 1506182352957,
-    "guid": "ede837b3-f06e-480b-9ac2-c30c27047670"
+    "lastSync": 1508064333696,
+    "guid": "52f03232-f67e-4c3c-a453-50e07d388b9b"
+  },
+  "/frappe/js/frappe/views/reports/print_tree.html": {
+    "path": "/frappe/js/frappe/views/reports/print_tree.html",
+    "lastSync": 1508064333696,
+    "guid": "2fc17b13-c7fd-4887-b3c6-986385287495"
   },
   "/frappe/js/frappe/views/reports/query_report.js": {
     "path": "/frappe/js/frappe/views/reports/query_report.js",
-    "lastSync": 1508026613541,
-    "guid": "127f069a-364d-4af5-ae85-a61c14618446"
+    "lastSync": 1508064333696,
+    "guid": "9472a986-a7b8-48a5-b162-847840615005"
   },
   "/frappe/js/frappe/views/reports/reportview.js": {
     "path": "/frappe/js/frappe/views/reports/reportview.js",
-    "lastSync": 1506621307641,
-    "guid": "b4879d21-cc0c-406a-bdb2-5d0618cad90d"
+    "lastSync": 1508064333696,
+    "guid": "b5adb2e3-27a4-47a8-991a-666ee3a3dd1f"
+  },
+  "/frappe/js/frappe/views/reports/reportview_footer.html": {
+    "path": "/frappe/js/frappe/views/reports/reportview_footer.html",
+    "lastSync": 1508064333696,
+    "guid": "bdde097d-c96c-4d9d-92f4-a027bb9eb3cf"
   },
   "/frappe/js/frappe/views/treeview.js": {
     "path": "/frappe/js/frappe/views/treeview.js",
-    "lastSync": 1506621307641,
-    "guid": "b00b5825-6a22-4cb0-bb9c-0f768611656c"
+    "lastSync": 1508064333696,
+    "guid": "c2ce79b4-3017-4a08-92f0-c3882d9bbfbb"
+  },
+  "/frappe/js/integrations/gsuite.js": {
+    "path": "/frappe/js/integrations/gsuite.js",
+    "lastSync": 1508064333696,
+    "guid": "8d7cd485-e173-42ea-b3f4-f2b4aface51d"
   },
   "/frappe/js/integrations/razorpay.js": {
     "path": "/frappe/js/integrations/razorpay.js",
-    "lastSync": 1502608539057,
-    "guid": "e6b17f8b-dc47-4474-8317-0e61ddb52950"
+    "lastSync": 1508064333696,
+    "guid": "22668c79-c12f-40f7-b636-21bc4ef699a3"
   },
   "/frappe/js/legacy/clientscriptAPI.js": {
     "path": "/frappe/js/legacy/clientscriptAPI.js",
-    "lastSync": 1508026613541,
-    "guid": "f205accd-2ab2-4817-8faf-26970eec8891"
+    "lastSync": 1508064333696,
+    "guid": "9f5dd506-9a9c-43c9-991d-a751eb048010"
   },
   "/frappe/js/legacy/datatype.js": {
     "path": "/frappe/js/legacy/datatype.js",
-    "lastSync": 1502608539057,
-    "guid": "5ffd7714-580b-4603-b7f1-22c809a2b70d"
+    "lastSync": 1508064333696,
+    "guid": "2ce1cb63-d99a-4cb7-b17e-6054fc52dc8a"
   },
   "/frappe/js/legacy/dom.js": {
     "path": "/frappe/js/legacy/dom.js",
-    "lastSync": 1502608539057,
-    "guid": "6eb347ec-c179-4240-97b3-710af3512ecf"
+    "lastSync": 1508064333696,
+    "guid": "ee017173-d3ee-47b3-8fe9-7aee0bfd8cc6"
   },
   "/frappe/js/legacy/form.js": {
     "path": "/frappe/js/legacy/form.js",
-    "lastSync": 1508026613541,
-    "guid": "89732305-15d8-4383-99fa-8fbd76d6f2f1"
+    "lastSync": 1508064333696,
+    "guid": "6cda6952-0cfa-4100-8a18-7e315cb3afca"
   },
   "/frappe/js/legacy/globals.js": {
     "path": "/frappe/js/legacy/globals.js",
-    "lastSync": 1502608539057,
-    "guid": "71d5588a-1bdc-4064-9a1b-645f5b2fce7f"
+    "lastSync": 1508064333696,
+    "guid": "78348179-f212-431b-860a-98f578557ffd"
   },
   "/frappe/js/legacy/handler.js": {
     "path": "/frappe/js/legacy/handler.js",
-    "lastSync": 1505671935724,
-    "guid": "055fbb90-d4b1-4c14-b163-2ff32eb3f90d"
+    "lastSync": 1508064333696,
+    "guid": "389ee454-86f5-4faa-8601-723d058e42fc"
   },
   "/frappe/js/legacy/layout.js": {
     "path": "/frappe/js/legacy/layout.js",
-    "lastSync": 1502608539057,
-    "guid": "e2c81f96-570f-4119-b870-e6d04156e708"
+    "lastSync": 1508064333696,
+    "guid": "0047f54b-401b-4716-8e8e-3a3ec3189db8"
   },
   "/frappe/js/legacy/print_format.js": {
     "path": "/frappe/js/legacy/print_format.js",
-    "lastSync": 1502608539057,
-    "guid": "1c3e4d5a-36ce-4de2-a06a-d090b4a0ef35"
+    "lastSync": 1508064333696,
+    "guid": "76fa49ae-2287-496b-9aa1-0056ca8d8e8f"
   },
   "/frappe/js/legacy/print_table.js": {
     "path": "/frappe/js/legacy/print_table.js",
-    "lastSync": 1502608539057,
-    "guid": "e44beca5-d39f-45bd-97f3-b0eeea21019d"
+    "lastSync": 1508064333696,
+    "guid": "65789858-ee30-41a8-9c5b-7785b095b399"
+  },
+  "/frappe/js/lib/awesomplete/awesomplete.css": {
+    "path": "/frappe/js/lib/awesomplete/awesomplete.css",
+    "lastSync": 1508064333696,
+    "guid": "69620044-e459-49e4-b841-4a36774c4195"
+  },
+  "/frappe/js/lib/awesomplete/awesomplete.min.js": {
+    "path": "/frappe/js/lib/awesomplete/awesomplete.min.js",
+    "lastSync": 1508064333696,
+    "guid": "1c41d3c9-1383-4213-aeac-67e2b0f5459e"
   },
   "/frappe/js/lib/beautify-html.js": {
     "path": "/frappe/js/lib/beautify-html.js",
-    "lastSync": 1502608539057,
-    "guid": "125d6d54-7bf8-4af1-8293-c7eab16e0344"
+    "lastSync": 1508064333696,
+    "guid": "cf66fff8-1658-40b1-8b5d-8fe03e724c97"
+  },
+  "/frappe/js/lib/bootstrap-paginator.min.js": {
+    "path": "/frappe/js/lib/bootstrap-paginator.min.js",
+    "lastSync": 1508064333696,
+    "guid": "7b28b805-8443-4938-976d-4bd741207292"
   },
   "/frappe/js/lib/bootstrap.min.js": {
     "path": "/frappe/js/lib/bootstrap.min.js",
-    "lastSync": 1502608539057,
-    "guid": "1618a7a4-1c4b-4900-a612-032fe1b80103"
+    "lastSync": 1508064333696,
+    "guid": "274217e2-5af9-4d30-8c69-c5f6b500ebd0"
   },
   "/frappe/js/lib/c3.min.js": {
     "path": "/frappe/js/lib/c3.min.js",
-    "lastSync": 1502608539057,
-    "guid": "81b10d0f-b624-4489-a9fa-763d86276800"
+    "lastSync": 1508064333696,
+    "guid": "de8fe466-2361-4caa-95d6-396be8e64a6c"
   },
   "/frappe/js/lib/Chart.min.js": {
     "path": "/frappe/js/lib/Chart.min.js",
-    "lastSync": 1502608539057,
-    "guid": "480d4df0-345f-469f-a5b4-2cfec3d2497f"
+    "lastSync": 1508064333696,
+    "guid": "342b26a7-d5f8-4592-b3ee-fd38c40358df"
   },
   "/frappe/js/lib/d3.min.js": {
     "path": "/frappe/js/lib/d3.min.js",
-    "lastSync": 1502608539057,
-    "guid": "2afabd82-b674-4d8c-b010-9c047bd9ca22"
+    "lastSync": 1508064333696,
+    "guid": "cde910ac-83fc-4f45-bd6d-c1a9008cad0e"
+  },
+  "/frappe/js/lib/datepicker/datepicker.en.js": {
+    "path": "/frappe/js/lib/datepicker/datepicker.en.js",
+    "lastSync": 1508064333696,
+    "guid": "14ac1308-b4a5-4b02-afbc-f603a5009056"
+  },
+  "/frappe/js/lib/datepicker/datepicker.min.css": {
+    "path": "/frappe/js/lib/datepicker/datepicker.min.css",
+    "lastSync": 1508064333696,
+    "guid": "5cda3bac-ca96-4987-b58b-7514e831c6a3"
+  },
+  "/frappe/js/lib/datepicker/datepicker.min.js": {
+    "path": "/frappe/js/lib/datepicker/datepicker.min.js",
+    "lastSync": 1508064333696,
+    "guid": "1e4feef3-5656-4436-8d29-d517aa76c685"
+  },
+  "/frappe/js/lib/datepicker/locale-all.js": {
+    "path": "/frappe/js/lib/datepicker/locale-all.js",
+    "lastSync": 1508064333696,
+    "guid": "7bdcbc23-05ec-469b-9e92-9ba3bbab2c03"
   },
   "/frappe/js/lib/fluxify.min.js": {
     "path": "/frappe/js/lib/fluxify.min.js",
-    "lastSync": 1508063103398,
-    "guid": "47998859-82b0-4ae1-a9cf-a5c9fb1bb839"
+    "lastSync": 1508064333696,
+    "guid": "957b5cc2-e7c5-49b3-b7b1-528a513119fe"
+  },
+  "/frappe/js/lib/frappe-gantt/frappe-gantt.js": {
+    "path": "/frappe/js/lib/frappe-gantt/frappe-gantt.js",
+    "lastSync": 1508064333696,
+    "guid": "7c8fbf06-cad8-431e-b301-0fc1b2c4ffbf"
   },
   "/frappe/js/lib/fullcalendar/fullcalendar.min.css": {
     "path": "/frappe/js/lib/fullcalendar/fullcalendar.min.css",
-    "lastSync": 1505671935724,
-    "guid": "423c55d5-15ab-440e-886a-003455b21321"
+    "lastSync": 1508064333696,
+    "guid": "55a14fd0-3932-4489-90e3-92e07fb72cea"
   },
   "/frappe/js/lib/fullcalendar/fullcalendar.min.js": {
     "path": "/frappe/js/lib/fullcalendar/fullcalendar.min.js",
-    "lastSync": 1505671935724,
-    "guid": "b870d1f8-f344-44e4-bfa9-de5b10829afa"
+    "lastSync": 1508064333696,
+    "guid": "84b37051-7729-40f1-8d22-e040df2928fe"
   },
   "/frappe/js/lib/fullcalendar/fullcalendar.print.css": {
     "path": "/frappe/js/lib/fullcalendar/fullcalendar.print.css",
-    "lastSync": 1505671935724,
-    "guid": "cdf42d7f-2bbb-4d68-a7e9-b80841d6ce1f"
+    "lastSync": 1508064333696,
+    "guid": "6c0af0de-a6c6-4811-b044-7fcbf902a6c3"
   },
   "/frappe/js/lib/fullcalendar/gcal.js": {
     "path": "/frappe/js/lib/fullcalendar/gcal.js",
-    "lastSync": 1505671935724,
-    "guid": "31f0dfe5-82e6-4c7a-b501-7320e45bfbc5"
+    "lastSync": 1508064333696,
+    "guid": "6a7f3130-d81b-4c5f-9550-bc877d01f2fc"
+  },
+  "/frappe/js/lib/fullcalendar/locale-all.js": {
+    "path": "/frappe/js/lib/fullcalendar/locale-all.js",
+    "lastSync": 1508064333696,
+    "guid": "0e4b8d34-eef3-4705-986f-a37c428991cf"
   },
   "/frappe/js/lib/highlight.pack.js": {
     "path": "/frappe/js/lib/highlight.pack.js",
@@ -1431,133 +1901,143 @@
   },
   "/frappe/js/lib/jquery/bootstrap_theme/images/ui-bg_flat_0_aaaaaa_40x100.png": {
     "path": "/frappe/js/lib/jquery/bootstrap_theme/images/ui-bg_flat_0_aaaaaa_40x100.png",
-    "lastSync": 1502608539057,
-    "guid": "994fea93-209f-4315-a751-5013587b7d3b"
+    "lastSync": 1508064333696,
+    "guid": "e6086bee-f015-4fe1-b2a6-082e4384f8eb"
   },
   "/frappe/js/lib/jquery/bootstrap_theme/images/ui-bg_glass_55_fbf9ee_1x400.png": {
     "path": "/frappe/js/lib/jquery/bootstrap_theme/images/ui-bg_glass_55_fbf9ee_1x400.png",
-    "lastSync": 1502608539057,
-    "guid": "08c66c3f-fdc1-4dd4-8176-076f2e3288fc"
+    "lastSync": 1508064333696,
+    "guid": "00b7f154-9f69-40de-9635-3b2a9ff943f7"
   },
   "/frappe/js/lib/jquery/bootstrap_theme/images/ui-bg_glass_65_ffffff_1x400.png": {
     "path": "/frappe/js/lib/jquery/bootstrap_theme/images/ui-bg_glass_65_ffffff_1x400.png",
-    "lastSync": 1502608539057,
-    "guid": "85c18df1-9cf1-4afb-a8d3-e90d9a9d13ae"
+    "lastSync": 1508064333696,
+    "guid": "dc956454-65e9-4212-9145-07d6ce8890a3"
   },
   "/frappe/js/lib/jquery/bootstrap_theme/images/ui-bg_glass_75_dadada_1x400.png": {
     "path": "/frappe/js/lib/jquery/bootstrap_theme/images/ui-bg_glass_75_dadada_1x400.png",
-    "lastSync": 1502608539057,
-    "guid": "08c551d8-0189-400e-bc5d-cf2874aa4698"
+    "lastSync": 1508064333696,
+    "guid": "ba224a81-f754-46b3-9797-5b0d2921ac27"
   },
   "/frappe/js/lib/jquery/bootstrap_theme/images/ui-bg_glass_75_e6e6e6_1x400.png": {
     "path": "/frappe/js/lib/jquery/bootstrap_theme/images/ui-bg_glass_75_e6e6e6_1x400.png",
-    "lastSync": 1502608539057,
-    "guid": "06d9a912-7e96-43d1-ae14-dbe27ab19b28"
+    "lastSync": 1508064333696,
+    "guid": "c224dda3-3273-4cf2-b45d-854f9b60fc56"
   },
   "/frappe/js/lib/jquery/bootstrap_theme/images/ui-bg_glass_75_ffffff_1x400.png": {
     "path": "/frappe/js/lib/jquery/bootstrap_theme/images/ui-bg_glass_75_ffffff_1x400.png",
-    "lastSync": 1502608539057,
-    "guid": "5a1a0640-efd9-47b9-a11c-a1ebc6fc1d33"
+    "lastSync": 1508064333696,
+    "guid": "48e0b1b7-264a-4b94-b7c2-1ae7bde1dcf2"
   },
   "/frappe/js/lib/jquery/bootstrap_theme/images/ui-bg_highlight-soft_75_cccccc_1x100.png": {
     "path": "/frappe/js/lib/jquery/bootstrap_theme/images/ui-bg_highlight-soft_75_cccccc_1x100.png",
-    "lastSync": 1502608539057,
-    "guid": "a3f2984d-faa6-41f0-9a23-0682a573d9a0"
+    "lastSync": 1508064333696,
+    "guid": "4b534169-c78b-4366-b820-e9cf4ad37a47"
   },
   "/frappe/js/lib/jquery/bootstrap_theme/images/ui-bg_inset-soft_95_fef1ec_1x100.png": {
     "path": "/frappe/js/lib/jquery/bootstrap_theme/images/ui-bg_inset-soft_95_fef1ec_1x100.png",
-    "lastSync": 1502608539057,
-    "guid": "d057b77c-fb95-4ef9-9e33-3dfcc4771f57"
+    "lastSync": 1508064333696,
+    "guid": "5cd631ee-37e4-466f-b570-06ec9c27f31d"
   },
   "/frappe/js/lib/jquery/bootstrap_theme/images/ui-icons_222222_256x240.png": {
     "path": "/frappe/js/lib/jquery/bootstrap_theme/images/ui-icons_222222_256x240.png",
-    "lastSync": 1502608539057,
-    "guid": "61d8af6f-a11a-4d0b-b122-b7b3044af72c"
+    "lastSync": 1508064333696,
+    "guid": "51a48421-a3a6-4eaf-be01-ec6851dcca91"
   },
   "/frappe/js/lib/jquery/bootstrap_theme/images/ui-icons_2e83ff_256x240.png": {
     "path": "/frappe/js/lib/jquery/bootstrap_theme/images/ui-icons_2e83ff_256x240.png",
-    "lastSync": 1502608539057,
-    "guid": "3ecbaf07-1bd8-441d-90ce-754ed8be66ed"
+    "lastSync": 1508064333696,
+    "guid": "041efdd4-3546-477b-8c00-cf05c491d5d1"
   },
   "/frappe/js/lib/jquery/bootstrap_theme/images/ui-icons_454545_256x240.png": {
     "path": "/frappe/js/lib/jquery/bootstrap_theme/images/ui-icons_454545_256x240.png",
-    "lastSync": 1502608539057,
-    "guid": "0b1d129b-d5a4-446e-93a6-f852ba2b4185"
+    "lastSync": 1508064333696,
+    "guid": "4697289a-39dc-4a67-a0b7-aa8957c34036"
   },
   "/frappe/js/lib/jquery/bootstrap_theme/images/ui-icons_888888_256x240.png": {
     "path": "/frappe/js/lib/jquery/bootstrap_theme/images/ui-icons_888888_256x240.png",
-    "lastSync": 1502608539057,
-    "guid": "047922cd-3370-4dbb-bc6b-cadb1c966aea"
+    "lastSync": 1508064333696,
+    "guid": "9680f686-4df8-48fa-86d0-a830b7463343"
   },
   "/frappe/js/lib/jquery/bootstrap_theme/images/ui-icons_cd0a0a_256x240.png": {
     "path": "/frappe/js/lib/jquery/bootstrap_theme/images/ui-icons_cd0a0a_256x240.png",
-    "lastSync": 1502608539057,
-    "guid": "c6334965-c6fe-498e-8787-4ccd5b6d144c"
+    "lastSync": 1508064333696,
+    "guid": "fba4eb00-2616-47dd-8abc-35c903a4c41a"
   },
   "/frappe/js/lib/jquery/bootstrap_theme/images/ui-icons_f6cf3b_256x240.png": {
     "path": "/frappe/js/lib/jquery/bootstrap_theme/images/ui-icons_f6cf3b_256x240.png",
-    "lastSync": 1502608539057,
-    "guid": "12378b1b-7c4a-44b8-a0d6-00ab6428c84a"
+    "lastSync": 1508064333696,
+    "guid": "6908cd05-96ea-470b-be65-6af942a0568c"
   },
   "/frappe/js/lib/jquery/jquery.hotkeys.js": {
     "path": "/frappe/js/lib/jquery/jquery.hotkeys.js",
-    "lastSync": 1502608539057,
-    "guid": "96c377ec-2e51-4d3b-9f34-ad4b9b7cce06"
+    "lastSync": 1508064333696,
+    "guid": "df9390c6-72d2-4a80-8182-83533fb985ac"
   },
   "/frappe/js/lib/jquery/jquery.min.js": {
     "path": "/frappe/js/lib/jquery/jquery.min.js",
-    "lastSync": 1502608539057,
-    "guid": "e5395bd0-1fc7-49d1-bcae-72cf28f4c4f3"
+    "lastSync": 1508064333696,
+    "guid": "2e4e8936-76eb-46ec-8e4c-4dfe802a81c7"
   },
   "/frappe/js/lib/jquery/qunit.css": {
     "path": "/frappe/js/lib/jquery/qunit.css",
-    "lastSync": 1502608539057,
-    "guid": "22074146-4da6-41db-a9f3-53b75a4058aa"
+    "lastSync": 1508064333696,
+    "guid": "c4351514-98f4-4559-b99a-12911c3737c9"
   },
   "/frappe/js/lib/jquery/qunit.js": {
     "path": "/frappe/js/lib/jquery/qunit.js",
-    "lastSync": 1502608539057,
-    "guid": "ee8d5ff1-17b5-47a1-964f-bfb8d983108b"
+    "lastSync": 1508064333696,
+    "guid": "7efb7464-fa0c-40d8-8ff6-cd0204c73dea"
+  },
+  "/frappe/js/lib/jquery.jrumble.min.js": {
+    "path": "/frappe/js/lib/jquery.jrumble.min.js",
+    "lastSync": 1508064333696,
+    "guid": "afeb48ae-2d38-496c-ad24-b46a94505a68"
   },
   "/frappe/js/lib/jscolor/arrow.gif": {
     "path": "/frappe/js/lib/jscolor/arrow.gif",
-    "lastSync": 1502608539057,
-    "guid": "46d1e61e-e33d-4467-8b3d-2128e309d17a"
+    "lastSync": 1508064333696,
+    "guid": "53cd48f8-87e6-4d4a-a358-3ad53c2de503"
   },
   "/frappe/js/lib/jscolor/cross.gif": {
     "path": "/frappe/js/lib/jscolor/cross.gif",
-    "lastSync": 1502608539057,
-    "guid": "a6746235-61f6-4ed6-8369-cee240f88a93"
+    "lastSync": 1508064333696,
+    "guid": "d2f90a0c-99f5-4a11-b4ac-6ba503618307"
   },
   "/frappe/js/lib/jscolor/demo.html": {
     "path": "/frappe/js/lib/jscolor/demo.html",
-    "lastSync": 1502608539057,
-    "guid": "158888bb-6872-4486-878a-f6241f5b8e6b"
+    "lastSync": 1508064333696,
+    "guid": "58ef7842-8936-4532-97e4-afc1831cd38b"
   },
   "/frappe/js/lib/jscolor/hs.png": {
     "path": "/frappe/js/lib/jscolor/hs.png",
-    "lastSync": 1502608539057,
-    "guid": "8832e423-ff9f-4b7f-a8a3-6575dbe25980"
+    "lastSync": 1508064333696,
+    "guid": "3650f457-7d58-4028-9210-f1bf5266d2ca"
   },
   "/frappe/js/lib/jscolor/hv.png": {
     "path": "/frappe/js/lib/jscolor/hv.png",
-    "lastSync": 1502608539057,
-    "guid": "bfa4afb5-ebaa-424c-8985-ff4c44e41c0c"
+    "lastSync": 1508064333696,
+    "guid": "ddc4471e-1c3d-439a-925e-df396f7257c4"
   },
   "/frappe/js/lib/jscolor/jscolor.js": {
     "path": "/frappe/js/lib/jscolor/jscolor.js",
     "lastSync": 1502608539057,
     "guid": "a4ed3fff-22ad-42d5-9625-fa4eb79b9152"
   },
+  "/frappe/js/lib/jSignature.min.js": {
+    "path": "/frappe/js/lib/jSignature.min.js",
+    "lastSync": 1508064333696,
+    "guid": "bd1e32e8-fc47-43d5-92ae-acc56bf8a7c2"
+  },
   "/frappe/js/lib/json2.js": {
     "path": "/frappe/js/lib/json2.js",
-    "lastSync": 1502608539057,
-    "guid": "13a32588-98ce-475a-8e41-488a7af5734d"
+    "lastSync": 1508064333696,
+    "guid": "f2595ba8-ea8c-456d-8331-59e8f26b808b"
   },
   "/frappe/js/lib/markdown.js": {
     "path": "/frappe/js/lib/markdown.js",
-    "lastSync": 1502608539057,
-    "guid": "b42e21a8-58fb-497a-ac1f-2034128ecffa"
+    "lastSync": 1508064333696,
+    "guid": "d0ca9c48-9cb9-4853-90f4-5ff95d4a1597"
   },
   "/frappe/js/lib/md5.min.js": {
     "path": "/frappe/js/lib/md5.min.js",
@@ -1566,303 +2046,323 @@
   },
   "/frappe/js/lib/microtemplate.js": {
     "path": "/frappe/js/lib/microtemplate.js",
-    "lastSync": 1505671935724,
-    "guid": "73c482da-3e22-4462-8875-11b6d7cf009c"
+    "lastSync": 1508064333696,
+    "guid": "f9ccd023-b30c-4cf8-af27-cb7a78c6435b"
   },
   "/frappe/js/lib/moment/moment-timezone-with-data.min.js": {
     "path": "/frappe/js/lib/moment/moment-timezone-with-data.min.js",
-    "lastSync": 1505671935724,
-    "guid": "824d81c5-2c8e-485d-a0be-064334378817"
+    "lastSync": 1508064333696,
+    "guid": "b159a5c4-d9fd-4d19-b070-a9fb0fe9ef66"
   },
   "/frappe/js/lib/moment/moment-with-locales.min.js": {
     "path": "/frappe/js/lib/moment/moment-with-locales.min.js",
-    "lastSync": 1505671935724,
-    "guid": "0ce26538-7f74-47de-a339-dc2a7d3af35c"
+    "lastSync": 1508064333696,
+    "guid": "8b5ec65f-b314-4c09-acd6-36418c6404a7"
   },
   "/frappe/js/lib/moment/moment.min.js": {
     "path": "/frappe/js/lib/moment/moment.min.js",
-    "lastSync": 1505671935724,
-    "guid": "17649bad-f8a1-453b-a7c9-1c52a1b23184"
+    "lastSync": 1508064333696,
+    "guid": "81b5b792-844a-412f-92d2-e87590710428"
+  },
+  "/frappe/js/lib/photoswipe/default-skin.css": {
+    "path": "/frappe/js/lib/photoswipe/default-skin.css",
+    "lastSync": 1508064333696,
+    "guid": "54b8bdfc-f71e-4e35-a76a-cbd87a805622"
+  },
+  "/frappe/js/lib/photoswipe/photoswipe-ui-default.js": {
+    "path": "/frappe/js/lib/photoswipe/photoswipe-ui-default.js",
+    "lastSync": 1508064333696,
+    "guid": "3774c3cb-318b-4473-817c-12b787f85935"
+  },
+  "/frappe/js/lib/photoswipe/photoswipe.css": {
+    "path": "/frappe/js/lib/photoswipe/photoswipe.css",
+    "lastSync": 1508064333696,
+    "guid": "c3534be8-ac65-47fa-8620-8b24939f510d"
+  },
+  "/frappe/js/lib/photoswipe/photoswipe.js": {
+    "path": "/frappe/js/lib/photoswipe/photoswipe.js",
+    "lastSync": 1508064333696,
+    "guid": "98ac5f46-81a3-4905-97ff-a01436337397"
   },
   "/frappe/js/lib/prettydate.js": {
     "path": "/frappe/js/lib/prettydate.js",
-    "lastSync": 1502608539057,
-    "guid": "85d62a03-2367-40e5-81ef-b25274bcbefb"
+    "lastSync": 1508064333696,
+    "guid": "004c52f6-3637-45c9-9d8c-889af162eab3"
   },
   "/frappe/js/lib/README.md": {
     "path": "/frappe/js/lib/README.md",
-    "lastSync": 1502608539057,
-    "guid": "43354dc5-cf33-4600-8347-bd4ac51ae823"
+    "lastSync": 1508064333696,
+    "guid": "60bdc4d2-a599-4db6-b697-5a578fe8a4a3"
   },
   "/frappe/js/lib/slickgrid/images/actions.gif": {
     "path": "/frappe/js/lib/slickgrid/images/actions.gif",
-    "lastSync": 1502608539057,
-    "guid": "1a7d9928-29a4-480b-992c-3cc9fb295659"
+    "lastSync": 1508064333696,
+    "guid": "783b7c2d-bbe7-4b29-8ca2-3d2c2c78d91f"
   },
   "/frappe/js/lib/slickgrid/images/ajax-loader-small.gif": {
     "path": "/frappe/js/lib/slickgrid/images/ajax-loader-small.gif",
-    "lastSync": 1502608539057,
-    "guid": "1e3d3be0-7c6f-4d6b-b5ae-1cdce19852e1"
+    "lastSync": 1508064333696,
+    "guid": "d4194b8a-7955-49ed-be5f-aef6681df6bf"
   },
   "/frappe/js/lib/slickgrid/images/arrow_redo.png": {
     "path": "/frappe/js/lib/slickgrid/images/arrow_redo.png",
-    "lastSync": 1502608539057,
-    "guid": "b1da5558-2198-41b1-a459-73eb1ab58db9"
+    "lastSync": 1508064333696,
+    "guid": "4752b2f1-809d-4e76-9801-9b501d98238f"
   },
   "/frappe/js/lib/slickgrid/images/arrow_right_peppermint.png": {
     "path": "/frappe/js/lib/slickgrid/images/arrow_right_peppermint.png",
-    "lastSync": 1502608539057,
-    "guid": "0bfe31c3-06ff-4041-8324-e3453dda2c82"
+    "lastSync": 1508064333696,
+    "guid": "d5d7be4e-114c-4bc0-bb8e-991908786b2d"
   },
   "/frappe/js/lib/slickgrid/images/arrow_right_spearmint.png": {
     "path": "/frappe/js/lib/slickgrid/images/arrow_right_spearmint.png",
-    "lastSync": 1502608539057,
-    "guid": "acfef474-5d66-4faf-b701-ecf24f360893"
+    "lastSync": 1508064333696,
+    "guid": "38602728-84d1-43e8-9738-8f0a39c0299f"
   },
   "/frappe/js/lib/slickgrid/images/arrow_undo.png": {
     "path": "/frappe/js/lib/slickgrid/images/arrow_undo.png",
-    "lastSync": 1502608539057,
-    "guid": "3aee59c7-2926-4197-ba7a-6b8f8fd18a87"
+    "lastSync": 1508064333696,
+    "guid": "fb6d47b3-ad3f-4547-9300-9ceb6634bfb0"
   },
   "/frappe/js/lib/slickgrid/images/bullet_blue.png": {
     "path": "/frappe/js/lib/slickgrid/images/bullet_blue.png",
-    "lastSync": 1502608539057,
-    "guid": "1643c997-4352-476c-bab4-cebb24d6f620"
+    "lastSync": 1508064333696,
+    "guid": "030f8275-3479-4593-8835-b2ccfea672bc"
   },
   "/frappe/js/lib/slickgrid/images/bullet_star.png": {
     "path": "/frappe/js/lib/slickgrid/images/bullet_star.png",
-    "lastSync": 1502608539057,
-    "guid": "fc6d3c8e-8568-4e55-8c60-57d0ace8c319"
+    "lastSync": 1508064333696,
+    "guid": "9cdad9d4-8054-404b-a2d2-977bac6f06ee"
   },
   "/frappe/js/lib/slickgrid/images/bullet_toggle_minus.png": {
     "path": "/frappe/js/lib/slickgrid/images/bullet_toggle_minus.png",
-    "lastSync": 1502608539057,
-    "guid": "7fe43760-b7eb-4947-bb72-0cc1a27557cf"
+    "lastSync": 1508064333696,
+    "guid": "10f9848a-0668-49ab-8cfe-687a300a392a"
   },
   "/frappe/js/lib/slickgrid/images/bullet_toggle_plus.png": {
     "path": "/frappe/js/lib/slickgrid/images/bullet_toggle_plus.png",
-    "lastSync": 1502608539057,
-    "guid": "be91ed38-2dd3-43b8-b7b0-14e810887343"
+    "lastSync": 1508064333696,
+    "guid": "9fffab08-72f9-4291-bc37-df23d5b8a8af"
   },
   "/frappe/js/lib/slickgrid/images/calendar.gif": {
     "path": "/frappe/js/lib/slickgrid/images/calendar.gif",
-    "lastSync": 1502608539057,
-    "guid": "789165df-5cdf-4978-ae0d-da18a4d11dce"
+    "lastSync": 1508064333696,
+    "guid": "5914279d-e658-45e9-b15b-c574598d7552"
   },
   "/frappe/js/lib/slickgrid/images/collapse.gif": {
     "path": "/frappe/js/lib/slickgrid/images/collapse.gif",
-    "lastSync": 1502608539057,
-    "guid": "5ba17fb7-b13e-4517-83dd-576152165e22"
+    "lastSync": 1508064333696,
+    "guid": "82e2fcf3-904f-41c3-a771-c7b1919e0e96"
   },
   "/frappe/js/lib/slickgrid/images/comment_yellow.gif": {
     "path": "/frappe/js/lib/slickgrid/images/comment_yellow.gif",
-    "lastSync": 1502608539057,
-    "guid": "a3be5efc-4fad-41b4-92b1-25b246a521e3"
+    "lastSync": 1508064333696,
+    "guid": "55b2ec18-4fc2-4e44-bd38-7c222ff49aad"
   },
   "/frappe/js/lib/slickgrid/images/down.gif": {
     "path": "/frappe/js/lib/slickgrid/images/down.gif",
-    "lastSync": 1502608539057,
-    "guid": "b3a21317-88b5-4ee2-94db-a973c4d0e9ea"
+    "lastSync": 1508064333696,
+    "guid": "e69cf409-b053-4e68-b6da-6b035c2f82e7"
   },
   "/frappe/js/lib/slickgrid/images/drag-handle.png": {
     "path": "/frappe/js/lib/slickgrid/images/drag-handle.png",
-    "lastSync": 1502608539057,
-    "guid": "8857cb08-3b06-48b9-899a-ac76317e2d8e"
+    "lastSync": 1508064333696,
+    "guid": "6d42039b-b699-4989-b106-6c8341ee9250"
   },
   "/frappe/js/lib/slickgrid/images/editor-helper-bg.gif": {
     "path": "/frappe/js/lib/slickgrid/images/editor-helper-bg.gif",
-    "lastSync": 1502608539057,
-    "guid": "f58ebb7b-f3cd-4561-8697-865f4e27cec9"
+    "lastSync": 1508064333696,
+    "guid": "2718942e-1953-4c75-8726-08dfa61e48e0"
   },
   "/frappe/js/lib/slickgrid/images/expand.gif": {
     "path": "/frappe/js/lib/slickgrid/images/expand.gif",
-    "lastSync": 1502608539057,
-    "guid": "b1c93c14-d266-4e9b-abe7-d031594417f4"
+    "lastSync": 1508064333696,
+    "guid": "fdae1481-543f-475c-88fd-1c29dea04445"
   },
   "/frappe/js/lib/slickgrid/images/header-bg.gif": {
     "path": "/frappe/js/lib/slickgrid/images/header-bg.gif",
-    "lastSync": 1502608539057,
-    "guid": "aa2a79ba-0586-45df-8092-9edb382a48d8"
+    "lastSync": 1508064333696,
+    "guid": "071ad485-6b46-49b9-850d-2de801401ce2"
   },
   "/frappe/js/lib/slickgrid/images/header-columns-bg.gif": {
     "path": "/frappe/js/lib/slickgrid/images/header-columns-bg.gif",
-    "lastSync": 1502608539057,
-    "guid": "a31289ef-3e66-4417-b571-612482268873"
+    "lastSync": 1508064333696,
+    "guid": "6a1d9b60-ea45-4eba-9ee9-10ad7a7095b6"
   },
   "/frappe/js/lib/slickgrid/images/header-columns-over-bg.gif": {
     "path": "/frappe/js/lib/slickgrid/images/header-columns-over-bg.gif",
-    "lastSync": 1502608539057,
-    "guid": "010a41fd-2525-43e9-b90d-59949a2e639b"
+    "lastSync": 1508064333696,
+    "guid": "6e56f14a-90b2-4987-94a8-98cd631478bf"
   },
   "/frappe/js/lib/slickgrid/images/help.png": {
     "path": "/frappe/js/lib/slickgrid/images/help.png",
-    "lastSync": 1502608539057,
-    "guid": "c6b23aed-b073-4315-8c08-037284701f6d"
+    "lastSync": 1508064333696,
+    "guid": "e2c7b3f0-d078-40d6-b6fd-0ba512fed2a4"
   },
   "/frappe/js/lib/slickgrid/images/info.gif": {
     "path": "/frappe/js/lib/slickgrid/images/info.gif",
-    "lastSync": 1502608539057,
-    "guid": "ae39e3c5-8f58-4102-8e48-cb0db1a63d8a"
+    "lastSync": 1508064333696,
+    "guid": "fe4386ce-7f0f-4eb5-a7e2-e5b1ed4c3fb7"
   },
   "/frappe/js/lib/slickgrid/images/listview.gif": {
     "path": "/frappe/js/lib/slickgrid/images/listview.gif",
-    "lastSync": 1502608539057,
-    "guid": "e21a7dea-50db-421d-a1c4-8d36a0eddf96"
+    "lastSync": 1508064333696,
+    "guid": "9d52f01f-6af4-414f-9415-9db243f94e3b"
   },
   "/frappe/js/lib/slickgrid/images/pencil.gif": {
     "path": "/frappe/js/lib/slickgrid/images/pencil.gif",
-    "lastSync": 1502608539057,
-    "guid": "2a95b6aa-36f8-4377-9808-f6d4223b8341"
+    "lastSync": 1508064333696,
+    "guid": "2efe8016-d887-4a56-9f52-30dd0acf7042"
   },
   "/frappe/js/lib/slickgrid/images/row-over-bg.gif": {
     "path": "/frappe/js/lib/slickgrid/images/row-over-bg.gif",
-    "lastSync": 1502608539057,
-    "guid": "193f3042-ff0f-456c-8c2e-13d524039006"
+    "lastSync": 1508064333696,
+    "guid": "d6e4fb30-34f0-4629-9795-a43fd2e44fe9"
   },
   "/frappe/js/lib/slickgrid/images/sort-asc.gif": {
     "path": "/frappe/js/lib/slickgrid/images/sort-asc.gif",
-    "lastSync": 1502608539057,
-    "guid": "8aa20b3e-e26c-4903-b9ba-145b35fdae36"
+    "lastSync": 1508064333696,
+    "guid": "9d3ff57e-7963-4de5-9811-990878a09a30"
   },
   "/frappe/js/lib/slickgrid/images/sort-asc.png": {
     "path": "/frappe/js/lib/slickgrid/images/sort-asc.png",
-    "lastSync": 1502608539057,
-    "guid": "5da9de3a-ec72-49a2-883d-c076028e2736"
+    "lastSync": 1508064333696,
+    "guid": "5dc3e3e5-a59c-428f-8fbc-2023ee2e958e"
   },
   "/frappe/js/lib/slickgrid/images/sort-desc.gif": {
     "path": "/frappe/js/lib/slickgrid/images/sort-desc.gif",
-    "lastSync": 1502608539057,
-    "guid": "50972715-c635-4fd0-b287-254362f7c867"
+    "lastSync": 1508064333696,
+    "guid": "ce3f0508-290b-4aa1-b976-81fe5b971e50"
   },
   "/frappe/js/lib/slickgrid/images/sort-desc.png": {
     "path": "/frappe/js/lib/slickgrid/images/sort-desc.png",
-    "lastSync": 1502608539057,
-    "guid": "3b0e2529-4d9a-44af-8394-10b187ca9753"
+    "lastSync": 1508064333696,
+    "guid": "2ecfff58-a097-4072-87b8-f0fb80611094"
   },
   "/frappe/js/lib/slickgrid/images/stripes.png": {
     "path": "/frappe/js/lib/slickgrid/images/stripes.png",
-    "lastSync": 1502608539057,
-    "guid": "a6704c0c-8f34-4d25-b290-0432ea9ec943"
+    "lastSync": 1508064333696,
+    "guid": "6b292533-4826-48de-93aa-e94eedfd7c31"
   },
   "/frappe/js/lib/slickgrid/images/tag_red.png": {
     "path": "/frappe/js/lib/slickgrid/images/tag_red.png",
-    "lastSync": 1502608539057,
-    "guid": "8f4ce659-b19b-4e1e-9b54-8a2d82dfbfd6"
+    "lastSync": 1508064333696,
+    "guid": "fa8d7281-ad23-4634-9bda-e810b1791175"
   },
   "/frappe/js/lib/slickgrid/images/tick.png": {
     "path": "/frappe/js/lib/slickgrid/images/tick.png",
-    "lastSync": 1502608539057,
-    "guid": "55a6b5e4-92a7-4752-9e59-c3c2578890a2"
+    "lastSync": 1508064333696,
+    "guid": "7aab15c0-34e6-47e1-a5ea-47a2d47b9bd8"
   },
   "/frappe/js/lib/slickgrid/images/user_identity.gif": {
     "path": "/frappe/js/lib/slickgrid/images/user_identity.gif",
-    "lastSync": 1502608539057,
-    "guid": "5096ba38-5608-499f-82ee-2b25774d6510"
+    "lastSync": 1508064333696,
+    "guid": "6e0788c2-301c-4ced-be11-925674fbd2ba"
   },
   "/frappe/js/lib/slickgrid/images/user_identity_plus.gif": {
     "path": "/frappe/js/lib/slickgrid/images/user_identity_plus.gif",
-    "lastSync": 1502608539057,
-    "guid": "0b1f4b71-cb9b-4720-90c5-378523536fcd"
+    "lastSync": 1508064333696,
+    "guid": "d5a820b2-e0b2-4cee-945b-dd46eeda2be8"
   },
   "/frappe/js/lib/slickgrid/jquery.event.drag.js": {
     "path": "/frappe/js/lib/slickgrid/jquery.event.drag.js",
-    "lastSync": 1502608539057,
-    "guid": "c3eaa5c3-6d70-441e-9789-ffb30c918509"
+    "lastSync": 1508064333696,
+    "guid": "5c85d48e-35fc-47d1-bc90-d295dbf50df9"
   },
   "/frappe/js/lib/slickgrid/plugins/slick.autotooltips.js": {
     "path": "/frappe/js/lib/slickgrid/plugins/slick.autotooltips.js",
-    "lastSync": 1502608539057,
-    "guid": "4952f2ca-d611-4727-a7f9-202e3c97797a"
+    "lastSync": 1508064333696,
+    "guid": "918ede96-11cb-40f2-899f-51644aff9a1f"
   },
   "/frappe/js/lib/slickgrid/plugins/slick.cellcopymanager.js": {
     "path": "/frappe/js/lib/slickgrid/plugins/slick.cellcopymanager.js",
-    "lastSync": 1502608539057,
-    "guid": "2285e72f-9082-43c7-9c98-7e0c51cbfc16"
+    "lastSync": 1508064333696,
+    "guid": "a6d859d6-72b6-4459-9fbd-e8464dae6dd9"
   },
   "/frappe/js/lib/slickgrid/plugins/slick.cellexternalcopymanager.js": {
     "path": "/frappe/js/lib/slickgrid/plugins/slick.cellexternalcopymanager.js",
-    "lastSync": 1502608539057,
-    "guid": "03937308-07f5-4fc6-919d-f2122c952653"
+    "lastSync": 1508064333696,
+    "guid": "bce0fb33-f057-48d7-a21d-f50670e04f42"
   },
   "/frappe/js/lib/slickgrid/plugins/slick.cellrangedecorator.js": {
     "path": "/frappe/js/lib/slickgrid/plugins/slick.cellrangedecorator.js",
-    "lastSync": 1502608539057,
-    "guid": "9949b66a-1944-403a-a2a6-faba8acbf5ee"
+    "lastSync": 1508064333696,
+    "guid": "bf718ec9-1922-41e9-9583-05b8fa20324a"
   },
   "/frappe/js/lib/slickgrid/plugins/slick.cellrangeselector.js": {
     "path": "/frappe/js/lib/slickgrid/plugins/slick.cellrangeselector.js",
-    "lastSync": 1502608539057,
-    "guid": "00e0037a-d726-4f00-8ade-8a86183bda94"
+    "lastSync": 1508064333696,
+    "guid": "a32bcf16-7812-43ed-95fa-a46abc3c7c52"
   },
   "/frappe/js/lib/slickgrid/plugins/slick.cellselectionmodel.js": {
     "path": "/frappe/js/lib/slickgrid/plugins/slick.cellselectionmodel.js",
-    "lastSync": 1502608539057,
-    "guid": "c7500520-52fe-4b94-bee5-e1e43b72af94"
+    "lastSync": 1508064333696,
+    "guid": "f065638b-acd3-46f6-9347-38f2297a8934"
   },
   "/frappe/js/lib/slickgrid/plugins/slick.checkboxselectcolumn.js": {
     "path": "/frappe/js/lib/slickgrid/plugins/slick.checkboxselectcolumn.js",
-    "lastSync": 1502608539057,
-    "guid": "42ff7fe7-10e8-416b-94ec-50bd60dda116"
+    "lastSync": 1508064333696,
+    "guid": "4bc1f0e8-3355-4ef2-a03e-37433d7cca47"
   },
   "/frappe/js/lib/slickgrid/plugins/slick.headerbuttons.css": {
     "path": "/frappe/js/lib/slickgrid/plugins/slick.headerbuttons.css",
-    "lastSync": 1502608539057,
-    "guid": "20fe005a-cf8c-45ea-96b9-6581047c0924"
+    "lastSync": 1508064333696,
+    "guid": "beeac86f-773c-4a41-8e1c-30d2477eccb5"
   },
   "/frappe/js/lib/slickgrid/plugins/slick.headerbuttons.js": {
     "path": "/frappe/js/lib/slickgrid/plugins/slick.headerbuttons.js",
-    "lastSync": 1502608539057,
-    "guid": "afee2aa2-c966-4d84-9363-d3ed4331a0d4"
+    "lastSync": 1508064333696,
+    "guid": "600bb512-14ce-4c7c-a136-e56d6f90f611"
   },
   "/frappe/js/lib/slickgrid/plugins/slick.headermenu.css": {
     "path": "/frappe/js/lib/slickgrid/plugins/slick.headermenu.css",
-    "lastSync": 1502608539057,
-    "guid": "22f30190-4c85-499d-8aa7-b6a7750caba0"
+    "lastSync": 1508064333696,
+    "guid": "7107bb48-9cfb-4441-93bf-3daba48d645a"
   },
   "/frappe/js/lib/slickgrid/plugins/slick.headermenu.js": {
     "path": "/frappe/js/lib/slickgrid/plugins/slick.headermenu.js",
-    "lastSync": 1502608539057,
-    "guid": "553a1d34-8a56-4599-b770-6c35dacacf1f"
+    "lastSync": 1508064333696,
+    "guid": "463e05e1-0f6a-4890-b8f2-29eed9363617"
   },
   "/frappe/js/lib/slickgrid/plugins/slick.rowmovemanager.js": {
     "path": "/frappe/js/lib/slickgrid/plugins/slick.rowmovemanager.js",
-    "lastSync": 1502608539057,
-    "guid": "d9f68398-7e89-4692-9af8-1b235255a32c"
+    "lastSync": 1508064333696,
+    "guid": "b5ac15a9-58c8-4cff-8492-a8e1046cb829"
   },
   "/frappe/js/lib/slickgrid/plugins/slick.rowselectionmodel.js": {
     "path": "/frappe/js/lib/slickgrid/plugins/slick.rowselectionmodel.js",
-    "lastSync": 1502608539057,
-    "guid": "b8bad689-eb69-4d55-861b-ff3872b5ec80"
+    "lastSync": 1508064333696,
+    "guid": "629b8819-5ce4-4641-9e6f-e5cbb86089c4"
   },
   "/frappe/js/lib/slickgrid/slick-default-theme.css": {
     "path": "/frappe/js/lib/slickgrid/slick-default-theme.css",
-    "lastSync": 1502608539057,
-    "guid": "a86cbd3a-2263-4397-b621-18c8c8f027d5"
+    "lastSync": 1508064333696,
+    "guid": "be5485c7-55b5-4def-88c5-c01d50f172ff"
   },
   "/frappe/js/lib/slickgrid/slick.core.js": {
     "path": "/frappe/js/lib/slickgrid/slick.core.js",
-    "lastSync": 1502608539057,
-    "guid": "370e454d-a741-48e3-a86e-9eb2a2193c04"
+    "lastSync": 1508064333696,
+    "guid": "0f209b66-a94e-4541-9ad1-dcbce91f1243"
   },
   "/frappe/js/lib/slickgrid/slick.dataview.js": {
     "path": "/frappe/js/lib/slickgrid/slick.dataview.js",
-    "lastSync": 1502608539057,
-    "guid": "6c634185-e8a4-447c-9746-49f7ba59a3d1"
+    "lastSync": 1508064333696,
+    "guid": "10ee570c-5350-45ad-a019-73bf43a50ad9"
   },
   "/frappe/js/lib/slickgrid/slick.editors.js": {
     "path": "/frappe/js/lib/slickgrid/slick.editors.js",
-    "lastSync": 1502608539057,
-    "guid": "72f955ef-c991-4e32-b042-a362878eaa41"
+    "lastSync": 1508064333696,
+    "guid": "a10c9e27-30df-4fa6-92c9-5231dc85578f"
   },
   "/frappe/js/lib/slickgrid/slick.formatters.js": {
     "path": "/frappe/js/lib/slickgrid/slick.formatters.js",
-    "lastSync": 1502608539057,
-    "guid": "379eff5c-8a23-4bb4-a37b-5457f7512d7c"
+    "lastSync": 1508064333696,
+    "guid": "69e52989-3954-47be-89ba-84554e4d5c0f"
   },
   "/frappe/js/lib/slickgrid/slick.grid.css": {
     "path": "/frappe/js/lib/slickgrid/slick.grid.css",
-    "lastSync": 1502608539057,
-    "guid": "a66c3154-a7d1-42ce-b3cb-65d56680a210"
+    "lastSync": 1508064333696,
+    "guid": "2c0f5ac4-a3c5-4734-aad2-7209fe2aad55"
   },
   "/frappe/js/lib/slickgrid/slick.grid.js": {
     "path": "/frappe/js/lib/slickgrid/slick.grid.js",
@@ -1871,28 +2371,53 @@
   },
   "/frappe/js/lib/slickgrid/slick.groupitemmetadataprovider.js": {
     "path": "/frappe/js/lib/slickgrid/slick.groupitemmetadataprovider.js",
-    "lastSync": 1502608539057,
-    "guid": "2a90e5da-9397-4255-842c-d725c9fb4c3b"
+    "lastSync": 1508064333696,
+    "guid": "112a79f7-6ca1-4468-aac9-93767032a646"
   },
   "/frappe/js/lib/slickgrid/slick.remotemodel.js": {
     "path": "/frappe/js/lib/slickgrid/slick.remotemodel.js",
-    "lastSync": 1502608539057,
-    "guid": "6ca858fd-9f60-4818-a706-348a212b4c02"
+    "lastSync": 1508064333696,
+    "guid": "4ce4ab75-14b5-4f97-ad3d-090f6cc5307a"
   },
   "/frappe/js/lib/snap.svg-min.js": {
     "path": "/frappe/js/lib/snap.svg-min.js",
-    "lastSync": 1502608539057,
-    "guid": "853de37d-4fdd-482c-a254-134f971a4653"
+    "lastSync": 1508064333696,
+    "guid": "ae885810-e27d-4ba0-98b6-19c9eff31be0"
   },
   "/frappe/js/lib/socket.io.min.js": {
     "path": "/frappe/js/lib/socket.io.min.js",
-    "lastSync": 1502608539057,
-    "guid": "37062498-d4b9-42ae-a0e5-e0a743a03ad7"
+    "lastSync": 1508064333696,
+    "guid": "5f9d1955-a360-41f2-9e5c-1dc078d934c6"
   },
   "/frappe/js/lib/Sortable.min.js": {
     "path": "/frappe/js/lib/Sortable.min.js",
-    "lastSync": 1502608539057,
-    "guid": "7d7ea541-530a-4e41-9600-96040301d421"
+    "lastSync": 1508064333696,
+    "guid": "1933b266-9bfa-45ee-b905-29beb6d51bf1"
+  },
+  "/frappe/js/lib/summernote/summernote.css": {
+    "path": "/frappe/js/lib/summernote/summernote.css",
+    "lastSync": 1508064333696,
+    "guid": "975974ee-14bc-4150-b907-999c7599d4a6"
+  },
+  "/frappe/js/lib/summernote/summernote.js": {
+    "path": "/frappe/js/lib/summernote/summernote.js",
+    "lastSync": 1508064333696,
+    "guid": "690026dc-d620-4daa-ba70-68f8e9eb0d8a"
+  },
+  "/frappe/js/lib/taggle/taggle.min.css": {
+    "path": "/frappe/js/lib/taggle/taggle.min.css",
+    "lastSync": 1508064333696,
+    "guid": "12e5b587-8264-4b09-98f4-3521471b4bde"
+  },
+  "/frappe/js/lib/taggle/taggle.min.js": {
+    "path": "/frappe/js/lib/taggle/taggle.min.js",
+    "lastSync": 1508064333696,
+    "guid": "11d63ab0-25f5-4a96-8ee1-4bc7f5bc9810"
+  },
+  "/frappe/js/lib/webcam.min.js": {
+    "path": "/frappe/js/lib/webcam.min.js",
+    "lastSync": 1508064333696,
+    "guid": "01a335ee-77e2-4078-b42d-9ce1472b3f06"
   },
   "/frappe/sounds/alert.mp3": {
     "path": "/frappe/sounds/alert.mp3",
