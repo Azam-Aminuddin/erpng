@@ -1,29 +1,9 @@
 {
-  "active_domains": [
-    "Manufacturing",
-    ""
-  ],
-  "all_accounts": "",
-  "all_domains": [
-    "Healthcare",
-    "Education",
-    "Retail",
-    "Services",
-    "Manufacturing",
-    "Distribution"
-  ],
-  "customer_count": 20.0,
-  "desktop_icons": null,
-  "disable_async": null,
   "docs": null,
-  "email_accounts": [],
   "error_report_email": [
     "support@erpnext.com"
   ],
   "expiry_message": "",
-  "feedback_triggers": {},
-  "from_cache": 1.0,
-  "gsuite_enabled": false,
   "home_folder": "Home",
   "home_page": "desktop",
   "lang": "en",
@@ -31,20 +11,16 @@
   "limits": {
     "space_usage": {
       "backup_size": 3.0,
-      "database_size": 12.56,
+      "database_size": 12.82,
       "files_size": 323.0,
-      "total": 338.56
+      "total": 338.82
     }
   },
   "max_file_size": 1.048576E7,
-  "metadata_version": "e28ee2357e197cdaeb9f64daea180c55b8763de5f7f6e24c194919af",
   "module_list": [],
   "modules": {},
   "notes": [],
-  "server_date": "2017-10-14",
-  "sid": "b744963b01415a605de9ad68c4ffc586f673edec58edcfa8f8ca2786",
-  "sitename": "demo.erpnext.com",
-  "socketio_port": 9000.0,
+  "sid": "976b44e8c538c373f720d0da1bba9f147dc6842e0ba63c60e2c1882d",
   "user_info": {
     "Administrator": {
       "email": "admin@example.com",
@@ -183,15 +159,39 @@
       "username": "test"
     }
   },
-  "user_permissions": {
-    "User": [
-      "demo@erpnext.com"
-    ]
-  },
   "versions": {
     "erpnext": "9.1.3",
     "erpnext_shopify": "2.0.14",
     "frappe": "9.1.5",
     "mandrill_integration": "0.0.1"
+  },
+  "metadata_version": "484782330f22e079e2622e6f0894eab402982d66851bef5a015cc08c",
+  "socketio_port": 9000.0,
+  "disable_async": null,
+  "server_date": "2017-10-14",
+  "customer_count": 22.0,
+  "change_log": null,
+  "active_domains": [
+    "Manufacturing",
+    ""
+  ],
+  "all_accounts": "",
+  "all_domains": [
+    "Healthcare",
+    "Education",
+    "Retail",
+    "Services",
+    "Manufacturing",
+    "Distribution"
+  ],
+  "email_accounts": [],
+  "feedback_triggers": {},
+  "from_cache": 1.0,
+  "gsuite_enabled": false,
+  "sitename": "demo.erpnext.com",
+  "user_permissions": {
+    "User": [
+      "demo@erpnext.com"
+    ]
   }
 }

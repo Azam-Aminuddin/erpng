@@ -698,5 +698,5 @@ var continue_email = function(setup, prompt){
 }</script>
 
 
-	<script>frappe.csrf_token = "f224517cd6c1dd518586931cb000a57d490bcc4823f9cec21befa384";</script></body>
+	<script>frappe.csrf_token = "None";</script></body>
 </html>
