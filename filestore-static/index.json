@@ -1399,6 +1399,11 @@
     "lastSync": 1502608539057,
     "guid": "2afabd82-b674-4d8c-b010-9c047bd9ca22"
   },
+  "/frappe/js/lib/fluxify.min.js": {
+    "path": "/frappe/js/lib/fluxify.min.js",
+    "lastSync": 1508063103398,
+    "guid": "47998859-82b0-4ae1-a9cf-a5c9fb1bb839"
+  },
   "/frappe/js/lib/fullcalendar/fullcalendar.min.css": {
     "path": "/frappe/js/lib/fullcalendar/fullcalendar.min.css",
     "lastSync": 1505671935724,
@@ -1981,8 +1986,8 @@
   },
   "/js/libs.min.js": {
     "path": "/js/libs.min.js",
-    "lastSync": 1508056833184,
-    "guid": "b1952346-ef26-4153-a3ba-6a79a82f198c"
+    "lastSync": 1508063103398,
+    "guid": "584be5bc-a2f5-47c2-8302-3ae35babc6f4"
   },
   "/js/list.min.js": {
     "path": "/js/list.min.js",
