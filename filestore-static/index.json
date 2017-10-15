@@ -39,15 +39,30 @@
     "lastSync": 1502608539057,
     "guid": "3a03e947-bc61-41a9-92bf-52a03ee04272"
   },
+  "/erpnext/css/email.css": {
+    "path": "/erpnext/css/email.css",
+    "lastSync": 1508097583781,
+    "guid": "8ee07ae2-f572-4afa-869a-6c00c28e7ef8"
+  },
   "/erpnext/css/erpnext.css": {
     "path": "/erpnext/css/erpnext.css",
-    "lastSync": 1506454828517,
-    "guid": "526738df-4333-44d7-8fa3-4f727ab3ffed"
+    "lastSync": 1508097583781,
+    "guid": "b70ec57e-8692-4aaf-aaf6-245d243dca15"
+  },
+  "/erpnext/css/hub.css": {
+    "path": "/erpnext/css/hub.css",
+    "lastSync": 1508097583781,
+    "guid": "55f6d1c8-c75d-4d69-a112-92e606afd282"
+  },
+  "/erpnext/css/pos.css": {
+    "path": "/erpnext/css/pos.css",
+    "lastSync": 1508097583781,
+    "guid": "37fd5cca-b2e1-4b54-bda8-11e2d809ef29"
   },
   "/erpnext/css/website.css": {
     "path": "/erpnext/css/website.css",
-    "lastSync": 1505671935724,
-    "guid": "e992a515-e452-45b8-89bb-f9be82b24002"
+    "lastSync": 1508097583781,
+    "guid": "4caf7479-172e-42f5-9b85-3940c6accf71"
   },
   "/erpnext/images/erp-icon.svg": {
     "path": "/erpnext/images/erp-icon.svg",
@@ -56,193 +71,258 @@
   },
   "/erpnext/images/erpnext-footer.png": {
     "path": "/erpnext/images/erpnext-footer.png",
-    "lastSync": 1502608539057,
-    "guid": "640a7408-f61f-4a16-92ef-d93123cee0b6"
+    "lastSync": 1508097583781,
+    "guid": "da8526ee-8e36-4ab1-906b-8cca01ed4f8f"
+  },
+  "/erpnext/images/erpnext-grey.png": {
+    "path": "/erpnext/images/erpnext-grey.png",
+    "lastSync": 1508097583781,
+    "guid": "1951cd0e-1ef2-4dec-8326-13770c2367e1"
+  },
+  "/erpnext/images/erpnext-logo.jpg": {
+    "path": "/erpnext/images/erpnext-logo.jpg",
+    "lastSync": 1508097583781,
+    "guid": "1e8844d7-7bd8-44ba-bbb8-13442d752121"
   },
   "/erpnext/images/erpnext-video-placeholder.jpg": {
     "path": "/erpnext/images/erpnext-video-placeholder.jpg",
-    "lastSync": 1502608539057,
-    "guid": "9f2929aa-4ded-4a8b-8689-ea747e5a5456"
+    "lastSync": 1508097583781,
+    "guid": "9941d347-ab7c-4897-8eba-02f2e9665cda"
   },
   "/erpnext/images/favicon.png": {
     "path": "/erpnext/images/favicon.png",
-    "lastSync": 1502608539057,
-    "guid": "e882dd72-0530-4bdc-b846-5ccdfd0ae3ac"
+    "lastSync": 1508097583781,
+    "guid": "e25bc071-be1b-480e-b0d8-42da87dfd1db"
+  },
+  "/erpnext/images/hub_logo.svg": {
+    "path": "/erpnext/images/hub_logo.svg",
+    "lastSync": 1508097583781,
+    "guid": "f9bb8476-bffd-410b-8b0b-e70592926524"
+  },
+  "/erpnext/images/illustrations/shop.jpg": {
+    "path": "/erpnext/images/illustrations/shop.jpg",
+    "lastSync": 1508097583781,
+    "guid": "90ec4570-939f-4f20-ba05-ecaeed21e5c1"
+  },
+  "/erpnext/images/illustrations/shop2.jpg": {
+    "path": "/erpnext/images/illustrations/shop2.jpg",
+    "lastSync": 1508097583781,
+    "guid": "4acb844a-0c12-45c5-bd45-9e0e22349372"
   },
   "/erpnext/images/pos.svg": {
     "path": "/erpnext/images/pos.svg",
-    "lastSync": 1502608539057,
-    "guid": "7d5349b8-a08f-4f6e-8d08-5a8ddee084fd"
+    "lastSync": 1508097583781,
+    "guid": "89dbc0a8-ffc5-40cd-b55f-fec689afbe9d"
   },
   "/erpnext/images/splash.png": {
     "path": "/erpnext/images/splash.png",
-    "lastSync": 1502608539057,
-    "guid": "c5b04c53-c49f-4ea8-9110-e6910079aecb"
+    "lastSync": 1508097583781,
+    "guid": "642ce97c-b1fc-4261-b710-d674a9c2cdb4"
   },
   "/erpnext/images/YouTube-icon-full_color.png": {
     "path": "/erpnext/images/YouTube-icon-full_color.png",
-    "lastSync": 1502608539057,
-    "guid": "d86d5ca9-6ced-4b79-8d17-8e51bb9ff325"
+    "lastSync": 1508097583781,
+    "guid": "d10c3db6-5686-4580-b61c-86abbee3def0"
   },
   "/erpnext/js/account_tree_grid.js": {
     "path": "/erpnext/js/account_tree_grid.js",
-    "lastSync": 1502608539057,
-    "guid": "1254e8b0-c16a-4597-913b-88287a1692f2"
+    "lastSync": 1508097583781,
+    "guid": "63a41b01-6ac8-4587-bd7d-6f52fec2d82d"
+  },
+  "/erpnext/js/communication.js": {
+    "path": "/erpnext/js/communication.js",
+    "lastSync": 1508097583781,
+    "guid": "45ca8ef3-2016-4e65-bf33-e3be763cfeb5"
   },
   "/erpnext/js/conf.js": {
     "path": "/erpnext/js/conf.js",
-    "lastSync": 1502608539057,
-    "guid": "25eef959-4038-45b2-8d11-b9f2b4d85893"
+    "lastSync": 1508097583781,
+    "guid": "4a2a0d4a-2cfc-4c67-a8b8-57f21b347934"
   },
   "/erpnext/js/controllers/accounts.js": {
     "path": "/erpnext/js/controllers/accounts.js",
-    "lastSync": 1502608539057,
-    "guid": "aa2d1298-4c5f-4331-847d-6b14d9baf03a"
+    "lastSync": 1508097583781,
+    "guid": "22e71b49-dbcc-4a58-a64f-4766b6a2d5d5"
+  },
+  "/erpnext/js/controllers/buying.js": {
+    "path": "/erpnext/js/controllers/buying.js",
+    "lastSync": 1508097583781,
+    "guid": "630c64db-8a3f-4809-8e95-14d43a5079df"
   },
   "/erpnext/js/controllers/stock_controller.js": {
     "path": "/erpnext/js/controllers/stock_controller.js",
-    "lastSync": 1502608539057,
-    "guid": "22b87866-adf0-4c26-930f-0896f50ee429"
+    "lastSync": 1508097583781,
+    "guid": "533198ac-10c9-4c55-b950-95c459a7c909"
   },
   "/erpnext/js/controllers/taxes_and_totals.js": {
     "path": "/erpnext/js/controllers/taxes_and_totals.js",
-    "lastSync": 1506621307641,
-    "guid": "cc29a847-3171-4994-a359-f0f73a35cf57"
+    "lastSync": 1508097583781,
+    "guid": "e0340220-040d-45ab-b0ce-50f2559ba707"
   },
   "/erpnext/js/controllers/transaction.js": {
     "path": "/erpnext/js/controllers/transaction.js",
-    "lastSync": 1508026613541,
-    "guid": "493525ce-625a-4c82-8782-1c7e707522b2"
+    "lastSync": 1508097583781,
+    "guid": "83ee083a-b1f6-4df2-ab81-56f8878414de"
   },
   "/erpnext/js/financial_statements.js": {
     "path": "/erpnext/js/financial_statements.js",
-    "lastSync": 1502608539057,
-    "guid": "107f8986-6e56-4b89-b7cc-ab3f07103bfc"
+    "lastSync": 1508097583781,
+    "guid": "0888f60b-944d-43de-9676-b2fa3e4f06c5"
   },
   "/erpnext/js/help_links.js": {
     "path": "/erpnext/js/help_links.js",
-    "lastSync": 1505671935724,
-    "guid": "97ffe1b7-0ee5-43e8-a44c-c3b152615028"
+    "lastSync": 1508097583781,
+    "guid": "5569acf3-f351-4f5d-a64d-474b7cd7f799"
   },
   "/erpnext/js/payment/payments.js": {
     "path": "/erpnext/js/payment/payments.js",
-    "lastSync": 1502608539057,
-    "guid": "8ca04234-9e96-4c06-868f-bf5c29befcec"
+    "lastSync": 1508097583781,
+    "guid": "5ee1006e-369f-419b-8592-0a1298446958"
   },
   "/erpnext/js/payment/payment_details.html": {
     "path": "/erpnext/js/payment/payment_details.html",
-    "lastSync": 1502608539057,
-    "guid": "5a6839be-cb2a-4d3b-b463-8834e849e2c0"
+    "lastSync": 1508097583781,
+    "guid": "80ee0d25-e001-43c9-b97a-bd68493b1623"
   },
   "/erpnext/js/payment/pos_payment.html": {
     "path": "/erpnext/js/payment/pos_payment.html",
-    "lastSync": 1502608539057,
-    "guid": "e1ca8649-f8e2-4dc1-b757-ba190ccc12bf"
+    "lastSync": 1508097583781,
+    "guid": "bc9b8a57-89ab-4436-909c-f18af51d6210"
+  },
+  "/erpnext/js/pos/clusterize.js": {
+    "path": "/erpnext/js/pos/clusterize.js",
+    "lastSync": 1508097583781,
+    "guid": "8ec83261-b1c4-4b40-8f1a-3ee1cd4d5570"
+  },
+  "/erpnext/js/pos/customer_toolbar.html": {
+    "path": "/erpnext/js/pos/customer_toolbar.html",
+    "lastSync": 1508097583781,
+    "guid": "96e961c3-5be7-4927-8e77-e875d8813cbf"
   },
   "/erpnext/js/pos/pos.html": {
     "path": "/erpnext/js/pos/pos.html",
-    "lastSync": 1508026613541,
-    "guid": "3527bff2-26a0-4cdb-bab6-6932b0f7207e"
+    "lastSync": 1508097583781,
+    "guid": "3a05587e-36b5-4465-b092-ff7e838a1ae1"
   },
   "/erpnext/js/pos/pos_bill_item.html": {
     "path": "/erpnext/js/pos/pos_bill_item.html",
-    "lastSync": 1502608539057,
-    "guid": "aa5a9d74-1050-4b66-b125-8071432f86ae"
+    "lastSync": 1508097583781,
+    "guid": "c3e34955-cbd4-4fc5-9d77-2309752d0f10"
+  },
+  "/erpnext/js/pos/pos_bill_item_new.html": {
+    "path": "/erpnext/js/pos/pos_bill_item_new.html",
+    "lastSync": 1508097583781,
+    "guid": "3e9313c5-bbbf-4b2c-ba14-b93e5ea8272b"
   },
   "/erpnext/js/pos/pos_invoice_list.html": {
     "path": "/erpnext/js/pos/pos_invoice_list.html",
-    "lastSync": 1502608539057,
-    "guid": "2b1eab64-b565-47fc-9529-b8e9e76f76ca"
+    "lastSync": 1508097583781,
+    "guid": "b05157cf-80ad-4b2f-b8fa-50169ed12bc4"
   },
   "/erpnext/js/pos/pos_item.html": {
     "path": "/erpnext/js/pos/pos_item.html",
-    "lastSync": 1502608539057,
-    "guid": "cac24903-a65f-422e-acd1-b55f1473bf1c"
+    "lastSync": 1508097583781,
+    "guid": "c287297d-c933-47f4-a9a8-100451a742ee"
+  },
+  "/erpnext/js/pos/pos_selected_item.html": {
+    "path": "/erpnext/js/pos/pos_selected_item.html",
+    "lastSync": 1508097583781,
+    "guid": "8ebb96f3-0c8f-47f8-8ed5-8a4b04c880e2"
   },
   "/erpnext/js/pos/pos_tax_row.html": {
     "path": "/erpnext/js/pos/pos_tax_row.html",
-    "lastSync": 1502608539057,
-    "guid": "e0401fd3-a776-4cf3-a542-7d7cc31acadc"
+    "lastSync": 1508097583781,
+    "guid": "360044c2-bc75-4c47-95c8-dda15a25ff53"
   },
   "/erpnext/js/purchase_trends_filters.js": {
     "path": "/erpnext/js/purchase_trends_filters.js",
-    "lastSync": 1502608539057,
-    "guid": "eb302352-784e-4174-a43b-fc334eef3629"
+    "lastSync": 1508097583781,
+    "guid": "36b661fd-6415-456d-92df-690fa0405417"
   },
   "/erpnext/js/queries.js": {
     "path": "/erpnext/js/queries.js",
-    "lastSync": 1502608539057,
-    "guid": "1e0e49d4-3f4f-41fb-98a7-f37dde70d090"
+    "lastSync": 1508097583781,
+    "guid": "69a79922-ff6b-4508-a51f-acdfd3763c0c"
   },
   "/erpnext/js/sales_trends_filters.js": {
     "path": "/erpnext/js/sales_trends_filters.js",
-    "lastSync": 1502608539057,
-    "guid": "2b72df45-dcd4-4810-83f6-c5764b5e1fa8"
+    "lastSync": 1508097583781,
+    "guid": "2cbc0bb5-ba9c-4221-b32b-1ea901465a69"
+  },
+  "/erpnext/js/schools/assessment_result_tool.html": {
+    "path": "/erpnext/js/schools/assessment_result_tool.html",
+    "lastSync": 1508097583781,
+    "guid": "f4b12e7b-a89d-4d14-baa1-ac3dbf2429c5"
   },
   "/erpnext/js/schools/student_button.html": {
     "path": "/erpnext/js/schools/student_button.html",
-    "lastSync": 1502608539057,
-    "guid": "ab26ef64-10b5-4699-98c1-ccc738d69d0e"
+    "lastSync": 1508097583781,
+    "guid": "3bb30760-9191-4b78-a0f0-7ed91b8baff5"
   },
   "/erpnext/js/setup_wizard.js": {
     "path": "/erpnext/js/setup_wizard.js",
-    "lastSync": 1508026613541,
-    "guid": "10e31da0-d757-42f8-960a-0174776598fa"
+    "lastSync": 1508097583781,
+    "guid": "a62fc716-1cb1-498a-89f0-a183789d932e"
   },
   "/erpnext/js/shopping_cart.js": {
     "path": "/erpnext/js/shopping_cart.js",
-    "lastSync": 1502608539057,
-    "guid": "b63269c1-b066-40d5-853c-daf98011cf37"
+    "lastSync": 1508097583781,
+    "guid": "544b2285-50ed-478e-a049-322d76bf7da2"
   },
   "/erpnext/js/sms_manager.js": {
     "path": "/erpnext/js/sms_manager.js",
-    "lastSync": 1505671935724,
-    "guid": "1649fb3f-aa34-470d-bdd8-5e1843df0acc"
+    "lastSync": 1508097583781,
+    "guid": "5ff3a8c5-9f67-4aae-bbc4-e0a63b3976ff"
   },
   "/erpnext/js/stock_analytics.js": {
     "path": "/erpnext/js/stock_analytics.js",
-    "lastSync": 1502608539057,
-    "guid": "066d0b9e-f504-42ab-864a-74cbc434b27a"
+    "lastSync": 1508097583781,
+    "guid": "fdebfb0f-98f9-45f4-a73c-09731660c63d"
   },
   "/erpnext/js/stock_grid_report.js": {
     "path": "/erpnext/js/stock_grid_report.js",
-    "lastSync": 1502608539057,
-    "guid": "c6db8d90-44cf-495d-b7b5-82993e104315"
+    "lastSync": 1508097583781,
+    "guid": "8b6e7de6-7da1-4fec-93f3-02decca10ef5"
   },
   "/erpnext/js/templates/address_list.html": {
     "path": "/erpnext/js/templates/address_list.html",
-    "lastSync": 1502608539057,
-    "guid": "abf80239-7ec5-4cf0-8306-936e6ca5455d"
+    "lastSync": 1508097583781,
+    "guid": "f2bcf097-99fa-420e-8982-058ec129b48f"
   },
   "/erpnext/js/templates/contact_list.html": {
     "path": "/erpnext/js/templates/contact_list.html",
-    "lastSync": 1502608539057,
-    "guid": "8e17fe9f-927f-46f2-87b1-1fdde67f5112"
+    "lastSync": 1508097583781,
+    "guid": "8576e024-b5d6-4dc4-9e78-7d26c1192272"
   },
   "/erpnext/js/templates/item_selector.html": {
     "path": "/erpnext/js/templates/item_selector.html",
-    "lastSync": 1502608539057,
-    "guid": "4b0a1342-1851-4ed9-86c0-8f596b4282a1"
+    "lastSync": 1508097583781,
+    "guid": "1a481aba-4ed8-4545-83c1-ad008b7d782f"
   },
   "/erpnext/js/utils/item_selector.js": {
     "path": "/erpnext/js/utils/item_selector.js",
-    "lastSync": 1502608539057,
-    "guid": "b51e253e-01f2-42e3-9ef1-d1f0ad955784"
+    "lastSync": 1508097583781,
+    "guid": "0b2a6975-2cbc-44ea-ac0c-0032b1f9ec66"
   },
   "/erpnext/js/utils/party.js": {
     "path": "/erpnext/js/utils/party.js",
-    "lastSync": 1502608539057,
-    "guid": "e174cf6b-b8aa-4df4-9620-ceff1ad5f09d"
+    "lastSync": 1508097583781,
+    "guid": "0a602b56-6b0e-473d-800d-7519d9e9a79b"
+  },
+  "/erpnext/js/utils/serial_no_batch_selector.js": {
+    "path": "/erpnext/js/utils/serial_no_batch_selector.js",
+    "lastSync": 1508097583781,
+    "guid": "d235100e-8f29-4f6a-908e-99f798b7435a"
   },
   "/erpnext/js/utils.js": {
     "path": "/erpnext/js/utils.js",
-    "lastSync": 1506454828517,
-    "guid": "c26ae0f3-c490-4056-86e6-af6c9ce45e9c"
+    "lastSync": 1508097583781,
+    "guid": "0a109458-6ebe-497e-b330-07aecc9469df"
   },
   "/erpnext/js/website_utils.js": {
     "path": "/erpnext/js/website_utils.js",
-    "lastSync": 1502608539057,
-    "guid": "0832df8c-d733-43ee-a536-590e1428cd8d"
+    "lastSync": 1508097583781,
+    "guid": "4dffee79-4e08-4707-881d-7c93e0970b92"
   },
   "/frappe/css/animate.min.css": {
     "path": "/frappe/css/animate.min.css",
