@@ -11403,6 +11403,9 @@ select.input-sm {
 .setup-state {
   background-color: #f5f7fa;
 }
+.page-container .page-card-container {
+  background-color: #fff;
+}
 .page-card-container {
   padding: 70px;
 }
@@ -11622,7 +11625,6 @@ body[data-route="desktop"] .navbar-default {
   width: 32px;
 }
 .app-icon path {
-  fill: #fafbfc;
   transition: 0.2s;
   -webkit-transition: 0.2s;
 }
@@ -11642,9 +11644,6 @@ body[data-route="desktop"] .navbar-default {
   text-shadow: none;
   letter-spacing: normal;
   cursor: pointer;
-}
-.app-icon:hover path {
-  fill: #fff;
 }
 .app-icon:hover i,
 .app-icon:hover {
@@ -12432,6 +12431,9 @@ select.form-control {
   margin-left: 1px;
   font-weight: 500;
   color: #8D99A6;
+}
+.attach-btn {
+  margin-top: 10px;
 }
 @media (min-width: 768px) {
   .layout-main .form-column.col-sm-12 > form > .input-max-width {

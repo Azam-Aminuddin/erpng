@@ -1,8 +1,8 @@
 {
   "/css/desk.min.css": {
     "path": "/css/desk.min.css",
-    "lastSync": 1506621307641,
-    "guid": "97808fd3-3270-4a43-81d3-71246b5af2b0"
+    "lastSync": 1508026613541,
+    "guid": "4763f5ad-3eda-4989-9b70-fd9be0bbc1bb"
   },
   "/css/erpnext.css": {
     "path": "/css/erpnext.css",
@@ -111,8 +111,8 @@
   },
   "/erpnext/js/controllers/transaction.js": {
     "path": "/erpnext/js/controllers/transaction.js",
-    "lastSync": 1506454828517,
-    "guid": "b68a45c2-6be7-499d-b618-aa20d52efb46"
+    "lastSync": 1508026613541,
+    "guid": "493525ce-625a-4c82-8782-1c7e707522b2"
   },
   "/erpnext/js/financial_statements.js": {
     "path": "/erpnext/js/financial_statements.js",
@@ -141,8 +141,8 @@
   },
   "/erpnext/js/pos/pos.html": {
     "path": "/erpnext/js/pos/pos.html",
-    "lastSync": 1502608539057,
-    "guid": "bb3531f3-7406-41df-9d8b-4904904ff3de"
+    "lastSync": 1508026613541,
+    "guid": "3527bff2-26a0-4cdb-bab6-6932b0f7207e"
   },
   "/erpnext/js/pos/pos_bill_item.html": {
     "path": "/erpnext/js/pos/pos_bill_item.html",
@@ -186,8 +186,8 @@
   },
   "/erpnext/js/setup_wizard.js": {
     "path": "/erpnext/js/setup_wizard.js",
-    "lastSync": 1506182352957,
-    "guid": "27d7be10-64a2-4953-9010-e4d8d58549aa"
+    "lastSync": 1508026613541,
+    "guid": "10e31da0-d757-42f8-960a-0174776598fa"
   },
   "/erpnext/js/shopping_cart.js": {
     "path": "/erpnext/js/shopping_cart.js",
@@ -281,13 +281,13 @@
   },
   "/frappe/css/desktop.css": {
     "path": "/frappe/css/desktop.css",
-    "lastSync": 1502608539057,
-    "guid": "18642be4-bcee-407b-aad7-9c89c6a5e165"
+    "lastSync": 1508026613541,
+    "guid": "a55df63d-ada6-48b8-a102-6a4e30b92d1d"
   },
   "/frappe/css/docs.css": {
     "path": "/frappe/css/docs.css",
-    "lastSync": 1502608539057,
-    "guid": "acd25b9d-27bd-4e7b-a889-d00cd632da9f"
+    "lastSync": 1508026613541,
+    "guid": "25b395ce-55ce-4559-a4fe-055979f4a0a5"
   },
   "/frappe/css/font-awesome.css": {
     "path": "/frappe/css/font-awesome.css",
@@ -481,8 +481,8 @@
   },
   "/frappe/css/form.css": {
     "path": "/frappe/css/form.css",
-    "lastSync": 1506454828517,
-    "guid": "3635db2e-9880-4f7e-8bd0-f12c1d5876b4"
+    "lastSync": 1508026613541,
+    "guid": "4ae27f2b-ac4d-4e62-9ec6-7133fb8a175e"
   },
   "/frappe/css/form_grid.css": {
     "path": "/frappe/css/form_grid.css",
@@ -601,8 +601,8 @@
   },
   "/frappe/css/page.css": {
     "path": "/frappe/css/page.css",
-    "lastSync": 1506182352957,
-    "guid": "4b9ed0b8-f98d-4a3e-9787-dd81496cc266"
+    "lastSync": 1508026613541,
+    "guid": "4600163c-0312-498d-ad48-5a1e8604ae36"
   },
   "/frappe/css/prism.css": {
     "path": "/frappe/css/prism.css",
@@ -821,8 +821,8 @@
   },
   "/frappe/js/frappe/form/footer/form_footer.html": {
     "path": "/frappe/js/frappe/form/footer/form_footer.html",
-    "lastSync": 1502608539057,
-    "guid": "7ba02a34-419b-4cf9-97cd-634652acab6e"
+    "lastSync": 1508026613541,
+    "guid": "5e718848-abca-46a5-9c5e-22c71333b8c2"
   },
   "/frappe/js/frappe/form/footer/timeline.html": {
     "path": "/frappe/js/frappe/form/footer/timeline.html",
@@ -831,8 +831,8 @@
   },
   "/frappe/js/frappe/form/footer/timeline.js": {
     "path": "/frappe/js/frappe/form/footer/timeline.js",
-    "lastSync": 1506182352957,
-    "guid": "edbb2b72-7f8a-4313-86e3-607c01be24c1"
+    "lastSync": 1508026613541,
+    "guid": "10447aab-a7c8-4b63-9e09-7596f295ca82"
   },
   "/frappe/js/frappe/form/footer/timeline_item.html": {
     "path": "/frappe/js/frappe/form/footer/timeline_item.html",
@@ -851,8 +851,8 @@
   },
   "/frappe/js/frappe/form/grid.js": {
     "path": "/frappe/js/frappe/form/grid.js",
-    "lastSync": 1506454828517,
-    "guid": "625d8fe7-068f-4599-acbb-46c7e7ea1c7c"
+    "lastSync": 1508026613541,
+    "guid": "65e525dd-13e0-4a28-a926-3d5bf059fcb5"
   },
   "/frappe/js/frappe/form/layout.js": {
     "path": "/frappe/js/frappe/form/layout.js",
@@ -881,8 +881,8 @@
   },
   "/frappe/js/frappe/form/save.js": {
     "path": "/frappe/js/frappe/form/save.js",
-    "lastSync": 1505671935724,
-    "guid": "56e3e6a2-f251-4c8b-8bc7-e6eb9f20e5a4"
+    "lastSync": 1508026613541,
+    "guid": "09ea7bff-5a91-4cd2-9626-136d554f528e"
   },
   "/frappe/js/frappe/form/script_manager.js": {
     "path": "/frappe/js/frappe/form/script_manager.js",
@@ -1011,8 +1011,8 @@
   },
   "/frappe/js/frappe/list/list_sidebar.js": {
     "path": "/frappe/js/frappe/list/list_sidebar.js",
-    "lastSync": 1505671935724,
-    "guid": "c6ecbdeb-6931-4077-a3cb-c66fefabde7f"
+    "lastSync": 1508026613541,
+    "guid": "8712d2cc-7969-4427-a030-601f645a4423"
   },
   "/frappe/js/frappe/list/list_sidebar_stat.html": {
     "path": "/frappe/js/frappe/list/list_sidebar_stat.html",
@@ -1066,8 +1066,8 @@
   },
   "/frappe/js/frappe/misc/utils.js": {
     "path": "/frappe/js/frappe/misc/utils.js",
-    "lastSync": 1502608539057,
-    "guid": "845bfe72-778a-448a-9dde-dfb2486afc3e"
+    "lastSync": 1508026613541,
+    "guid": "a754c8a8-a9b4-49a2-b802-bb510c73a3e4"
   },
   "/frappe/js/frappe/model/create_new.js": {
     "path": "/frappe/js/frappe/model/create_new.js",
@@ -1116,8 +1116,8 @@
   },
   "/frappe/js/frappe/request.js": {
     "path": "/frappe/js/frappe/request.js",
-    "lastSync": 1506182352957,
-    "guid": "e85e1bea-7c90-4f83-946f-902e785f3185"
+    "lastSync": 1508026613541,
+    "guid": "3950880d-edd4-4c52-b088-97a0e46b5896"
   },
   "/frappe/js/frappe/router.js": {
     "path": "/frappe/js/frappe/router.js",
@@ -1126,13 +1126,13 @@
   },
   "/frappe/js/frappe/socketio_client.js": {
     "path": "/frappe/js/frappe/socketio_client.js",
-    "lastSync": 1506621307641,
-    "guid": "22455f1c-d169-4ab9-8d54-7f98f2b9d4a1"
+    "lastSync": 1508026613541,
+    "guid": "2a2bc479-4718-43d8-b222-9eabbd7a0260"
   },
   "/frappe/js/frappe/toolbar.js": {
     "path": "/frappe/js/frappe/toolbar.js",
-    "lastSync": 1502608539057,
-    "guid": "a301c90d-be0b-40e3-ac76-1bc1a893487f"
+    "lastSync": 1508026613541,
+    "guid": "e272aeb9-8648-4b3e-a7f2-54acfed44b56"
   },
   "/frappe/js/frappe/translate.js": {
     "path": "/frappe/js/frappe/translate.js",
@@ -1166,8 +1166,8 @@
   },
   "/frappe/js/frappe/ui/filters/filters.js": {
     "path": "/frappe/js/frappe/ui/filters/filters.js",
-    "lastSync": 1506621307641,
-    "guid": "5824c100-8f4c-453b-98d6-bdb10a2be894"
+    "lastSync": 1508026613541,
+    "guid": "12dcda83-9fd2-4df5-9c00-d8de3683848f"
   },
   "/frappe/js/frappe/ui/iconbar.js": {
     "path": "/frappe/js/frappe/ui/iconbar.js",
@@ -1211,8 +1211,8 @@
   },
   "/frappe/js/frappe/ui/page.js": {
     "path": "/frappe/js/frappe/ui/page.js",
-    "lastSync": 1506182352957,
-    "guid": "34f6fc39-e8a5-41c6-b443-48c43f8ea7df"
+    "lastSync": 1508026613541,
+    "guid": "9e8d43a0-7123-47f3-b55a-cc54795e7c74"
   },
   "/frappe/js/frappe/ui/sort_selector.html": {
     "path": "/frappe/js/frappe/ui/sort_selector.html",
@@ -1266,8 +1266,8 @@
   },
   "/frappe/js/frappe/upload.js": {
     "path": "/frappe/js/frappe/upload.js",
-    "lastSync": 1506454828517,
-    "guid": "8ee3861b-35a2-4779-87c4-32d567341a84"
+    "lastSync": 1508026613541,
+    "guid": "fb3643a5-5cbf-49b0-868c-432a7f81b5e9"
   },
   "/frappe/js/frappe/views/breadcrumbs.js": {
     "path": "/frappe/js/frappe/views/breadcrumbs.js",
@@ -1276,8 +1276,8 @@
   },
   "/frappe/js/frappe/views/communication.js": {
     "path": "/frappe/js/frappe/views/communication.js",
-    "lastSync": 1505671935724,
-    "guid": "fce0f2d7-ac0d-401c-9ff8-7fb55a8eba44"
+    "lastSync": 1508026613541,
+    "guid": "1d563a36-24e0-4907-aa07-3d34bbe83a9c"
   },
   "/frappe/js/frappe/views/container.js": {
     "path": "/frappe/js/frappe/views/container.js",
@@ -1311,8 +1311,8 @@
   },
   "/frappe/js/frappe/views/reports/query_report.js": {
     "path": "/frappe/js/frappe/views/reports/query_report.js",
-    "lastSync": 1505671935724,
-    "guid": "fac7abae-e66c-41f3-9612-9f904f0eb3bd"
+    "lastSync": 1508026613541,
+    "guid": "127f069a-364d-4af5-ae85-a61c14618446"
   },
   "/frappe/js/frappe/views/reports/reportview.js": {
     "path": "/frappe/js/frappe/views/reports/reportview.js",
@@ -1331,8 +1331,8 @@
   },
   "/frappe/js/legacy/clientscriptAPI.js": {
     "path": "/frappe/js/legacy/clientscriptAPI.js",
-    "lastSync": 1502608539057,
-    "guid": "74dcdc77-a726-4efa-a58c-b8543a2e6e2f"
+    "lastSync": 1508026613541,
+    "guid": "f205accd-2ab2-4817-8faf-26970eec8891"
   },
   "/frappe/js/legacy/datatype.js": {
     "path": "/frappe/js/legacy/datatype.js",
@@ -1346,8 +1346,8 @@
   },
   "/frappe/js/legacy/form.js": {
     "path": "/frappe/js/legacy/form.js",
-    "lastSync": 1506454828517,
-    "guid": "75afcbd9-7502-4b9c-8d2e-bf69be3a9df9"
+    "lastSync": 1508026613541,
+    "guid": "89732305-15d8-4383-99fa-8fbd76d6f2f1"
   },
   "/frappe/js/legacy/globals.js": {
     "path": "/frappe/js/legacy/globals.js",
@@ -1931,8 +1931,8 @@
   },
   "/js/control.min.js": {
     "path": "/js/control.min.js",
-    "lastSync": 1506621307641,
-    "guid": "cce8991b-73ba-49a6-b73e-09967f4e8e70"
+    "lastSync": 1508026613541,
+    "guid": "c0924db3-3391-4814-9d44-79ca38c81433"
   },
   "/js/d3.min.js": {
     "path": "/js/d3.min.js",
@@ -1941,13 +1941,13 @@
   },
   "/js/desk.min.js": {
     "path": "/js/desk.min.js",
-    "lastSync": 1506621307641,
-    "guid": "053e207c-09cb-4564-91e6-9c7c004627bc"
+    "lastSync": 1508026613541,
+    "guid": "80520e84-6140-473c-95c8-16908faecd74"
   },
   "/js/dialog.min.js": {
     "path": "/js/dialog.min.js",
-    "lastSync": 1506621307641,
-    "guid": "61bf4aa6-26c2-40be-8fea-8d6f47573a4e"
+    "lastSync": 1508026613541,
+    "guid": "1509c3ee-dab0-4ca8-ba80-baab729cd0e9"
   },
   "/js/editor.min.js": {
     "path": "/js/editor.min.js",
@@ -1961,13 +1961,13 @@
   },
   "/js/erpnext.min.js": {
     "path": "/js/erpnext.min.js",
-    "lastSync": 1506621307641,
-    "guid": "1f2f8173-91e4-4300-b7cc-fbb69f2e836e"
+    "lastSync": 1508026613541,
+    "guid": "bf616366-69c4-40a1-bc59-9f2e2f706714"
   },
   "/js/form.min.js": {
     "path": "/js/form.min.js",
-    "lastSync": 1506454828517,
-    "guid": "5077c705-636c-46d3-944e-c77692b32364"
+    "lastSync": 1508026613541,
+    "guid": "7c5b49c4-d596-4c44-9d4f-5defa1d36e30"
   },
   "/js/frappe-web.min.js": {
     "path": "/js/frappe-web.min.js",
@@ -1976,18 +1976,18 @@
   },
   "/js/item-dashboard.min.js": {
     "path": "/js/item-dashboard.min.js",
-    "lastSync": 1502608539057,
-    "guid": "83b3c9ad-afa2-46a4-a612-9308bfbb7450"
+    "lastSync": 1508026613541,
+    "guid": "d102a92d-df6e-40cc-9d7d-4e5d4335877e"
   },
   "/js/libs.min.js": {
     "path": "/js/libs.min.js",
-    "lastSync": 1505671935724,
-    "guid": "59f974ba-f0c5-4259-9dce-6b7c41b1f3d2"
+    "lastSync": 1508026613541,
+    "guid": "5c31010c-c396-4718-805e-d5f40a539ef6"
   },
   "/js/list.min.js": {
     "path": "/js/list.min.js",
-    "lastSync": 1506621307641,
-    "guid": "40fe3541-abe2-44c3-8985-c91f06c60394"
+    "lastSync": 1508026613541,
+    "guid": "a35af60f-7a94-4915-b723-9fdb2d5e7903"
   },
   "/js/print_format_v3.min.js": {
     "path": "/js/print_format_v3.min.js",
@@ -1996,7 +1996,7 @@
   },
   "/js/report.min.js": {
     "path": "/js/report.min.js",
-    "lastSync": 1506621307641,
-    "guid": "39d23d82-c8d5-4fdc-baa9-7c6f0945e847"
+    "lastSync": 1508026613541,
+    "guid": "05c6e688-8351-4736-a9d3-03595af25744"
   }
 }
