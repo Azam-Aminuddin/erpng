@@ -1,0 +1,1 @@
+{"message":{"html_format":null,"script":"// Copyright (c) 2016, Frappe Technologies Pvt. Ltd. and contributors\n// For license information, please see license.txt\n\nfrappe.query_reports[\"Delivered Items To Be Billed\"] = {\n\t\"filters\": [\n\n\t]\n}\n"}}
