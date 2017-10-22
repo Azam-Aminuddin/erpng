@@ -1,0 +1,323 @@
+{
+  "Absent Student Report": [
+    "Schools"
+  ],
+  "Accounts Payable": [
+    "Accounts"
+  ],
+  "Accounts Payable Summary": [
+    "Accounts"
+  ],
+  "Accounts Receivable": [
+    "Accounts"
+  ],
+  "Accounts Receivable Summary": [
+    "Accounts"
+  ],
+  "Addresses And Contacts": [
+    "Contacts"
+  ],
+  "Asset Depreciation Ledger": [
+    "Accounts"
+  ],
+  "Asset Depreciations and Balances": [
+    "Accounts"
+  ],
+  "Available Stock for Packing Items": [
+    "Selling"
+  ],
+  "BOM Search": [
+    "Stock"
+  ],
+  "BOM Stock Report": [
+    "Manufacturing"
+  ],
+  "Balance Sheet": [
+    "Accounts"
+  ],
+  "Bank Clearance Summary": [
+    "Accounts"
+  ],
+  "Bank Reconciliation Statement": [
+    "Accounts"
+  ],
+  "Batch Item Expiry Status": [
+    "Stock"
+  ],
+  "Batch-Wise Balance History": [
+    "Stock"
+  ],
+  "Budget Variance Report": [
+    "Accounts"
+  ],
+  "Campaign Efficiency": [
+    "CRM"
+  ],
+  "Cash Flow": [
+    "Accounts"
+  ],
+  "Completed Production Orders": [
+    "Manufacturing"
+  ],
+  "Course wise Assessment Report": [
+    "Schools"
+  ],
+  "Customer Acquisition and Loyalty": [
+    "Selling"
+  ],
+  "Customer Credit Balance": [
+    "Selling"
+  ],
+  "Daily Timesheet Summary": [
+    "Projects"
+  ],
+  "Delivered Items To Be Billed": [
+    "Accounts"
+  ],
+  "Delivery Note Trends": [
+    "Stock"
+  ],
+  "Document Share Report": [
+    "Core"
+  ],
+  "Employee Birthday": [
+    "HR"
+  ],
+  "Employee Information": [
+    "HR"
+  ],
+  "Employee Leave Balance": [
+    "HR"
+  ],
+  "Employees working on a holiday": [
+    "HR"
+  ],
+  "Feedback Ratings": [
+    "Core"
+  ],
+  "GST Itemised Purchase Register": [
+    "Regional"
+  ],
+  "GST Itemised Sales Register": [
+    "Regional"
+  ],
+  "GST Purchase Register": [
+    "Regional"
+  ],
+  "GST Sales Register": [
+    "Regional"
+  ],
+  "General Ledger": [
+    "Accounts"
+  ],
+  "Gross Profit": [
+    "Accounts"
+  ],
+  "Inactive Customers": [
+    "Selling"
+  ],
+  "Issued Items Against Production Order": [
+    "Manufacturing"
+  ],
+  "Item Prices": [
+    "Stock"
+  ],
+  "Item Shortage Report": [
+    "Stock"
+  ],
+  "Item-wise Price List Rate": [
+    "Stock"
+  ],
+  "Item-wise Purchase History": [
+    "Buying"
+  ],
+  "Item-wise Purchase Register": [
+    "Accounts"
+  ],
+  "Item-wise Sales History": [
+    "Selling"
+  ],
+  "Item-wise Sales Register": [
+    "Accounts"
+  ],
+  "Items To Be Requested": [
+    "Stock"
+  ],
+  "Itemwise Recommended Reorder Level": [
+    "Stock"
+  ],
+  "Lab Test Report": [
+    "Healthcare"
+  ],
+  "Lead Details": [
+    "Selling"
+  ],
+  "Lead Owner Efficiency": [
+    "CRM"
+  ],
+  "Maintenance Schedules": [
+    "Support"
+  ],
+  "Material Requests for which Supplier Quotations are not created": [
+    "Stock"
+  ],
+  "Minutes to First Response for Issues": [
+    "Support"
+  ],
+  "Minutes to First Response for Opportunity": [
+    "CRM"
+  ],
+  "Monthly Attendance Sheet": [
+    "HR"
+  ],
+  "Open Production Orders": [
+    "Manufacturing"
+  ],
+  "Ordered Items To Be Billed": [
+    "Accounts"
+  ],
+  "Ordered Items To Be Delivered": [
+    "Stock"
+  ],
+  "Payment Period Based On Invoice Date": [
+    "Accounts"
+  ],
+  "Pending SO Items For Purchase Request": [
+    "Selling"
+  ],
+  "Permitted Documents For User": [
+    "Core"
+  ],
+  "Production Order Stock Report": [
+    "Manufacturing"
+  ],
+  "Production Orders in Progress": [
+    "Manufacturing"
+  ],
+  "Profit and Loss Statement": [
+    "Accounts"
+  ],
+  "Profitability Analysis": [
+    "Accounts"
+  ],
+  "Project wise Stock Tracking": [
+    "Projects"
+  ],
+  "Prospects Engaged But Not Converted": [
+    "CRM"
+  ],
+  "Purchase Invoice Trends": [
+    "Accounts"
+  ],
+  "Purchase Order Items To Be Billed": [
+    "Accounts"
+  ],
+  "Purchase Order Items To Be Received": [
+    "Stock"
+  ],
+  "Purchase Order Trends": [
+    "Buying"
+  ],
+  "Purchase Receipt Trends": [
+    "Stock"
+  ],
+  "Purchase Register": [
+    "Accounts"
+  ],
+  "Quotation Trends": [
+    "Selling"
+  ],
+  "Quoted Item Comparison": [
+    "Buying"
+  ],
+  "Received Items To Be Billed": [
+    "Accounts"
+  ],
+  "Requested Items To Be Ordered": [
+    "Buying"
+  ],
+  "Requested Items To Be Transferred": [
+    "Stock"
+  ],
+  "Salary Register": [
+    "HR"
+  ],
+  "Sales Invoice Trends": [
+    "Accounts"
+  ],
+  "Sales Order Trends": [
+    "Selling"
+  ],
+  "Sales Partners Commission": [
+    "Accounts"
+  ],
+  "Sales Person Target Variance Item Group-Wise": [
+    "Selling"
+  ],
+  "Sales Person-wise Transaction Summary": [
+    "Selling"
+  ],
+  "Sales Register": [
+    "Accounts"
+  ],
+  "Serial No Service Contract Expiry": [
+    "Stock"
+  ],
+  "Serial No Status": [
+    "Stock"
+  ],
+  "Serial No Warranty Expiry": [
+    "Stock"
+  ],
+  "Stock Ageing": [
+    "Stock"
+  ],
+  "Stock Balance": [
+    "Stock"
+  ],
+  "Stock Ledger": [
+    "Stock"
+  ],
+  "Stock Projected Qty": [
+    "Stock"
+  ],
+  "Student Batch-Wise Attendance": [
+    "Schools"
+  ],
+  "Student Fee Collection": [
+    "Schools"
+  ],
+  "Student Monthly Attendance Sheet": [
+    "Schools"
+  ],
+  "Student and Guardian Contact Details": [
+    "Schools"
+  ],
+  "Supplier-Wise Sales Analytics": [
+    "Stock"
+  ],
+  "Support Hour Distribution": [
+    "Support"
+  ],
+  "Territory Target Variance Item Group-Wise": [
+    "Selling"
+  ],
+  "ToDo": [
+    "Desk"
+  ],
+  "Total Stock Summary": [
+    "Stock"
+  ],
+  "Trial Balance": [
+    "Accounts"
+  ],
+  "Trial Balance for Party": [
+    "Accounts"
+  ],
+  "Unpaid Expense Claim": [
+    "Accounts"
+  ],
+  "Vehicle Expenses": [
+    "HR"
+  ]
+}

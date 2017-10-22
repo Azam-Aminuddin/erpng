@@ -1,0 +1,1 @@
+{"message":{"script":"// Copyright (c) 2016, Frappe Technologies Pvt. Ltd. and contributors\r\n// For license information, please see license.txt\r\n/* eslint-disable */\r\n\r\n{% include \"erpnext/accounts/report/sales_register/sales_register.js\" %}\r\n\r\nfrappe.query_reports[\"GST Sales Register\"] \u003d frappe.query_reports[\"Sales Register\"]\r\n","html_format":null}}
