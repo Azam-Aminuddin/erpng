@@ -1,0 +1,1518 @@
+{
+  "About Us Settings": [
+    "Website"
+  ],
+  "About Us Team Member": [
+    "Website"
+  ],
+  "Academic Term": [
+    "Schools"
+  ],
+  "Academic Year": [
+    "Schools"
+  ],
+  "Account": [
+    "Accounts"
+  ],
+  "Accounts Settings": [
+    "Accounts"
+  ],
+  "Activity Cost": [
+    "Projects"
+  ],
+  "Activity Type": [
+    "Projects"
+  ],
+  "Address": [
+    "Contacts"
+  ],
+  "Address Template": [
+    "Contacts"
+  ],
+  "Antibiotic": [
+    "Healthcare"
+  ],
+  "Appointment Type": [
+    "Healthcare"
+  ],
+  "Appraisal": [
+    "HR"
+  ],
+  "Appraisal Goal": [
+    "HR"
+  ],
+  "Appraisal Template": [
+    "HR"
+  ],
+  "Appraisal Template Goal": [
+    "HR"
+  ],
+  "Assessment Criteria": [
+    "Schools"
+  ],
+  "Assessment Criteria Group": [
+    "Schools"
+  ],
+  "Assessment Group": [
+    "Schools"
+  ],
+  "Assessment Plan": [
+    "Schools"
+  ],
+  "Assessment Plan Criteria": [
+    "Schools"
+  ],
+  "Assessment Result": [
+    "Schools"
+  ],
+  "Assessment Result Detail": [
+    "Schools"
+  ],
+  "Assessment Result Tool": [
+    "Schools"
+  ],
+  "Asset": [
+    "Accounts"
+  ],
+  "Asset Category": [
+    "Accounts"
+  ],
+  "Asset Category Account": [
+    "Accounts"
+  ],
+  "Asset Movement": [
+    "Accounts"
+  ],
+  "Attendance": [
+    "HR"
+  ],
+  "Authentication Log": [
+    "Core"
+  ],
+  "Authorization Control": [
+    "Setup"
+  ],
+  "Authorization Rule": [
+    "Setup"
+  ],
+  "Auto Email Report": [
+    "Email"
+  ],
+  "BOM": [
+    "Manufacturing"
+  ],
+  "BOM Explosion Item": [
+    "Manufacturing"
+  ],
+  "BOM Item": [
+    "Manufacturing"
+  ],
+  "BOM Operation": [
+    "Manufacturing"
+  ],
+  "BOM Scrap Item": [
+    "Manufacturing"
+  ],
+  "BOM Update Tool": [
+    "Manufacturing"
+  ],
+  "BOM Website Item": [
+    "Manufacturing"
+  ],
+  "BOM Website Operation": [
+    "Manufacturing"
+  ],
+  "Bank Guarantee": [
+    "Accounts"
+  ],
+  "Bank Reconciliation": [
+    "Accounts"
+  ],
+  "Bank Reconciliation Detail": [
+    "Accounts"
+  ],
+  "Batch": [
+    "Stock"
+  ],
+  "Bin": [
+    "Stock"
+  ],
+  "Block Module": [
+    "Core"
+  ],
+  "Blog Category": [
+    "Website"
+  ],
+  "Blog Post": [
+    "Website"
+  ],
+  "Blog Settings": [
+    "Website"
+  ],
+  "Blogger": [
+    "Website"
+  ],
+  "Branch": [
+    "HR"
+  ],
+  "Brand": [
+    "Setup"
+  ],
+  "Budget": [
+    "Accounts"
+  ],
+  "Budget Account": [
+    "Accounts"
+  ],
+  "Bulk Update": [
+    "Desk"
+  ],
+  "Buying Settings": [
+    "Buying"
+  ],
+  "C-Form": [
+    "Accounts"
+  ],
+  "C-Form Invoice Detail": [
+    "Accounts"
+  ],
+  "Campaign": [
+    "Selling"
+  ],
+  "Cheque Print Template": [
+    "Accounts"
+  ],
+  "Codification Table": [
+    "Healthcare"
+  ],
+  "Communication": [
+    "Core"
+  ],
+  "Company": [
+    "Setup"
+  ],
+  "Company History": [
+    "Website"
+  ],
+  "Complaint": [
+    "Healthcare"
+  ],
+  "Consultation": [
+    "Healthcare"
+  ],
+  "Contact": [
+    "Contacts"
+  ],
+  "Contact Us Settings": [
+    "Website"
+  ],
+  "Cost Center": [
+    "Accounts"
+  ],
+  "Country": [
+    "Geo"
+  ],
+  "Course": [
+    "Schools"
+  ],
+  "Course Assessment Criteria": [
+    "Schools"
+  ],
+  "Course Schedule": [
+    "Schools"
+  ],
+  "Course Scheduling Tool": [
+    "Schools"
+  ],
+  "Currency": [
+    "Geo"
+  ],
+  "Currency Exchange": [
+    "Setup"
+  ],
+  "Custom DocPerm": [
+    "Core"
+  ],
+  "Custom Field": [
+    "Custom"
+  ],
+  "Custom Role": [
+    "Core"
+  ],
+  "Custom Script": [
+    "Custom"
+  ],
+  "Customer": [
+    "Selling"
+  ],
+  "Customer Group": [
+    "Setup"
+  ],
+  "Customize Form": [
+    "Custom"
+  ],
+  "Customize Form Field": [
+    "Custom"
+  ],
+  "Customs Tariff Number": [
+    "Stock"
+  ],
+  "Daily Work Summary": [
+    "HR"
+  ],
+  "Daily Work Summary Settings": [
+    "HR"
+  ],
+  "Daily Work Summary Settings Company": [
+    "HR"
+  ],
+  "Data Migration Connector": [
+    "Data Migration"
+  ],
+  "Data Migration Mapping": [
+    "Data Migration"
+  ],
+  "Data Migration Mapping Detail": [
+    "Data Migration"
+  ],
+  "Data Migration Plan": [
+    "Data Migration"
+  ],
+  "Data Migration Plan Mapping": [
+    "Data Migration"
+  ],
+  "Data Migration Run": [
+    "Data Migration"
+  ],
+  "DefaultValue": [
+    "Core"
+  ],
+  "Deleted Document": [
+    "Core"
+  ],
+  "Delivery Note": [
+    "Stock"
+  ],
+  "Delivery Note Item": [
+    "Stock"
+  ],
+  "Department": [
+    "HR"
+  ],
+  "Dependent Task": [
+    "Projects"
+  ],
+  "Depreciation Schedule": [
+    "Accounts"
+  ],
+  "Designation": [
+    "HR"
+  ],
+  "Desktop Icon": [
+    "Desk"
+  ],
+  "Diagnosis": [
+    "Healthcare"
+  ],
+  "DocField": [
+    "Core"
+  ],
+  "DocPerm": [
+    "Core"
+  ],
+  "DocShare": [
+    "Core"
+  ],
+  "DocType": [
+    "Core"
+  ],
+  "Domain": [
+    "Core"
+  ],
+  "Domain Settings": [
+    "Core"
+  ],
+  "Dosage Form": [
+    "Healthcare"
+  ],
+  "Dosage Strength": [
+    "Healthcare"
+  ],
+  "Dropbox Settings": [
+    "Integrations"
+  ],
+  "Drug Prescription": [
+    "Healthcare"
+  ],
+  "Dynamic Link": [
+    "Core"
+  ],
+  "Email Account": [
+    "Email"
+  ],
+  "Email Alert": [
+    "Email"
+  ],
+  "Email Alert Recipient": [
+    "Email"
+  ],
+  "Email Digest": [
+    "Setup"
+  ],
+  "Email Domain": [
+    "Email"
+  ],
+  "Email Flag Queue": [
+    "Email"
+  ],
+  "Email Group": [
+    "Email"
+  ],
+  "Email Group Member": [
+    "Email"
+  ],
+  "Email Queue": [
+    "Email"
+  ],
+  "Email Queue Recipient": [
+    "Email"
+  ],
+  "Email Rule": [
+    "Email"
+  ],
+  "Email Unsubscribe": [
+    "Email"
+  ],
+  "Employee": [
+    "HR"
+  ],
+  "Employee Attendance Tool": [
+    "HR"
+  ],
+  "Employee Education": [
+    "HR"
+  ],
+  "Employee External Work History": [
+    "HR"
+  ],
+  "Employee Internal Work History": [
+    "HR"
+  ],
+  "Employee Leave Approver": [
+    "HR"
+  ],
+  "Employee Loan": [
+    "HR"
+  ],
+  "Employee Loan Application": [
+    "HR"
+  ],
+  "Employment Type": [
+    "HR"
+  ],
+  "Error Log": [
+    "Core"
+  ],
+  "Error Snapshot": [
+    "Core"
+  ],
+  "Event": [
+    "Desk"
+  ],
+  "Expense Claim": [
+    "HR"
+  ],
+  "Expense Claim Account": [
+    "HR"
+  ],
+  "Expense Claim Detail": [
+    "HR"
+  ],
+  "Expense Claim Type": [
+    "HR"
+  ],
+  "Fee Category": [
+    "Schools"
+  ],
+  "Fee Component": [
+    "Schools"
+  ],
+  "Fee Schedule": [
+    "Schools"
+  ],
+  "Fee Schedule Program": [
+    "Schools"
+  ],
+  "Fee Schedule Student Group": [
+    "Schools"
+  ],
+  "Fee Structure": [
+    "Schools"
+  ],
+  "Fee Validity": [
+    "Healthcare"
+  ],
+  "Feedback Request": [
+    "Core"
+  ],
+  "Feedback Trigger": [
+    "Core"
+  ],
+  "Fees": [
+    "Schools"
+  ],
+  "File": [
+    "Core"
+  ],
+  "Fiscal Year": [
+    "Accounts"
+  ],
+  "Fiscal Year Company": [
+    "Accounts"
+  ],
+  "Footer Item": [
+    "Website"
+  ],
+  "GL Entry": [
+    "Accounts"
+  ],
+  "GST HSN Code": [
+    "Regional"
+  ],
+  "GST Settings": [
+    "Regional"
+  ],
+  "GSuite Settings": [
+    "Integrations"
+  ],
+  "GSuite Templates": [
+    "Integrations"
+  ],
+  "Gender": [
+    "Contacts"
+  ],
+  "Global Defaults": [
+    "Setup"
+  ],
+  "Grading Scale": [
+    "Schools"
+  ],
+  "Grading Scale Interval": [
+    "Schools"
+  ],
+  "Guardian": [
+    "Schools"
+  ],
+  "Guardian Interest": [
+    "Schools"
+  ],
+  "Guardian Student": [
+    "Schools"
+  ],
+  "HR Settings": [
+    "HR"
+  ],
+  "Has Domain": [
+    "Core"
+  ],
+  "Has Role": [
+    "Core"
+  ],
+  "Healthcare Settings": [
+    "Healthcare"
+  ],
+  "Help Article": [
+    "Website"
+  ],
+  "Help Category": [
+    "Website"
+  ],
+  "Holiday": [
+    "HR"
+  ],
+  "Holiday List": [
+    "HR"
+  ],
+  "Homepage": [
+    "Portal"
+  ],
+  "Homepage Featured Product": [
+    "Portal"
+  ],
+  "Hub Category": [
+    "Hub Node"
+  ],
+  "Hub Settings": [
+    "Hub Node"
+  ],
+  "Industry Type": [
+    "Selling"
+  ],
+  "Installation Note": [
+    "Selling"
+  ],
+  "Installation Note Item": [
+    "Selling"
+  ],
+  "Instructor": [
+    "Schools"
+  ],
+  "Integration Request": [
+    "Integrations"
+  ],
+  "Interest": [
+    "HR"
+  ],
+  "Issue": [
+    "Support"
+  ],
+  "Item": [
+    "Stock"
+  ],
+  "Item Attribute": [
+    "Stock"
+  ],
+  "Item Attribute Value": [
+    "Stock"
+  ],
+  "Item Customer Detail": [
+    "Stock"
+  ],
+  "Item Group": [
+    "Setup"
+  ],
+  "Item Price": [
+    "Stock"
+  ],
+  "Item Quality Inspection Parameter": [
+    "Stock"
+  ],
+  "Item Reorder": [
+    "Stock"
+  ],
+  "Item Supplier": [
+    "Stock"
+  ],
+  "Item Tax": [
+    "Stock"
+  ],
+  "Item Variant": [
+    "Stock"
+  ],
+  "Item Variant Attribute": [
+    "Stock"
+  ],
+  "Item Variant Settings": [
+    "Stock"
+  ],
+  "Item Website Specification": [
+    "Stock"
+  ],
+  "Job Applicant": [
+    "HR"
+  ],
+  "Job Opening": [
+    "HR"
+  ],
+  "Journal Entry": [
+    "Accounts"
+  ],
+  "Journal Entry Account": [
+    "Accounts"
+  ],
+  "Kanban Board": [
+    "Desk"
+  ],
+  "Kanban Board Column": [
+    "Desk"
+  ],
+  "LDAP Settings": [
+    "Integrations"
+  ],
+  "Lab Prescription": [
+    "Healthcare"
+  ],
+  "Lab Test": [
+    "Healthcare"
+  ],
+  "Lab Test Groups": [
+    "Healthcare"
+  ],
+  "Lab Test Sample": [
+    "Healthcare"
+  ],
+  "Lab Test Template": [
+    "Healthcare"
+  ],
+  "Lab Test UOM": [
+    "Healthcare"
+  ],
+  "Landed Cost Item": [
+    "Stock"
+  ],
+  "Landed Cost Purchase Receipt": [
+    "Stock"
+  ],
+  "Landed Cost Taxes and Charges": [
+    "Stock"
+  ],
+  "Landed Cost Voucher": [
+    "Stock"
+  ],
+  "Language": [
+    "Core"
+  ],
+  "Lead": [
+    "CRM"
+  ],
+  "Lead Source": [
+    "Selling"
+  ],
+  "Leave Allocation": [
+    "HR"
+  ],
+  "Leave Application": [
+    "HR"
+  ],
+  "Leave Block List": [
+    "HR"
+  ],
+  "Leave Block List Allow": [
+    "HR"
+  ],
+  "Leave Block List Date": [
+    "HR"
+  ],
+  "Leave Control Panel": [
+    "HR"
+  ],
+  "Leave Type": [
+    "HR"
+  ],
+  "Letter Head": [
+    "Printing"
+  ],
+  "Loan Type": [
+    "HR"
+  ],
+  "Maintenance Schedule": [
+    "Maintenance"
+  ],
+  "Maintenance Schedule Detail": [
+    "Maintenance"
+  ],
+  "Maintenance Schedule Item": [
+    "Maintenance"
+  ],
+  "Maintenance Visit": [
+    "Maintenance"
+  ],
+  "Maintenance Visit Purpose": [
+    "Maintenance"
+  ],
+  "Manufacturer": [
+    "Stock"
+  ],
+  "Manufacturing Settings": [
+    "Manufacturing"
+  ],
+  "Material Request": [
+    "Stock"
+  ],
+  "Material Request Item": [
+    "Stock"
+  ],
+  "Medical Code": [
+    "Healthcare"
+  ],
+  "Medical Code Standard": [
+    "Healthcare"
+  ],
+  "Medical Department": [
+    "Healthcare"
+  ],
+  "Mode of Payment": [
+    "Accounts"
+  ],
+  "Mode of Payment Account": [
+    "Accounts"
+  ],
+  "Module Def": [
+    "Core"
+  ],
+  "Monthly Distribution": [
+    "Accounts"
+  ],
+  "Monthly Distribution Percentage": [
+    "Accounts"
+  ],
+  "Naming Series": [
+    "Setup"
+  ],
+  "Newsletter": [
+    "Email"
+  ],
+  "Newsletter Email Group": [
+    "Email"
+  ],
+  "Normal Test Items": [
+    "Healthcare"
+  ],
+  "Normal Test Template": [
+    "Healthcare"
+  ],
+  "Note": [
+    "Desk"
+  ],
+  "Note Seen By": [
+    "Desk"
+  ],
+  "Notification Control": [
+    "Setup"
+  ],
+  "OAuth Authorization Code": [
+    "Integrations"
+  ],
+  "OAuth Bearer Token": [
+    "Integrations"
+  ],
+  "OAuth Client": [
+    "Integrations"
+  ],
+  "OAuth Provider Settings": [
+    "Integrations"
+  ],
+  "Offer Letter": [
+    "HR"
+  ],
+  "Offer Letter Term": [
+    "HR"
+  ],
+  "Offer Term": [
+    "HR"
+  ],
+  "Operation": [
+    "Manufacturing"
+  ],
+  "Opportunity": [
+    "CRM"
+  ],
+  "Opportunity Item": [
+    "CRM"
+  ],
+  "POS Customer Group": [
+    "Accounts"
+  ],
+  "POS Item Group": [
+    "Accounts"
+  ],
+  "POS Profile": [
+    "Accounts"
+  ],
+  "POS Settings": [
+    "Accounts"
+  ],
+  "Packed Item": [
+    "Stock"
+  ],
+  "Packing Slip": [
+    "Stock"
+  ],
+  "Packing Slip Item": [
+    "Stock"
+  ],
+  "Page": [
+    "Core"
+  ],
+  "Party Account": [
+    "Accounts"
+  ],
+  "Party Type": [
+    "Setup"
+  ],
+  "Patch Log": [
+    "Core"
+  ],
+  "Patient": [
+    "Healthcare"
+  ],
+  "Patient Appointment": [
+    "Healthcare"
+  ],
+  "Patient Medical Record": [
+    "Healthcare"
+  ],
+  "Patient Relation": [
+    "Healthcare"
+  ],
+  "PayPal Settings": [
+    "Integrations"
+  ],
+  "Payment Entry": [
+    "Accounts"
+  ],
+  "Payment Entry Deduction": [
+    "Accounts"
+  ],
+  "Payment Entry Reference": [
+    "Accounts"
+  ],
+  "Payment Gateway": [
+    "Core"
+  ],
+  "Payment Gateway Account": [
+    "Accounts"
+  ],
+  "Payment Reconciliation": [
+    "Accounts"
+  ],
+  "Payment Reconciliation Invoice": [
+    "Accounts"
+  ],
+  "Payment Reconciliation Payment": [
+    "Accounts"
+  ],
+  "Payment Request": [
+    "Accounts"
+  ],
+  "Period Closing Voucher": [
+    "Accounts"
+  ],
+  "Physician": [
+    "Healthcare"
+  ],
+  "Physician Schedule": [
+    "Healthcare"
+  ],
+  "Physician Schedule Time Slot": [
+    "Healthcare"
+  ],
+  "Portal Menu Item": [
+    "Website"
+  ],
+  "Portal Settings": [
+    "Website"
+  ],
+  "Prescription Dosage": [
+    "Healthcare"
+  ],
+  "Prescription Duration": [
+    "Healthcare"
+  ],
+  "Price List": [
+    "Stock"
+  ],
+  "Price List Country": [
+    "Stock"
+  ],
+  "Pricing Rule": [
+    "Accounts"
+  ],
+  "Print Format": [
+    "Printing"
+  ],
+  "Print Heading": [
+    "Printing",
+    "Setup"
+  ],
+  "Print Settings": [
+    "Printing"
+  ],
+  "Print Style": [
+    "Printing"
+  ],
+  "Process Payroll": [
+    "HR"
+  ],
+  "Product Bundle": [
+    "Selling"
+  ],
+  "Product Bundle Item": [
+    "Selling"
+  ],
+  "Production Order": [
+    "Manufacturing"
+  ],
+  "Production Order Item": [
+    "Manufacturing"
+  ],
+  "Production Order Operation": [
+    "Manufacturing"
+  ],
+  "Production Plan Item": [
+    "Manufacturing"
+  ],
+  "Production Plan Material Request": [
+    "Manufacturing"
+  ],
+  "Production Plan Sales Order": [
+    "Manufacturing"
+  ],
+  "Production Planning Tool": [
+    "Manufacturing"
+  ],
+  "Products Settings": [
+    "Portal"
+  ],
+  "Program": [
+    "Schools"
+  ],
+  "Program Course": [
+    "Schools"
+  ],
+  "Program Enrollment": [
+    "Schools"
+  ],
+  "Program Enrollment Course": [
+    "Schools"
+  ],
+  "Program Enrollment Fee": [
+    "Schools"
+  ],
+  "Program Enrollment Tool": [
+    "Schools"
+  ],
+  "Program Enrollment Tool Student": [
+    "Schools"
+  ],
+  "Program Fee": [
+    "Schools"
+  ],
+  "Project": [
+    "Projects"
+  ],
+  "Project Task": [
+    "Projects"
+  ],
+  "Project Type": [
+    "Projects"
+  ],
+  "Project User": [
+    "Projects"
+  ],
+  "Property Setter": [
+    "Custom"
+  ],
+  "Purchase Invoice": [
+    "Accounts"
+  ],
+  "Purchase Invoice Advance": [
+    "Accounts"
+  ],
+  "Purchase Invoice Item": [
+    "Accounts"
+  ],
+  "Purchase Order": [
+    "Buying"
+  ],
+  "Purchase Order Item": [
+    "Buying"
+  ],
+  "Purchase Order Item Supplied": [
+    "Buying"
+  ],
+  "Purchase Receipt": [
+    "Stock"
+  ],
+  "Purchase Receipt Item": [
+    "Stock"
+  ],
+  "Purchase Receipt Item Supplied": [
+    "Buying"
+  ],
+  "Purchase Taxes and Charges": [
+    "Accounts"
+  ],
+  "Purchase Taxes and Charges Template": [
+    "Accounts"
+  ],
+  "Quality Inspection": [
+    "Stock"
+  ],
+  "Quality Inspection Reading": [
+    "Stock"
+  ],
+  "Quotation": [
+    "Selling"
+  ],
+  "Quotation Item": [
+    "Selling"
+  ],
+  "Quotation Lost Reason": [
+    "Setup"
+  ],
+  "Razorpay Settings": [
+    "Integrations"
+  ],
+  "Rename Tool": [
+    "Utilities"
+  ],
+  "Repayment Schedule": [
+    "HR"
+  ],
+  "Report": [
+    "Core"
+  ],
+  "Request for Quotation": [
+    "Buying"
+  ],
+  "Request for Quotation Item": [
+    "Buying"
+  ],
+  "Request for Quotation Supplier": [
+    "Buying"
+  ],
+  "Restaurant": [
+    "Restaurant"
+  ],
+  "Restaurant Menu": [
+    "Restaurant"
+  ],
+  "Restaurant Menu Item": [
+    "Restaurant"
+  ],
+  "Restaurant Order Entry": [
+    "Restaurant"
+  ],
+  "Restaurant Order Entry Item": [
+    "Restaurant"
+  ],
+  "Restaurant Reservation": [
+    "Restaurant"
+  ],
+  "Restaurant Table": [
+    "Restaurant"
+  ],
+  "Role": [
+    "Core"
+  ],
+  "Role Permission for Page and Report": [
+    "Core"
+  ],
+  "Room": [
+    "Schools"
+  ],
+  "S3 Backup Settings": [
+    "Integrations"
+  ],
+  "SMS Center": [
+    "Selling"
+  ],
+  "SMS Log": [
+    "Utilities"
+  ],
+  "SMS Parameter": [
+    "Core"
+  ],
+  "SMS Settings": [
+    "Core"
+  ],
+  "Salary Component": [
+    "HR"
+  ],
+  "Salary Component Account": [
+    "Accounts"
+  ],
+  "Salary Detail": [
+    "HR"
+  ],
+  "Salary Slip": [
+    "HR"
+  ],
+  "Salary Slip Timesheet": [
+    "HR"
+  ],
+  "Salary Structure": [
+    "HR"
+  ],
+  "Salary Structure Employee": [
+    "HR"
+  ],
+  "Sales Invoice": [
+    "Accounts"
+  ],
+  "Sales Invoice Advance": [
+    "Accounts"
+  ],
+  "Sales Invoice Item": [
+    "Accounts"
+  ],
+  "Sales Invoice Payment": [
+    "Accounts"
+  ],
+  "Sales Invoice Timesheet": [
+    "Accounts"
+  ],
+  "Sales Order": [
+    "Selling"
+  ],
+  "Sales Order Item": [
+    "Selling"
+  ],
+  "Sales Partner": [
+    "Setup"
+  ],
+  "Sales Person": [
+    "Setup"
+  ],
+  "Sales Taxes and Charges": [
+    "Accounts"
+  ],
+  "Sales Taxes and Charges Template": [
+    "Accounts"
+  ],
+  "Sales Team": [
+    "Selling"
+  ],
+  "Salutation": [
+    "Contacts"
+  ],
+  "Sample Collection": [
+    "Healthcare"
+  ],
+  "School House": [
+    "Schools"
+  ],
+  "School Settings": [
+    "Schools"
+  ],
+  "Selling Settings": [
+    "Selling"
+  ],
+  "Sensitivity": [
+    "Healthcare"
+  ],
+  "Sensitivity Test Items": [
+    "Healthcare"
+  ],
+  "Serial No": [
+    "Stock"
+  ],
+  "Setup Progress": [
+    "Setup"
+  ],
+  "Setup Progress Action": [
+    "Setup"
+  ],
+  "Shipping Rule": [
+    "Accounts"
+  ],
+  "Shipping Rule Condition": [
+    "Accounts"
+  ],
+  "Shipping Rule Country": [
+    "Accounts"
+  ],
+  "Shopping Cart Settings": [
+    "Shopping Cart"
+  ],
+  "Social Login Keys": [
+    "Integrations"
+  ],
+  "Special Test Items": [
+    "Healthcare"
+  ],
+  "Special Test Template": [
+    "Healthcare"
+  ],
+  "Standard Reply": [
+    "Email"
+  ],
+  "Stock Entry": [
+    "Stock"
+  ],
+  "Stock Entry Detail": [
+    "Stock"
+  ],
+  "Stock Ledger Entry": [
+    "Stock"
+  ],
+  "Stock Reconciliation": [
+    "Stock"
+  ],
+  "Stock Reconciliation Item": [
+    "Stock"
+  ],
+  "Stock Settings": [
+    "Stock"
+  ],
+  "Stripe Settings": [
+    "Integrations"
+  ],
+  "Student": [
+    "Schools"
+  ],
+  "Student Admission": [
+    "Schools"
+  ],
+  "Student Admission Program": [
+    "Schools"
+  ],
+  "Student Applicant": [
+    "Schools"
+  ],
+  "Student Attendance": [
+    "Schools"
+  ],
+  "Student Attendance Tool": [
+    "Schools"
+  ],
+  "Student Batch Name": [
+    "Schools"
+  ],
+  "Student Category": [
+    "Schools"
+  ],
+  "Student Group": [
+    "Schools"
+  ],
+  "Student Group Creation Tool": [
+    "Schools"
+  ],
+  "Student Group Creation Tool Course": [
+    "Schools"
+  ],
+  "Student Group Instructor": [
+    "Schools"
+  ],
+  "Student Group Student": [
+    "Schools"
+  ],
+  "Student Guardian": [
+    "Schools"
+  ],
+  "Student Language": [
+    "Schools"
+  ],
+  "Student Leave Application": [
+    "Schools"
+  ],
+  "Student Log": [
+    "Schools"
+  ],
+  "Student Sibling": [
+    "Schools"
+  ],
+  "Student Siblings": [
+    "Schools"
+  ],
+  "Subscription": [
+    "Accounts"
+  ],
+  "Supplier": [
+    "Buying"
+  ],
+  "Supplier Quotation": [
+    "Buying"
+  ],
+  "Supplier Quotation Item": [
+    "Buying"
+  ],
+  "Supplier Scorecard": [
+    "Buying"
+  ],
+  "Supplier Scorecard Criteria": [
+    "Buying"
+  ],
+  "Supplier Scorecard Period": [
+    "Buying"
+  ],
+  "Supplier Scorecard Scoring Criteria": [
+    "Buying"
+  ],
+  "Supplier Scorecard Scoring Standing": [
+    "Buying"
+  ],
+  "Supplier Scorecard Scoring Variable": [
+    "Buying"
+  ],
+  "Supplier Scorecard Standing": [
+    "Buying"
+  ],
+  "Supplier Scorecard Variable": [
+    "Buying"
+  ],
+  "Supplier Type": [
+    "Setup"
+  ],
+  "Support Settings": [
+    "Support"
+  ],
+  "System Settings": [
+    "Core"
+  ],
+  "Tag": [
+    "Core"
+  ],
+  "Tag Category": [
+    "Core"
+  ],
+  "Tag Doc Category": [
+    "Core"
+  ],
+  "Target Detail": [
+    "Setup"
+  ],
+  "Task": [
+    "Projects"
+  ],
+  "Task Depends On": [
+    "Projects"
+  ],
+  "Tax Rule": [
+    "Accounts"
+  ],
+  "Terms and Conditions": [
+    "Setup"
+  ],
+  "Territory": [
+    "Setup"
+  ],
+  "Test Runner": [
+    "Core"
+  ],
+  "Timesheet": [
+    "Projects"
+  ],
+  "Timesheet Detail": [
+    "Projects"
+  ],
+  "ToDo": [
+    "Desk"
+  ],
+  "Top Bar Item": [
+    "Website"
+  ],
+  "Training Event": [
+    "HR"
+  ],
+  "Training Event Employee": [
+    "HR"
+  ],
+  "Training Feedback": [
+    "HR"
+  ],
+  "Training Program": [
+    "HR"
+  ],
+  "Training Result": [
+    "HR"
+  ],
+  "Training Result Employee": [
+    "HR"
+  ],
+  "Translation": [
+    "Core"
+  ],
+  "UOM": [
+    "Setup"
+  ],
+  "UOM Conversion Detail": [
+    "Stock"
+  ],
+  "Unhandled Email": [
+    "Email"
+  ],
+  "Upload Attendance": [
+    "HR"
+  ],
+  "User": [
+    "Core"
+  ],
+  "User Email": [
+    "Core"
+  ],
+  "User Permission": [
+    "Core"
+  ],
+  "User Permission for Page and Report": [
+    "Core"
+  ],
+  "Variant Field": [
+    "Stock"
+  ],
+  "Vehicle": [
+    "HR"
+  ],
+  "Vehicle Log": [
+    "HR"
+  ],
+  "Vehicle Service": [
+    "HR"
+  ],
+  "Version": [
+    "Core"
+  ],
+  "Vital Signs": [
+    "Healthcare"
+  ],
+  "Warehouse": [
+    "Stock"
+  ],
+  "Warranty Claim": [
+    "Support"
+  ],
+  "Web Form": [
+    "Website"
+  ],
+  "Web Form Field": [
+    "Website"
+  ],
+  "Web Page": [
+    "Website"
+  ],
+  "Webhook": [
+    "Integrations"
+  ],
+  "Webhook Data": [
+    "Integrations"
+  ],
+  "Webhook Header": [
+    "Integrations"
+  ],
+  "Website Item Group": [
+    "Setup"
+  ],
+  "Website Script": [
+    "Website"
+  ],
+  "Website Settings": [
+    "Website"
+  ],
+  "Website Sidebar": [
+    "Website"
+  ],
+  "Website Sidebar Item": [
+    "Website"
+  ],
+  "Website Slideshow": [
+    "Website"
+  ],
+  "Website Slideshow Item": [
+    "Website"
+  ],
+  "Website Theme": [
+    "Website"
+  ],
+  "Workflow": [
+    "Workflow"
+  ],
+  "Workflow Action": [
+    "Workflow"
+  ],
+  "Workflow Document State": [
+    "Workflow"
+  ],
+  "Workflow State": [
+    "Workflow"
+  ],
+  "Workflow Transition": [
+    "Workflow"
+  ],
+  "Workstation": [
+    "Manufacturing"
+  ],
+  "Workstation Working Hour": [
+    "Manufacturing"
+  ]
+}
