@@ -1,0 +1,15 @@
+{
+    "fraction_units":100
+    ,"name":"SGD"
+    ,"symbol":"$"
+    ,"creation":"2017-10-09 11:00:52.213561"
+    ,"enabled":1
+    ,"modified":"2017-10-09 11:00:52.213561"
+    ,"smallest_currency_fraction_value":0.0
+    ,"doctype":"Currency"
+    ,"currency_name":"SGD"
+    ,"idx":0
+    ,"fraction":"Sen"
+    ,"docstatus":0
+    ,"number_format":"#,###.##"
+}

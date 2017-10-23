@@ -1,0 +1,12 @@
+{
+    "doctype":"Country"
+    ,"code":"id"
+    ,"name":"Indonesia"
+    ,"country_name":"Indonesia"
+    ,"date_format":"dd-mm-yyyy"
+    ,"time_zones":"Asia/Jakarta\nAsia/Jayapura\nAsia/Makassar\nAsia/Pontianak"
+    ,"docstatus":0
+    ,"creation":"2017-10-22 11:00:52.156008"
+    ,"modified":"2017-10-22 11:00:52.156008"
+    ,"idx":0
+}
