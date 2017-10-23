@@ -1,0 +1,18 @@
+{
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "default_account": {
+    "fieldname": "default_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": true,
+    "target_modules": null
+  }
+}

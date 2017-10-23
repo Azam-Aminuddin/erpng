@@ -1,0 +1,55 @@
+{
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "cost_center": {
+    "fieldname": "cost_center",
+    "fieldtype": "Link",
+    "target": "Cost Center",
+    "same_module": true,
+    "target_modules": null
+  },
+  "project": {
+    "fieldname": "project",
+    "fieldtype": "Link",
+    "target": "Project",
+    "same_module": false,
+    "target_modules": [
+      "Projects"
+    ]
+  },
+  "fiscal_year": {
+    "fieldname": "fiscal_year",
+    "fieldtype": "Link",
+    "target": "Fiscal Year",
+    "same_module": true,
+    "target_modules": null
+  },
+  "monthly_distribution": {
+    "fieldname": "monthly_distribution",
+    "fieldtype": "Link",
+    "target": "Monthly Distribution",
+    "same_module": true,
+    "target_modules": null
+  },
+  "amended_from": {
+    "fieldname": "amended_from",
+    "fieldtype": "Link",
+    "target": "Budget",
+    "same_module": true,
+    "target_modules": null
+  },
+  "accounts": {
+    "fieldname": "accounts",
+    "fieldtype": "Table",
+    "target": "Budget Account",
+    "same_module": true,
+    "target_modules": null
+  }
+}

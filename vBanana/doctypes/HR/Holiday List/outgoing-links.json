@@ -1,0 +1,9 @@
+{
+  "holidays": {
+    "fieldname": "holidays",
+    "fieldtype": "Table",
+    "target": "Holiday",
+    "same_module": true,
+    "target_modules": null
+  }
+}

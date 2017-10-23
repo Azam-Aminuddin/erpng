@@ -1,0 +1,26 @@
+[
+  {
+    "module": "HR",
+    "doctype": "Salary Slip",
+    "fieldname": "earnings",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "HR",
+    "doctype": "Salary Slip",
+    "fieldname": "deductions",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "HR",
+    "doctype": "Salary Structure",
+    "fieldname": "earnings",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "HR",
+    "doctype": "Salary Structure",
+    "fieldname": "deductions",
+    "fieldtype": "Table"
+  }
+]

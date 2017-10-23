@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Manufacturing",
+    "doctype": "Production Planning Tool",
+    "fieldname": "material_requests",
+    "fieldtype": "Table"
+  }
+]

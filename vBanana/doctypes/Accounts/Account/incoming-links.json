@@ -1,0 +1,464 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Account",
+    "fieldname": "parent_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Asset Category Account",
+    "fieldname": "fixed_asset_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Asset Category Account",
+    "fieldname": "accumulated_depreciation_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Asset Category Account",
+    "fieldname": "depreciation_expense_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Bank Guarantee",
+    "fieldname": "account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Bank Reconciliation",
+    "fieldname": "bank_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Budget Account",
+    "fieldname": "account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "GL Entry",
+    "fieldname": "account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Journal Entry Account",
+    "fieldname": "account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Mode of Payment Account",
+    "fieldname": "default_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Party Account",
+    "fieldname": "account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Payment Entry",
+    "fieldname": "paid_from",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Payment Entry",
+    "fieldname": "paid_to",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Payment Entry Deduction",
+    "fieldname": "account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Payment Gateway Account",
+    "fieldname": "payment_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Payment Reconciliation",
+    "fieldname": "receivable_payable_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Payment Reconciliation",
+    "fieldname": "bank_cash_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Period Closing Voucher",
+    "fieldname": "closing_account_head",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "POS Profile",
+    "fieldname": "write_off_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "POS Profile",
+    "fieldname": "account_for_change_amount",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "POS Profile",
+    "fieldname": "income_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "POS Profile",
+    "fieldname": "expense_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Purchase Invoice",
+    "fieldname": "cash_bank_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Purchase Invoice",
+    "fieldname": "write_off_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Purchase Invoice",
+    "fieldname": "credit_to",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Purchase Invoice Item",
+    "fieldname": "expense_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Purchase Taxes and Charges",
+    "fieldname": "account_head",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Salary Component Account",
+    "fieldname": "default_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Sales Invoice",
+    "fieldname": "cash_bank_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Sales Invoice",
+    "fieldname": "account_for_change_amount",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Sales Invoice",
+    "fieldname": "write_off_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Sales Invoice",
+    "fieldname": "debit_to",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Sales Invoice Item",
+    "fieldname": "income_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Sales Invoice Item",
+    "fieldname": "expense_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Sales Invoice Payment",
+    "fieldname": "account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Sales Taxes and Charges",
+    "fieldname": "account_head",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Shipping Rule",
+    "fieldname": "account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Employee Loan",
+    "fieldname": "payment_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Employee Loan",
+    "fieldname": "employee_loan_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Employee Loan",
+    "fieldname": "interest_income_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Expense Claim",
+    "fieldname": "payable_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Expense Claim Account",
+    "fieldname": "default_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Expense Claim Detail",
+    "fieldname": "default_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Process Payroll",
+    "fieldname": "payment_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Salary Structure",
+    "fieldname": "payment_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Fees",
+    "fieldname": "receivable_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Fees",
+    "fieldname": "income_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Fee Schedule",
+    "fieldname": "receivable_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Fee Schedule",
+    "fieldname": "income_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Fee Structure",
+    "fieldname": "receivable_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Fee Structure",
+    "fieldname": "income_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Company",
+    "fieldname": "default_bank_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Company",
+    "fieldname": "default_cash_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Company",
+    "fieldname": "default_receivable_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Company",
+    "fieldname": "round_off_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Company",
+    "fieldname": "write_off_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Company",
+    "fieldname": "exchange_gain_loss_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Company",
+    "fieldname": "default_payable_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Company",
+    "fieldname": "default_expense_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Company",
+    "fieldname": "default_income_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Company",
+    "fieldname": "default_payroll_payable_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Company",
+    "fieldname": "default_inventory_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Company",
+    "fieldname": "stock_adjustment_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Company",
+    "fieldname": "stock_received_but_not_billed",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Company",
+    "fieldname": "expenses_included_in_valuation",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Company",
+    "fieldname": "accumulated_depreciation_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Company",
+    "fieldname": "depreciation_expense_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Company",
+    "fieldname": "disposal_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Item Group",
+    "fieldname": "default_income_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Item Group",
+    "fieldname": "default_expense_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Delivery Note Item",
+    "fieldname": "expense_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Item",
+    "fieldname": "expense_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Item",
+    "fieldname": "income_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Item Tax",
+    "fieldname": "tax_type",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Stock Entry Detail",
+    "fieldname": "expense_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Stock Reconciliation",
+    "fieldname": "expense_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Warehouse",
+    "fieldname": "account",
+    "fieldtype": "Link"
+  }
+]

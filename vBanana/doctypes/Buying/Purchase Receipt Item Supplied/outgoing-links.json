@@ -1,0 +1,20 @@
+{
+  "batch_no": {
+    "fieldname": "batch_no",
+    "fieldtype": "Link",
+    "target": "Batch",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "stock_uom": {
+    "fieldname": "stock_uom",
+    "fieldtype": "Link",
+    "target": "UOM",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "production_order": {
+    "fieldname": "production_order",
+    "fieldtype": "Link",
+    "target": "Production Order",
+    "same_module": false,
+    "target_modules": [
+      "Manufacturing"
+    ]
+  },
+  "purchase_order": {
+    "fieldname": "purchase_order",
+    "fieldtype": "Link",
+    "target": "Purchase Order",
+    "same_module": false,
+    "target_modules": [
+      "Buying"
+    ]
+  },
+  "delivery_note_no": {
+    "fieldname": "delivery_note_no",
+    "fieldtype": "Link",
+    "target": "Delivery Note",
+    "same_module": true,
+    "target_modules": null
+  },
+  "sales_invoice_no": {
+    "fieldname": "sales_invoice_no",
+    "fieldtype": "Link",
+    "target": "Sales Invoice",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "purchase_receipt_no": {
+    "fieldname": "purchase_receipt_no",
+    "fieldtype": "Link",
+    "target": "Purchase Receipt",
+    "same_module": true,
+    "target_modules": null
+  },
+  "bom_no": {
+    "fieldname": "bom_no",
+    "fieldtype": "Link",
+    "target": "BOM",
+    "same_module": false,
+    "target_modules": [
+      "Manufacturing"
+    ]
+  },
+  "from_warehouse": {
+    "fieldname": "from_warehouse",
+    "fieldtype": "Link",
+    "target": "Warehouse",
+    "same_module": true,
+    "target_modules": null
+  },
+  "to_warehouse": {
+    "fieldname": "to_warehouse",
+    "fieldtype": "Link",
+    "target": "Warehouse",
+    "same_module": true,
+    "target_modules": null
+  },
+  "items": {
+    "fieldname": "items",
+    "fieldtype": "Table",
+    "target": "Stock Entry Detail",
+    "same_module": true,
+    "target_modules": null
+  },
+  "additional_costs": {
+    "fieldname": "additional_costs",
+    "fieldtype": "Table",
+    "target": "Landed Cost Taxes and Charges",
+    "same_module": true,
+    "target_modules": null
+  },
+  "supplier": {
+    "fieldname": "supplier",
+    "fieldtype": "Link",
+    "target": "Supplier",
+    "same_module": false,
+    "target_modules": [
+      "Buying"
+    ]
+  },
+  "supplier_address": {
+    "fieldname": "supplier_address",
+    "fieldtype": "Link",
+    "target": "Address",
+    "same_module": false,
+    "target_modules": [
+      "Contacts"
+    ]
+  },
+  "customer": {
+    "fieldname": "customer",
+    "fieldtype": "Link",
+    "target": "Customer",
+    "same_module": false,
+    "target_modules": [
+      "Selling"
+    ]
+  },
+  "select_print_heading": {
+    "fieldname": "select_print_heading",
+    "fieldtype": "Link",
+    "target": "Print Heading",
+    "same_module": false,
+    "target_modules": [
+      "Printing",
+      "Setup"
+    ]
+  },
+  "letter_head": {
+    "fieldname": "letter_head",
+    "fieldtype": "Link",
+    "target": "Letter Head",
+    "same_module": false,
+    "target_modules": [
+      "Printing"
+    ]
+  },
+  "project": {
+    "fieldname": "project",
+    "fieldtype": "Link",
+    "target": "Project",
+    "same_module": false,
+    "target_modules": [
+      "Projects"
+    ]
+  },
+  "amended_from": {
+    "fieldname": "amended_from",
+    "fieldtype": "Link",
+    "target": "Stock Entry",
+    "same_module": true,
+    "target_modules": null
+  },
+  "credit_note": {
+    "fieldname": "credit_note",
+    "fieldtype": "Link",
+    "target": "Journal Entry",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "item_attribute": {
+    "fieldname": "item_attribute",
+    "fieldtype": "Link",
+    "target": "Item Attribute",
+    "same_module": true,
+    "target_modules": null
+  }
+}

@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Manufacturing",
+    "doctype": "Production Order",
+    "fieldname": "operations",
+    "fieldtype": "Table"
+  }
+]

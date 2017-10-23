@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Healthcare",
+    "doctype": "Codification Table",
+    "fieldname": "medical_code",
+    "fieldtype": "Link"
+  }
+]

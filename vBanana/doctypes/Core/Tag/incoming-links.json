@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Core",
+    "doctype": "Tag Category",
+    "fieldname": "tags",
+    "fieldtype": "Table"
+  }
+]

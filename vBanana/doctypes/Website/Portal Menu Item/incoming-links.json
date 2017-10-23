@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Website",
+    "doctype": "Portal Settings",
+    "fieldname": "menu",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Website",
+    "doctype": "Portal Settings",
+    "fieldname": "custom_menu",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Website",
+    "doctype": "Web Form",
+    "fieldname": "sidebar_items",
+    "fieldtype": "Table"
+  }
+]

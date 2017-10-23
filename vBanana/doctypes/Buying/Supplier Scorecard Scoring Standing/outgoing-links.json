@@ -1,0 +1,18 @@
+{
+  "standing_name": {
+    "fieldname": "standing_name",
+    "fieldtype": "Link",
+    "target": "Supplier Scorecard Standing",
+    "same_module": true,
+    "target_modules": null
+  },
+  "employee_link": {
+    "fieldname": "employee_link",
+    "fieldtype": "Link",
+    "target": "Employee",
+    "same_module": false,
+    "target_modules": [
+      "HR"
+    ]
+  }
+}

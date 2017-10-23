@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Buying",
+    "doctype": "Supplier Scorecard Scoring Standing",
+    "fieldname": "standing_name",
+    "fieldtype": "Link"
+  }
+]

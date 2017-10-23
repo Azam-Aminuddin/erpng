@@ -1,0 +1,146 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Bank Guarantee",
+    "fieldname": "project",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Budget",
+    "fieldname": "project",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "GL Entry",
+    "fieldname": "project",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Journal Entry Account",
+    "fieldname": "project",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Payment Entry",
+    "fieldname": "project",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Purchase Invoice Item",
+    "fieldname": "project",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Sales Invoice",
+    "fieldname": "project",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Purchase Order Item",
+    "fieldname": "project",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Request for Quotation Item",
+    "fieldname": "project_name",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Supplier Quotation Item",
+    "fieldname": "project",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Expense Claim",
+    "fieldname": "project",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Process Payroll",
+    "fieldname": "project",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Manufacturing",
+    "doctype": "BOM",
+    "fieldname": "project",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Manufacturing",
+    "doctype": "Production Order",
+    "fieldname": "project",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Manufacturing",
+    "doctype": "Production Planning Tool",
+    "fieldname": "project",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Projects",
+    "doctype": "Task",
+    "fieldname": "project",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Projects",
+    "doctype": "Timesheet Detail",
+    "fieldname": "project",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Sales Order",
+    "fieldname": "project",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Delivery Note",
+    "fieldname": "project",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Material Request Item",
+    "fieldname": "project",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Purchase Receipt Item",
+    "fieldname": "project",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Stock Entry",
+    "fieldname": "project",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Stock Ledger Entry",
+    "fieldname": "project",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Support",
+    "doctype": "Issue",
+    "fieldname": "project",
+    "fieldtype": "Link"
+  }
+]

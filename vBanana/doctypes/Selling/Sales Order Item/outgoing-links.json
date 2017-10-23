@@ -1,0 +1,90 @@
+{
+  "item_code": {
+    "fieldname": "item_code",
+    "fieldtype": "Link",
+    "target": "Item",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "stock_uom": {
+    "fieldname": "stock_uom",
+    "fieldtype": "Link",
+    "target": "UOM",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "uom": {
+    "fieldname": "uom",
+    "fieldtype": "Link",
+    "target": "UOM",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "pricing_rule": {
+    "fieldname": "pricing_rule",
+    "fieldtype": "Link",
+    "target": "Pricing Rule",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "supplier": {
+    "fieldname": "supplier",
+    "fieldtype": "Link",
+    "target": "Supplier",
+    "same_module": false,
+    "target_modules": [
+      "Buying"
+    ]
+  },
+  "warehouse": {
+    "fieldname": "warehouse",
+    "fieldtype": "Link",
+    "target": "Warehouse",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "target_warehouse": {
+    "fieldname": "target_warehouse",
+    "fieldtype": "Link",
+    "target": "Warehouse",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "prevdoc_docname": {
+    "fieldname": "prevdoc_docname",
+    "fieldtype": "Link",
+    "target": "Quotation",
+    "same_module": true,
+    "target_modules": null
+  },
+  "brand": {
+    "fieldname": "brand",
+    "fieldtype": "Link",
+    "target": "Brand",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "item_group": {
+    "fieldname": "item_group",
+    "fieldtype": "Link",
+    "target": "Item Group",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  }
+}

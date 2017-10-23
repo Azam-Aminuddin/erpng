@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Payment Reconciliation",
+    "fieldname": "invoices",
+    "fieldtype": "Table"
+  }
+]

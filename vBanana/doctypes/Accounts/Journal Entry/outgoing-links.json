@@ -1,0 +1,69 @@
+{
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "accounts": {
+    "fieldname": "accounts",
+    "fieldtype": "Table",
+    "target": "Journal Entry Account",
+    "same_module": true,
+    "target_modules": null
+  },
+  "total_amount_currency": {
+    "fieldname": "total_amount_currency",
+    "fieldtype": "Link",
+    "target": "Currency",
+    "same_module": false,
+    "target_modules": [
+      "Geo"
+    ]
+  },
+  "letter_head": {
+    "fieldname": "letter_head",
+    "fieldtype": "Link",
+    "target": "Letter Head",
+    "same_module": false,
+    "target_modules": [
+      "Printing"
+    ]
+  },
+  "select_print_heading": {
+    "fieldname": "select_print_heading",
+    "fieldtype": "Link",
+    "target": "Print Heading",
+    "same_module": false,
+    "target_modules": [
+      "Printing",
+      "Setup"
+    ]
+  },
+  "stock_entry": {
+    "fieldname": "stock_entry",
+    "fieldtype": "Link",
+    "target": "Stock Entry",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "subscription": {
+    "fieldname": "subscription",
+    "fieldtype": "Link",
+    "target": "Subscription",
+    "same_module": true,
+    "target_modules": null
+  },
+  "amended_from": {
+    "fieldname": "amended_from",
+    "fieldtype": "Link",
+    "target": "Journal Entry",
+    "same_module": true,
+    "target_modules": null
+  }
+}

@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Stock",
+    "doctype": "Landed Cost Voucher",
+    "fieldname": "items",
+    "fieldtype": "Table"
+  }
+]

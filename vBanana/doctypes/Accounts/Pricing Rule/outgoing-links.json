@@ -1,0 +1,110 @@
+{
+  "item_code": {
+    "fieldname": "item_code",
+    "fieldtype": "Link",
+    "target": "Item",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "brand": {
+    "fieldname": "brand",
+    "fieldtype": "Link",
+    "target": "Brand",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "item_group": {
+    "fieldname": "item_group",
+    "fieldtype": "Link",
+    "target": "Item Group",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "customer": {
+    "fieldname": "customer",
+    "fieldtype": "Link",
+    "target": "Customer",
+    "same_module": false,
+    "target_modules": [
+      "Selling"
+    ]
+  },
+  "customer_group": {
+    "fieldname": "customer_group",
+    "fieldtype": "Link",
+    "target": "Customer Group",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "territory": {
+    "fieldname": "territory",
+    "fieldtype": "Link",
+    "target": "Territory",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "sales_partner": {
+    "fieldname": "sales_partner",
+    "fieldtype": "Link",
+    "target": "Sales Partner",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "campaign": {
+    "fieldname": "campaign",
+    "fieldtype": "Link",
+    "target": "Campaign",
+    "same_module": false,
+    "target_modules": [
+      "Selling"
+    ]
+  },
+  "supplier": {
+    "fieldname": "supplier",
+    "fieldtype": "Link",
+    "target": "Supplier",
+    "same_module": false,
+    "target_modules": [
+      "Buying"
+    ]
+  },
+  "supplier_type": {
+    "fieldname": "supplier_type",
+    "fieldtype": "Link",
+    "target": "Supplier Type",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "for_price_list": {
+    "fieldname": "for_price_list",
+    "fieldtype": "Link",
+    "target": "Price List",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  }
+}

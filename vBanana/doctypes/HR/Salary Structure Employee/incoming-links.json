@@ -1,0 +1,8 @@
+[
+  {
+    "module": "HR",
+    "doctype": "Salary Structure",
+    "fieldname": "employees",
+    "fieldtype": "Table"
+  }
+]

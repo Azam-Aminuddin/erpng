@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Data Migration",
+    "doctype": "Data Migration Run",
+    "fieldname": "data_migration_connector",
+    "fieldtype": "Link"
+  }
+]

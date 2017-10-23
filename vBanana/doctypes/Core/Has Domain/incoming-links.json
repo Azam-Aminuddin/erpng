@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Core",
+    "doctype": "Domain Settings",
+    "fieldname": "active_domains",
+    "fieldtype": "Table"
+  }
+]

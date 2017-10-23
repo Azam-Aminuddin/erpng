@@ -1,0 +1,134 @@
+[
+  {
+    "module": "Core",
+    "doctype": "Report",
+    "fieldname": "letter_head",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Journal Entry",
+    "fieldname": "letter_head",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Payment Entry",
+    "fieldname": "letter_head",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "POS Profile",
+    "fieldname": "letter_head",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Purchase Invoice",
+    "fieldname": "letter_head",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Sales Invoice",
+    "fieldname": "letter_head",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Purchase Order",
+    "fieldname": "letter_head",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Request for Quotation",
+    "fieldname": "letter_head",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Supplier Quotation",
+    "fieldname": "letter_head",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Leave Application",
+    "fieldname": "letter_head",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Salary Slip",
+    "fieldname": "letter_head",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Salary Structure",
+    "fieldname": "letter_head",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Fees",
+    "fieldname": "letter_head",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Fee Schedule",
+    "fieldname": "letter_head",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Quotation",
+    "fieldname": "letter_head",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Sales Order",
+    "fieldname": "letter_head",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Company",
+    "fieldname": "default_letter_head",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Delivery Note",
+    "fieldname": "letter_head",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Material Request",
+    "fieldname": "letter_head",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Packing Slip",
+    "fieldname": "letter_head",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Purchase Receipt",
+    "fieldname": "letter_head",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Stock Entry",
+    "fieldname": "letter_head",
+    "fieldtype": "Link"
+  }
+]

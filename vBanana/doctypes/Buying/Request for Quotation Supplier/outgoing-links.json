@@ -1,0 +1,18 @@
+{
+  "supplier": {
+    "fieldname": "supplier",
+    "fieldtype": "Link",
+    "target": "Supplier",
+    "same_module": true,
+    "target_modules": null
+  },
+  "contact": {
+    "fieldname": "contact",
+    "fieldtype": "Link",
+    "target": "Contact",
+    "same_module": false,
+    "target_modules": [
+      "Contacts"
+    ]
+  }
+}

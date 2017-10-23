@@ -1,0 +1,9 @@
+{
+  "restaurant": {
+    "fieldname": "restaurant",
+    "fieldtype": "Link",
+    "target": "Restaurant",
+    "same_module": true,
+    "target_modules": null
+  }
+}

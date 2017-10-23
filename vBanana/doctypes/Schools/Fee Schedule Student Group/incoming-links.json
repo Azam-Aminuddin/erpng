@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Schools",
+    "doctype": "Fee Schedule",
+    "fieldname": "student_groups",
+    "fieldtype": "Table"
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "customer": {
+    "fieldname": "customer",
+    "fieldtype": "Link",
+    "target": "Customer",
+    "same_module": false,
+    "target_modules": [
+      "Selling"
+    ]
+  },
+  "project": {
+    "fieldname": "project",
+    "fieldtype": "Link",
+    "target": "Project",
+    "same_module": false,
+    "target_modules": [
+      "Projects"
+    ]
+  },
+  "account": {
+    "fieldname": "account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": true,
+    "target_modules": null
+  },
+  "amended_from": {
+    "fieldname": "amended_from",
+    "fieldtype": "Link",
+    "target": "Bank Guarantee",
+    "same_module": true,
+    "target_modules": null
+  }
+}

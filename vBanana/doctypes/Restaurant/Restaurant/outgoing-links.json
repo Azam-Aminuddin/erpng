@@ -1,0 +1,45 @@
+{
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "default_customer": {
+    "fieldname": "default_customer",
+    "fieldtype": "Link",
+    "target": "Customer",
+    "same_module": false,
+    "target_modules": [
+      "Selling"
+    ]
+  },
+  "active_menu": {
+    "fieldname": "active_menu",
+    "fieldtype": "Link",
+    "target": "Restaurant Menu",
+    "same_module": true,
+    "target_modules": null
+  },
+  "default_tax_template": {
+    "fieldname": "default_tax_template",
+    "fieldtype": "Link",
+    "target": "Sales Taxes and Charges Template",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "address": {
+    "fieldname": "address",
+    "fieldtype": "Link",
+    "target": "Address",
+    "same_module": false,
+    "target_modules": [
+      "Contacts"
+    ]
+  }
+}

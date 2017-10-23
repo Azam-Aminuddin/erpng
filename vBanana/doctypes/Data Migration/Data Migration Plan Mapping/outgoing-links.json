@@ -1,0 +1,9 @@
+{
+  "mapping": {
+    "fieldname": "mapping",
+    "fieldtype": "Link",
+    "target": "Data Migration Mapping",
+    "same_module": true,
+    "target_modules": null
+  }
+}

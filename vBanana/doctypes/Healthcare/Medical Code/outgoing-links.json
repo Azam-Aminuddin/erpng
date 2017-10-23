@@ -1,0 +1,9 @@
+{
+  "medical_code_standard": {
+    "fieldname": "medical_code_standard",
+    "fieldtype": "Link",
+    "target": "Medical Code Standard",
+    "same_module": true,
+    "target_modules": null
+  }
+}

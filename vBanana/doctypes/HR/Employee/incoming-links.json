@@ -1,0 +1,152 @@
+[
+  {
+    "module": "Buying",
+    "doctype": "Supplier Scorecard",
+    "fieldname": "employee",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Supplier Scorecard Scoring Standing",
+    "fieldname": "employee_link",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Supplier Scorecard Standing",
+    "fieldname": "employee_link",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Lab Test",
+    "fieldname": "employee",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Physician",
+    "fieldname": "employee",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Appraisal",
+    "fieldname": "employee",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Attendance",
+    "fieldname": "employee",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Employee",
+    "fieldname": "reports_to",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Employee Loan",
+    "fieldname": "employee",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Employee Loan Application",
+    "fieldname": "employee",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Expense Claim",
+    "fieldname": "employee",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Leave Allocation",
+    "fieldname": "employee",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Leave Application",
+    "fieldname": "employee",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Salary Slip",
+    "fieldname": "employee",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Salary Structure Employee",
+    "fieldname": "employee",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Training Event Employee",
+    "fieldname": "employee",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Training Feedback",
+    "fieldname": "employee",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Training Result Employee",
+    "fieldname": "employee",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Vehicle",
+    "fieldname": "employee",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Vehicle Log",
+    "fieldname": "employee",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Projects",
+    "doctype": "Activity Cost",
+    "fieldname": "employee",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Projects",
+    "doctype": "Timesheet",
+    "fieldname": "employee",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Instructor",
+    "fieldname": "employee",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Authorization Rule",
+    "fieldname": "to_emp",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Sales Person",
+    "fieldname": "employee",
+    "fieldtype": "Link"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "sales_order": {
+    "fieldname": "sales_order",
+    "fieldtype": "Link",
+    "target": "Sales Order",
+    "same_module": false,
+    "target_modules": [
+      "Selling"
+    ]
+  },
+  "customer": {
+    "fieldname": "customer",
+    "fieldtype": "Link",
+    "target": "Customer",
+    "same_module": false,
+    "target_modules": [
+      "Selling"
+    ]
+  }
+}

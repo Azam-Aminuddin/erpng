@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Monthly Distribution",
+    "fieldname": "percentages",
+    "fieldtype": "Table"
+  }
+]

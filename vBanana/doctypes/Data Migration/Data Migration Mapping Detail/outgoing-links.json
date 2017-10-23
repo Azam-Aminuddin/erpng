@@ -1,0 +1,9 @@
+{
+  "child_table_mapping": {
+    "fieldname": "child_table_mapping",
+    "fieldtype": "Link",
+    "target": "Data Migration Mapping",
+    "same_module": true,
+    "target_modules": null
+  }
+}

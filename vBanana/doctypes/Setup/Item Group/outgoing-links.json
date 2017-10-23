@@ -1,0 +1,61 @@
+{
+  "parent_item_group": {
+    "fieldname": "parent_item_group",
+    "fieldtype": "Link",
+    "target": "Item Group",
+    "same_module": true,
+    "target_modules": null
+  },
+  "default_income_account": {
+    "fieldname": "default_income_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "default_expense_account": {
+    "fieldname": "default_expense_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "default_cost_center": {
+    "fieldname": "default_cost_center",
+    "fieldtype": "Link",
+    "target": "Cost Center",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "slideshow": {
+    "fieldname": "slideshow",
+    "fieldtype": "Link",
+    "target": "Website Slideshow",
+    "same_module": false,
+    "target_modules": [
+      "Website"
+    ]
+  },
+  "website_specifications": {
+    "fieldname": "website_specifications",
+    "fieldtype": "Table",
+    "target": "Item Website Specification",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "old_parent": {
+    "fieldname": "old_parent",
+    "fieldtype": "Link",
+    "target": "Item Group",
+    "same_module": true,
+    "target_modules": null
+  }
+}

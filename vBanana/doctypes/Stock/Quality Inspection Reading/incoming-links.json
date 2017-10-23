@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Stock",
+    "doctype": "Quality Inspection",
+    "fieldname": "readings",
+    "fieldtype": "Table"
+  }
+]

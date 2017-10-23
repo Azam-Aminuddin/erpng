@@ -1,0 +1,9 @@
+{
+  "journal_entry": {
+    "fieldname": "journal_entry",
+    "fieldtype": "Link",
+    "target": "Journal Entry",
+    "same_module": true,
+    "target_modules": null
+  }
+}

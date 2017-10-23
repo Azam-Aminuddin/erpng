@@ -1,0 +1,134 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "POS Item Group",
+    "fieldname": "item_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Pricing Rule",
+    "fieldname": "item_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Purchase Invoice Item",
+    "fieldname": "item_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Sales Invoice Item",
+    "fieldname": "item_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Purchase Order Item",
+    "fieldname": "item_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Request for Quotation Item",
+    "fieldname": "item_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Supplier Quotation Item",
+    "fieldname": "item_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "CRM",
+    "doctype": "Opportunity Item",
+    "fieldname": "item_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Lab Test",
+    "fieldname": "test_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Lab Test Template",
+    "fieldname": "test_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Quotation Item",
+    "fieldname": "item_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Sales Order Item",
+    "fieldname": "item_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Item Group",
+    "fieldname": "parent_item_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Item Group",
+    "fieldname": "old_parent",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Target Detail",
+    "fieldname": "item_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Website Item Group",
+    "fieldname": "item_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Delivery Note Item",
+    "fieldname": "item_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Item",
+    "fieldname": "item_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Material Request Item",
+    "fieldname": "item_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Purchase Receipt Item",
+    "fieldname": "item_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Serial No",
+    "fieldname": "item_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Stock Settings",
+    "fieldname": "item_group",
+    "fieldtype": "Link"
+  }
+]

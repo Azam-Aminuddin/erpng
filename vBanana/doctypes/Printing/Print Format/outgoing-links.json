@@ -1,0 +1,20 @@
+{
+  "doc_type": {
+    "fieldname": "doc_type",
+    "fieldtype": "Link",
+    "target": "DocType",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  },
+  "module": {
+    "fieldname": "module",
+    "fieldtype": "Link",
+    "target": "Module Def",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  }
+}

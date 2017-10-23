@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Restaurant",
+    "doctype": "Restaurant Menu",
+    "fieldname": "items",
+    "fieldtype": "Table"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "department": {
+    "fieldname": "department",
+    "fieldtype": "Link",
+    "target": "Department",
+    "same_module": false,
+    "target_modules": [
+      "HR"
+    ]
+  },
+  "courses": {
+    "fieldname": "courses",
+    "fieldtype": "Table",
+    "target": "Program Course",
+    "same_module": true,
+    "target_modules": null
+  },
+  "fees": {
+    "fieldname": "fees",
+    "fieldtype": "Table",
+    "target": "Program Fee",
+    "same_module": true,
+    "target_modules": null
+  }
+}

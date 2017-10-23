@@ -1,0 +1,11 @@
+{
+  "sales_person": {
+    "fieldname": "sales_person",
+    "fieldtype": "Link",
+    "target": "Sales Person",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  }
+}

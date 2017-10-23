@@ -1,0 +1,25 @@
+{
+  "webhook_doctype": {
+    "fieldname": "webhook_doctype",
+    "fieldtype": "Link",
+    "target": "DocType",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  },
+  "webhook_headers": {
+    "fieldname": "webhook_headers",
+    "fieldtype": "Table",
+    "target": "Webhook Header",
+    "same_module": true,
+    "target_modules": null
+  },
+  "webhook_data": {
+    "fieldname": "webhook_data",
+    "fieldtype": "Table",
+    "target": "Webhook Data",
+    "same_module": true,
+    "target_modules": null
+  }
+}

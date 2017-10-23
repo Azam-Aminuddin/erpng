@@ -1,0 +1,48 @@
+{
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "party_type": {
+    "fieldname": "party_type",
+    "fieldtype": "Link",
+    "target": "DocType",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  },
+  "receivable_payable_account": {
+    "fieldname": "receivable_payable_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": true,
+    "target_modules": null
+  },
+  "bank_cash_account": {
+    "fieldname": "bank_cash_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": true,
+    "target_modules": null
+  },
+  "payments": {
+    "fieldname": "payments",
+    "fieldtype": "Table",
+    "target": "Payment Reconciliation Payment",
+    "same_module": true,
+    "target_modules": null
+  },
+  "invoices": {
+    "fieldname": "invoices",
+    "fieldtype": "Table",
+    "target": "Payment Reconciliation Invoice",
+    "same_module": true,
+    "target_modules": null
+  }
+}

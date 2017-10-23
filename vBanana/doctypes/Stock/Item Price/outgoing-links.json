@@ -1,0 +1,25 @@
+{
+  "price_list": {
+    "fieldname": "price_list",
+    "fieldtype": "Link",
+    "target": "Price List",
+    "same_module": true,
+    "target_modules": null
+  },
+  "currency": {
+    "fieldname": "currency",
+    "fieldtype": "Link",
+    "target": "Currency",
+    "same_module": false,
+    "target_modules": [
+      "Geo"
+    ]
+  },
+  "item_code": {
+    "fieldname": "item_code",
+    "fieldtype": "Link",
+    "target": "Item",
+    "same_module": true,
+    "target_modules": null
+  }
+}

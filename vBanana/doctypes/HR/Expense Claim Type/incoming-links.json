@@ -1,0 +1,8 @@
+[
+  {
+    "module": "HR",
+    "doctype": "Expense Claim Detail",
+    "fieldname": "expense_type",
+    "fieldtype": "Link"
+  }
+]

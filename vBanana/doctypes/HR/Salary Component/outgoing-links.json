@@ -1,0 +1,11 @@
+{
+  "accounts": {
+    "fieldname": "accounts",
+    "fieldtype": "Table",
+    "target": "Salary Component Account",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "active_domains": {
+    "fieldname": "active_domains",
+    "fieldtype": "Table",
+    "target": "Has Domain",
+    "same_module": true,
+    "target_modules": null
+  }
+}

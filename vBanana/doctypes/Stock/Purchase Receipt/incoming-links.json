@@ -1,0 +1,26 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Purchase Invoice Item",
+    "fieldname": "purchase_receipt",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Purchase Receipt",
+    "fieldname": "return_against",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Purchase Receipt",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Stock Entry",
+    "fieldname": "purchase_receipt_no",
+    "fieldtype": "Link"
+  }
+]

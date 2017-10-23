@@ -1,0 +1,253 @@
+{
+  "variant_of": {
+    "fieldname": "variant_of",
+    "fieldtype": "Link",
+    "target": "Item",
+    "same_module": true,
+    "target_modules": null
+  },
+  "item_group": {
+    "fieldname": "item_group",
+    "fieldtype": "Link",
+    "target": "Item Group",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "stock_uom": {
+    "fieldname": "stock_uom",
+    "fieldtype": "Link",
+    "target": "UOM",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "asset_category": {
+    "fieldname": "asset_category",
+    "fieldtype": "Link",
+    "target": "Asset Category",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "brand": {
+    "fieldname": "brand",
+    "fieldtype": "Link",
+    "target": "Brand",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "default_warehouse": {
+    "fieldname": "default_warehouse",
+    "fieldtype": "Link",
+    "target": "Warehouse",
+    "same_module": true,
+    "target_modules": null
+  },
+  "weight_uom": {
+    "fieldname": "weight_uom",
+    "fieldtype": "Link",
+    "target": "UOM",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "reorder_levels": {
+    "fieldname": "reorder_levels",
+    "fieldtype": "Table",
+    "target": "Item Reorder",
+    "same_module": true,
+    "target_modules": null
+  },
+  "uoms": {
+    "fieldname": "uoms",
+    "fieldtype": "Table",
+    "target": "UOM Conversion Detail",
+    "same_module": true,
+    "target_modules": null
+  },
+  "attributes": {
+    "fieldname": "attributes",
+    "fieldtype": "Table",
+    "target": "Item Variant Attribute",
+    "same_module": true,
+    "target_modules": null
+  },
+  "purchase_uom": {
+    "fieldname": "purchase_uom",
+    "fieldtype": "Link",
+    "target": "UOM",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "buying_cost_center": {
+    "fieldname": "buying_cost_center",
+    "fieldtype": "Link",
+    "target": "Cost Center",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "expense_account": {
+    "fieldname": "expense_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "default_supplier": {
+    "fieldname": "default_supplier",
+    "fieldtype": "Link",
+    "target": "Supplier",
+    "same_module": false,
+    "target_modules": [
+      "Buying"
+    ]
+  },
+  "manufacturer": {
+    "fieldname": "manufacturer",
+    "fieldtype": "Link",
+    "target": "Manufacturer",
+    "same_module": true,
+    "target_modules": null
+  },
+  "supplier_items": {
+    "fieldname": "supplier_items",
+    "fieldtype": "Table",
+    "target": "Item Supplier",
+    "same_module": true,
+    "target_modules": null
+  },
+  "country_of_origin": {
+    "fieldname": "country_of_origin",
+    "fieldtype": "Link",
+    "target": "Country",
+    "same_module": false,
+    "target_modules": [
+      "Geo"
+    ]
+  },
+  "customs_tariff_number": {
+    "fieldname": "customs_tariff_number",
+    "fieldtype": "Link",
+    "target": "Customs Tariff Number",
+    "same_module": true,
+    "target_modules": null
+  },
+  "sales_uom": {
+    "fieldname": "sales_uom",
+    "fieldtype": "Link",
+    "target": "UOM",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "income_account": {
+    "fieldname": "income_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "selling_cost_center": {
+    "fieldname": "selling_cost_center",
+    "fieldtype": "Link",
+    "target": "Cost Center",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "customer_items": {
+    "fieldname": "customer_items",
+    "fieldtype": "Table",
+    "target": "Item Customer Detail",
+    "same_module": true,
+    "target_modules": null
+  },
+  "taxes": {
+    "fieldname": "taxes",
+    "fieldtype": "Table",
+    "target": "Item Tax",
+    "same_module": true,
+    "target_modules": null
+  },
+  "quality_parameters": {
+    "fieldname": "quality_parameters",
+    "fieldtype": "Table",
+    "target": "Item Quality Inspection Parameter",
+    "same_module": true,
+    "target_modules": null
+  },
+  "default_bom": {
+    "fieldname": "default_bom",
+    "fieldtype": "Link",
+    "target": "BOM",
+    "same_module": false,
+    "target_modules": [
+      "Manufacturing"
+    ]
+  },
+  "slideshow": {
+    "fieldname": "slideshow",
+    "fieldtype": "Link",
+    "target": "Website Slideshow",
+    "same_module": false,
+    "target_modules": [
+      "Website"
+    ]
+  },
+  "website_warehouse": {
+    "fieldname": "website_warehouse",
+    "fieldtype": "Link",
+    "target": "Warehouse",
+    "same_module": true,
+    "target_modules": null
+  },
+  "website_item_groups": {
+    "fieldname": "website_item_groups",
+    "fieldtype": "Table",
+    "target": "Website Item Group",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "website_specifications": {
+    "fieldname": "website_specifications",
+    "fieldtype": "Table",
+    "target": "Item Website Specification",
+    "same_module": true,
+    "target_modules": null
+  },
+  "hub_category_to_publish": {
+    "fieldname": "hub_category_to_publish",
+    "fieldtype": "Link",
+    "target": "Hub Category",
+    "same_module": false,
+    "target_modules": [
+      "Hub Node"
+    ]
+  },
+  "hub_warehouse": {
+    "fieldname": "hub_warehouse",
+    "fieldtype": "Link",
+    "target": "Warehouse",
+    "same_module": true,
+    "target_modules": null
+  }
+}

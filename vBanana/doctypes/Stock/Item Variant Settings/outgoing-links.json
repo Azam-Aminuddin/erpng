@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "fieldname": "fields",
+    "fieldtype": "Table",
+    "target": "Variant Field",
+    "same_module": true,
+    "target_modules": null
+  }
+}

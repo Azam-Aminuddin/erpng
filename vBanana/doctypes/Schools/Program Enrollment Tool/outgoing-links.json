@@ -1,0 +1,37 @@
+{
+  "program": {
+    "fieldname": "program",
+    "fieldtype": "Link",
+    "target": "Program",
+    "same_module": true,
+    "target_modules": null
+  },
+  "academic_year": {
+    "fieldname": "academic_year",
+    "fieldtype": "Link",
+    "target": "Academic Year",
+    "same_module": true,
+    "target_modules": null
+  },
+  "students": {
+    "fieldname": "students",
+    "fieldtype": "Table",
+    "target": "Program Enrollment Tool Student",
+    "same_module": true,
+    "target_modules": null
+  },
+  "new_program": {
+    "fieldname": "new_program",
+    "fieldtype": "Link",
+    "target": "Program",
+    "same_module": true,
+    "target_modules": null
+  },
+  "new_academic_year": {
+    "fieldname": "new_academic_year",
+    "fieldtype": "Link",
+    "target": "Academic Year",
+    "same_module": true,
+    "target_modules": null
+  }
+}

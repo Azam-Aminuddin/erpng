@@ -1,0 +1,9 @@
+{
+  "accounts": {
+    "fieldname": "accounts",
+    "fieldtype": "Table",
+    "target": "Asset Category Account",
+    "same_module": true,
+    "target_modules": null
+  }
+}

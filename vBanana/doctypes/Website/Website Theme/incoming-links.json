@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Website",
+    "doctype": "Website Settings",
+    "fieldname": "website_theme",
+    "fieldtype": "Link"
+  }
+]

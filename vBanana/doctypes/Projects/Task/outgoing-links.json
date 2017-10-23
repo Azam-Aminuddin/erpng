@@ -1,0 +1,25 @@
+{
+  "project": {
+    "fieldname": "project",
+    "fieldtype": "Link",
+    "target": "Project",
+    "same_module": true,
+    "target_modules": null
+  },
+  "depends_on": {
+    "fieldname": "depends_on",
+    "fieldtype": "Table",
+    "target": "Task Depends On",
+    "same_module": true,
+    "target_modules": null
+  },
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  }
+}

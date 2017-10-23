@@ -1,0 +1,8 @@
+[
+  {
+    "module": "HR",
+    "doctype": "Attendance",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "bank_account": {
+    "fieldname": "bank_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": true,
+    "target_modules": null
+  },
+  "account_currency": {
+    "fieldname": "account_currency",
+    "fieldtype": "Link",
+    "target": "Currency",
+    "same_module": false,
+    "target_modules": [
+      "Geo"
+    ]
+  },
+  "payment_entries": {
+    "fieldname": "payment_entries",
+    "fieldtype": "Table",
+    "target": "Bank Reconciliation Detail",
+    "same_module": true,
+    "target_modules": null
+  }
+}

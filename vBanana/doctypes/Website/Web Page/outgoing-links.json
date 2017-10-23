@@ -1,0 +1,16 @@
+{
+  "slideshow": {
+    "fieldname": "slideshow",
+    "fieldtype": "Link",
+    "target": "Website Slideshow",
+    "same_module": true,
+    "target_modules": null
+  },
+  "website_sidebar": {
+    "fieldname": "website_sidebar",
+    "fieldtype": "Link",
+    "target": "Website Sidebar",
+    "same_module": true,
+    "target_modules": null
+  }
+}

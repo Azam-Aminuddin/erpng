@@ -1,0 +1,14 @@
+[
+  {
+    "module": "Hub Node",
+    "doctype": "Hub Category",
+    "fieldname": "parent_hub_category",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Item",
+    "fieldname": "hub_category_to_publish",
+    "fieldtype": "Link"
+  }
+]

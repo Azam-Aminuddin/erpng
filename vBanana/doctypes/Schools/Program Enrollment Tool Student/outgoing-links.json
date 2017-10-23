@@ -1,0 +1,16 @@
+{
+  "student_applicant": {
+    "fieldname": "student_applicant",
+    "fieldtype": "Link",
+    "target": "Student Applicant",
+    "same_module": true,
+    "target_modules": null
+  },
+  "student": {
+    "fieldname": "student",
+    "fieldtype": "Link",
+    "target": "Student",
+    "same_module": true,
+    "target_modules": null
+  }
+}

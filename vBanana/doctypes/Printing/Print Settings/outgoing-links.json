@@ -1,0 +1,9 @@
+{
+  "print_style": {
+    "fieldname": "print_style",
+    "fieldtype": "Link",
+    "target": "Print Style",
+    "same_module": true,
+    "target_modules": null
+  }
+}

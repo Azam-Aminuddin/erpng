@@ -1,0 +1,11 @@
+{
+  "supplier": {
+    "fieldname": "supplier",
+    "fieldtype": "Link",
+    "target": "Supplier",
+    "same_module": false,
+    "target_modules": [
+      "Buying"
+    ]
+  }
+}

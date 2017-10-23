@@ -1,0 +1,86 @@
+[
+  {
+    "module": "Core",
+    "doctype": "Custom DocPerm",
+    "fieldname": "role",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Core",
+    "doctype": "DocPerm",
+    "fieldname": "role",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Core",
+    "doctype": "Has Role",
+    "fieldname": "role",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Desk",
+    "doctype": "ToDo",
+    "fieldname": "role",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Email",
+    "doctype": "Email Alert Recipient",
+    "fieldname": "email_by_role",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Website",
+    "doctype": "Portal Menu Item",
+    "fieldname": "role",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Website",
+    "doctype": "Portal Settings",
+    "fieldname": "default_role",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Workflow",
+    "doctype": "Workflow Document State",
+    "fieldname": "allow_edit",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Workflow",
+    "doctype": "Workflow Transition",
+    "fieldname": "allowed",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Accounts Settings",
+    "fieldname": "frozen_accounts_modifier",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Accounts Settings",
+    "fieldname": "credit_controller",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Authorization Rule",
+    "fieldname": "system_role",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Authorization Rule",
+    "fieldname": "approving_role",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Stock Settings",
+    "fieldname": "stock_auth_role",
+    "fieldtype": "Link"
+  }
+]

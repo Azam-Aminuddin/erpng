@@ -1,0 +1,14 @@
+[
+  {
+    "module": "Buying",
+    "doctype": "Supplier Scorecard",
+    "fieldname": "criteria",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Supplier Scorecard Period",
+    "fieldname": "criteria",
+    "fieldtype": "Table"
+  }
+]

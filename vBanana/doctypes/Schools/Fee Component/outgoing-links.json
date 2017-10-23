@@ -1,0 +1,9 @@
+{
+  "fees_category": {
+    "fieldname": "fees_category",
+    "fieldtype": "Link",
+    "target": "Fee Category",
+    "same_module": true,
+    "target_modules": null
+  }
+}

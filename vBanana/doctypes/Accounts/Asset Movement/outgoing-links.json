@@ -1,0 +1,43 @@
+{
+  "asset": {
+    "fieldname": "asset",
+    "fieldtype": "Link",
+    "target": "Asset",
+    "same_module": true,
+    "target_modules": null
+  },
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "source_warehouse": {
+    "fieldname": "source_warehouse",
+    "fieldtype": "Link",
+    "target": "Warehouse",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "target_warehouse": {
+    "fieldname": "target_warehouse",
+    "fieldtype": "Link",
+    "target": "Warehouse",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "amended_from": {
+    "fieldname": "amended_from",
+    "fieldtype": "Link",
+    "target": "Asset Movement",
+    "same_module": true,
+    "target_modules": null
+  }
+}

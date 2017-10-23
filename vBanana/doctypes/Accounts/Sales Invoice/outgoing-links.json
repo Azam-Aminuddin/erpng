@@ -1,0 +1,327 @@
+{
+  "customer": {
+    "fieldname": "customer",
+    "fieldtype": "Link",
+    "target": "Customer",
+    "same_module": false,
+    "target_modules": [
+      "Selling"
+    ]
+  },
+  "project": {
+    "fieldname": "project",
+    "fieldtype": "Link",
+    "target": "Project",
+    "same_module": false,
+    "target_modules": [
+      "Projects"
+    ]
+  },
+  "pos_profile": {
+    "fieldname": "pos_profile",
+    "fieldtype": "Link",
+    "target": "POS Profile",
+    "same_module": true,
+    "target_modules": null
+  },
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "amended_from": {
+    "fieldname": "amended_from",
+    "fieldtype": "Link",
+    "target": "Sales Invoice",
+    "same_module": true,
+    "target_modules": null
+  },
+  "return_against": {
+    "fieldname": "return_against",
+    "fieldtype": "Link",
+    "target": "Sales Invoice",
+    "same_module": true,
+    "target_modules": null
+  },
+  "customer_address": {
+    "fieldname": "customer_address",
+    "fieldtype": "Link",
+    "target": "Address",
+    "same_module": false,
+    "target_modules": [
+      "Contacts"
+    ]
+  },
+  "contact_person": {
+    "fieldname": "contact_person",
+    "fieldtype": "Link",
+    "target": "Contact",
+    "same_module": false,
+    "target_modules": [
+      "Contacts"
+    ]
+  },
+  "territory": {
+    "fieldname": "territory",
+    "fieldtype": "Link",
+    "target": "Territory",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "shipping_address_name": {
+    "fieldname": "shipping_address_name",
+    "fieldtype": "Link",
+    "target": "Address",
+    "same_module": false,
+    "target_modules": [
+      "Contacts"
+    ]
+  },
+  "company_address": {
+    "fieldname": "company_address",
+    "fieldtype": "Link",
+    "target": "Address",
+    "same_module": false,
+    "target_modules": [
+      "Contacts"
+    ]
+  },
+  "currency": {
+    "fieldname": "currency",
+    "fieldtype": "Link",
+    "target": "Currency",
+    "same_module": false,
+    "target_modules": [
+      "Geo"
+    ]
+  },
+  "selling_price_list": {
+    "fieldname": "selling_price_list",
+    "fieldtype": "Link",
+    "target": "Price List",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "price_list_currency": {
+    "fieldname": "price_list_currency",
+    "fieldtype": "Link",
+    "target": "Currency",
+    "same_module": false,
+    "target_modules": [
+      "Geo"
+    ]
+  },
+  "items": {
+    "fieldname": "items",
+    "fieldtype": "Table",
+    "target": "Sales Invoice Item",
+    "same_module": true,
+    "target_modules": null
+  },
+  "packed_items": {
+    "fieldname": "packed_items",
+    "fieldtype": "Table",
+    "target": "Packed Item",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "timesheets": {
+    "fieldname": "timesheets",
+    "fieldtype": "Table",
+    "target": "Sales Invoice Timesheet",
+    "same_module": true,
+    "target_modules": null
+  },
+  "taxes_and_charges": {
+    "fieldname": "taxes_and_charges",
+    "fieldtype": "Link",
+    "target": "Sales Taxes and Charges Template",
+    "same_module": true,
+    "target_modules": null
+  },
+  "shipping_rule": {
+    "fieldname": "shipping_rule",
+    "fieldtype": "Link",
+    "target": "Shipping Rule",
+    "same_module": true,
+    "target_modules": null
+  },
+  "taxes": {
+    "fieldname": "taxes",
+    "fieldtype": "Table",
+    "target": "Sales Taxes and Charges",
+    "same_module": true,
+    "target_modules": null
+  },
+  "advances": {
+    "fieldname": "advances",
+    "fieldtype": "Table",
+    "target": "Sales Invoice Advance",
+    "same_module": true,
+    "target_modules": null
+  },
+  "cash_bank_account": {
+    "fieldname": "cash_bank_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": true,
+    "target_modules": null
+  },
+  "payments": {
+    "fieldname": "payments",
+    "fieldtype": "Table",
+    "target": "Sales Invoice Payment",
+    "same_module": true,
+    "target_modules": null
+  },
+  "account_for_change_amount": {
+    "fieldname": "account_for_change_amount",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": true,
+    "target_modules": null
+  },
+  "write_off_account": {
+    "fieldname": "write_off_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": true,
+    "target_modules": null
+  },
+  "write_off_cost_center": {
+    "fieldname": "write_off_cost_center",
+    "fieldtype": "Link",
+    "target": "Cost Center",
+    "same_module": true,
+    "target_modules": null
+  },
+  "tc_name": {
+    "fieldname": "tc_name",
+    "fieldtype": "Link",
+    "target": "Terms and Conditions",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "letter_head": {
+    "fieldname": "letter_head",
+    "fieldtype": "Link",
+    "target": "Letter Head",
+    "same_module": false,
+    "target_modules": [
+      "Printing"
+    ]
+  },
+  "select_print_heading": {
+    "fieldname": "select_print_heading",
+    "fieldtype": "Link",
+    "target": "Print Heading",
+    "same_module": false,
+    "target_modules": [
+      "Printing",
+      "Setup"
+    ]
+  },
+  "customer_group": {
+    "fieldname": "customer_group",
+    "fieldtype": "Link",
+    "target": "Customer Group",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "campaign": {
+    "fieldname": "campaign",
+    "fieldtype": "Link",
+    "target": "Campaign",
+    "same_module": false,
+    "target_modules": [
+      "Selling"
+    ]
+  },
+  "source": {
+    "fieldname": "source",
+    "fieldtype": "Link",
+    "target": "Lead Source",
+    "same_module": false,
+    "target_modules": [
+      "Selling"
+    ]
+  },
+  "debit_to": {
+    "fieldname": "debit_to",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": true,
+    "target_modules": null
+  },
+  "party_account_currency": {
+    "fieldname": "party_account_currency",
+    "fieldtype": "Link",
+    "target": "Currency",
+    "same_module": false,
+    "target_modules": [
+      "Geo"
+    ]
+  },
+  "c_form_no": {
+    "fieldname": "c_form_no",
+    "fieldtype": "Link",
+    "target": "C-Form",
+    "same_module": true,
+    "target_modules": null
+  },
+  "sales_partner": {
+    "fieldname": "sales_partner",
+    "fieldtype": "Link",
+    "target": "Sales Partner",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "sales_team": {
+    "fieldname": "sales_team",
+    "fieldtype": "Table",
+    "target": "Sales Team",
+    "same_module": false,
+    "target_modules": [
+      "Selling"
+    ]
+  },
+  "subscription": {
+    "fieldname": "subscription",
+    "fieldtype": "Link",
+    "target": "Subscription",
+    "same_module": true,
+    "target_modules": null
+  },
+  "recurring_id": {
+    "fieldname": "recurring_id",
+    "fieldtype": "Link",
+    "target": "Sales Invoice",
+    "same_module": true,
+    "target_modules": null
+  },
+  "recurring_print_format": {
+    "fieldname": "recurring_print_format",
+    "fieldtype": "Link",
+    "target": "Print Format",
+    "same_module": false,
+    "target_modules": [
+      "Printing"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "state": {
+    "fieldname": "state",
+    "fieldtype": "Link",
+    "target": "Workflow State",
+    "same_module": true,
+    "target_modules": null
+  },
+  "action": {
+    "fieldname": "action",
+    "fieldtype": "Link",
+    "target": "Workflow Action",
+    "same_module": true,
+    "target_modules": null
+  },
+  "next_state": {
+    "fieldname": "next_state",
+    "fieldtype": "Link",
+    "target": "Workflow State",
+    "same_module": true,
+    "target_modules": null
+  },
+  "allowed": {
+    "fieldname": "allowed",
+    "fieldtype": "Link",
+    "target": "Role",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  }
+}

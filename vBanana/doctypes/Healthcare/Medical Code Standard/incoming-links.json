@@ -1,0 +1,14 @@
+[
+  {
+    "module": "Healthcare",
+    "doctype": "Healthcare Settings",
+    "fieldname": "default_medical_code_standard",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Medical Code",
+    "fieldname": "medical_code_standard",
+    "fieldtype": "Link"
+  }
+]

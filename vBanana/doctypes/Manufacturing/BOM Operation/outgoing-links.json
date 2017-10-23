@@ -1,0 +1,16 @@
+{
+  "operation": {
+    "fieldname": "operation",
+    "fieldtype": "Link",
+    "target": "Operation",
+    "same_module": true,
+    "target_modules": null
+  },
+  "workstation": {
+    "fieldname": "workstation",
+    "fieldtype": "Link",
+    "target": "Workstation",
+    "same_module": true,
+    "target_modules": null
+  }
+}

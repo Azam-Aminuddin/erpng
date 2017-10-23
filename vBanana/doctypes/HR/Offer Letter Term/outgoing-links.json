@@ -1,0 +1,9 @@
+{
+  "offer_term": {
+    "fieldname": "offer_term",
+    "fieldtype": "Link",
+    "target": "Offer Term",
+    "same_module": true,
+    "target_modules": null
+  }
+}

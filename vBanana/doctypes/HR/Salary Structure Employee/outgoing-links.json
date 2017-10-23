@@ -1,0 +1,9 @@
+{
+  "employee": {
+    "fieldname": "employee",
+    "fieldtype": "Link",
+    "target": "Employee",
+    "same_module": true,
+    "target_modules": null
+  }
+}

@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Selling",
+    "doctype": "Installation Note",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  }
+]

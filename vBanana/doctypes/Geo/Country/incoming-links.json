@@ -1,0 +1,80 @@
+[
+  {
+    "module": "Contacts",
+    "doctype": "Address",
+    "fieldname": "country",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Contacts",
+    "doctype": "Address Template",
+    "fieldname": "country",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Core",
+    "doctype": "System Settings",
+    "fieldname": "country",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Shipping Rule Country",
+    "fieldname": "country",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Tax Rule",
+    "fieldname": "billing_country",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Tax Rule",
+    "fieldname": "shipping_country",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Supplier",
+    "fieldname": "country",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Hub Node",
+    "doctype": "Hub Settings",
+    "fieldname": "country",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Company",
+    "fieldname": "country",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Global Defaults",
+    "fieldname": "country",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Item",
+    "fieldname": "country_of_origin",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Manufacturer",
+    "fieldname": "country",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Price List Country",
+    "fieldname": "country",
+    "fieldtype": "Link"
+  }
+]

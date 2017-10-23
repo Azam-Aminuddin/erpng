@@ -1,0 +1,92 @@
+{
+  "gender": {
+    "fieldname": "gender",
+    "fieldtype": "Link",
+    "target": "Gender",
+    "same_module": false,
+    "target_modules": [
+      "Contacts"
+    ]
+  },
+  "source": {
+    "fieldname": "source",
+    "fieldtype": "Link",
+    "target": "Lead Source",
+    "same_module": false,
+    "target_modules": [
+      "Selling"
+    ]
+  },
+  "customer": {
+    "fieldname": "customer",
+    "fieldtype": "Link",
+    "target": "Customer",
+    "same_module": false,
+    "target_modules": [
+      "Selling"
+    ]
+  },
+  "campaign_name": {
+    "fieldname": "campaign_name",
+    "fieldtype": "Link",
+    "target": "Campaign",
+    "same_module": false,
+    "target_modules": [
+      "Selling"
+    ]
+  },
+  "lead_owner": {
+    "fieldname": "lead_owner",
+    "fieldtype": "Link",
+    "target": "User",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  },
+  "contact_by": {
+    "fieldname": "contact_by",
+    "fieldtype": "Link",
+    "target": "User",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  },
+  "salutation": {
+    "fieldname": "salutation",
+    "fieldtype": "Link",
+    "target": "Salutation",
+    "same_module": false,
+    "target_modules": [
+      "Contacts"
+    ]
+  },
+  "territory": {
+    "fieldname": "territory",
+    "fieldtype": "Link",
+    "target": "Territory",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "industry": {
+    "fieldname": "industry",
+    "fieldtype": "Link",
+    "target": "Industry Type",
+    "same_module": false,
+    "target_modules": [
+      "Selling"
+    ]
+  },
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  }
+}

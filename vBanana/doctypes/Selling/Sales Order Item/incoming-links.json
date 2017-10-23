@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Selling",
+    "doctype": "Sales Order",
+    "fieldname": "items",
+    "fieldtype": "Table"
+  }
+]

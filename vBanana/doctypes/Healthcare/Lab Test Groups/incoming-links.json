@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Healthcare",
+    "doctype": "Lab Test Template",
+    "fieldname": "test_groups",
+    "fieldtype": "Table"
+  }
+]

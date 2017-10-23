@@ -1,0 +1,9 @@
+{
+  "based_on": {
+    "fieldname": "based_on",
+    "fieldtype": "Link",
+    "target": "Language",
+    "same_module": true,
+    "target_modules": null
+  }
+}

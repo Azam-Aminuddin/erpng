@@ -1,0 +1,62 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Purchase Invoice Item",
+    "fieldname": "batch_no",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Sales Invoice Item",
+    "fieldname": "batch_no",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Purchase Receipt Item Supplied",
+    "fieldname": "batch_no",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Batch",
+    "fieldname": "parent_batch",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Delivery Note Item",
+    "fieldname": "batch_no",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Packed Item",
+    "fieldname": "batch_no",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Packing Slip Item",
+    "fieldname": "batch_no",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Purchase Receipt Item",
+    "fieldname": "batch_no",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Quality Inspection",
+    "fieldname": "batch_no",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Stock Entry Detail",
+    "fieldname": "batch_no",
+    "fieldtype": "Link"
+  }
+]

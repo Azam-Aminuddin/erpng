@@ -1,0 +1,32 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Purchase Invoice",
+    "fieldname": "taxes",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Purchase Taxes and Charges Template",
+    "fieldname": "taxes",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Purchase Order",
+    "fieldname": "taxes",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Supplier Quotation",
+    "fieldname": "taxes",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Purchase Receipt",
+    "fieldname": "taxes",
+    "fieldtype": "Table"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "state": {
+    "fieldname": "state",
+    "fieldtype": "Link",
+    "target": "Workflow State",
+    "same_module": true,
+    "target_modules": null
+  },
+  "allow_edit": {
+    "fieldname": "allow_edit",
+    "fieldtype": "Link",
+    "target": "Role",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  }
+}

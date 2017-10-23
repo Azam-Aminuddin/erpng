@@ -1,0 +1,138 @@
+{
+  "item_code": {
+    "fieldname": "item_code",
+    "fieldtype": "Link",
+    "target": "Item",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "stock_uom": {
+    "fieldname": "stock_uom",
+    "fieldtype": "Link",
+    "target": "UOM",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "uom": {
+    "fieldname": "uom",
+    "fieldtype": "Link",
+    "target": "UOM",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "pricing_rule": {
+    "fieldname": "pricing_rule",
+    "fieldtype": "Link",
+    "target": "Pricing Rule",
+    "same_module": true,
+    "target_modules": null
+  },
+  "warehouse": {
+    "fieldname": "warehouse",
+    "fieldtype": "Link",
+    "target": "Warehouse",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "rejected_warehouse": {
+    "fieldname": "rejected_warehouse",
+    "fieldtype": "Link",
+    "target": "Warehouse",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "quality_inspection": {
+    "fieldname": "quality_inspection",
+    "fieldtype": "Link",
+    "target": "Quality Inspection",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "batch_no": {
+    "fieldname": "batch_no",
+    "fieldtype": "Link",
+    "target": "Batch",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "expense_account": {
+    "fieldname": "expense_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": true,
+    "target_modules": null
+  },
+  "project": {
+    "fieldname": "project",
+    "fieldtype": "Link",
+    "target": "Project",
+    "same_module": false,
+    "target_modules": [
+      "Projects"
+    ]
+  },
+  "cost_center": {
+    "fieldname": "cost_center",
+    "fieldtype": "Link",
+    "target": "Cost Center",
+    "same_module": true,
+    "target_modules": null
+  },
+  "item_group": {
+    "fieldname": "item_group",
+    "fieldtype": "Link",
+    "target": "Item Group",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "purchase_order": {
+    "fieldname": "purchase_order",
+    "fieldtype": "Link",
+    "target": "Purchase Order",
+    "same_module": false,
+    "target_modules": [
+      "Buying"
+    ]
+  },
+  "bom": {
+    "fieldname": "bom",
+    "fieldtype": "Link",
+    "target": "BOM",
+    "same_module": false,
+    "target_modules": [
+      "Manufacturing"
+    ]
+  },
+  "asset": {
+    "fieldname": "asset",
+    "fieldtype": "Link",
+    "target": "Asset",
+    "same_module": true,
+    "target_modules": null
+  },
+  "purchase_receipt": {
+    "fieldname": "purchase_receipt",
+    "fieldtype": "Link",
+    "target": "Purchase Receipt",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  }
+}

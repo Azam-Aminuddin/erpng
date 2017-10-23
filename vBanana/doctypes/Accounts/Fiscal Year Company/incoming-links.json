@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Fiscal Year",
+    "fieldname": "companies",
+    "fieldtype": "Table"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "module": "Website",
+    "doctype": "Website Settings",
+    "fieldname": "top_bar_items",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Website",
+    "doctype": "Website Settings",
+    "fieldname": "footer_items",
+    "fieldtype": "Table"
+  }
+]

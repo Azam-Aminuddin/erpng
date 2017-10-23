@@ -1,0 +1,32 @@
+[
+  {
+    "module": "Healthcare",
+    "doctype": "Consultation",
+    "fieldname": "visit_department",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Lab Test",
+    "fieldname": "department",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Lab Test Template",
+    "fieldname": "department",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Patient Appointment",
+    "fieldname": "department",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Physician",
+    "fieldname": "department",
+    "fieldtype": "Link"
+  }
+]

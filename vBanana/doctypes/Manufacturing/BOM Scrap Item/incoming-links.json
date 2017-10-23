@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Manufacturing",
+    "doctype": "BOM",
+    "fieldname": "scrap_items",
+    "fieldtype": "Table"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "module": "Core",
+    "doctype": "Custom Role",
+    "fieldname": "report",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Core",
+    "doctype": "Role Permission for Page and Report",
+    "fieldname": "report",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Core",
+    "doctype": "User Permission for Page and Report",
+    "fieldname": "report",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Desk",
+    "doctype": "Desktop Icon",
+    "fieldname": "_report",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Email",
+    "doctype": "Auto Email Report",
+    "fieldname": "report",
+    "fieldtype": "Link"
+  }
+]

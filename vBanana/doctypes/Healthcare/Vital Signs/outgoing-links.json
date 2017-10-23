@@ -1,0 +1,39 @@
+{
+  "patient": {
+    "fieldname": "patient",
+    "fieldtype": "Link",
+    "target": "Patient",
+    "same_module": true,
+    "target_modules": null
+  },
+  "appointment": {
+    "fieldname": "appointment",
+    "fieldtype": "Link",
+    "target": "Patient Appointment",
+    "same_module": true,
+    "target_modules": null
+  },
+  "consultation": {
+    "fieldname": "consultation",
+    "fieldtype": "Link",
+    "target": "Consultation",
+    "same_module": true,
+    "target_modules": null
+  },
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "amended_from": {
+    "fieldname": "amended_from",
+    "fieldtype": "Link",
+    "target": "Vital Signs",
+    "same_module": true,
+    "target_modules": null
+  }
+}

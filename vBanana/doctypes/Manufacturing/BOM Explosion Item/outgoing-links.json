@@ -1,0 +1,29 @@
+{
+  "item_code": {
+    "fieldname": "item_code",
+    "fieldtype": "Link",
+    "target": "Item",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "source_warehouse": {
+    "fieldname": "source_warehouse",
+    "fieldtype": "Link",
+    "target": "Warehouse",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "stock_uom": {
+    "fieldname": "stock_uom",
+    "fieldtype": "Link",
+    "target": "UOM",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  }
+}

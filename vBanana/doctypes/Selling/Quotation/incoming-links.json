@@ -1,0 +1,14 @@
+[
+  {
+    "module": "Selling",
+    "doctype": "Quotation",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Sales Order Item",
+    "fieldname": "prevdoc_docname",
+    "fieldtype": "Link"
+  }
+]

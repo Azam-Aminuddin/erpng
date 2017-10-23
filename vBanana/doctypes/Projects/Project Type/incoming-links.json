@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Projects",
+    "doctype": "Project",
+    "fieldname": "project_type",
+    "fieldtype": "Link"
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "student_group": {
+    "fieldname": "student_group",
+    "fieldtype": "Link",
+    "target": "Student Group",
+    "same_module": true,
+    "target_modules": null
+  },
+  "course": {
+    "fieldname": "course",
+    "fieldtype": "Link",
+    "target": "Course",
+    "same_module": true,
+    "target_modules": null
+  },
+  "assessment_group": {
+    "fieldname": "assessment_group",
+    "fieldtype": "Link",
+    "target": "Assessment Group",
+    "same_module": true,
+    "target_modules": null
+  },
+  "grading_scale": {
+    "fieldname": "grading_scale",
+    "fieldtype": "Link",
+    "target": "Grading Scale",
+    "same_module": true,
+    "target_modules": null
+  },
+  "room": {
+    "fieldname": "room",
+    "fieldtype": "Link",
+    "target": "Room",
+    "same_module": true,
+    "target_modules": null
+  },
+  "examiner": {
+    "fieldname": "examiner",
+    "fieldtype": "Link",
+    "target": "Instructor",
+    "same_module": true,
+    "target_modules": null
+  },
+  "supervisor": {
+    "fieldname": "supervisor",
+    "fieldtype": "Link",
+    "target": "Instructor",
+    "same_module": true,
+    "target_modules": null
+  },
+  "assessment_criteria": {
+    "fieldname": "assessment_criteria",
+    "fieldtype": "Table",
+    "target": "Assessment Plan Criteria",
+    "same_module": true,
+    "target_modules": null
+  },
+  "amended_from": {
+    "fieldname": "amended_from",
+    "fieldtype": "Link",
+    "target": "Assessment Plan",
+    "same_module": true,
+    "target_modules": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "training_event": {
+    "fieldname": "training_event",
+    "fieldtype": "Link",
+    "target": "Training Event",
+    "same_module": true,
+    "target_modules": null
+  },
+  "employees": {
+    "fieldname": "employees",
+    "fieldtype": "Table",
+    "target": "Training Result Employee",
+    "same_module": true,
+    "target_modules": null
+  },
+  "amended_from": {
+    "fieldname": "amended_from",
+    "fieldtype": "Link",
+    "target": "Training Result",
+    "same_module": true,
+    "target_modules": null
+  }
+}

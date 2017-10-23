@@ -1,0 +1,9 @@
+{
+  "language": {
+    "fieldname": "language",
+    "fieldtype": "Link",
+    "target": "Language",
+    "same_module": true,
+    "target_modules": null
+  }
+}

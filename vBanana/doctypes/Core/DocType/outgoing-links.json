@@ -1,0 +1,30 @@
+{
+  "module": {
+    "fieldname": "module",
+    "fieldtype": "Link",
+    "target": "Module Def",
+    "same_module": true,
+    "target_modules": null
+  },
+  "fields": {
+    "fieldname": "fields",
+    "fieldtype": "Table",
+    "target": "DocField",
+    "same_module": true,
+    "target_modules": null
+  },
+  "restrict_to_domain": {
+    "fieldname": "restrict_to_domain",
+    "fieldtype": "Link",
+    "target": "Domain",
+    "same_module": true,
+    "target_modules": null
+  },
+  "permissions": {
+    "fieldname": "permissions",
+    "fieldtype": "Table",
+    "target": "DocPerm",
+    "same_module": true,
+    "target_modules": null
+  }
+}

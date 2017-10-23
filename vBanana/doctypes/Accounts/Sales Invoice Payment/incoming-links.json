@@ -1,0 +1,14 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "POS Profile",
+    "fieldname": "payments",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Sales Invoice",
+    "fieldname": "payments",
+    "fieldtype": "Table"
+  }
+]

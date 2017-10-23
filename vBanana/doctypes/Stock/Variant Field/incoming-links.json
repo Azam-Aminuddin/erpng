@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Stock",
+    "doctype": "Item Variant Settings",
+    "fieldname": "fields",
+    "fieldtype": "Table"
+  }
+]

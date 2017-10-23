@@ -1,0 +1,209 @@
+{
+  "customer": {
+    "fieldname": "customer",
+    "fieldtype": "Link",
+    "target": "Customer",
+    "same_module": true,
+    "target_modules": null
+  },
+  "lead": {
+    "fieldname": "lead",
+    "fieldtype": "Link",
+    "target": "Lead",
+    "same_module": false,
+    "target_modules": [
+      "CRM"
+    ]
+  },
+  "amended_from": {
+    "fieldname": "amended_from",
+    "fieldtype": "Link",
+    "target": "Quotation",
+    "same_module": true,
+    "target_modules": null
+  },
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "customer_address": {
+    "fieldname": "customer_address",
+    "fieldtype": "Link",
+    "target": "Address",
+    "same_module": false,
+    "target_modules": [
+      "Contacts"
+    ]
+  },
+  "contact_person": {
+    "fieldname": "contact_person",
+    "fieldtype": "Link",
+    "target": "Contact",
+    "same_module": false,
+    "target_modules": [
+      "Contacts"
+    ]
+  },
+  "shipping_address_name": {
+    "fieldname": "shipping_address_name",
+    "fieldtype": "Link",
+    "target": "Address",
+    "same_module": false,
+    "target_modules": [
+      "Contacts"
+    ]
+  },
+  "customer_group": {
+    "fieldname": "customer_group",
+    "fieldtype": "Link",
+    "target": "Customer Group",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "territory": {
+    "fieldname": "territory",
+    "fieldtype": "Link",
+    "target": "Territory",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "currency": {
+    "fieldname": "currency",
+    "fieldtype": "Link",
+    "target": "Currency",
+    "same_module": false,
+    "target_modules": [
+      "Geo"
+    ]
+  },
+  "selling_price_list": {
+    "fieldname": "selling_price_list",
+    "fieldtype": "Link",
+    "target": "Price List",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "price_list_currency": {
+    "fieldname": "price_list_currency",
+    "fieldtype": "Link",
+    "target": "Currency",
+    "same_module": false,
+    "target_modules": [
+      "Geo"
+    ]
+  },
+  "items": {
+    "fieldname": "items",
+    "fieldtype": "Table",
+    "target": "Quotation Item",
+    "same_module": true,
+    "target_modules": null
+  },
+  "taxes_and_charges": {
+    "fieldname": "taxes_and_charges",
+    "fieldtype": "Link",
+    "target": "Sales Taxes and Charges Template",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "shipping_rule": {
+    "fieldname": "shipping_rule",
+    "fieldtype": "Link",
+    "target": "Shipping Rule",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "taxes": {
+    "fieldname": "taxes",
+    "fieldtype": "Table",
+    "target": "Sales Taxes and Charges",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "tc_name": {
+    "fieldname": "tc_name",
+    "fieldtype": "Link",
+    "target": "Terms and Conditions",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "letter_head": {
+    "fieldname": "letter_head",
+    "fieldtype": "Link",
+    "target": "Letter Head",
+    "same_module": false,
+    "target_modules": [
+      "Printing"
+    ]
+  },
+  "select_print_heading": {
+    "fieldname": "select_print_heading",
+    "fieldtype": "Link",
+    "target": "Print Heading",
+    "same_module": false,
+    "target_modules": [
+      "Printing",
+      "Setup"
+    ]
+  },
+  "subscription": {
+    "fieldname": "subscription",
+    "fieldtype": "Link",
+    "target": "Subscription",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "campaign": {
+    "fieldname": "campaign",
+    "fieldtype": "Link",
+    "target": "Campaign",
+    "same_module": true,
+    "target_modules": null
+  },
+  "source": {
+    "fieldname": "source",
+    "fieldtype": "Link",
+    "target": "Lead Source",
+    "same_module": true,
+    "target_modules": null
+  },
+  "supplier_quotation": {
+    "fieldname": "supplier_quotation",
+    "fieldtype": "Link",
+    "target": "Supplier Quotation",
+    "same_module": false,
+    "target_modules": [
+      "Buying"
+    ]
+  },
+  "opportunity": {
+    "fieldname": "opportunity",
+    "fieldtype": "Link",
+    "target": "Opportunity",
+    "same_module": false,
+    "target_modules": [
+      "CRM"
+    ]
+  }
+}

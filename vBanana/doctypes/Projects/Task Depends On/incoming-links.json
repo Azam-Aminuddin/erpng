@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Projects",
+    "doctype": "Task",
+    "fieldname": "depends_on",
+    "fieldtype": "Table"
+  }
+]

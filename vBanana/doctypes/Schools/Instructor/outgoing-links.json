@@ -1,0 +1,20 @@
+{
+  "employee": {
+    "fieldname": "employee",
+    "fieldtype": "Link",
+    "target": "Employee",
+    "same_module": false,
+    "target_modules": [
+      "HR"
+    ]
+  },
+  "department": {
+    "fieldname": "department",
+    "fieldtype": "Link",
+    "target": "Department",
+    "same_module": false,
+    "target_modules": [
+      "HR"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "instructor": {
+    "fieldname": "instructor",
+    "fieldtype": "Link",
+    "target": "Instructor",
+    "same_module": true,
+    "target_modules": null
+  }
+}

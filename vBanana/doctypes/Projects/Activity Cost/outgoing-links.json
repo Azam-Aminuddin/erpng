@@ -1,0 +1,18 @@
+{
+  "activity_type": {
+    "fieldname": "activity_type",
+    "fieldtype": "Link",
+    "target": "Activity Type",
+    "same_module": true,
+    "target_modules": null
+  },
+  "employee": {
+    "fieldname": "employee",
+    "fieldtype": "Link",
+    "target": "Employee",
+    "same_module": false,
+    "target_modules": [
+      "HR"
+    ]
+  }
+}

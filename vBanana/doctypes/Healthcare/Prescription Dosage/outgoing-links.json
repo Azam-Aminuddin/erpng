@@ -1,0 +1,9 @@
+{
+  "dosage_strength": {
+    "fieldname": "dosage_strength",
+    "fieldtype": "Table",
+    "target": "Dosage Strength",
+    "same_module": true,
+    "target_modules": null
+  }
+}

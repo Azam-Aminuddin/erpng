@@ -1,0 +1,50 @@
+{
+  "leave_type": {
+    "fieldname": "leave_type",
+    "fieldtype": "Link",
+    "target": "Leave Type",
+    "same_module": true,
+    "target_modules": null
+  },
+  "employee": {
+    "fieldname": "employee",
+    "fieldtype": "Link",
+    "target": "Employee",
+    "same_module": true,
+    "target_modules": null
+  },
+  "leave_approver": {
+    "fieldname": "leave_approver",
+    "fieldtype": "Link",
+    "target": "User",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  },
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "letter_head": {
+    "fieldname": "letter_head",
+    "fieldtype": "Link",
+    "target": "Letter Head",
+    "same_module": false,
+    "target_modules": [
+      "Printing"
+    ]
+  },
+  "amended_from": {
+    "fieldname": "amended_from",
+    "fieldtype": "Link",
+    "target": "Leave Application",
+    "same_module": true,
+    "target_modules": null
+  }
+}

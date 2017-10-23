@@ -1,0 +1,25 @@
+{
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "leave_block_list_dates": {
+    "fieldname": "leave_block_list_dates",
+    "fieldtype": "Table",
+    "target": "Leave Block List Date",
+    "same_module": true,
+    "target_modules": null
+  },
+  "leave_block_list_allowed": {
+    "fieldname": "leave_block_list_allowed",
+    "fieldtype": "Table",
+    "target": "Leave Block List Allow",
+    "same_module": true,
+    "target_modules": null
+  }
+}

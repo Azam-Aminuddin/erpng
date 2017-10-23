@@ -1,0 +1,16 @@
+{
+  "students": {
+    "fieldname": "students",
+    "fieldtype": "Table",
+    "target": "Guardian Student",
+    "same_module": true,
+    "target_modules": null
+  },
+  "interests": {
+    "fieldname": "interests",
+    "fieldtype": "Table",
+    "target": "Guardian Interest",
+    "same_module": true,
+    "target_modules": null
+  }
+}

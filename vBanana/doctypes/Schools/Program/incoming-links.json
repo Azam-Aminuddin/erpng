@@ -1,0 +1,80 @@
+[
+  {
+    "module": "Schools",
+    "doctype": "Course Scheduling Tool",
+    "fieldname": "program",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Fees",
+    "fieldname": "program",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Fee Schedule",
+    "fieldname": "program",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Fee Schedule Program",
+    "fieldname": "program",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Fee Structure",
+    "fieldname": "program",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Program Enrollment",
+    "fieldname": "program",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Program Enrollment Tool",
+    "fieldname": "program",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Program Enrollment Tool",
+    "fieldname": "new_program",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Student Admission Program",
+    "fieldname": "program",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Student Applicant",
+    "fieldname": "program",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Student Group",
+    "fieldname": "program",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Student Group Creation Tool",
+    "fieldname": "program",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Student Log",
+    "fieldname": "program",
+    "fieldtype": "Link"
+  }
+]

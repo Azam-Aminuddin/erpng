@@ -1,0 +1,11 @@
+{
+  "item": {
+    "fieldname": "item",
+    "fieldtype": "Link",
+    "target": "Item",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  }
+}

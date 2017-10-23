@@ -1,0 +1,25 @@
+{
+  "parent_cost_center": {
+    "fieldname": "parent_cost_center",
+    "fieldtype": "Link",
+    "target": "Cost Center",
+    "same_module": true,
+    "target_modules": null
+  },
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "old_parent": {
+    "fieldname": "old_parent",
+    "fieldtype": "Link",
+    "target": "Cost Center",
+    "same_module": true,
+    "target_modules": null
+  }
+}

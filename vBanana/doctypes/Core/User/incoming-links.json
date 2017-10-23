@@ -1,0 +1,206 @@
+[
+  {
+    "module": "Contacts",
+    "doctype": "Contact",
+    "fieldname": "user",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Core",
+    "doctype": "Communication",
+    "fieldname": "user",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Core",
+    "doctype": "DocShare",
+    "fieldname": "user",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Core",
+    "doctype": "User Permission",
+    "fieldname": "user",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Desk",
+    "doctype": "Note Seen By",
+    "fieldname": "user",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Desk",
+    "doctype": "ToDo",
+    "fieldname": "owner",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Desk",
+    "doctype": "ToDo",
+    "fieldname": "assigned_by",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Email",
+    "doctype": "Auto Email Report",
+    "fieldname": "user",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Email",
+    "doctype": "Standard Reply",
+    "fieldname": "owner",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Integrations",
+    "doctype": "OAuth Authorization Code",
+    "fieldname": "user",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Integrations",
+    "doctype": "OAuth Bearer Token",
+    "fieldname": "user",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Integrations",
+    "doctype": "OAuth Client",
+    "fieldname": "user",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Website",
+    "doctype": "Blogger",
+    "fieldname": "user",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Website",
+    "doctype": "Help Article",
+    "fieldname": "owner",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "POS Profile",
+    "fieldname": "user",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "CRM",
+    "doctype": "Lead",
+    "fieldname": "lead_owner",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "CRM",
+    "doctype": "Lead",
+    "fieldname": "contact_by",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "CRM",
+    "doctype": "Opportunity",
+    "fieldname": "contact_by",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Lab Test",
+    "fieldname": "user",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Patient Medical Record",
+    "fieldname": "user",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Physician",
+    "fieldname": "user_id",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Sample Collection",
+    "fieldname": "collected_by",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Employee",
+    "fieldname": "user_id",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Employee Leave Approver",
+    "fieldname": "leave_approver",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Expense Claim",
+    "fieldname": "exp_approver",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Leave Application",
+    "fieldname": "leave_approver",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Leave Block List Allow",
+    "fieldname": "allow_user",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Hub Node",
+    "doctype": "Hub Settings",
+    "fieldname": "user",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Projects",
+    "doctype": "Project User",
+    "fieldname": "user",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Projects",
+    "doctype": "Timesheet",
+    "fieldname": "user",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Authorization Rule",
+    "fieldname": "system_user",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Authorization Rule",
+    "fieldname": "approving_user",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Quality Inspection",
+    "fieldname": "inspected_by",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Support",
+    "doctype": "Warranty Claim",
+    "fieldname": "resolved_by",
+    "fieldtype": "Link"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "email_group": {
+    "fieldname": "email_group",
+    "fieldtype": "Link",
+    "target": "Email Group",
+    "same_module": true,
+    "target_modules": null
+  }
+}

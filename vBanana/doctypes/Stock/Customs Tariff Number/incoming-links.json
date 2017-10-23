@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Stock",
+    "doctype": "Item",
+    "fieldname": "customs_tariff_number",
+    "fieldtype": "Link"
+  }
+]

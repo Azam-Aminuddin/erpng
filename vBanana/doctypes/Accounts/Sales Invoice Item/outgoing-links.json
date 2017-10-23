@@ -1,0 +1,127 @@
+{
+  "item_code": {
+    "fieldname": "item_code",
+    "fieldtype": "Link",
+    "target": "Item",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "stock_uom": {
+    "fieldname": "stock_uom",
+    "fieldtype": "Link",
+    "target": "UOM",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "uom": {
+    "fieldname": "uom",
+    "fieldtype": "Link",
+    "target": "UOM",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "pricing_rule": {
+    "fieldname": "pricing_rule",
+    "fieldtype": "Link",
+    "target": "Pricing Rule",
+    "same_module": true,
+    "target_modules": null
+  },
+  "income_account": {
+    "fieldname": "income_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": true,
+    "target_modules": null
+  },
+  "expense_account": {
+    "fieldname": "expense_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": true,
+    "target_modules": null
+  },
+  "cost_center": {
+    "fieldname": "cost_center",
+    "fieldtype": "Link",
+    "target": "Cost Center",
+    "same_module": true,
+    "target_modules": null
+  },
+  "warehouse": {
+    "fieldname": "warehouse",
+    "fieldtype": "Link",
+    "target": "Warehouse",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "target_warehouse": {
+    "fieldname": "target_warehouse",
+    "fieldtype": "Link",
+    "target": "Warehouse",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "quality_inspection": {
+    "fieldname": "quality_inspection",
+    "fieldtype": "Link",
+    "target": "Quality Inspection",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "batch_no": {
+    "fieldname": "batch_no",
+    "fieldtype": "Link",
+    "target": "Batch",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "item_group": {
+    "fieldname": "item_group",
+    "fieldtype": "Link",
+    "target": "Item Group",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "sales_order": {
+    "fieldname": "sales_order",
+    "fieldtype": "Link",
+    "target": "Sales Order",
+    "same_module": false,
+    "target_modules": [
+      "Selling"
+    ]
+  },
+  "delivery_note": {
+    "fieldname": "delivery_note",
+    "fieldtype": "Link",
+    "target": "Delivery Note",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "asset": {
+    "fieldname": "asset",
+    "fieldtype": "Link",
+    "target": "Asset",
+    "same_module": true,
+    "target_modules": null
+  }
+}

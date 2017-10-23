@@ -1,0 +1,20 @@
+[
+  {
+    "module": "HR",
+    "doctype": "Employee",
+    "fieldname": "holiday_list",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Manufacturing",
+    "doctype": "Workstation",
+    "fieldname": "holiday_list",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Company",
+    "fieldname": "default_holiday_list",
+    "fieldtype": "Link"
+  }
+]

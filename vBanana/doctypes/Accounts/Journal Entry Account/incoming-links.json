@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Journal Entry",
+    "fieldname": "accounts",
+    "fieldtype": "Table"
+  }
+]

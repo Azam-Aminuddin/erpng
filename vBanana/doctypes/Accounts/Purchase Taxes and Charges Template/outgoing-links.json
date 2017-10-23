@@ -1,0 +1,18 @@
+{
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "taxes": {
+    "fieldname": "taxes",
+    "fieldtype": "Table",
+    "target": "Purchase Taxes and Charges",
+    "same_module": true,
+    "target_modules": null
+  }
+}

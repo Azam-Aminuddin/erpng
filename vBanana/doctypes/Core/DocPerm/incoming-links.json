@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Core",
+    "doctype": "DocType",
+    "fieldname": "permissions",
+    "fieldtype": "Table"
+  }
+]

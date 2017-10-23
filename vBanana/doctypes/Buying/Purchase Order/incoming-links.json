@@ -1,0 +1,32 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Purchase Invoice Item",
+    "fieldname": "purchase_order",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Purchase Order",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Purchase Order",
+    "fieldname": "recurring_id",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Purchase Receipt Item",
+    "fieldname": "purchase_order",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Stock Entry",
+    "fieldname": "purchase_order",
+    "fieldtype": "Link"
+  }
+]

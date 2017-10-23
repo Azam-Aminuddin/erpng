@@ -1,0 +1,8 @@
+[
+  {
+    "module": "HR",
+    "doctype": "Leave Block List",
+    "fieldname": "leave_block_list_dates",
+    "fieldtype": "Table"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "tax_type": {
+    "fieldname": "tax_type",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  }
+}

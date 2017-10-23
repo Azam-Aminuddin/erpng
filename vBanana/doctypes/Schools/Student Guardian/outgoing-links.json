@@ -1,0 +1,9 @@
+{
+  "guardian": {
+    "fieldname": "guardian",
+    "fieldtype": "Link",
+    "target": "Guardian",
+    "same_module": true,
+    "target_modules": null
+  }
+}

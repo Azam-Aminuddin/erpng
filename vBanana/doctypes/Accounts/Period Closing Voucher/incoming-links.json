@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Period Closing Voucher",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  }
+]

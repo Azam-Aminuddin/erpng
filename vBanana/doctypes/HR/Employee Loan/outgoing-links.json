@@ -1,0 +1,82 @@
+{
+  "employee": {
+    "fieldname": "employee",
+    "fieldtype": "Link",
+    "target": "Employee",
+    "same_module": true,
+    "target_modules": null
+  },
+  "employee_loan_application": {
+    "fieldname": "employee_loan_application",
+    "fieldtype": "Link",
+    "target": "Employee Loan Application",
+    "same_module": true,
+    "target_modules": null
+  },
+  "loan_type": {
+    "fieldname": "loan_type",
+    "fieldtype": "Link",
+    "target": "Loan Type",
+    "same_module": true,
+    "target_modules": null
+  },
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "mode_of_payment": {
+    "fieldname": "mode_of_payment",
+    "fieldtype": "Link",
+    "target": "Mode of Payment",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "payment_account": {
+    "fieldname": "payment_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "employee_loan_account": {
+    "fieldname": "employee_loan_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "interest_income_account": {
+    "fieldname": "interest_income_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "repayment_schedule": {
+    "fieldname": "repayment_schedule",
+    "fieldtype": "Table",
+    "target": "Repayment Schedule",
+    "same_module": true,
+    "target_modules": null
+  },
+  "amended_from": {
+    "fieldname": "amended_from",
+    "fieldtype": "Link",
+    "target": "Employee Loan",
+    "same_module": true,
+    "target_modules": null
+  }
+}

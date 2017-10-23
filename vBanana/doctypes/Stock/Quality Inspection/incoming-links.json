@@ -1,0 +1,32 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Purchase Invoice Item",
+    "fieldname": "quality_inspection",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Sales Invoice Item",
+    "fieldname": "quality_inspection",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Delivery Note Item",
+    "fieldname": "quality_inspection",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Purchase Receipt Item",
+    "fieldname": "quality_inspection",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Quality Inspection",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "reference_doctype": {
+    "fieldname": "reference_doctype",
+    "fieldtype": "Link",
+    "target": "DocType",
+    "same_module": true,
+    "target_modules": null
+  },
+  "email_account": {
+    "fieldname": "email_account",
+    "fieldtype": "Link",
+    "target": "Email Account",
+    "same_module": false,
+    "target_modules": [
+      "Email"
+    ]
+  },
+  "in_reply_to": {
+    "fieldname": "in_reply_to",
+    "fieldtype": "Link",
+    "target": "Communication",
+    "same_module": true,
+    "target_modules": null
+  },
+  "user": {
+    "fieldname": "user",
+    "fieldtype": "Link",
+    "target": "User",
+    "same_module": true,
+    "target_modules": null
+  },
+  "link_doctype": {
+    "fieldname": "link_doctype",
+    "fieldtype": "Link",
+    "target": "DocType",
+    "same_module": true,
+    "target_modules": null
+  },
+  "timeline_doctype": {
+    "fieldname": "timeline_doctype",
+    "fieldtype": "Link",
+    "target": "DocType",
+    "same_module": true,
+    "target_modules": null
+  }
+}

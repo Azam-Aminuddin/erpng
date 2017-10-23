@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Stock",
+    "doctype": "Packing Slip",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  }
+]

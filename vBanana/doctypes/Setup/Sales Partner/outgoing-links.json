@@ -1,0 +1,25 @@
+{
+  "territory": {
+    "fieldname": "territory",
+    "fieldtype": "Link",
+    "target": "Territory",
+    "same_module": true,
+    "target_modules": null
+  },
+  "targets": {
+    "fieldname": "targets",
+    "fieldtype": "Table",
+    "target": "Target Detail",
+    "same_module": true,
+    "target_modules": null
+  },
+  "distribution_id": {
+    "fieldname": "distribution_id",
+    "fieldtype": "Link",
+    "target": "Monthly Distribution",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "module": "Schools",
+    "doctype": "Fees",
+    "fieldname": "program_enrollment",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Program Enrollment",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  }
+]

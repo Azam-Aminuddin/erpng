@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Stock",
+    "doctype": "Stock Reconciliation",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Purchase Invoice",
+    "fieldname": "advances",
+    "fieldtype": "Table"
+  }
+]

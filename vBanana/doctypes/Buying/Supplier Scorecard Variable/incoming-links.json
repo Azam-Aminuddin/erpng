@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Buying",
+    "doctype": "Supplier Scorecard Scoring Variable",
+    "fieldname": "variable_label",
+    "fieldtype": "Link"
+  }
+]

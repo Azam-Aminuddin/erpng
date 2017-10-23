@@ -1,0 +1,14 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Payment Request",
+    "fieldname": "payment_gateway_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Shopping Cart",
+    "doctype": "Shopping Cart Settings",
+    "fieldname": "payment_gateway_account",
+    "fieldtype": "Link"
+  }
+]

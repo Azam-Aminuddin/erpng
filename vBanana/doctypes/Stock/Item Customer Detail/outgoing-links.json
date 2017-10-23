@@ -1,0 +1,11 @@
+{
+  "customer_name": {
+    "fieldname": "customer_name",
+    "fieldtype": "Link",
+    "target": "Customer",
+    "same_module": false,
+    "target_modules": [
+      "Selling"
+    ]
+  }
+}

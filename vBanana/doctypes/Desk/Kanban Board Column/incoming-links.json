@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Desk",
+    "doctype": "Kanban Board",
+    "fieldname": "columns",
+    "fieldtype": "Table"
+  }
+]

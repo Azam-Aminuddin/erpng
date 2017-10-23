@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Stock",
+    "doctype": "Item",
+    "fieldname": "reorder_levels",
+    "fieldtype": "Table"
+  }
+]

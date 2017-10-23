@@ -1,0 +1,50 @@
+[
+  {
+    "module": "Healthcare",
+    "doctype": "Consultation",
+    "fieldname": "patient",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Fee Validity",
+    "fieldname": "patient",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Lab Test",
+    "fieldname": "patient",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Patient Appointment",
+    "fieldname": "patient",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Patient Medical Record",
+    "fieldname": "patient",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Patient Relation",
+    "fieldname": "patient",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Sample Collection",
+    "fieldname": "patient",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Vital Signs",
+    "fieldname": "patient",
+    "fieldtype": "Link"
+  }
+]

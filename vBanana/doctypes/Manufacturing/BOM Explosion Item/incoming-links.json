@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Manufacturing",
+    "doctype": "BOM",
+    "fieldname": "exploded_items",
+    "fieldtype": "Table"
+  }
+]

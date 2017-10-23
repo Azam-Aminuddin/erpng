@@ -1,0 +1,50 @@
+{
+  "activity_type": {
+    "fieldname": "activity_type",
+    "fieldtype": "Link",
+    "target": "Activity Type",
+    "same_module": true,
+    "target_modules": null
+  },
+  "workstation": {
+    "fieldname": "workstation",
+    "fieldtype": "Link",
+    "target": "Workstation",
+    "same_module": false,
+    "target_modules": [
+      "Manufacturing"
+    ]
+  },
+  "operation": {
+    "fieldname": "operation",
+    "fieldtype": "Link",
+    "target": "Operation",
+    "same_module": false,
+    "target_modules": [
+      "Manufacturing"
+    ]
+  },
+  "project": {
+    "fieldname": "project",
+    "fieldtype": "Link",
+    "target": "Project",
+    "same_module": true,
+    "target_modules": null
+  },
+  "task": {
+    "fieldname": "task",
+    "fieldtype": "Link",
+    "target": "Task",
+    "same_module": true,
+    "target_modules": null
+  },
+  "sales_invoice": {
+    "fieldname": "sales_invoice",
+    "fieldtype": "Link",
+    "target": "Sales Invoice",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  }
+}

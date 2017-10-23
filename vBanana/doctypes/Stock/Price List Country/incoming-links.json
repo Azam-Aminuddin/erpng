@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Stock",
+    "doctype": "Price List",
+    "fieldname": "countries",
+    "fieldtype": "Table"
+  }
+]

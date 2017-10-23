@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "POS Profile",
+    "fieldname": "customer_groups",
+    "fieldtype": "Table"
+  }
+]

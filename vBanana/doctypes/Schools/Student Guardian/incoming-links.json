@@ -1,0 +1,14 @@
+[
+  {
+    "module": "Schools",
+    "doctype": "Student",
+    "fieldname": "guardians",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Student Applicant",
+    "fieldname": "guardians",
+    "fieldtype": "Table"
+  }
+]

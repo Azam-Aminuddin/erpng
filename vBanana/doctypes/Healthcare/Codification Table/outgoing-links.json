@@ -1,0 +1,9 @@
+{
+  "medical_code": {
+    "fieldname": "medical_code",
+    "fieldtype": "Link",
+    "target": "Medical Code",
+    "same_module": true,
+    "target_modules": null
+  }
+}

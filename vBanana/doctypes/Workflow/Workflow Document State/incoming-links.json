@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Workflow",
+    "doctype": "Workflow",
+    "fieldname": "states",
+    "fieldtype": "Table"
+  }
+]

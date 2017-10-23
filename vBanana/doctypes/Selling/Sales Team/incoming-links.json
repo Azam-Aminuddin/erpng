@@ -1,0 +1,26 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Sales Invoice",
+    "fieldname": "sales_team",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Customer",
+    "fieldname": "sales_team",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Sales Order",
+    "fieldname": "sales_team",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Delivery Note",
+    "fieldname": "sales_team",
+    "fieldtype": "Table"
+  }
+]

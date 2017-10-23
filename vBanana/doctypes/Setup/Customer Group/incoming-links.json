@@ -1,0 +1,110 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "POS Customer Group",
+    "fieldname": "customer_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "POS Profile",
+    "fieldname": "customer_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Pricing Rule",
+    "fieldname": "customer_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Sales Invoice",
+    "fieldname": "customer_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Tax Rule",
+    "fieldname": "customer_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "CRM",
+    "doctype": "Opportunity",
+    "fieldname": "customer_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Maintenance",
+    "doctype": "Maintenance Schedule",
+    "fieldname": "customer_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Maintenance",
+    "doctype": "Maintenance Visit",
+    "fieldname": "customer_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Customer",
+    "fieldname": "customer_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Installation Note",
+    "fieldname": "customer_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Quotation",
+    "fieldname": "customer_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Sales Order",
+    "fieldname": "customer_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Selling Settings",
+    "fieldname": "customer_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Customer Group",
+    "fieldname": "parent_customer_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Customer Group",
+    "fieldname": "old_parent",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Shopping Cart",
+    "doctype": "Shopping Cart Settings",
+    "fieldname": "default_customer_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Delivery Note",
+    "fieldname": "customer_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Support",
+    "doctype": "Warranty Claim",
+    "fieldname": "customer_group",
+    "fieldtype": "Link"
+  }
+]

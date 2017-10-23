@@ -1,0 +1,9 @@
+{
+  "item_group": {
+    "fieldname": "item_group",
+    "fieldtype": "Link",
+    "target": "Item Group",
+    "same_module": true,
+    "target_modules": null
+  }
+}

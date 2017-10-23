@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Projects",
+    "doctype": "Project",
+    "fieldname": "tasks",
+    "fieldtype": "Table"
+  }
+]

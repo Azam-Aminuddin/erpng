@@ -1,0 +1,8 @@
+[
+  {
+    "module": "HR",
+    "doctype": "Department",
+    "fieldname": "leave_block_list",
+    "fieldtype": "Link"
+  }
+]

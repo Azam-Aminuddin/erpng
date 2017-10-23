@@ -1,0 +1,9 @@
+{
+  "student": {
+    "fieldname": "student",
+    "fieldtype": "Link",
+    "target": "Student",
+    "same_module": true,
+    "target_modules": null
+  }
+}

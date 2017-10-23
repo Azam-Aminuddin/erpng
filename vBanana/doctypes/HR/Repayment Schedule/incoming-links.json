@@ -1,0 +1,8 @@
+[
+  {
+    "module": "HR",
+    "doctype": "Employee Loan",
+    "fieldname": "repayment_schedule",
+    "fieldtype": "Table"
+  }
+]

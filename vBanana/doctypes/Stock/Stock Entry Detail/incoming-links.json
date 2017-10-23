@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Stock",
+    "doctype": "Stock Entry",
+    "fieldname": "items",
+    "fieldtype": "Table"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Schools",
+    "doctype": "Program Enrollment Tool",
+    "fieldname": "students",
+    "fieldtype": "Table"
+  }
+]

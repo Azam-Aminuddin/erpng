@@ -1,0 +1,14 @@
+[
+  {
+    "module": "HR",
+    "doctype": "Salary Detail",
+    "fieldname": "salary_component",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Salary Structure",
+    "fieldname": "salary_component",
+    "fieldtype": "Link"
+  }
+]

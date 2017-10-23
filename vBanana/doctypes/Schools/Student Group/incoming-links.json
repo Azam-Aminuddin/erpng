@@ -1,0 +1,44 @@
+[
+  {
+    "module": "Schools",
+    "doctype": "Assessment Plan",
+    "fieldname": "student_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Assessment Result Tool",
+    "fieldname": "student_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Course Schedule",
+    "fieldname": "student_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Course Scheduling Tool",
+    "fieldname": "student_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Fee Schedule Student Group",
+    "fieldname": "student_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Student Attendance",
+    "fieldname": "student_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Student Attendance Tool",
+    "fieldname": "student_group",
+    "fieldtype": "Link"
+  }
+]

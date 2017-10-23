@@ -1,0 +1,14 @@
+[
+  {
+    "module": "Stock",
+    "doctype": "Landed Cost Voucher",
+    "fieldname": "taxes",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Stock Entry",
+    "fieldname": "additional_costs",
+    "fieldtype": "Table"
+  }
+]

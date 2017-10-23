@@ -1,0 +1,14 @@
+[
+  {
+    "module": "Schools",
+    "doctype": "Student Attendance",
+    "fieldname": "course_schedule",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Student Attendance Tool",
+    "fieldname": "course_schedule",
+    "fieldtype": "Link"
+  }
+]

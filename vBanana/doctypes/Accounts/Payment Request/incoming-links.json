@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Payment Request",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  }
+]

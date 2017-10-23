@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Sales Invoice Timesheet",
+    "fieldname": "time_sheet",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Salary Slip Timesheet",
+    "fieldname": "time_sheet",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Projects",
+    "doctype": "Timesheet",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  }
+]

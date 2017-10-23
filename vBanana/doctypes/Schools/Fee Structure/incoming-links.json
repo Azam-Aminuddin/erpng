@@ -1,0 +1,32 @@
+[
+  {
+    "module": "Schools",
+    "doctype": "Fees",
+    "fieldname": "fee_structure",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Fee Schedule",
+    "fieldname": "fee_structure",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Fee Structure",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Program Enrollment Fee",
+    "fieldname": "fee_structure",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Program Fee",
+    "fieldname": "fee_structure",
+    "fieldtype": "Link"
+  }
+]

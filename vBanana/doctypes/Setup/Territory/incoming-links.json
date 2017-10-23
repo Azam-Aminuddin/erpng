@@ -1,0 +1,110 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "C-Form Invoice Detail",
+    "fieldname": "territory",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "POS Profile",
+    "fieldname": "territory",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Pricing Rule",
+    "fieldname": "territory",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Sales Invoice",
+    "fieldname": "territory",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "CRM",
+    "doctype": "Lead",
+    "fieldname": "territory",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "CRM",
+    "doctype": "Opportunity",
+    "fieldname": "territory",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Maintenance",
+    "doctype": "Maintenance Schedule",
+    "fieldname": "territory",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Maintenance",
+    "doctype": "Maintenance Visit",
+    "fieldname": "territory",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Customer",
+    "fieldname": "territory",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Installation Note",
+    "fieldname": "territory",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Quotation",
+    "fieldname": "territory",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Sales Order",
+    "fieldname": "territory",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Selling Settings",
+    "fieldname": "territory",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Sales Partner",
+    "fieldname": "territory",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Territory",
+    "fieldname": "parent_territory",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Territory",
+    "fieldname": "old_parent",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Delivery Note",
+    "fieldname": "territory",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Support",
+    "doctype": "Warranty Claim",
+    "fieldname": "territory",
+    "fieldtype": "Link"
+  }
+]

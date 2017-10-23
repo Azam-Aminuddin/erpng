@@ -1,0 +1,44 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "POS Profile",
+    "fieldname": "taxes_and_charges",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Sales Invoice",
+    "fieldname": "taxes_and_charges",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Tax Rule",
+    "fieldname": "sales_tax_template",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Restaurant",
+    "doctype": "Restaurant",
+    "fieldname": "default_tax_template",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Quotation",
+    "fieldname": "taxes_and_charges",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Sales Order",
+    "fieldname": "taxes_and_charges",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Delivery Note",
+    "fieldname": "taxes_and_charges",
+    "fieldtype": "Link"
+  }
+]

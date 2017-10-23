@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Website",
+    "doctype": "Help Article",
+    "fieldname": "category",
+    "fieldtype": "Link"
+  }
+]

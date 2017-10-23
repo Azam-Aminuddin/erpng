@@ -1,0 +1,143 @@
+{
+  "student": {
+    "fieldname": "student",
+    "fieldtype": "Link",
+    "target": "Student",
+    "same_module": true,
+    "target_modules": null
+  },
+  "fee_schedule": {
+    "fieldname": "fee_schedule",
+    "fieldtype": "Link",
+    "target": "Fee Schedule",
+    "same_module": true,
+    "target_modules": null
+  },
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "program_enrollment": {
+    "fieldname": "program_enrollment",
+    "fieldtype": "Link",
+    "target": "Program Enrollment",
+    "same_module": true,
+    "target_modules": null
+  },
+  "program": {
+    "fieldname": "program",
+    "fieldtype": "Link",
+    "target": "Program",
+    "same_module": true,
+    "target_modules": null
+  },
+  "student_batch": {
+    "fieldname": "student_batch",
+    "fieldtype": "Link",
+    "target": "Student Batch Name",
+    "same_module": true,
+    "target_modules": null
+  },
+  "student_category": {
+    "fieldname": "student_category",
+    "fieldtype": "Link",
+    "target": "Student Category",
+    "same_module": true,
+    "target_modules": null
+  },
+  "academic_term": {
+    "fieldname": "academic_term",
+    "fieldtype": "Link",
+    "target": "Academic Term",
+    "same_module": true,
+    "target_modules": null
+  },
+  "academic_year": {
+    "fieldname": "academic_year",
+    "fieldtype": "Link",
+    "target": "Academic Year",
+    "same_module": true,
+    "target_modules": null
+  },
+  "currency": {
+    "fieldname": "currency",
+    "fieldtype": "Link",
+    "target": "Currency",
+    "same_module": false,
+    "target_modules": [
+      "Geo"
+    ]
+  },
+  "fee_structure": {
+    "fieldname": "fee_structure",
+    "fieldtype": "Link",
+    "target": "Fee Structure",
+    "same_module": true,
+    "target_modules": null
+  },
+  "components": {
+    "fieldname": "components",
+    "fieldtype": "Table",
+    "target": "Fee Component",
+    "same_module": true,
+    "target_modules": null
+  },
+  "amended_from": {
+    "fieldname": "amended_from",
+    "fieldtype": "Link",
+    "target": "Fees",
+    "same_module": true,
+    "target_modules": null
+  },
+  "letter_head": {
+    "fieldname": "letter_head",
+    "fieldtype": "Link",
+    "target": "Letter Head",
+    "same_module": false,
+    "target_modules": [
+      "Printing"
+    ]
+  },
+  "select_print_heading": {
+    "fieldname": "select_print_heading",
+    "fieldtype": "Link",
+    "target": "Print Heading",
+    "same_module": false,
+    "target_modules": [
+      "Printing",
+      "Setup"
+    ]
+  },
+  "receivable_account": {
+    "fieldname": "receivable_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "income_account": {
+    "fieldname": "income_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "cost_center": {
+    "fieldname": "cost_center",
+    "fieldtype": "Link",
+    "target": "Cost Center",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  }
+}

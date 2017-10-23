@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Website",
+    "doctype": "Blog Post",
+    "fieldname": "blogger",
+    "fieldtype": "Link"
+  }
+]

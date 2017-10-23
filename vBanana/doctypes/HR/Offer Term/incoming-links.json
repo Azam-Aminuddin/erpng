@@ -1,0 +1,8 @@
+[
+  {
+    "module": "HR",
+    "doctype": "Offer Letter Term",
+    "fieldname": "offer_term",
+    "fieldtype": "Link"
+  }
+]

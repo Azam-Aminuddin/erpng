@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Asset",
+    "fieldname": "schedules",
+    "fieldtype": "Table"
+  }
+]

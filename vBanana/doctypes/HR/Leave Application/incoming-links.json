@@ -1,0 +1,8 @@
+[
+  {
+    "module": "HR",
+    "doctype": "Leave Application",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  }
+]

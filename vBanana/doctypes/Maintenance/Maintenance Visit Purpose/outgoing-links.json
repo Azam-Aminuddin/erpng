@@ -1,0 +1,29 @@
+{
+  "item_code": {
+    "fieldname": "item_code",
+    "fieldtype": "Link",
+    "target": "Item",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "service_person": {
+    "fieldname": "service_person",
+    "fieldtype": "Link",
+    "target": "Sales Person",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "prevdoc_doctype": {
+    "fieldname": "prevdoc_doctype",
+    "fieldtype": "Link",
+    "target": "DocType",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "module": "Healthcare",
+    "doctype": "Physician",
+    "fieldname": "designation",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Employee",
+    "fieldname": "designation",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Employee Internal Work History",
+    "fieldname": "designation",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Leave Control Panel",
+    "fieldname": "designation",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Offer Letter",
+    "fieldname": "designation",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Process Payroll",
+    "fieldname": "designation",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Authorization Rule",
+    "fieldname": "to_designation",
+    "fieldtype": "Link"
+  }
+]

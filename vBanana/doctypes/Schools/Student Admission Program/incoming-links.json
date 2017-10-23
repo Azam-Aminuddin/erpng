@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Schools",
+    "doctype": "Student Admission",
+    "fieldname": "program_details",
+    "fieldtype": "Table"
+  }
+]

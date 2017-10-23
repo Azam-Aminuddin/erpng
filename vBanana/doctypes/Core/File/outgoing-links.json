@@ -1,0 +1,16 @@
+{
+  "folder": {
+    "fieldname": "folder",
+    "fieldtype": "Link",
+    "target": "File",
+    "same_module": true,
+    "target_modules": null
+  },
+  "attached_to_doctype": {
+    "fieldname": "attached_to_doctype",
+    "fieldtype": "Link",
+    "target": "DocType",
+    "same_module": true,
+    "target_modules": null
+  }
+}

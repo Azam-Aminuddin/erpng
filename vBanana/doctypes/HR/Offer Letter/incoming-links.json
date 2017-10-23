@@ -1,0 +1,8 @@
+[
+  {
+    "module": "HR",
+    "doctype": "Offer Letter",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "parent_hub_category": {
+    "fieldname": "parent_hub_category",
+    "fieldtype": "Link",
+    "target": "Hub Category",
+    "same_module": true,
+    "target_modules": null
+  }
+}

@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Manufacturing",
+    "doctype": "Workstation",
+    "fieldname": "working_hours",
+    "fieldtype": "Table"
+  }
+]

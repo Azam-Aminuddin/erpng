@@ -1,0 +1,38 @@
+{
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "price_list": {
+    "fieldname": "price_list",
+    "fieldtype": "Link",
+    "target": "Price List",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "default_customer_group": {
+    "fieldname": "default_customer_group",
+    "fieldtype": "Link",
+    "target": "Customer Group",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "payment_gateway_account": {
+    "fieldname": "payment_gateway_account",
+    "fieldtype": "Link",
+    "target": "Payment Gateway Account",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  }
+}

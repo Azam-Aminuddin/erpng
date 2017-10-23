@@ -1,0 +1,74 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Pricing Rule",
+    "fieldname": "brand",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Purchase Order Item",
+    "fieldname": "brand",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Request for Quotation Item",
+    "fieldname": "brand",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Supplier Quotation Item",
+    "fieldname": "brand",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "CRM",
+    "doctype": "Opportunity Item",
+    "fieldname": "brand",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Quotation Item",
+    "fieldname": "brand",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Sales Order Item",
+    "fieldname": "brand",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Delivery Note Item",
+    "fieldname": "brand",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Item",
+    "fieldname": "brand",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Material Request Item",
+    "fieldname": "brand",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Purchase Receipt Item",
+    "fieldname": "brand",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Serial No",
+    "fieldname": "brand",
+    "fieldtype": "Link"
+  }
+]

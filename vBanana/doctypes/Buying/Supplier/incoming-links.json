@@ -1,0 +1,134 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Asset",
+    "fieldname": "supplier",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Pricing Rule",
+    "fieldname": "supplier",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Purchase Invoice",
+    "fieldname": "supplier",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Tax Rule",
+    "fieldname": "supplier",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Purchase Order",
+    "fieldname": "supplier",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Request for Quotation",
+    "fieldname": "vendor",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Request for Quotation Supplier",
+    "fieldname": "supplier",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Supplier Quotation",
+    "fieldname": "supplier",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Supplier Scorecard",
+    "fieldname": "supplier",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Supplier Scorecard Period",
+    "fieldname": "supplier",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Training Event",
+    "fieldname": "supplier",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Training Program",
+    "fieldname": "supplier",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Vehicle Log",
+    "fieldname": "supplier",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Sales Order Item",
+    "fieldname": "supplier",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "SMS Center",
+    "fieldname": "supplier",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Batch",
+    "fieldname": "supplier",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Item",
+    "fieldname": "default_supplier",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Item Supplier",
+    "fieldname": "supplier",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Landed Cost Purchase Receipt",
+    "fieldname": "supplier",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Purchase Receipt",
+    "fieldname": "supplier",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Serial No",
+    "fieldname": "supplier",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Stock Entry",
+    "fieldname": "supplier",
+    "fieldtype": "Link"
+  }
+]

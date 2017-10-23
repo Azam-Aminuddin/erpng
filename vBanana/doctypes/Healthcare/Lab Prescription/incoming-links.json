@@ -1,0 +1,14 @@
+[
+  {
+    "module": "Healthcare",
+    "doctype": "Consultation",
+    "fieldname": "test_prescription",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Lab Test",
+    "fieldname": "prescription",
+    "fieldtype": "Link"
+  }
+]

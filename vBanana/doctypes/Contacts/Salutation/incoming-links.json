@@ -1,0 +1,26 @@
+[
+  {
+    "module": "Contacts",
+    "doctype": "Contact",
+    "fieldname": "salutation",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "CRM",
+    "doctype": "Lead",
+    "fieldname": "salutation",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Employee",
+    "fieldname": "salutation",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Customer",
+    "fieldname": "salutation",
+    "fieldtype": "Link"
+  }
+]

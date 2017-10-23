@@ -1,0 +1,32 @@
+{
+  "drug_code": {
+    "fieldname": "drug_code",
+    "fieldtype": "Link",
+    "target": "Item",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "dosage": {
+    "fieldname": "dosage",
+    "fieldtype": "Link",
+    "target": "Prescription Dosage",
+    "same_module": true,
+    "target_modules": null
+  },
+  "period": {
+    "fieldname": "period",
+    "fieldtype": "Link",
+    "target": "Prescription Duration",
+    "same_module": true,
+    "target_modules": null
+  },
+  "dosage_form": {
+    "fieldname": "dosage_form",
+    "fieldtype": "Link",
+    "target": "Dosage Form",
+    "same_module": true,
+    "target_modules": null
+  }
+}

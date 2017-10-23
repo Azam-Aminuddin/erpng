@@ -1,0 +1,14 @@
+[
+  {
+    "module": "Data Migration",
+    "doctype": "Data Migration Mapping Detail",
+    "fieldname": "child_table_mapping",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Data Migration",
+    "doctype": "Data Migration Plan Mapping",
+    "fieldname": "mapping",
+    "fieldtype": "Link"
+  }
+]

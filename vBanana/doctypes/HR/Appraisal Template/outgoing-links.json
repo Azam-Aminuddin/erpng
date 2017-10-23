@@ -1,0 +1,9 @@
+{
+  "goals": {
+    "fieldname": "goals",
+    "fieldtype": "Table",
+    "target": "Appraisal Template Goal",
+    "same_module": true,
+    "target_modules": null
+  }
+}

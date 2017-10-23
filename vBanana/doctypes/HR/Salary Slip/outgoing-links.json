@@ -1,0 +1,71 @@
+{
+  "employee": {
+    "fieldname": "employee",
+    "fieldtype": "Link",
+    "target": "Employee",
+    "same_module": true,
+    "target_modules": null
+  },
+  "journal_entry": {
+    "fieldname": "journal_entry",
+    "fieldtype": "Link",
+    "target": "Journal Entry",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "letter_head": {
+    "fieldname": "letter_head",
+    "fieldtype": "Link",
+    "target": "Letter Head",
+    "same_module": false,
+    "target_modules": [
+      "Printing"
+    ]
+  },
+  "salary_structure": {
+    "fieldname": "salary_structure",
+    "fieldtype": "Link",
+    "target": "Salary Structure",
+    "same_module": true,
+    "target_modules": null
+  },
+  "timesheets": {
+    "fieldname": "timesheets",
+    "fieldtype": "Table",
+    "target": "Salary Slip Timesheet",
+    "same_module": true,
+    "target_modules": null
+  },
+  "amended_from": {
+    "fieldname": "amended_from",
+    "fieldtype": "Link",
+    "target": "Salary Slip",
+    "same_module": true,
+    "target_modules": null
+  },
+  "earnings": {
+    "fieldname": "earnings",
+    "fieldtype": "Table",
+    "target": "Salary Detail",
+    "same_module": true,
+    "target_modules": null
+  },
+  "deductions": {
+    "fieldname": "deductions",
+    "fieldtype": "Table",
+    "target": "Salary Detail",
+    "same_module": true,
+    "target_modules": null
+  }
+}

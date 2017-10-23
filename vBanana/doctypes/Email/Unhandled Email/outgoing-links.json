@@ -1,0 +1,9 @@
+{
+  "email_account": {
+    "fieldname": "email_account",
+    "fieldtype": "Link",
+    "target": "Email Account",
+    "same_module": true,
+    "target_modules": null
+  }
+}

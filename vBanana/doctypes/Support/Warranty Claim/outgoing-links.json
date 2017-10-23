@@ -1,0 +1,90 @@
+{
+  "serial_no": {
+    "fieldname": "serial_no",
+    "fieldtype": "Link",
+    "target": "Serial No",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "customer": {
+    "fieldname": "customer",
+    "fieldtype": "Link",
+    "target": "Customer",
+    "same_module": false,
+    "target_modules": [
+      "Selling"
+    ]
+  },
+  "item_code": {
+    "fieldname": "item_code",
+    "fieldtype": "Link",
+    "target": "Item",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "resolved_by": {
+    "fieldname": "resolved_by",
+    "fieldtype": "Link",
+    "target": "User",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  },
+  "contact_person": {
+    "fieldname": "contact_person",
+    "fieldtype": "Link",
+    "target": "Contact",
+    "same_module": false,
+    "target_modules": [
+      "Contacts"
+    ]
+  },
+  "territory": {
+    "fieldname": "territory",
+    "fieldtype": "Link",
+    "target": "Territory",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "customer_group": {
+    "fieldname": "customer_group",
+    "fieldtype": "Link",
+    "target": "Customer Group",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "customer_address": {
+    "fieldname": "customer_address",
+    "fieldtype": "Link",
+    "target": "Address",
+    "same_module": false,
+    "target_modules": [
+      "Contacts"
+    ]
+  },
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "amended_from": {
+    "fieldname": "amended_from",
+    "fieldtype": "Link",
+    "target": "Warranty Claim",
+    "same_module": true,
+    "target_modules": null
+  }
+}

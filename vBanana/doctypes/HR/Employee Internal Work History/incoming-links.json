@@ -1,0 +1,8 @@
+[
+  {
+    "module": "HR",
+    "doctype": "Employee",
+    "fieldname": "internal_work_history",
+    "fieldtype": "Table"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "module": "Core",
+    "doctype": "DocType",
+    "fieldname": "module",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Core",
+    "doctype": "Page",
+    "fieldname": "module",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Core",
+    "doctype": "Report",
+    "fieldname": "module",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Data Migration",
+    "doctype": "Data Migration Plan",
+    "fieldname": "module",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Email",
+    "doctype": "Email Alert",
+    "fieldname": "module",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Printing",
+    "doctype": "Print Format",
+    "fieldname": "module",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Website",
+    "doctype": "Website Theme",
+    "fieldname": "module",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Website",
+    "doctype": "Web Form",
+    "fieldname": "module",
+    "fieldtype": "Link"
+  }
+]

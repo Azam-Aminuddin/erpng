@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Email",
+    "doctype": "Email Queue",
+    "fieldname": "recipients",
+    "fieldtype": "Table"
+  }
+]

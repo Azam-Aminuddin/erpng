@@ -1,0 +1,32 @@
+{
+  "fiscal_year": {
+    "fieldname": "fiscal_year",
+    "fieldtype": "Link",
+    "target": "Fiscal Year",
+    "same_module": true,
+    "target_modules": null
+  },
+  "amended_from": {
+    "fieldname": "amended_from",
+    "fieldtype": "Link",
+    "target": "Period Closing Voucher",
+    "same_module": true,
+    "target_modules": null
+  },
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "closing_account_head": {
+    "fieldname": "closing_account_head",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": true,
+    "target_modules": null
+  }
+}

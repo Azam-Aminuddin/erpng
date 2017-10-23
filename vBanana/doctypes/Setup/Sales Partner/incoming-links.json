@@ -1,0 +1,38 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Pricing Rule",
+    "fieldname": "sales_partner",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Sales Invoice",
+    "fieldname": "sales_partner",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Customer",
+    "fieldname": "default_sales_partner",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Sales Order",
+    "fieldname": "sales_partner",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "SMS Center",
+    "fieldname": "sales_partner",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Delivery Note",
+    "fieldname": "sales_partner",
+    "fieldtype": "Link"
+  }
+]

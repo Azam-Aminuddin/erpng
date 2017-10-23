@@ -1,0 +1,50 @@
+[
+  {
+    "module": "Buying",
+    "doctype": "Purchase Order Item",
+    "fieldname": "material_request",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Request for Quotation Item",
+    "fieldname": "material_request",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Supplier Quotation Item",
+    "fieldname": "material_request",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Manufacturing",
+    "doctype": "Production Order",
+    "fieldname": "material_request",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Manufacturing",
+    "doctype": "Production Plan Item",
+    "fieldname": "material_request",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Manufacturing",
+    "doctype": "Production Plan Material Request",
+    "fieldname": "material_request",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Material Request",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Stock Entry Detail",
+    "fieldname": "material_request",
+    "fieldtype": "Link"
+  }
+]

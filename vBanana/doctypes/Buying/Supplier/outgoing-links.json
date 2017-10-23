@@ -1,0 +1,56 @@
+{
+  "country": {
+    "fieldname": "country",
+    "fieldtype": "Link",
+    "target": "Country",
+    "same_module": false,
+    "target_modules": [
+      "Geo"
+    ]
+  },
+  "supplier_type": {
+    "fieldname": "supplier_type",
+    "fieldtype": "Link",
+    "target": "Supplier Type",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "language": {
+    "fieldname": "language",
+    "fieldtype": "Link",
+    "target": "Language",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  },
+  "default_currency": {
+    "fieldname": "default_currency",
+    "fieldtype": "Link",
+    "target": "Currency",
+    "same_module": false,
+    "target_modules": [
+      "Geo"
+    ]
+  },
+  "default_price_list": {
+    "fieldname": "default_price_list",
+    "fieldtype": "Link",
+    "target": "Price List",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "accounts": {
+    "fieldname": "accounts",
+    "fieldtype": "Table",
+    "target": "Party Account",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  }
+}

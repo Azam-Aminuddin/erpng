@@ -1,0 +1,32 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Sales Invoice",
+    "fieldname": "taxes",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Sales Taxes and Charges Template",
+    "fieldname": "taxes",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Quotation",
+    "fieldname": "taxes",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Sales Order",
+    "fieldname": "taxes",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Delivery Note",
+    "fieldname": "taxes",
+    "fieldtype": "Table"
+  }
+]

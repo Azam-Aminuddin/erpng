@@ -1,0 +1,23 @@
+{
+  "student": {
+    "fieldname": "student",
+    "fieldtype": "Link",
+    "target": "Student",
+    "same_module": true,
+    "target_modules": null
+  },
+  "course_schedule": {
+    "fieldname": "course_schedule",
+    "fieldtype": "Link",
+    "target": "Course Schedule",
+    "same_module": true,
+    "target_modules": null
+  },
+  "student_group": {
+    "fieldname": "student_group",
+    "fieldtype": "Link",
+    "target": "Student Group",
+    "same_module": true,
+    "target_modules": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "related_doctype": {
+    "fieldname": "related_doctype",
+    "fieldtype": "Link",
+    "target": "DocType",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Healthcare",
+    "doctype": "Consultation",
+    "fieldname": "drug_prescription",
+    "fieldtype": "Table"
+  }
+]

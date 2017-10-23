@@ -1,0 +1,68 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Sales Invoice Item",
+    "fieldname": "sales_order",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Purchase Order Item",
+    "fieldname": "sales_order",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Maintenance",
+    "doctype": "Maintenance Schedule Item",
+    "fieldname": "sales_order",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Manufacturing",
+    "doctype": "Production Order",
+    "fieldname": "sales_order",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Manufacturing",
+    "doctype": "Production Plan Item",
+    "fieldname": "sales_order",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Manufacturing",
+    "doctype": "Production Plan Sales Order",
+    "fieldname": "sales_order",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Projects",
+    "doctype": "Project",
+    "fieldname": "sales_order",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Sales Order",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Sales Order",
+    "fieldname": "recurring_id",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Delivery Note Item",
+    "fieldname": "against_sales_order",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Material Request Item",
+    "fieldname": "sales_order",
+    "fieldtype": "Link"
+  }
+]

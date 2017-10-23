@@ -1,0 +1,38 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Sales Invoice",
+    "fieldname": "source",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "CRM",
+    "doctype": "Lead",
+    "fieldname": "source",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "CRM",
+    "doctype": "Opportunity",
+    "fieldname": "source",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Quotation",
+    "fieldname": "source",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Sales Order",
+    "fieldname": "source",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Delivery Note",
+    "fieldname": "source",
+    "fieldtype": "Link"
+  }
+]

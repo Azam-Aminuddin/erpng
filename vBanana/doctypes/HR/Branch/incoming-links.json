@@ -1,0 +1,38 @@
+[
+  {
+    "module": "HR",
+    "doctype": "Employee",
+    "fieldname": "branch",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Employee Attendance Tool",
+    "fieldname": "branch",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Employee Internal Work History",
+    "fieldname": "branch",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Leave Control Panel",
+    "fieldname": "branch",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Process Payroll",
+    "fieldname": "branch",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "SMS Center",
+    "fieldname": "branch",
+    "fieldtype": "Link"
+  }
+]

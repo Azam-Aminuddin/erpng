@@ -1,0 +1,36 @@
+{
+  "customer": {
+    "fieldname": "customer",
+    "fieldtype": "Link",
+    "target": "Customer",
+    "same_module": false,
+    "target_modules": [
+      "Selling"
+    ]
+  },
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "patient_relation": {
+    "fieldname": "patient_relation",
+    "fieldtype": "Table",
+    "target": "Patient Relation",
+    "same_module": true,
+    "target_modules": null
+  },
+  "default_currency": {
+    "fieldname": "default_currency",
+    "fieldtype": "Link",
+    "target": "Currency",
+    "same_module": false,
+    "target_modules": [
+      "Geo"
+    ]
+  }
+}

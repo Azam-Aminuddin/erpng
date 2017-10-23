@@ -1,0 +1,20 @@
+{
+  "from_currency": {
+    "fieldname": "from_currency",
+    "fieldtype": "Link",
+    "target": "Currency",
+    "same_module": false,
+    "target_modules": [
+      "Geo"
+    ]
+  },
+  "to_currency": {
+    "fieldname": "to_currency",
+    "fieldtype": "Link",
+    "target": "Currency",
+    "same_module": false,
+    "target_modules": [
+      "Geo"
+    ]
+  }
+}

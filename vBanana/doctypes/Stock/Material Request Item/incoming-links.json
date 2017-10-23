@@ -1,0 +1,14 @@
+[
+  {
+    "module": "Stock",
+    "doctype": "Material Request",
+    "fieldname": "items",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Stock Entry Detail",
+    "fieldname": "material_request_item",
+    "fieldtype": "Link"
+  }
+]

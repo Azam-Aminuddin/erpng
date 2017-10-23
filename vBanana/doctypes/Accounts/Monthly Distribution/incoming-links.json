@@ -1,0 +1,26 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Budget",
+    "fieldname": "monthly_distribution",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Sales Partner",
+    "fieldname": "distribution_id",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Sales Person",
+    "fieldname": "distribution_id",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Territory",
+    "fieldname": "distribution_id",
+    "fieldtype": "Link"
+  }
+]

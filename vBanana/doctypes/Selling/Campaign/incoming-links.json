@@ -1,0 +1,50 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "POS Profile",
+    "fieldname": "campaign",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Pricing Rule",
+    "fieldname": "campaign",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Sales Invoice",
+    "fieldname": "campaign",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "CRM",
+    "doctype": "Lead",
+    "fieldname": "campaign_name",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "CRM",
+    "doctype": "Opportunity",
+    "fieldname": "campaign",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Quotation",
+    "fieldname": "campaign",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Sales Order",
+    "fieldname": "campaign",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Delivery Note",
+    "fieldname": "campaign",
+    "fieldtype": "Link"
+  }
+]

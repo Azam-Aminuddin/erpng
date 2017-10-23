@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Data Migration",
+    "doctype": "Data Migration Mapping",
+    "fieldname": "fields",
+    "fieldtype": "Table"
+  }
+]

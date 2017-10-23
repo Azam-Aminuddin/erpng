@@ -1,0 +1,11 @@
+{
+  "owner": {
+    "fieldname": "owner",
+    "fieldtype": "Link",
+    "target": "User",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  }
+}

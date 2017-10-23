@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Schools",
+    "doctype": "Student Applicant",
+    "fieldname": "student_admission",
+    "fieldtype": "Link"
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "conditions": {
+    "fieldname": "conditions",
+    "fieldtype": "Table",
+    "target": "Shipping Rule Condition",
+    "same_module": true,
+    "target_modules": null
+  },
+  "countries": {
+    "fieldname": "countries",
+    "fieldtype": "Table",
+    "target": "Shipping Rule Country",
+    "same_module": true,
+    "target_modules": null
+  },
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "account": {
+    "fieldname": "account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": true,
+    "target_modules": null
+  },
+  "cost_center": {
+    "fieldname": "cost_center",
+    "fieldtype": "Link",
+    "target": "Cost Center",
+    "same_module": true,
+    "target_modules": null
+  }
+}

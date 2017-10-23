@@ -1,0 +1,16 @@
+{
+  "mode_of_payment": {
+    "fieldname": "mode_of_payment",
+    "fieldtype": "Link",
+    "target": "Mode of Payment",
+    "same_module": true,
+    "target_modules": null
+  },
+  "account": {
+    "fieldname": "account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": true,
+    "target_modules": null
+  }
+}

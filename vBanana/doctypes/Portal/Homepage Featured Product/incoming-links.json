@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Portal",
+    "doctype": "Homepage",
+    "fieldname": "products",
+    "fieldtype": "Table"
+  }
+]

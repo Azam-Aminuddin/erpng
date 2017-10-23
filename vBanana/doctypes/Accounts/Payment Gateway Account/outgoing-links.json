@@ -1,0 +1,18 @@
+{
+  "payment_gateway": {
+    "fieldname": "payment_gateway",
+    "fieldtype": "Link",
+    "target": "Payment Gateway",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  },
+  "payment_account": {
+    "fieldname": "payment_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": true,
+    "target_modules": null
+  }
+}

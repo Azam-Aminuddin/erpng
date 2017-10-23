@@ -1,0 +1,9 @@
+{
+  "actions": {
+    "fieldname": "actions",
+    "fieldtype": "Table",
+    "target": "Setup Progress Action",
+    "same_module": true,
+    "target_modules": null
+  }
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "module": "Core",
+    "doctype": "Language",
+    "fieldname": "based_on",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Core",
+    "doctype": "System Settings",
+    "fieldname": "language",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Core",
+    "doctype": "Translation",
+    "fieldname": "language",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Core",
+    "doctype": "User",
+    "fieldname": "language",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Supplier",
+    "fieldname": "language",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Customer",
+    "fieldname": "language",
+    "fieldtype": "Link"
+  }
+]

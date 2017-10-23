@@ -1,0 +1,9 @@
+{
+  "seen_by": {
+    "fieldname": "seen_by",
+    "fieldtype": "Table",
+    "target": "Note Seen By",
+    "same_module": true,
+    "target_modules": null
+  }
+}

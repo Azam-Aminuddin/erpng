@@ -1,0 +1,9 @@
+{
+  "program": {
+    "fieldname": "program",
+    "fieldtype": "Link",
+    "target": "Program",
+    "same_module": true,
+    "target_modules": null
+  }
+}

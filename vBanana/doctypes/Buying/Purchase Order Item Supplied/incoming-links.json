@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Buying",
+    "doctype": "Purchase Order",
+    "fieldname": "supplied_items",
+    "fieldtype": "Table"
+  }
+]

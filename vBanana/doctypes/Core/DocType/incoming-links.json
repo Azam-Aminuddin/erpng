@@ -1,0 +1,332 @@
+[
+  {
+    "module": "Core",
+    "doctype": "Communication",
+    "fieldname": "reference_doctype",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Core",
+    "doctype": "Communication",
+    "fieldname": "link_doctype",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Core",
+    "doctype": "Communication",
+    "fieldname": "timeline_doctype",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Core",
+    "doctype": "DocShare",
+    "fieldname": "share_doctype",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Core",
+    "doctype": "Dynamic Link",
+    "fieldname": "link_doctype",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Core",
+    "doctype": "Feedback Trigger",
+    "fieldname": "document_type",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Core",
+    "doctype": "File",
+    "fieldname": "attached_to_doctype",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Core",
+    "doctype": "Report",
+    "fieldname": "ref_doctype",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Core",
+    "doctype": "Tag Doc Category",
+    "fieldname": "tagdoc",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Core",
+    "doctype": "User Permission",
+    "fieldname": "allow",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Core",
+    "doctype": "Version",
+    "fieldname": "ref_doctype",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Custom",
+    "doctype": "Customize Form",
+    "fieldname": "doc_type",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Custom",
+    "doctype": "Custom Field",
+    "fieldname": "dt",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Custom",
+    "doctype": "Custom Script",
+    "fieldname": "dt",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Custom",
+    "doctype": "Property Setter",
+    "fieldname": "doc_type",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Data Migration",
+    "doctype": "Data Migration Mapping",
+    "fieldname": "local_doctype",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Desk",
+    "doctype": "Bulk Update",
+    "fieldname": "document_type",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Desk",
+    "doctype": "Desktop Icon",
+    "fieldname": "_doctype",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Desk",
+    "doctype": "Event",
+    "fieldname": "ref_type",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Desk",
+    "doctype": "Kanban Board",
+    "fieldname": "reference_doctype",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Desk",
+    "doctype": "ToDo",
+    "fieldname": "reference_type",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Email",
+    "doctype": "Email Account",
+    "fieldname": "append_to",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Email",
+    "doctype": "Email Alert",
+    "fieldname": "document_type",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Email",
+    "doctype": "Email Domain",
+    "fieldname": "append_to",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Email",
+    "doctype": "Email Queue",
+    "fieldname": "reference_doctype",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Email",
+    "doctype": "Email Unsubscribe",
+    "fieldname": "reference_doctype",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Integrations",
+    "doctype": "GSuite Templates",
+    "fieldname": "related_doctype",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Integrations",
+    "doctype": "Integration Request",
+    "fieldname": "reference_doctype",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Integrations",
+    "doctype": "Webhook",
+    "fieldname": "webhook_doctype",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Printing",
+    "doctype": "Print Format",
+    "fieldname": "doc_type",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Website",
+    "doctype": "Portal Menu Item",
+    "fieldname": "reference_doctype",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Website",
+    "doctype": "Web Form",
+    "fieldname": "doc_type",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Workflow",
+    "doctype": "Workflow",
+    "fieldname": "document_type",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Bank Reconciliation Detail",
+    "fieldname": "payment_document",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "GL Entry",
+    "fieldname": "party_type",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "GL Entry",
+    "fieldname": "against_voucher_type",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "GL Entry",
+    "fieldname": "voucher_type",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Journal Entry Account",
+    "fieldname": "party_type",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Payment Entry",
+    "fieldname": "party_type",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Payment Entry Reference",
+    "fieldname": "reference_doctype",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Payment Reconciliation",
+    "fieldname": "party_type",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Payment Reconciliation Payment",
+    "fieldname": "reference_type",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Payment Request",
+    "fieldname": "reference_doctype",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Purchase Invoice Advance",
+    "fieldname": "reference_type",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Sales Invoice Advance",
+    "fieldname": "reference_type",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Subscription",
+    "fieldname": "reference_doctype",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Patient Medical Record",
+    "fieldname": "reference_doctype",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Maintenance",
+    "doctype": "Maintenance Visit Purpose",
+    "fieldname": "prevdoc_doctype",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Quotation Item",
+    "fieldname": "prevdoc_doctype",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Party Type",
+    "fieldname": "party_type",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Setup Progress Action",
+    "fieldname": "action_doctype",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Batch",
+    "fieldname": "reference_doctype",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Serial No",
+    "fieldname": "purchase_document_type",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Serial No",
+    "fieldname": "delivery_document_type",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Stock Ledger Entry",
+    "fieldname": "voucher_type",
+    "fieldtype": "Link"
+  }
+]

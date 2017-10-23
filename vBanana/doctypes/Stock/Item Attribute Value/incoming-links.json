@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Stock",
+    "doctype": "Item Attribute",
+    "fieldname": "item_attribute_values",
+    "fieldtype": "Table"
+  }
+]

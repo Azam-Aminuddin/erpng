@@ -1,0 +1,9 @@
+{
+  "item_attribute_values": {
+    "fieldname": "item_attribute_values",
+    "fieldtype": "Table",
+    "target": "Item Attribute Value",
+    "same_module": true,
+    "target_modules": null
+  }
+}

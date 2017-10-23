@@ -1,0 +1,9 @@
+{
+  "ref_doctype": {
+    "fieldname": "ref_doctype",
+    "fieldtype": "Link",
+    "target": "DocType",
+    "same_module": true,
+    "target_modules": null
+  }
+}

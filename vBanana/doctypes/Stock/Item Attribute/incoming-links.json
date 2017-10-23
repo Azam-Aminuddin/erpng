@@ -1,0 +1,14 @@
+[
+  {
+    "module": "Stock",
+    "doctype": "Item Variant",
+    "fieldname": "item_attribute",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Item Variant Attribute",
+    "fieldname": "attribute",
+    "fieldtype": "Link"
+  }
+]

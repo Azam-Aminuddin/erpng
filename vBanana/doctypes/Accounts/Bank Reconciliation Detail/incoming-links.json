@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Bank Reconciliation",
+    "fieldname": "payment_entries",
+    "fieldtype": "Table"
+  }
+]

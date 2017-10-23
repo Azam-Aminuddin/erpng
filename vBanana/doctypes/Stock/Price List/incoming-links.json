@@ -1,0 +1,122 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "POS Profile",
+    "fieldname": "selling_price_list",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Pricing Rule",
+    "fieldname": "for_price_list",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Purchase Invoice",
+    "fieldname": "buying_price_list",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Sales Invoice",
+    "fieldname": "selling_price_list",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Buying Settings",
+    "fieldname": "buying_price_list",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Purchase Order",
+    "fieldname": "buying_price_list",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Supplier",
+    "fieldname": "default_price_list",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Supplier Quotation",
+    "fieldname": "buying_price_list",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Hub Node",
+    "doctype": "Hub Settings",
+    "fieldname": "selling_price_list",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Manufacturing",
+    "doctype": "BOM",
+    "fieldname": "buying_price_list",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Restaurant",
+    "doctype": "Restaurant Menu",
+    "fieldname": "price_list",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Customer",
+    "fieldname": "default_price_list",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Quotation",
+    "fieldname": "selling_price_list",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Sales Order",
+    "fieldname": "selling_price_list",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Selling Settings",
+    "fieldname": "selling_price_list",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Customer Group",
+    "fieldname": "default_price_list",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Shopping Cart",
+    "doctype": "Shopping Cart Settings",
+    "fieldname": "price_list",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Delivery Note",
+    "fieldname": "selling_price_list",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Item Price",
+    "fieldname": "price_list",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Purchase Receipt",
+    "fieldname": "buying_price_list",
+    "fieldtype": "Link"
+  }
+]

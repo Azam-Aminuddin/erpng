@@ -1,0 +1,77 @@
+{
+  "customer": {
+    "fieldname": "customer",
+    "fieldtype": "Link",
+    "target": "Customer",
+    "same_module": false,
+    "target_modules": [
+      "Selling"
+    ]
+  },
+  "items": {
+    "fieldname": "items",
+    "fieldtype": "Table",
+    "target": "Maintenance Schedule Item",
+    "same_module": true,
+    "target_modules": null
+  },
+  "schedules": {
+    "fieldname": "schedules",
+    "fieldtype": "Table",
+    "target": "Maintenance Schedule Detail",
+    "same_module": true,
+    "target_modules": null
+  },
+  "contact_person": {
+    "fieldname": "contact_person",
+    "fieldtype": "Link",
+    "target": "Contact",
+    "same_module": false,
+    "target_modules": [
+      "Contacts"
+    ]
+  },
+  "customer_address": {
+    "fieldname": "customer_address",
+    "fieldtype": "Link",
+    "target": "Address",
+    "same_module": false,
+    "target_modules": [
+      "Contacts"
+    ]
+  },
+  "territory": {
+    "fieldname": "territory",
+    "fieldtype": "Link",
+    "target": "Territory",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "customer_group": {
+    "fieldname": "customer_group",
+    "fieldtype": "Link",
+    "target": "Customer Group",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "amended_from": {
+    "fieldname": "amended_from",
+    "fieldtype": "Link",
+    "target": "Maintenance Schedule",
+    "same_module": true,
+    "target_modules": null
+  }
+}

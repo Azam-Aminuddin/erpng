@@ -1,0 +1,290 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Asset",
+    "fieldname": "item_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Pricing Rule",
+    "fieldname": "item_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Purchase Invoice Item",
+    "fieldname": "item_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Sales Invoice Item",
+    "fieldname": "item_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Purchase Order Item",
+    "fieldname": "item_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Request for Quotation Item",
+    "fieldname": "item_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Supplier Quotation Item",
+    "fieldname": "item_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "CRM",
+    "doctype": "Opportunity Item",
+    "fieldname": "item_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Drug Prescription",
+    "fieldname": "drug_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Lab Test Template",
+    "fieldname": "item",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Maintenance",
+    "doctype": "Maintenance Schedule Detail",
+    "fieldname": "item_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Maintenance",
+    "doctype": "Maintenance Schedule Item",
+    "fieldname": "item_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Maintenance",
+    "doctype": "Maintenance Visit Purpose",
+    "fieldname": "item_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Manufacturing",
+    "doctype": "BOM",
+    "fieldname": "item",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Manufacturing",
+    "doctype": "BOM Explosion Item",
+    "fieldname": "item_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Manufacturing",
+    "doctype": "BOM Item",
+    "fieldname": "item_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Manufacturing",
+    "doctype": "BOM Scrap Item",
+    "fieldname": "item_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Manufacturing",
+    "doctype": "BOM Website Item",
+    "fieldname": "item_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Manufacturing",
+    "doctype": "Production Order",
+    "fieldname": "production_item",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Manufacturing",
+    "doctype": "Production Order Item",
+    "fieldname": "item_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Manufacturing",
+    "doctype": "Production Planning Tool",
+    "fieldname": "fg_item",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Manufacturing",
+    "doctype": "Production Plan Item",
+    "fieldname": "item_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Portal",
+    "doctype": "Homepage Featured Product",
+    "fieldname": "item_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Restaurant",
+    "doctype": "Restaurant Menu Item",
+    "fieldname": "item",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Restaurant",
+    "doctype": "Restaurant Order Entry",
+    "fieldname": "add_item",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Restaurant",
+    "doctype": "Restaurant Order Entry Item",
+    "fieldname": "item",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Installation Note Item",
+    "fieldname": "item_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Product Bundle",
+    "fieldname": "new_item_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Product Bundle Item",
+    "fieldname": "item_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Quotation Item",
+    "fieldname": "item_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Sales Order Item",
+    "fieldname": "item_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Batch",
+    "fieldname": "item",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Bin",
+    "fieldname": "item_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Delivery Note Item",
+    "fieldname": "item_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Item",
+    "fieldname": "variant_of",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Item Price",
+    "fieldname": "item_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Landed Cost Item",
+    "fieldname": "item_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Material Request Item",
+    "fieldname": "item_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Packed Item",
+    "fieldname": "parent_item",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Packed Item",
+    "fieldname": "item_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Packing Slip Item",
+    "fieldname": "item_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Purchase Receipt Item",
+    "fieldname": "item_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Quality Inspection",
+    "fieldname": "item_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Serial No",
+    "fieldname": "item_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Stock Entry Detail",
+    "fieldname": "item_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Stock Ledger Entry",
+    "fieldname": "item_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Stock Reconciliation Item",
+    "fieldname": "item_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Support",
+    "doctype": "Warranty Claim",
+    "fieldname": "item_code",
+    "fieldtype": "Link"
+  }
+]

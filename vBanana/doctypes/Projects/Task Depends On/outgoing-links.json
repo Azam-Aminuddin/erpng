@@ -1,0 +1,9 @@
+{
+  "task": {
+    "fieldname": "task",
+    "fieldtype": "Link",
+    "target": "Task",
+    "same_module": true,
+    "target_modules": null
+  }
+}

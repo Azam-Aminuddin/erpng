@@ -1,0 +1,27 @@
+{
+  "doc_type": {
+    "fieldname": "doc_type",
+    "fieldtype": "Link",
+    "target": "DocType",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  },
+  "default_print_format": {
+    "fieldname": "default_print_format",
+    "fieldtype": "Link",
+    "target": "Print Format",
+    "same_module": false,
+    "target_modules": [
+      "Printing"
+    ]
+  },
+  "fields": {
+    "fieldname": "fields",
+    "fieldtype": "Table",
+    "target": "Customize Form Field",
+    "same_module": true,
+    "target_modules": null
+  }
+}

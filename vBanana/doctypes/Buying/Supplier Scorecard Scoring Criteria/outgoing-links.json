@@ -1,0 +1,9 @@
+{
+  "criteria_name": {
+    "fieldname": "criteria_name",
+    "fieldtype": "Link",
+    "target": "Supplier Scorecard Criteria",
+    "same_module": true,
+    "target_modules": null
+  }
+}

@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Website",
+    "doctype": "About Us Settings",
+    "fieldname": "team_members",
+    "fieldtype": "Table"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "job_title": {
+    "fieldname": "job_title",
+    "fieldtype": "Link",
+    "target": "Job Opening",
+    "same_module": true,
+    "target_modules": null
+  }
+}

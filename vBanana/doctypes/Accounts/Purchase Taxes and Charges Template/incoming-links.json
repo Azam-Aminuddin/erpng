@@ -1,0 +1,32 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Purchase Invoice",
+    "fieldname": "taxes_and_charges",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Tax Rule",
+    "fieldname": "purchase_tax_template",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Purchase Order",
+    "fieldname": "taxes_and_charges",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Supplier Quotation",
+    "fieldname": "taxes_and_charges",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Purchase Receipt",
+    "fieldname": "taxes_and_charges",
+    "fieldtype": "Link"
+  }
+]

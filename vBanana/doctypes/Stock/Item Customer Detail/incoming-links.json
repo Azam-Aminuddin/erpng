@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Stock",
+    "doctype": "Item",
+    "fieldname": "customer_items",
+    "fieldtype": "Table"
+  }
+]

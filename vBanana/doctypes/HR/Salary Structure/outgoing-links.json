@@ -1,0 +1,66 @@
+{
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "letter_head": {
+    "fieldname": "letter_head",
+    "fieldtype": "Link",
+    "target": "Letter Head",
+    "same_module": false,
+    "target_modules": [
+      "Printing"
+    ]
+  },
+  "employees": {
+    "fieldname": "employees",
+    "fieldtype": "Table",
+    "target": "Salary Structure Employee",
+    "same_module": true,
+    "target_modules": null
+  },
+  "salary_component": {
+    "fieldname": "salary_component",
+    "fieldtype": "Link",
+    "target": "Salary Component",
+    "same_module": true,
+    "target_modules": null
+  },
+  "earnings": {
+    "fieldname": "earnings",
+    "fieldtype": "Table",
+    "target": "Salary Detail",
+    "same_module": true,
+    "target_modules": null
+  },
+  "deductions": {
+    "fieldname": "deductions",
+    "fieldtype": "Table",
+    "target": "Salary Detail",
+    "same_module": true,
+    "target_modules": null
+  },
+  "mode_of_payment": {
+    "fieldname": "mode_of_payment",
+    "fieldtype": "Link",
+    "target": "Mode of Payment",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "payment_account": {
+    "fieldname": "payment_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  }
+}

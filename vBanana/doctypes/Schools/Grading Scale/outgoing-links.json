@@ -1,0 +1,16 @@
+{
+  "intervals": {
+    "fieldname": "intervals",
+    "fieldtype": "Table",
+    "target": "Grading Scale Interval",
+    "same_module": true,
+    "target_modules": null
+  },
+  "amended_from": {
+    "fieldname": "amended_from",
+    "fieldtype": "Link",
+    "target": "Grading Scale",
+    "same_module": true,
+    "target_modules": null
+  }
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "module": "HR",
+    "doctype": "Employee Loan",
+    "fieldname": "employee_loan_application",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Employee Loan Application",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  }
+]

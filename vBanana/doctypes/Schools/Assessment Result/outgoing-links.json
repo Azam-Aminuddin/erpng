@@ -1,0 +1,37 @@
+{
+  "student": {
+    "fieldname": "student",
+    "fieldtype": "Link",
+    "target": "Student",
+    "same_module": true,
+    "target_modules": null
+  },
+  "assessment_plan": {
+    "fieldname": "assessment_plan",
+    "fieldtype": "Link",
+    "target": "Assessment Plan",
+    "same_module": true,
+    "target_modules": null
+  },
+  "grading_scale": {
+    "fieldname": "grading_scale",
+    "fieldtype": "Link",
+    "target": "Grading Scale",
+    "same_module": true,
+    "target_modules": null
+  },
+  "details": {
+    "fieldname": "details",
+    "fieldtype": "Table",
+    "target": "Assessment Result Detail",
+    "same_module": true,
+    "target_modules": null
+  },
+  "amended_from": {
+    "fieldname": "amended_from",
+    "fieldtype": "Link",
+    "target": "Assessment Result",
+    "same_module": true,
+    "target_modules": null
+  }
+}

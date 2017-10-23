@@ -1,0 +1,14 @@
+[
+  {
+    "module": "Buying",
+    "doctype": "Request for Quotation",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Supplier Quotation Item",
+    "fieldname": "request_for_quotation",
+    "fieldtype": "Link"
+  }
+]

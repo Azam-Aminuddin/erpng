@@ -1,0 +1,46 @@
+{
+  "language": {
+    "fieldname": "language",
+    "fieldtype": "Link",
+    "target": "Language",
+    "same_module": true,
+    "target_modules": null
+  },
+  "roles": {
+    "fieldname": "roles",
+    "fieldtype": "Table",
+    "target": "Has Role",
+    "same_module": true,
+    "target_modules": null
+  },
+  "gender": {
+    "fieldname": "gender",
+    "fieldtype": "Link",
+    "target": "Gender",
+    "same_module": false,
+    "target_modules": [
+      "Contacts"
+    ]
+  },
+  "user_emails": {
+    "fieldname": "user_emails",
+    "fieldtype": "Table",
+    "target": "User Email",
+    "same_module": true,
+    "target_modules": null
+  },
+  "block_modules": {
+    "fieldname": "block_modules",
+    "fieldtype": "Table",
+    "target": "Block Module",
+    "same_module": true,
+    "target_modules": null
+  },
+  "defaults": {
+    "fieldname": "defaults",
+    "fieldtype": "Table",
+    "target": "DefaultValue",
+    "same_module": true,
+    "target_modules": null
+  }
+}

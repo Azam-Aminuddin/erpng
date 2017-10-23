@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Support",
+    "doctype": "Warranty Claim",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  }
+]

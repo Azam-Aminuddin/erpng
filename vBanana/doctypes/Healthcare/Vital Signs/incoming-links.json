@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Healthcare",
+    "doctype": "Vital Signs",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  }
+]

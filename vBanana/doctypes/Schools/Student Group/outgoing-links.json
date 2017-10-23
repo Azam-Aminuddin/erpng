@@ -1,0 +1,51 @@
+{
+  "academic_year": {
+    "fieldname": "academic_year",
+    "fieldtype": "Link",
+    "target": "Academic Year",
+    "same_module": true,
+    "target_modules": null
+  },
+  "academic_term": {
+    "fieldname": "academic_term",
+    "fieldtype": "Link",
+    "target": "Academic Term",
+    "same_module": true,
+    "target_modules": null
+  },
+  "program": {
+    "fieldname": "program",
+    "fieldtype": "Link",
+    "target": "Program",
+    "same_module": true,
+    "target_modules": null
+  },
+  "batch": {
+    "fieldname": "batch",
+    "fieldtype": "Link",
+    "target": "Student Batch Name",
+    "same_module": true,
+    "target_modules": null
+  },
+  "course": {
+    "fieldname": "course",
+    "fieldtype": "Link",
+    "target": "Course",
+    "same_module": true,
+    "target_modules": null
+  },
+  "students": {
+    "fieldname": "students",
+    "fieldtype": "Table",
+    "target": "Student Group Student",
+    "same_module": true,
+    "target_modules": null
+  },
+  "instructors": {
+    "fieldname": "instructors",
+    "fieldtype": "Table",
+    "target": "Student Group Instructor",
+    "same_module": true,
+    "target_modules": null
+  }
+}

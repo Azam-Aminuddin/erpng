@@ -1,0 +1,55 @@
+{
+  "patient": {
+    "fieldname": "patient",
+    "fieldtype": "Link",
+    "target": "Patient",
+    "same_module": true,
+    "target_modules": null
+  },
+  "physician": {
+    "fieldname": "physician",
+    "fieldtype": "Link",
+    "target": "Physician",
+    "same_module": true,
+    "target_modules": null
+  },
+  "appointment_type": {
+    "fieldname": "appointment_type",
+    "fieldtype": "Link",
+    "target": "Appointment Type",
+    "same_module": true,
+    "target_modules": null
+  },
+  "department": {
+    "fieldname": "department",
+    "fieldtype": "Link",
+    "target": "Medical Department",
+    "same_module": true,
+    "target_modules": null
+  },
+  "sales_invoice": {
+    "fieldname": "sales_invoice",
+    "fieldtype": "Link",
+    "target": "Sales Invoice",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "referring_physician": {
+    "fieldname": "referring_physician",
+    "fieldtype": "Link",
+    "target": "Physician",
+    "same_module": true,
+    "target_modules": null
+  }
+}

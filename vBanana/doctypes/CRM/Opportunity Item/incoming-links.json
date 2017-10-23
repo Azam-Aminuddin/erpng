@@ -1,0 +1,8 @@
+[
+  {
+    "module": "CRM",
+    "doctype": "Opportunity",
+    "fieldname": "items",
+    "fieldtype": "Table"
+  }
+]

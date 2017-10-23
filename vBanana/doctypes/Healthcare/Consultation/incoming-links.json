@@ -1,0 +1,14 @@
+[
+  {
+    "module": "Healthcare",
+    "doctype": "Consultation",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Vital Signs",
+    "fieldname": "consultation",
+    "fieldtype": "Link"
+  }
+]

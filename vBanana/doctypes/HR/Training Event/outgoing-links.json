@@ -1,0 +1,50 @@
+{
+  "training_program": {
+    "fieldname": "training_program",
+    "fieldtype": "Link",
+    "target": "Training Program",
+    "same_module": true,
+    "target_modules": null
+  },
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "supplier": {
+    "fieldname": "supplier",
+    "fieldtype": "Link",
+    "target": "Supplier",
+    "same_module": false,
+    "target_modules": [
+      "Buying"
+    ]
+  },
+  "course": {
+    "fieldname": "course",
+    "fieldtype": "Link",
+    "target": "Course",
+    "same_module": false,
+    "target_modules": [
+      "Schools"
+    ]
+  },
+  "employees": {
+    "fieldname": "employees",
+    "fieldtype": "Table",
+    "target": "Training Event Employee",
+    "same_module": true,
+    "target_modules": null
+  },
+  "amended_from": {
+    "fieldname": "amended_from",
+    "fieldtype": "Link",
+    "target": "Training Event",
+    "same_module": true,
+    "target_modules": null
+  }
+}

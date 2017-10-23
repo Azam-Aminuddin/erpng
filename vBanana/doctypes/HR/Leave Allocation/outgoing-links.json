@@ -1,0 +1,23 @@
+{
+  "employee": {
+    "fieldname": "employee",
+    "fieldtype": "Link",
+    "target": "Employee",
+    "same_module": true,
+    "target_modules": null
+  },
+  "leave_type": {
+    "fieldname": "leave_type",
+    "fieldtype": "Link",
+    "target": "Leave Type",
+    "same_module": true,
+    "target_modules": null
+  },
+  "amended_from": {
+    "fieldname": "amended_from",
+    "fieldtype": "Link",
+    "target": "Leave Allocation",
+    "same_module": true,
+    "target_modules": null
+  }
+}

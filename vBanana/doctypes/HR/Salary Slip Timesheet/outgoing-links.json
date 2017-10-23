@@ -1,0 +1,11 @@
+{
+  "time_sheet": {
+    "fieldname": "time_sheet",
+    "fieldtype": "Link",
+    "target": "Timesheet",
+    "same_module": false,
+    "target_modules": [
+      "Projects"
+    ]
+  }
+}

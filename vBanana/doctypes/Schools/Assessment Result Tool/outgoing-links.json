@@ -1,0 +1,16 @@
+{
+  "assessment_plan": {
+    "fieldname": "assessment_plan",
+    "fieldtype": "Link",
+    "target": "Assessment Plan",
+    "same_module": true,
+    "target_modules": null
+  },
+  "student_group": {
+    "fieldname": "student_group",
+    "fieldtype": "Link",
+    "target": "Student Group",
+    "same_module": true,
+    "target_modules": null
+  }
+}

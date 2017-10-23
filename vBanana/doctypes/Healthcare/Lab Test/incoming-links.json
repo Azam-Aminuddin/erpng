@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Healthcare",
+    "doctype": "Lab Test",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  }
+]

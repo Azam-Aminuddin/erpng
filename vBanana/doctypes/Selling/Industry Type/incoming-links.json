@@ -1,0 +1,8 @@
+[
+  {
+    "module": "CRM",
+    "doctype": "Lead",
+    "fieldname": "industry",
+    "fieldtype": "Link"
+  }
+]

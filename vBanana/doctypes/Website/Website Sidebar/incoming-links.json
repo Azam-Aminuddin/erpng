@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Website",
+    "doctype": "Web Page",
+    "fieldname": "website_sidebar",
+    "fieldtype": "Link"
+  }
+]

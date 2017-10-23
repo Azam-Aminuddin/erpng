@@ -1,0 +1,11 @@
+{
+  "allow_user": {
+    "fieldname": "allow_user",
+    "fieldtype": "Link",
+    "target": "User",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  }
+}

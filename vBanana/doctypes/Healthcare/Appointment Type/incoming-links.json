@@ -1,0 +1,14 @@
+[
+  {
+    "module": "Healthcare",
+    "doctype": "Consultation",
+    "fieldname": "type",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Patient Appointment",
+    "fieldname": "appointment_type",
+    "fieldtype": "Link"
+  }
+]

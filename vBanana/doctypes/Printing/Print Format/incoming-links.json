@@ -1,0 +1,62 @@
+[
+  {
+    "module": "Custom",
+    "doctype": "Customize Form",
+    "fieldname": "default_print_format",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Email",
+    "doctype": "Email Alert",
+    "fieldname": "print_format",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Website",
+    "doctype": "Web Form",
+    "fieldname": "print_format",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "POS Profile",
+    "fieldname": "print_format_for_online",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "POS Profile",
+    "fieldname": "print_format",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Purchase Invoice",
+    "fieldname": "recurring_print_format",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Sales Invoice",
+    "fieldname": "recurring_print_format",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Subscription",
+    "fieldname": "print_format",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Purchase Order",
+    "fieldname": "recurring_print_format",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Sales Order",
+    "fieldname": "recurring_print_format",
+    "fieldtype": "Link"
+  }
+]

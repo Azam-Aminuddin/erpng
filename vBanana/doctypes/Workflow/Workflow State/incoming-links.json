@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Workflow",
+    "doctype": "Workflow Document State",
+    "fieldname": "state",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Workflow",
+    "doctype": "Workflow Transition",
+    "fieldname": "state",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Workflow",
+    "doctype": "Workflow Transition",
+    "fieldname": "next_state",
+    "fieldtype": "Link"
+  }
+]

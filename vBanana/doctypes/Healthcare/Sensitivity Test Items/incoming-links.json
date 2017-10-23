@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Healthcare",
+    "doctype": "Lab Test",
+    "fieldname": "sensitivity_test_items",
+    "fieldtype": "Table"
+  }
+]

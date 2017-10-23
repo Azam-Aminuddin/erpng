@@ -1,0 +1,32 @@
+{
+  "company_name": {
+    "fieldname": "company_name",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "fixed_asset_account": {
+    "fieldname": "fixed_asset_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": true,
+    "target_modules": null
+  },
+  "accumulated_depreciation_account": {
+    "fieldname": "accumulated_depreciation_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": true,
+    "target_modules": null
+  },
+  "depreciation_expense_account": {
+    "fieldname": "depreciation_expense_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": true,
+    "target_modules": null
+  }
+}

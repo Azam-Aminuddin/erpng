@@ -1,0 +1,73 @@
+{
+  "item_code": {
+    "fieldname": "item_code",
+    "fieldtype": "Link",
+    "target": "Item",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "asset_category": {
+    "fieldname": "asset_category",
+    "fieldtype": "Link",
+    "target": "Asset Category",
+    "same_module": true,
+    "target_modules": null
+  },
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "warehouse": {
+    "fieldname": "warehouse",
+    "fieldtype": "Link",
+    "target": "Warehouse",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "supplier": {
+    "fieldname": "supplier",
+    "fieldtype": "Link",
+    "target": "Supplier",
+    "same_module": false,
+    "target_modules": [
+      "Buying"
+    ]
+  },
+  "purchase_invoice": {
+    "fieldname": "purchase_invoice",
+    "fieldtype": "Link",
+    "target": "Purchase Invoice",
+    "same_module": true,
+    "target_modules": null
+  },
+  "journal_entry_for_scrap": {
+    "fieldname": "journal_entry_for_scrap",
+    "fieldtype": "Link",
+    "target": "Journal Entry",
+    "same_module": true,
+    "target_modules": null
+  },
+  "schedules": {
+    "fieldname": "schedules",
+    "fieldtype": "Table",
+    "target": "Depreciation Schedule",
+    "same_module": true,
+    "target_modules": null
+  },
+  "amended_from": {
+    "fieldname": "amended_from",
+    "fieldtype": "Link",
+    "target": "Asset",
+    "same_module": true,
+    "target_modules": null
+  }
+}

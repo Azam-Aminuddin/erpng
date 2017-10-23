@@ -1,0 +1,23 @@
+{
+  "page": {
+    "fieldname": "page",
+    "fieldtype": "Link",
+    "target": "Page",
+    "same_module": true,
+    "target_modules": null
+  },
+  "report": {
+    "fieldname": "report",
+    "fieldtype": "Link",
+    "target": "Report",
+    "same_module": true,
+    "target_modules": null
+  },
+  "roles": {
+    "fieldname": "roles",
+    "fieldtype": "Table",
+    "target": "Has Role",
+    "same_module": true,
+    "target_modules": null
+  }
+}

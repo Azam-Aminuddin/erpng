@@ -1,0 +1,27 @@
+{
+  "patient": {
+    "fieldname": "patient",
+    "fieldtype": "Link",
+    "target": "Patient",
+    "same_module": true,
+    "target_modules": null
+  },
+  "reference_doctype": {
+    "fieldname": "reference_doctype",
+    "fieldtype": "Link",
+    "target": "DocType",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  },
+  "user": {
+    "fieldname": "user",
+    "fieldtype": "Link",
+    "target": "User",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  }
+}

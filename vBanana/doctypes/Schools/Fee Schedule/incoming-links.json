@@ -1,0 +1,14 @@
+[
+  {
+    "module": "Schools",
+    "doctype": "Fees",
+    "fieldname": "fee_schedule",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Fee Schedule",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  }
+]

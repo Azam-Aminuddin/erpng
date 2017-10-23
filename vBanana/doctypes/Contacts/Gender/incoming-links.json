@@ -1,0 +1,32 @@
+[
+  {
+    "module": "Contacts",
+    "doctype": "Contact",
+    "fieldname": "gender",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Core",
+    "doctype": "User",
+    "fieldname": "gender",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "CRM",
+    "doctype": "Lead",
+    "fieldname": "gender",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Employee",
+    "fieldname": "gender",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Customer",
+    "fieldname": "gender",
+    "fieldtype": "Link"
+  }
+]

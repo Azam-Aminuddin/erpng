@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Schools",
+    "doctype": "Course",
+    "fieldname": "assessment_criteria",
+    "fieldtype": "Table"
+  }
+]

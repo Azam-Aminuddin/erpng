@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Email",
+    "doctype": "Email Alert",
+    "fieldname": "recipients",
+    "fieldtype": "Table"
+  }
+]

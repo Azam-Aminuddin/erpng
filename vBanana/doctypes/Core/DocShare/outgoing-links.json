@@ -1,0 +1,16 @@
+{
+  "user": {
+    "fieldname": "user",
+    "fieldtype": "Link",
+    "target": "User",
+    "same_module": true,
+    "target_modules": null
+  },
+  "share_doctype": {
+    "fieldname": "share_doctype",
+    "fieldtype": "Link",
+    "target": "DocType",
+    "same_module": true,
+    "target_modules": null
+  }
+}

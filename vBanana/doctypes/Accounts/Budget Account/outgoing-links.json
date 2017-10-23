@@ -1,0 +1,9 @@
+{
+  "account": {
+    "fieldname": "account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": true,
+    "target_modules": null
+  }
+}

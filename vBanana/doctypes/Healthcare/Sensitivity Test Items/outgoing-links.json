@@ -1,0 +1,16 @@
+{
+  "antibiotic": {
+    "fieldname": "antibiotic",
+    "fieldtype": "Link",
+    "target": "Antibiotic",
+    "same_module": true,
+    "target_modules": null
+  },
+  "antibiotic_sensitivity": {
+    "fieldname": "antibiotic_sensitivity",
+    "fieldtype": "Link",
+    "target": "Sensitivity",
+    "same_module": true,
+    "target_modules": null
+  }
+}

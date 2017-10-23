@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Schools",
+    "doctype": "Program Enrollment",
+    "fieldname": "school_house",
+    "fieldtype": "Link"
+  }
+]

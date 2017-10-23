@@ -1,0 +1,117 @@
+{
+  "invoice": {
+    "fieldname": "invoice",
+    "fieldtype": "Link",
+    "target": "Sales Invoice",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "patient": {
+    "fieldname": "patient",
+    "fieldtype": "Link",
+    "target": "Patient",
+    "same_module": true,
+    "target_modules": null
+  },
+  "physician": {
+    "fieldname": "physician",
+    "fieldtype": "Link",
+    "target": "Physician",
+    "same_module": true,
+    "target_modules": null
+  },
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "department": {
+    "fieldname": "department",
+    "fieldtype": "Link",
+    "target": "Medical Department",
+    "same_module": true,
+    "target_modules": null
+  },
+  "sample": {
+    "fieldname": "sample",
+    "fieldtype": "Link",
+    "target": "Sample Collection",
+    "same_module": true,
+    "target_modules": null
+  },
+  "employee": {
+    "fieldname": "employee",
+    "fieldtype": "Link",
+    "target": "Employee",
+    "same_module": false,
+    "target_modules": [
+      "HR"
+    ]
+  },
+  "user": {
+    "fieldname": "user",
+    "fieldtype": "Link",
+    "target": "User",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  },
+  "template": {
+    "fieldname": "template",
+    "fieldtype": "Link",
+    "target": "Lab Test Template",
+    "same_module": true,
+    "target_modules": null
+  },
+  "test_group": {
+    "fieldname": "test_group",
+    "fieldtype": "Link",
+    "target": "Item Group",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "normal_test_items": {
+    "fieldname": "normal_test_items",
+    "fieldtype": "Table",
+    "target": "Normal Test Items",
+    "same_module": true,
+    "target_modules": null
+  },
+  "special_test_items": {
+    "fieldname": "special_test_items",
+    "fieldtype": "Table",
+    "target": "Special Test Items",
+    "same_module": true,
+    "target_modules": null
+  },
+  "sensitivity_test_items": {
+    "fieldname": "sensitivity_test_items",
+    "fieldtype": "Table",
+    "target": "Sensitivity Test Items",
+    "same_module": true,
+    "target_modules": null
+  },
+  "amended_from": {
+    "fieldname": "amended_from",
+    "fieldtype": "Link",
+    "target": "Lab Test",
+    "same_module": true,
+    "target_modules": null
+  },
+  "prescription": {
+    "fieldname": "prescription",
+    "fieldtype": "Link",
+    "target": "Lab Prescription",
+    "same_module": true,
+    "target_modules": null
+  }
+}

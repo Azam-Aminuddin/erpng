@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Schools",
+    "doctype": "Student Group",
+    "fieldname": "students",
+    "fieldtype": "Table"
+  }
+]

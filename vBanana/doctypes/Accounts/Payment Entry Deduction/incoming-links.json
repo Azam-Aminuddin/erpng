@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Payment Entry",
+    "fieldname": "deductions",
+    "fieldtype": "Table"
+  }
+]

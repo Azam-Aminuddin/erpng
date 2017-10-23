@@ -1,0 +1,9 @@
+{
+  "template": {
+    "fieldname": "template",
+    "fieldtype": "Link",
+    "target": "Lab Test Template",
+    "same_module": true,
+    "target_modules": null
+  }
+}

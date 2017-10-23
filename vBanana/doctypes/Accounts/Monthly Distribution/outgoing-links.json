@@ -1,0 +1,16 @@
+{
+  "fiscal_year": {
+    "fieldname": "fiscal_year",
+    "fieldtype": "Link",
+    "target": "Fiscal Year",
+    "same_module": true,
+    "target_modules": null
+  },
+  "percentages": {
+    "fieldname": "percentages",
+    "fieldtype": "Table",
+    "target": "Monthly Distribution Percentage",
+    "same_module": true,
+    "target_modules": null
+  }
+}

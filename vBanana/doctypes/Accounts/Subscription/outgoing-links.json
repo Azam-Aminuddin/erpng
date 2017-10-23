@@ -1,0 +1,27 @@
+{
+  "reference_doctype": {
+    "fieldname": "reference_doctype",
+    "fieldtype": "Link",
+    "target": "DocType",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  },
+  "print_format": {
+    "fieldname": "print_format",
+    "fieldtype": "Link",
+    "target": "Print Format",
+    "same_module": false,
+    "target_modules": [
+      "Printing"
+    ]
+  },
+  "amended_from": {
+    "fieldname": "amended_from",
+    "fieldtype": "Link",
+    "target": "Subscription",
+    "same_module": true,
+    "target_modules": null
+  }
+}

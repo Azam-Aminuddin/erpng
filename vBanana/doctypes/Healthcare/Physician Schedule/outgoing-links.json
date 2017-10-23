@@ -1,0 +1,9 @@
+{
+  "time_slots": {
+    "fieldname": "time_slots",
+    "fieldtype": "Table",
+    "target": "Physician Schedule Time Slot",
+    "same_module": true,
+    "target_modules": null
+  }
+}

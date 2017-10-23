@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Budget",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "module": "HR",
+    "doctype": "Employee",
+    "fieldname": "leave_approvers",
+    "fieldtype": "Table"
+  }
+]

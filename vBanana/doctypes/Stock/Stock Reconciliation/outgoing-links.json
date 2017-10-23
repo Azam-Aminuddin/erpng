@@ -1,0 +1,43 @@
+{
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "amended_from": {
+    "fieldname": "amended_from",
+    "fieldtype": "Link",
+    "target": "Stock Reconciliation",
+    "same_module": true,
+    "target_modules": null
+  },
+  "items": {
+    "fieldname": "items",
+    "fieldtype": "Table",
+    "target": "Stock Reconciliation Item",
+    "same_module": true,
+    "target_modules": null
+  },
+  "expense_account": {
+    "fieldname": "expense_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "cost_center": {
+    "fieldname": "cost_center",
+    "fieldtype": "Link",
+    "target": "Cost Center",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "C-Form",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Sales Invoice",
+    "fieldname": "c_form_no",
+    "fieldtype": "Link"
+  }
+]

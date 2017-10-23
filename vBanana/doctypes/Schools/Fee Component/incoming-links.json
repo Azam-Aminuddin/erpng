@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Schools",
+    "doctype": "Fees",
+    "fieldname": "components",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Fee Schedule",
+    "fieldname": "components",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Fee Structure",
+    "fieldname": "components",
+    "fieldtype": "Table"
+  }
+]

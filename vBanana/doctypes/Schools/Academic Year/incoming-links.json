@@ -1,0 +1,86 @@
+[
+  {
+    "module": "Schools",
+    "doctype": "Academic Term",
+    "fieldname": "academic_year",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Course Scheduling Tool",
+    "fieldname": "academic_year",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Fees",
+    "fieldname": "academic_year",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Fee Schedule",
+    "fieldname": "academic_year",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Fee Structure",
+    "fieldname": "academic_year",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Program Enrollment",
+    "fieldname": "academic_year",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Program Enrollment Tool",
+    "fieldname": "academic_year",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Program Enrollment Tool",
+    "fieldname": "new_academic_year",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "School Settings",
+    "fieldname": "current_academic_year",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Student Admission",
+    "fieldname": "academic_year",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Student Applicant",
+    "fieldname": "academic_year",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Student Group",
+    "fieldname": "academic_year",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Student Group Creation Tool",
+    "fieldname": "academic_year",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Student Log",
+    "fieldname": "academic_year",
+    "fieldtype": "Link"
+  }
+]

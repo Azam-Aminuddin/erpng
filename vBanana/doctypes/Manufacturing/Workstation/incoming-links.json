@@ -1,0 +1,32 @@
+[
+  {
+    "module": "Manufacturing",
+    "doctype": "BOM Operation",
+    "fieldname": "workstation",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Manufacturing",
+    "doctype": "BOM Website Operation",
+    "fieldname": "workstation",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Manufacturing",
+    "doctype": "Operation",
+    "fieldname": "workstation",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Manufacturing",
+    "doctype": "Production Order Operation",
+    "fieldname": "workstation",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Projects",
+    "doctype": "Timesheet Detail",
+    "fieldname": "workstation",
+    "fieldtype": "Link"
+  }
+]

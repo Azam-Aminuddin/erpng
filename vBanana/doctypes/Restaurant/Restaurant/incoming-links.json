@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Restaurant",
+    "doctype": "Restaurant Menu",
+    "fieldname": "restaurant",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Restaurant",
+    "doctype": "Restaurant Reservation",
+    "fieldname": "restaurant",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Restaurant",
+    "doctype": "Restaurant Table",
+    "fieldname": "restaurant",
+    "fieldtype": "Link"
+  }
+]

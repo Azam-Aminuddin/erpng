@@ -1,0 +1,199 @@
+{
+  "user": {
+    "fieldname": "user",
+    "fieldtype": "Link",
+    "target": "User",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  },
+  "warehouse": {
+    "fieldname": "warehouse",
+    "fieldtype": "Link",
+    "target": "Warehouse",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "campaign": {
+    "fieldname": "campaign",
+    "fieldtype": "Link",
+    "target": "Campaign",
+    "same_module": false,
+    "target_modules": [
+      "Selling"
+    ]
+  },
+  "customer": {
+    "fieldname": "customer",
+    "fieldtype": "Link",
+    "target": "Customer",
+    "same_module": false,
+    "target_modules": [
+      "Selling"
+    ]
+  },
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "currency": {
+    "fieldname": "currency",
+    "fieldtype": "Link",
+    "target": "Currency",
+    "same_module": false,
+    "target_modules": [
+      "Geo"
+    ]
+  },
+  "payments": {
+    "fieldname": "payments",
+    "fieldtype": "Table",
+    "target": "Sales Invoice Payment",
+    "same_module": true,
+    "target_modules": null
+  },
+  "item_groups": {
+    "fieldname": "item_groups",
+    "fieldtype": "Table",
+    "target": "POS Item Group",
+    "same_module": true,
+    "target_modules": null
+  },
+  "customer_groups": {
+    "fieldname": "customer_groups",
+    "fieldtype": "Table",
+    "target": "POS Customer Group",
+    "same_module": true,
+    "target_modules": null
+  },
+  "print_format_for_online": {
+    "fieldname": "print_format_for_online",
+    "fieldtype": "Link",
+    "target": "Print Format",
+    "same_module": false,
+    "target_modules": [
+      "Printing"
+    ]
+  },
+  "letter_head": {
+    "fieldname": "letter_head",
+    "fieldtype": "Link",
+    "target": "Letter Head",
+    "same_module": false,
+    "target_modules": [
+      "Printing"
+    ]
+  },
+  "select_print_heading": {
+    "fieldname": "select_print_heading",
+    "fieldtype": "Link",
+    "target": "Print Heading",
+    "same_module": false,
+    "target_modules": [
+      "Printing",
+      "Setup"
+    ]
+  },
+  "selling_price_list": {
+    "fieldname": "selling_price_list",
+    "fieldtype": "Link",
+    "target": "Price List",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "tc_name": {
+    "fieldname": "tc_name",
+    "fieldtype": "Link",
+    "target": "Terms and Conditions",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "territory": {
+    "fieldname": "territory",
+    "fieldtype": "Link",
+    "target": "Territory",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "print_format": {
+    "fieldname": "print_format",
+    "fieldtype": "Link",
+    "target": "Print Format",
+    "same_module": false,
+    "target_modules": [
+      "Printing"
+    ]
+  },
+  "customer_group": {
+    "fieldname": "customer_group",
+    "fieldtype": "Link",
+    "target": "Customer Group",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "write_off_account": {
+    "fieldname": "write_off_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": true,
+    "target_modules": null
+  },
+  "write_off_cost_center": {
+    "fieldname": "write_off_cost_center",
+    "fieldtype": "Link",
+    "target": "Cost Center",
+    "same_module": true,
+    "target_modules": null
+  },
+  "account_for_change_amount": {
+    "fieldname": "account_for_change_amount",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": true,
+    "target_modules": null
+  },
+  "taxes_and_charges": {
+    "fieldname": "taxes_and_charges",
+    "fieldtype": "Link",
+    "target": "Sales Taxes and Charges Template",
+    "same_module": true,
+    "target_modules": null
+  },
+  "income_account": {
+    "fieldname": "income_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": true,
+    "target_modules": null
+  },
+  "expense_account": {
+    "fieldname": "expense_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": true,
+    "target_modules": null
+  },
+  "cost_center": {
+    "fieldname": "cost_center",
+    "fieldtype": "Link",
+    "target": "Cost Center",
+    "same_module": true,
+    "target_modules": null
+  }
+}

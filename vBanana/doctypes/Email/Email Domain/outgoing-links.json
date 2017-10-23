@@ -1,0 +1,11 @@
+{
+  "append_to": {
+    "fieldname": "append_to",
+    "fieldtype": "Link",
+    "target": "DocType",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+[
+  {
+    "module": "HR",
+    "doctype": "Expense Claim",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  }
+]

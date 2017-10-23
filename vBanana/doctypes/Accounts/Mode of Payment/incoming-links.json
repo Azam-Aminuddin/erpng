@@ -1,0 +1,38 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Payment Entry",
+    "fieldname": "mode_of_payment",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Purchase Invoice",
+    "fieldname": "mode_of_payment",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Sales Invoice Payment",
+    "fieldname": "mode_of_payment",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Employee Loan",
+    "fieldname": "mode_of_payment",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Expense Claim",
+    "fieldname": "mode_of_payment",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Salary Structure",
+    "fieldname": "mode_of_payment",
+    "fieldtype": "Link"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "email_by_role": {
+    "fieldname": "email_by_role",
+    "fieldtype": "Link",
+    "target": "Role",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  }
+}

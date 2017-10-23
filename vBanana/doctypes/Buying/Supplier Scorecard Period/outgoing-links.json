@@ -1,0 +1,30 @@
+{
+  "supplier": {
+    "fieldname": "supplier",
+    "fieldtype": "Link",
+    "target": "Supplier",
+    "same_module": true,
+    "target_modules": null
+  },
+  "criteria": {
+    "fieldname": "criteria",
+    "fieldtype": "Table",
+    "target": "Supplier Scorecard Scoring Criteria",
+    "same_module": true,
+    "target_modules": null
+  },
+  "variables": {
+    "fieldname": "variables",
+    "fieldtype": "Table",
+    "target": "Supplier Scorecard Scoring Variable",
+    "same_module": true,
+    "target_modules": null
+  },
+  "scorecard": {
+    "fieldname": "scorecard",
+    "fieldtype": "Link",
+    "target": "Supplier Scorecard",
+    "same_module": true,
+    "target_modules": null
+  }
+}

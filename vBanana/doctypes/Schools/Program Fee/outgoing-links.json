@@ -1,0 +1,23 @@
+{
+  "academic_term": {
+    "fieldname": "academic_term",
+    "fieldtype": "Link",
+    "target": "Academic Term",
+    "same_module": true,
+    "target_modules": null
+  },
+  "fee_structure": {
+    "fieldname": "fee_structure",
+    "fieldtype": "Link",
+    "target": "Fee Structure",
+    "same_module": true,
+    "target_modules": null
+  },
+  "student_category": {
+    "fieldname": "student_category",
+    "fieldtype": "Link",
+    "target": "Student Category",
+    "same_module": true,
+    "target_modules": null
+  }
+}

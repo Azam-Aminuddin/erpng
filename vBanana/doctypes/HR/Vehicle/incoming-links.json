@@ -1,0 +1,14 @@
+[
+  {
+    "module": "HR",
+    "doctype": "Vehicle",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Vehicle Log",
+    "fieldname": "license_plate",
+    "fieldtype": "Link"
+  }
+]

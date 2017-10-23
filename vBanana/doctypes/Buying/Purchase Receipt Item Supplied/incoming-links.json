@@ -1,0 +1,14 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Purchase Invoice",
+    "fieldname": "supplied_items",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Purchase Receipt",
+    "fieldname": "supplied_items",
+    "fieldtype": "Table"
+  }
+]

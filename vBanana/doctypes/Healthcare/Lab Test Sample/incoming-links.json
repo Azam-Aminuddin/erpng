@@ -1,0 +1,14 @@
+[
+  {
+    "module": "Healthcare",
+    "doctype": "Lab Test Template",
+    "fieldname": "sample",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Sample Collection",
+    "fieldname": "sample",
+    "fieldtype": "Link"
+  }
+]

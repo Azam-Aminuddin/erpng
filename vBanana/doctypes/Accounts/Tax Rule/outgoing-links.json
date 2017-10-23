@@ -1,0 +1,79 @@
+{
+  "sales_tax_template": {
+    "fieldname": "sales_tax_template",
+    "fieldtype": "Link",
+    "target": "Sales Taxes and Charges Template",
+    "same_module": true,
+    "target_modules": null
+  },
+  "purchase_tax_template": {
+    "fieldname": "purchase_tax_template",
+    "fieldtype": "Link",
+    "target": "Purchase Taxes and Charges Template",
+    "same_module": true,
+    "target_modules": null
+  },
+  "customer": {
+    "fieldname": "customer",
+    "fieldtype": "Link",
+    "target": "Customer",
+    "same_module": false,
+    "target_modules": [
+      "Selling"
+    ]
+  },
+  "supplier": {
+    "fieldname": "supplier",
+    "fieldtype": "Link",
+    "target": "Supplier",
+    "same_module": false,
+    "target_modules": [
+      "Buying"
+    ]
+  },
+  "billing_country": {
+    "fieldname": "billing_country",
+    "fieldtype": "Link",
+    "target": "Country",
+    "same_module": false,
+    "target_modules": [
+      "Geo"
+    ]
+  },
+  "customer_group": {
+    "fieldname": "customer_group",
+    "fieldtype": "Link",
+    "target": "Customer Group",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "supplier_type": {
+    "fieldname": "supplier_type",
+    "fieldtype": "Link",
+    "target": "Supplier Type",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "shipping_country": {
+    "fieldname": "shipping_country",
+    "fieldtype": "Link",
+    "target": "Country",
+    "same_module": false,
+    "target_modules": [
+      "Geo"
+    ]
+  },
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "module": {
+    "fieldname": "module",
+    "fieldtype": "Link",
+    "target": "Module Def",
+    "same_module": true,
+    "target_modules": null
+  },
+  "restrict_to_domain": {
+    "fieldname": "restrict_to_domain",
+    "fieldtype": "Link",
+    "target": "Domain",
+    "same_module": true,
+    "target_modules": null
+  },
+  "roles": {
+    "fieldname": "roles",
+    "fieldtype": "Table",
+    "target": "Has Role",
+    "same_module": true,
+    "target_modules": null
+  }
+}

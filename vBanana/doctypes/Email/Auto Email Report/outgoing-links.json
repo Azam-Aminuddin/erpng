@@ -1,0 +1,20 @@
+{
+  "report": {
+    "fieldname": "report",
+    "fieldtype": "Link",
+    "target": "Report",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  },
+  "user": {
+    "fieldname": "user",
+    "fieldtype": "Link",
+    "target": "User",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  }
+}

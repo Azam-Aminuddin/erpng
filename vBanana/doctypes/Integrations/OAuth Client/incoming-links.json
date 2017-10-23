@@ -1,0 +1,14 @@
+[
+  {
+    "module": "Integrations",
+    "doctype": "OAuth Authorization Code",
+    "fieldname": "client",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Integrations",
+    "doctype": "OAuth Bearer Token",
+    "fieldname": "client",
+    "fieldtype": "Link"
+  }
+]

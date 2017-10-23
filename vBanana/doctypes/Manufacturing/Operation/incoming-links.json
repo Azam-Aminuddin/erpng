@@ -1,0 +1,26 @@
+[
+  {
+    "module": "Manufacturing",
+    "doctype": "BOM Operation",
+    "fieldname": "operation",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Manufacturing",
+    "doctype": "BOM Website Operation",
+    "fieldname": "operation",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Manufacturing",
+    "doctype": "Production Order Operation",
+    "fieldname": "operation",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Projects",
+    "doctype": "Timesheet Detail",
+    "fieldname": "operation",
+    "fieldtype": "Link"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Sales Invoice",
+    "fieldname": "pos_profile",
+    "fieldtype": "Link"
+  }
+]

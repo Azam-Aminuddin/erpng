@@ -1,0 +1,20 @@
+{
+  "frozen_accounts_modifier": {
+    "fieldname": "frozen_accounts_modifier",
+    "fieldtype": "Link",
+    "target": "Role",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  },
+  "credit_controller": {
+    "fieldname": "credit_controller",
+    "fieldtype": "Link",
+    "target": "Role",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  }
+}

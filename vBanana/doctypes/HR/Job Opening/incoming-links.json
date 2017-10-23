@@ -1,0 +1,8 @@
+[
+  {
+    "module": "HR",
+    "doctype": "Job Applicant",
+    "fieldname": "job_title",
+    "fieldtype": "Link"
+  }
+]

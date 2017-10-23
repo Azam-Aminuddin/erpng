@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Projects",
+    "doctype": "Timesheet",
+    "fieldname": "time_logs",
+    "fieldtype": "Table"
+  }
+]

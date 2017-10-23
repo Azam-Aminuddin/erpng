@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Healthcare",
+    "doctype": "Lab Test Template",
+    "fieldname": "special_test_template",
+    "fieldtype": "Table"
+  }
+]

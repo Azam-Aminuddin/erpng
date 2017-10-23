@@ -1,0 +1,11 @@
+{
+  "material_request": {
+    "fieldname": "material_request",
+    "fieldtype": "Link",
+    "target": "Material Request",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  }
+}

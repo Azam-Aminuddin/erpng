@@ -1,0 +1,14 @@
+[
+  {
+    "module": "HR",
+    "doctype": "Salary Slip",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Projects",
+    "doctype": "Timesheet",
+    "fieldname": "salary_slip",
+    "fieldtype": "Link"
+  }
+]

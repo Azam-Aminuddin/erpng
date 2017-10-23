@@ -1,0 +1,18 @@
+{
+  "client": {
+    "fieldname": "client",
+    "fieldtype": "Link",
+    "target": "OAuth Client",
+    "same_module": true,
+    "target_modules": null
+  },
+  "user": {
+    "fieldname": "user",
+    "fieldtype": "Link",
+    "target": "User",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "leave_approver": {
+    "fieldname": "leave_approver",
+    "fieldtype": "Link",
+    "target": "User",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  }
+}

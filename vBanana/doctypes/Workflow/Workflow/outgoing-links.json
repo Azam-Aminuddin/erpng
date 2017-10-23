@@ -1,0 +1,25 @@
+{
+  "document_type": {
+    "fieldname": "document_type",
+    "fieldtype": "Link",
+    "target": "DocType",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  },
+  "states": {
+    "fieldname": "states",
+    "fieldtype": "Table",
+    "target": "Workflow Document State",
+    "same_module": true,
+    "target_modules": null
+  },
+  "transitions": {
+    "fieldname": "transitions",
+    "fieldtype": "Table",
+    "target": "Workflow Transition",
+    "same_module": true,
+    "target_modules": null
+  }
+}

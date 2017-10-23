@@ -1,0 +1,9 @@
+{
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": true,
+    "target_modules": null
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "role": {
+    "fieldname": "role",
+    "fieldtype": "Link",
+    "target": "Role",
+    "same_module": true,
+    "target_modules": null
+  }
+}

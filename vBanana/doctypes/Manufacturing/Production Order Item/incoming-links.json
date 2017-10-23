@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Manufacturing",
+    "doctype": "Production Order",
+    "fieldname": "required_items",
+    "fieldtype": "Table"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "module": "Schools",
+    "doctype": "Assessment Plan",
+    "fieldname": "grading_scale",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Assessment Result",
+    "fieldname": "grading_scale",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Course",
+    "fieldname": "default_grading_scale",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Grading Scale",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  }
+]

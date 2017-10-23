@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Shipping Rule",
+    "fieldname": "countries",
+    "fieldtype": "Table"
+  }
+]

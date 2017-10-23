@@ -1,0 +1,26 @@
+[
+  {
+    "module": "HR",
+    "doctype": "Attendance",
+    "fieldname": "leave_type",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Leave Allocation",
+    "fieldname": "leave_type",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Leave Application",
+    "fieldname": "leave_type",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Leave Control Panel",
+    "fieldname": "leave_type",
+    "fieldtype": "Link"
+  }
+]

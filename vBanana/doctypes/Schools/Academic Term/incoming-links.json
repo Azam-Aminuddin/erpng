@@ -1,0 +1,68 @@
+[
+  {
+    "module": "Schools",
+    "doctype": "Course Scheduling Tool",
+    "fieldname": "academic_term",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Fees",
+    "fieldname": "academic_term",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Fee Schedule",
+    "fieldname": "academic_term",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Fee Structure",
+    "fieldname": "academic_term",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Program Enrollment",
+    "fieldname": "academic_term",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Program Enrollment Fee",
+    "fieldname": "academic_term",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Program Fee",
+    "fieldname": "academic_term",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "School Settings",
+    "fieldname": "current_academic_term",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Student Group",
+    "fieldname": "academic_term",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Student Group Creation Tool",
+    "fieldname": "academic_term",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Student Log",
+    "fieldname": "academic_term",
+    "fieldtype": "Link"
+  }
+]

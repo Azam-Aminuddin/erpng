@@ -1,0 +1,39 @@
+{
+  "kra_template": {
+    "fieldname": "kra_template",
+    "fieldtype": "Link",
+    "target": "Appraisal Template",
+    "same_module": true,
+    "target_modules": null
+  },
+  "employee": {
+    "fieldname": "employee",
+    "fieldtype": "Link",
+    "target": "Employee",
+    "same_module": true,
+    "target_modules": null
+  },
+  "goals": {
+    "fieldname": "goals",
+    "fieldtype": "Table",
+    "target": "Appraisal Goal",
+    "same_module": true,
+    "target_modules": null
+  },
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "amended_from": {
+    "fieldname": "amended_from",
+    "fieldtype": "Link",
+    "target": "Appraisal",
+    "same_module": true,
+    "target_modules": null
+  }
+}

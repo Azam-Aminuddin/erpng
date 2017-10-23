@@ -1,0 +1,9 @@
+{
+  "accounts": {
+    "fieldname": "accounts",
+    "fieldtype": "Table",
+    "target": "Mode of Payment Account",
+    "same_module": true,
+    "target_modules": null
+  }
+}

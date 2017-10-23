@@ -1,0 +1,44 @@
+{
+  "program": {
+    "fieldname": "program",
+    "fieldtype": "Link",
+    "target": "Program",
+    "same_module": true,
+    "target_modules": null
+  },
+  "academic_year": {
+    "fieldname": "academic_year",
+    "fieldtype": "Link",
+    "target": "Academic Year",
+    "same_module": true,
+    "target_modules": null
+  },
+  "student_admission": {
+    "fieldname": "student_admission",
+    "fieldtype": "Link",
+    "target": "Student Admission",
+    "same_module": true,
+    "target_modules": null
+  },
+  "guardians": {
+    "fieldname": "guardians",
+    "fieldtype": "Table",
+    "target": "Student Guardian",
+    "same_module": true,
+    "target_modules": null
+  },
+  "siblings": {
+    "fieldname": "siblings",
+    "fieldtype": "Table",
+    "target": "Student Sibling",
+    "same_module": true,
+    "target_modules": null
+  },
+  "amended_from": {
+    "fieldname": "amended_from",
+    "fieldtype": "Link",
+    "target": "Student Applicant",
+    "same_module": true,
+    "target_modules": null
+  }
+}

@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Core",
+    "doctype": "File",
+    "fieldname": "folder",
+    "fieldtype": "Link"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Healthcare",
+    "doctype": "Patient",
+    "fieldname": "patient_relation",
+    "fieldtype": "Table"
+  }
+]

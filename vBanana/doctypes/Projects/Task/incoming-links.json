@@ -1,0 +1,32 @@
+[
+  {
+    "module": "HR",
+    "doctype": "Expense Claim",
+    "fieldname": "task",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Projects",
+    "doctype": "Dependent Task",
+    "fieldname": "task",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Projects",
+    "doctype": "Project Task",
+    "fieldname": "task_id",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Projects",
+    "doctype": "Task Depends On",
+    "fieldname": "task",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Projects",
+    "doctype": "Timesheet Detail",
+    "fieldname": "task",
+    "fieldtype": "Link"
+  }
+]

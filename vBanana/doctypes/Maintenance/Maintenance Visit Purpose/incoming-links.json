@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Maintenance",
+    "doctype": "Maintenance Visit",
+    "fieldname": "purposes",
+    "fieldtype": "Table"
+  }
+]

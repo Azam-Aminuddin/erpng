@@ -1,0 +1,14 @@
+[
+  {
+    "module": "Projects",
+    "doctype": "Activity Cost",
+    "fieldname": "activity_type",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Projects",
+    "doctype": "Timesheet Detail",
+    "fieldname": "activity_type",
+    "fieldtype": "Link"
+  }
+]

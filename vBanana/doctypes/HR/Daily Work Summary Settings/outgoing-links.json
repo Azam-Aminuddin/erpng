@@ -1,0 +1,9 @@
+{
+  "companies": {
+    "fieldname": "companies",
+    "fieldtype": "Table",
+    "target": "Daily Work Summary Settings Company",
+    "same_module": true,
+    "target_modules": null
+  }
+}

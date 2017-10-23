@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Buying",
+    "doctype": "Supplier Quotation",
+    "fieldname": "opportunity",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "CRM",
+    "doctype": "Opportunity",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Quotation",
+    "fieldname": "opportunity",
+    "fieldtype": "Link"
+  }
+]

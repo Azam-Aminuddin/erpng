@@ -1,0 +1,18 @@
+{
+  "expense_type": {
+    "fieldname": "expense_type",
+    "fieldtype": "Link",
+    "target": "Expense Claim Type",
+    "same_module": true,
+    "target_modules": null
+  },
+  "default_account": {
+    "fieldname": "default_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  }
+}

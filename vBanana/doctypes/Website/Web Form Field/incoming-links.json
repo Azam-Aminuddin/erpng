@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Website",
+    "doctype": "Web Form",
+    "fieldname": "web_form_fields",
+    "fieldtype": "Table"
+  }
+]

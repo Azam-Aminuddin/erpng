@@ -1,0 +1,11 @@
+{
+  "interest": {
+    "fieldname": "interest",
+    "fieldtype": "Link",
+    "target": "Interest",
+    "same_module": false,
+    "target_modules": [
+      "HR"
+    ]
+  }
+}

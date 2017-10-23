@@ -1,0 +1,18 @@
+{
+  "category": {
+    "fieldname": "category",
+    "fieldtype": "Link",
+    "target": "Help Category",
+    "same_module": true,
+    "target_modules": null
+  },
+  "owner": {
+    "fieldname": "owner",
+    "fieldtype": "Link",
+    "target": "User",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  }
+}

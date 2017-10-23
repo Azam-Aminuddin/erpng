@@ -1,0 +1,8 @@
+[
+  {
+    "module": "HR",
+    "doctype": "Appraisal",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  }
+]

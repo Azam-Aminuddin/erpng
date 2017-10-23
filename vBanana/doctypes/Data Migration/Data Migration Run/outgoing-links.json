@@ -1,0 +1,16 @@
+{
+  "data_migration_plan": {
+    "fieldname": "data_migration_plan",
+    "fieldtype": "Link",
+    "target": "Data Migration Plan",
+    "same_module": true,
+    "target_modules": null
+  },
+  "data_migration_connector": {
+    "fieldname": "data_migration_connector",
+    "fieldtype": "Link",
+    "target": "Data Migration Connector",
+    "same_module": true,
+    "target_modules": null
+  }
+}

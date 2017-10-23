@@ -1,0 +1,14 @@
+[
+  {
+    "module": "Stock",
+    "doctype": "Quality Inspection",
+    "fieldname": "item_serial_no",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Support",
+    "doctype": "Warranty Claim",
+    "fieldname": "serial_no",
+    "fieldtype": "Link"
+  }
+]

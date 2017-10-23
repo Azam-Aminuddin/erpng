@@ -1,0 +1,20 @@
+{
+  "supplier_type": {
+    "fieldname": "supplier_type",
+    "fieldtype": "Link",
+    "target": "Supplier Type",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "buying_price_list": {
+    "fieldname": "buying_price_list",
+    "fieldtype": "Link",
+    "target": "Price List",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  }
+}

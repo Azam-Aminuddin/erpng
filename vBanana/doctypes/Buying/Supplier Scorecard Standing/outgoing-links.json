@@ -1,0 +1,11 @@
+{
+  "employee_link": {
+    "fieldname": "employee_link",
+    "fieldtype": "Link",
+    "target": "Employee",
+    "same_module": false,
+    "target_modules": [
+      "HR"
+    ]
+  }
+}

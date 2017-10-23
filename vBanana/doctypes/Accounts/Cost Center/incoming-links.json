@@ -1,0 +1,194 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Budget",
+    "fieldname": "cost_center",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Cost Center",
+    "fieldname": "parent_cost_center",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Cost Center",
+    "fieldname": "old_parent",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "GL Entry",
+    "fieldname": "cost_center",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Journal Entry Account",
+    "fieldname": "cost_center",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Payment Entry Deduction",
+    "fieldname": "cost_center",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "POS Profile",
+    "fieldname": "write_off_cost_center",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "POS Profile",
+    "fieldname": "cost_center",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Purchase Invoice",
+    "fieldname": "write_off_cost_center",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Purchase Invoice Item",
+    "fieldname": "cost_center",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Purchase Taxes and Charges",
+    "fieldname": "cost_center",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Sales Invoice",
+    "fieldname": "write_off_cost_center",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Sales Invoice Item",
+    "fieldname": "cost_center",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Sales Taxes and Charges",
+    "fieldname": "cost_center",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Shipping Rule",
+    "fieldname": "cost_center",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Expense Claim",
+    "fieldname": "cost_center",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Process Payroll",
+    "fieldname": "cost_center",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Projects",
+    "doctype": "Project",
+    "fieldname": "cost_center",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Fees",
+    "fieldname": "cost_center",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Fee Schedule",
+    "fieldname": "cost_center",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Fee Structure",
+    "fieldname": "cost_center",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Company",
+    "fieldname": "round_off_cost_center",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Company",
+    "fieldname": "cost_center",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Company",
+    "fieldname": "depreciation_cost_center",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Item Group",
+    "fieldname": "default_cost_center",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Delivery Note Item",
+    "fieldname": "cost_center",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Item",
+    "fieldname": "buying_cost_center",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Item",
+    "fieldname": "selling_cost_center",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Landed Cost Item",
+    "fieldname": "cost_center",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Purchase Receipt Item",
+    "fieldname": "cost_center",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Stock Entry Detail",
+    "fieldname": "cost_center",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Stock Reconciliation",
+    "fieldname": "cost_center",
+    "fieldtype": "Link"
+  }
+]

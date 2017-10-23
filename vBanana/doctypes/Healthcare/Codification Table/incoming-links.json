@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Healthcare",
+    "doctype": "Consultation",
+    "fieldname": "codification_table",
+    "fieldtype": "Table"
+  }
+]

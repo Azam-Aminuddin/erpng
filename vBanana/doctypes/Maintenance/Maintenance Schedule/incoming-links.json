@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Maintenance",
+    "doctype": "Maintenance Schedule",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  }
+]

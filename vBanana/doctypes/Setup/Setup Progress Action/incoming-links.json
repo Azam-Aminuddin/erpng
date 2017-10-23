@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Setup",
+    "doctype": "Setup Progress",
+    "fieldname": "actions",
+    "fieldtype": "Table"
+  }
+]

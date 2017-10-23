@@ -1,0 +1,8 @@
+[
+  {
+    "module": "HR",
+    "doctype": "Salary Slip",
+    "fieldname": "salary_structure",
+    "fieldtype": "Link"
+  }
+]

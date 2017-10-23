@@ -1,0 +1,14 @@
+[
+  {
+    "module": "Setup",
+    "doctype": "Item Group",
+    "fieldname": "website_specifications",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Item",
+    "fieldname": "website_specifications",
+    "fieldtype": "Table"
+  }
+]

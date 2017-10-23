@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Desk",
+    "doctype": "Note",
+    "fieldname": "seen_by",
+    "fieldtype": "Table"
+  }
+]

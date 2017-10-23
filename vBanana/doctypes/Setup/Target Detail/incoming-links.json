@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Setup",
+    "doctype": "Sales Partner",
+    "fieldname": "targets",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Sales Person",
+    "fieldname": "targets",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Territory",
+    "fieldname": "targets",
+    "fieldtype": "Table"
+  }
+]

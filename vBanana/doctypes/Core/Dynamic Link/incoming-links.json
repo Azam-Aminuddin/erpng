@@ -1,0 +1,14 @@
+[
+  {
+    "module": "Contacts",
+    "doctype": "Address",
+    "fieldname": "links",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Contacts",
+    "doctype": "Contact",
+    "fieldname": "links",
+    "fieldtype": "Table"
+  }
+]

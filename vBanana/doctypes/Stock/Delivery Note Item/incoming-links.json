@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Stock",
+    "doctype": "Delivery Note",
+    "fieldname": "items",
+    "fieldtype": "Table"
+  }
+]

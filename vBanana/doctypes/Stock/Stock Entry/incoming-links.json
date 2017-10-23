@@ -1,0 +1,14 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Journal Entry",
+    "fieldname": "stock_entry",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Stock Entry",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  }
+]

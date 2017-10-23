@@ -1,0 +1,51 @@
+{
+  "student_group": {
+    "fieldname": "student_group",
+    "fieldtype": "Link",
+    "target": "Student Group",
+    "same_module": true,
+    "target_modules": null
+  },
+  "course": {
+    "fieldname": "course",
+    "fieldtype": "Link",
+    "target": "Course",
+    "same_module": true,
+    "target_modules": null
+  },
+  "program": {
+    "fieldname": "program",
+    "fieldtype": "Link",
+    "target": "Program",
+    "same_module": true,
+    "target_modules": null
+  },
+  "academic_year": {
+    "fieldname": "academic_year",
+    "fieldtype": "Link",
+    "target": "Academic Year",
+    "same_module": true,
+    "target_modules": null
+  },
+  "academic_term": {
+    "fieldname": "academic_term",
+    "fieldtype": "Link",
+    "target": "Academic Term",
+    "same_module": true,
+    "target_modules": null
+  },
+  "instructor": {
+    "fieldname": "instructor",
+    "fieldtype": "Link",
+    "target": "Instructor",
+    "same_module": true,
+    "target_modules": null
+  },
+  "room": {
+    "fieldname": "room",
+    "fieldtype": "Link",
+    "target": "Room",
+    "same_module": true,
+    "target_modules": null
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "project_type": {
+    "fieldname": "project_type",
+    "fieldtype": "Link",
+    "target": "Project Type",
+    "same_module": true,
+    "target_modules": null
+  },
+  "customer": {
+    "fieldname": "customer",
+    "fieldtype": "Link",
+    "target": "Customer",
+    "same_module": false,
+    "target_modules": [
+      "Selling"
+    ]
+  },
+  "sales_order": {
+    "fieldname": "sales_order",
+    "fieldtype": "Link",
+    "target": "Sales Order",
+    "same_module": false,
+    "target_modules": [
+      "Selling"
+    ]
+  },
+  "users": {
+    "fieldname": "users",
+    "fieldtype": "Table",
+    "target": "Project User",
+    "same_module": true,
+    "target_modules": null
+  },
+  "tasks": {
+    "fieldname": "tasks",
+    "fieldtype": "Table",
+    "target": "Project Task",
+    "same_module": true,
+    "target_modules": null
+  },
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "cost_center": {
+    "fieldname": "cost_center",
+    "fieldtype": "Link",
+    "target": "Cost Center",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "default_wip_warehouse": {
+    "fieldname": "default_wip_warehouse",
+    "fieldtype": "Link",
+    "target": "Warehouse",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "default_fg_warehouse": {
+    "fieldname": "default_fg_warehouse",
+    "fieldtype": "Link",
+    "target": "Warehouse",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  }
+}

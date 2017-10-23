@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Buying",
+    "doctype": "Supplier Scorecard Period",
+    "fieldname": "scorecard",
+    "fieldtype": "Link"
+  }
+]

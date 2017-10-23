@@ -1,0 +1,62 @@
+[
+  {
+    "module": "Schools",
+    "doctype": "Assessment Result",
+    "fieldname": "student",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Fees",
+    "fieldname": "student",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Guardian Student",
+    "fieldname": "student",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Program Enrollment",
+    "fieldname": "student",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Program Enrollment Tool Student",
+    "fieldname": "student",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Student Attendance",
+    "fieldname": "student",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Student Group Student",
+    "fieldname": "student",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Student Leave Application",
+    "fieldname": "student",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Student Log",
+    "fieldname": "student",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Student Sibling",
+    "fieldname": "student",
+    "fieldtype": "Link"
+  }
+]

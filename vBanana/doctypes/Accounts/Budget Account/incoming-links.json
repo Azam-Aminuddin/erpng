@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Budget",
+    "fieldname": "accounts",
+    "fieldtype": "Table"
+  }
+]

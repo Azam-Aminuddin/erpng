@@ -1,0 +1,44 @@
+[
+  {
+    "module": "Buying",
+    "doctype": "Supplier",
+    "fieldname": "accounts",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Healthcare Settings",
+    "fieldname": "income_account",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Healthcare Settings",
+    "fieldname": "receivable_account",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Physician",
+    "fieldname": "accounts",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Customer",
+    "fieldname": "accounts",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Customer Group",
+    "fieldname": "accounts",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Supplier Type",
+    "fieldname": "accounts",
+    "fieldtype": "Table"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Custom",
+    "doctype": "Customize Form",
+    "fieldname": "fields",
+    "fieldtype": "Table"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "leave_block_list": {
+    "fieldname": "leave_block_list",
+    "fieldtype": "Link",
+    "target": "Leave Block List",
+    "same_module": true,
+    "target_modules": null
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Budget",
+    "fieldname": "fiscal_year",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "GL Entry",
+    "fieldname": "fiscal_year",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Monthly Distribution",
+    "fieldname": "fiscal_year",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Period Closing Voucher",
+    "fieldname": "fiscal_year",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Request for Quotation",
+    "fieldname": "fiscal_year",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Global Defaults",
+    "fieldname": "current_fiscal_year",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Target Detail",
+    "fieldname": "fiscal_year",
+    "fieldtype": "Link"
+  }
+]

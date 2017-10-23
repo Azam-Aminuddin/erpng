@@ -1,0 +1,8 @@
+[
+  {
+    "module": "HR",
+    "doctype": "Appraisal",
+    "fieldname": "kra_template",
+    "fieldtype": "Link"
+  }
+]

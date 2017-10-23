@@ -1,0 +1,32 @@
+[
+  {
+    "module": "Schools",
+    "doctype": "Assessment Plan",
+    "fieldname": "examiner",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Assessment Plan",
+    "fieldname": "supervisor",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Course Schedule",
+    "fieldname": "instructor",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Course Scheduling Tool",
+    "fieldname": "instructor",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Student Group Instructor",
+    "fieldname": "instructor",
+    "fieldtype": "Link"
+  }
+]

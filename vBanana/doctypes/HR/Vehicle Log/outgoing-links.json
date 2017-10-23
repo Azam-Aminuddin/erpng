@@ -1,0 +1,39 @@
+{
+  "license_plate": {
+    "fieldname": "license_plate",
+    "fieldtype": "Link",
+    "target": "Vehicle",
+    "same_module": true,
+    "target_modules": null
+  },
+  "employee": {
+    "fieldname": "employee",
+    "fieldtype": "Link",
+    "target": "Employee",
+    "same_module": true,
+    "target_modules": null
+  },
+  "supplier": {
+    "fieldname": "supplier",
+    "fieldtype": "Link",
+    "target": "Supplier",
+    "same_module": false,
+    "target_modules": [
+      "Buying"
+    ]
+  },
+  "service_detail": {
+    "fieldname": "service_detail",
+    "fieldtype": "Table",
+    "target": "Vehicle Service",
+    "same_module": true,
+    "target_modules": null
+  },
+  "amended_from": {
+    "fieldname": "amended_from",
+    "fieldtype": "Link",
+    "target": "Vehicle Log",
+    "same_module": true,
+    "target_modules": null
+  }
+}

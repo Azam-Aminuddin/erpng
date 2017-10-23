@@ -1,0 +1,18 @@
+{
+  "local_doctype": {
+    "fieldname": "local_doctype",
+    "fieldtype": "Link",
+    "target": "DocType",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  },
+  "fields": {
+    "fieldname": "fields",
+    "fieldtype": "Table",
+    "target": "Data Migration Mapping Detail",
+    "same_module": true,
+    "target_modules": null
+  }
+}

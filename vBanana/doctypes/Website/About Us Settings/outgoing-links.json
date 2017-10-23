@@ -1,0 +1,16 @@
+{
+  "company_history": {
+    "fieldname": "company_history",
+    "fieldtype": "Table",
+    "target": "Company History",
+    "same_module": true,
+    "target_modules": null
+  },
+  "team_members": {
+    "fieldname": "team_members",
+    "fieldtype": "Table",
+    "target": "About Us Team Member",
+    "same_module": true,
+    "target_modules": null
+  }
+}

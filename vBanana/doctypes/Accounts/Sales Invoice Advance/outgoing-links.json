@@ -1,0 +1,11 @@
+{
+  "reference_type": {
+    "fieldname": "reference_type",
+    "fieldtype": "Link",
+    "target": "DocType",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  }
+}

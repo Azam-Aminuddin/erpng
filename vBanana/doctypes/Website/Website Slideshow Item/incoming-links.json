@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Website",
+    "doctype": "Website Slideshow",
+    "fieldname": "slideshow_items",
+    "fieldtype": "Table"
+  }
+]

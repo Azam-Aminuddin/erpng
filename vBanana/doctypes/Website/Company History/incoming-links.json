@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Website",
+    "doctype": "About Us Settings",
+    "fieldname": "company_history",
+    "fieldtype": "Table"
+  }
+]

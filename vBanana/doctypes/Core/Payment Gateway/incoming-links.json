@@ -1,0 +1,14 @@
+[
+  {
+    "module": "Website",
+    "doctype": "Web Form",
+    "fieldname": "payment_gateway",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Payment Gateway Account",
+    "fieldname": "payment_gateway",
+    "fieldtype": "Link"
+  }
+]

@@ -1,0 +1,99 @@
+{
+  "salutation": {
+    "fieldname": "salutation",
+    "fieldtype": "Link",
+    "target": "Salutation",
+    "same_module": false,
+    "target_modules": [
+      "Contacts"
+    ]
+  },
+  "gender": {
+    "fieldname": "gender",
+    "fieldtype": "Link",
+    "target": "Gender",
+    "same_module": false,
+    "target_modules": [
+      "Contacts"
+    ]
+  },
+  "lead_name": {
+    "fieldname": "lead_name",
+    "fieldtype": "Link",
+    "target": "Lead",
+    "same_module": false,
+    "target_modules": [
+      "CRM"
+    ]
+  },
+  "customer_group": {
+    "fieldname": "customer_group",
+    "fieldtype": "Link",
+    "target": "Customer Group",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "territory": {
+    "fieldname": "territory",
+    "fieldtype": "Link",
+    "target": "Territory",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "default_currency": {
+    "fieldname": "default_currency",
+    "fieldtype": "Link",
+    "target": "Currency",
+    "same_module": false,
+    "target_modules": [
+      "Geo"
+    ]
+  },
+  "default_price_list": {
+    "fieldname": "default_price_list",
+    "fieldtype": "Link",
+    "target": "Price List",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "language": {
+    "fieldname": "language",
+    "fieldtype": "Link",
+    "target": "Language",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  },
+  "accounts": {
+    "fieldname": "accounts",
+    "fieldtype": "Table",
+    "target": "Party Account",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "default_sales_partner": {
+    "fieldname": "default_sales_partner",
+    "fieldtype": "Link",
+    "target": "Sales Partner",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "sales_team": {
+    "fieldname": "sales_team",
+    "fieldtype": "Table",
+    "target": "Sales Team",
+    "same_module": true,
+    "target_modules": null
+  }
+}

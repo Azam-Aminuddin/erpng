@@ -1,0 +1,32 @@
+[
+  {
+    "module": "Core",
+    "doctype": "DocType",
+    "fieldname": "restrict_to_domain",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Core",
+    "doctype": "Has Domain",
+    "fieldname": "domain",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Core",
+    "doctype": "Module Def",
+    "fieldname": "restrict_to_domain",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Core",
+    "doctype": "Page",
+    "fieldname": "restrict_to_domain",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Core",
+    "doctype": "Role",
+    "fieldname": "restrict_to_domain",
+    "fieldtype": "Link"
+  }
+]

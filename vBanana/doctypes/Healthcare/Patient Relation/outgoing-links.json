@@ -1,0 +1,9 @@
+{
+  "patient": {
+    "fieldname": "patient",
+    "fieldtype": "Link",
+    "target": "Patient",
+    "same_module": true,
+    "target_modules": null
+  }
+}

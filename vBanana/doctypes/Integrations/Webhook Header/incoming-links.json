@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Integrations",
+    "doctype": "Webhook",
+    "fieldname": "webhook_headers",
+    "fieldtype": "Table"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Buying",
+    "doctype": "Request for Quotation",
+    "fieldname": "standard_reply",
+    "fieldtype": "Link"
+  }
+]

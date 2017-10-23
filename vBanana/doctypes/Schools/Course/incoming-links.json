@@ -1,0 +1,56 @@
+[
+  {
+    "module": "HR",
+    "doctype": "Training Event",
+    "fieldname": "course",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Training Feedback",
+    "fieldname": "course",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Assessment Plan",
+    "fieldname": "course",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Course Schedule",
+    "fieldname": "course",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Course Scheduling Tool",
+    "fieldname": "course",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Program Course",
+    "fieldname": "course",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Program Enrollment Course",
+    "fieldname": "course",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Student Group",
+    "fieldname": "course",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Student Group Creation Tool Course",
+    "fieldname": "course",
+    "fieldtype": "Link"
+  }
+]

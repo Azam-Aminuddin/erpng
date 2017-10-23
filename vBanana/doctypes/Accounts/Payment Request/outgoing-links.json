@@ -1,0 +1,34 @@
+{
+  "payment_gateway_account": {
+    "fieldname": "payment_gateway_account",
+    "fieldtype": "Link",
+    "target": "Payment Gateway Account",
+    "same_module": true,
+    "target_modules": null
+  },
+  "currency": {
+    "fieldname": "currency",
+    "fieldtype": "Link",
+    "target": "Currency",
+    "same_module": false,
+    "target_modules": [
+      "Geo"
+    ]
+  },
+  "reference_doctype": {
+    "fieldname": "reference_doctype",
+    "fieldtype": "Link",
+    "target": "DocType",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  },
+  "amended_from": {
+    "fieldname": "amended_from",
+    "fieldtype": "Link",
+    "target": "Payment Request",
+    "same_module": true,
+    "target_modules": null
+  }
+}

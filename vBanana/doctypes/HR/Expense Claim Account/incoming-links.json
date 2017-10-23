@@ -1,0 +1,8 @@
+[
+  {
+    "module": "HR",
+    "doctype": "Expense Claim Type",
+    "fieldname": "accounts",
+    "fieldtype": "Table"
+  }
+]

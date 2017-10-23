@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Schools",
+    "doctype": "Program Enrollment Tool Student",
+    "fieldname": "student_applicant",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Student",
+    "fieldname": "student_applicant",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Student Applicant",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  }
+]

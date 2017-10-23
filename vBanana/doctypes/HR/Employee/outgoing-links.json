@@ -1,0 +1,108 @@
+{
+  "salutation": {
+    "fieldname": "salutation",
+    "fieldtype": "Link",
+    "target": "Salutation",
+    "same_module": false,
+    "target_modules": [
+      "Contacts"
+    ]
+  },
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "user_id": {
+    "fieldname": "user_id",
+    "fieldtype": "Link",
+    "target": "User",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  },
+  "gender": {
+    "fieldname": "gender",
+    "fieldtype": "Link",
+    "target": "Gender",
+    "same_module": false,
+    "target_modules": [
+      "Contacts"
+    ]
+  },
+  "employment_type": {
+    "fieldname": "employment_type",
+    "fieldtype": "Link",
+    "target": "Employment Type",
+    "same_module": true,
+    "target_modules": null
+  },
+  "holiday_list": {
+    "fieldname": "holiday_list",
+    "fieldtype": "Link",
+    "target": "Holiday List",
+    "same_module": true,
+    "target_modules": null
+  },
+  "branch": {
+    "fieldname": "branch",
+    "fieldtype": "Link",
+    "target": "Branch",
+    "same_module": true,
+    "target_modules": null
+  },
+  "department": {
+    "fieldname": "department",
+    "fieldtype": "Link",
+    "target": "Department",
+    "same_module": true,
+    "target_modules": null
+  },
+  "designation": {
+    "fieldname": "designation",
+    "fieldtype": "Link",
+    "target": "Designation",
+    "same_module": true,
+    "target_modules": null
+  },
+  "reports_to": {
+    "fieldname": "reports_to",
+    "fieldtype": "Link",
+    "target": "Employee",
+    "same_module": true,
+    "target_modules": null
+  },
+  "leave_approvers": {
+    "fieldname": "leave_approvers",
+    "fieldtype": "Table",
+    "target": "Employee Leave Approver",
+    "same_module": true,
+    "target_modules": null
+  },
+  "education": {
+    "fieldname": "education",
+    "fieldtype": "Table",
+    "target": "Employee Education",
+    "same_module": true,
+    "target_modules": null
+  },
+  "external_work_history": {
+    "fieldname": "external_work_history",
+    "fieldtype": "Table",
+    "target": "Employee External Work History",
+    "same_module": true,
+    "target_modules": null
+  },
+  "internal_work_history": {
+    "fieldname": "internal_work_history",
+    "fieldtype": "Table",
+    "target": "Employee Internal Work History",
+    "same_module": true,
+    "target_modules": null
+  }
+}

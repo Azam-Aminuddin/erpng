@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Stock",
+    "doctype": "Purchase Receipt",
+    "fieldname": "items",
+    "fieldtype": "Table"
+  }
+]

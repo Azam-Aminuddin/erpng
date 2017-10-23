@@ -1,0 +1,25 @@
+{
+  "department": {
+    "fieldname": "department",
+    "fieldtype": "Link",
+    "target": "Department",
+    "same_module": false,
+    "target_modules": [
+      "HR"
+    ]
+  },
+  "default_grading_scale": {
+    "fieldname": "default_grading_scale",
+    "fieldtype": "Link",
+    "target": "Grading Scale",
+    "same_module": true,
+    "target_modules": null
+  },
+  "assessment_criteria": {
+    "fieldname": "assessment_criteria",
+    "fieldtype": "Table",
+    "target": "Course Assessment Criteria",
+    "same_module": true,
+    "target_modules": null
+  }
+}

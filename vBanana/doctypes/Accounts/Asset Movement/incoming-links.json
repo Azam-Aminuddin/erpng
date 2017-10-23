@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Asset Movement",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  }
+]

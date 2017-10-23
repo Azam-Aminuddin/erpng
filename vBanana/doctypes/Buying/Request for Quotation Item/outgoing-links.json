@@ -1,0 +1,65 @@
+{
+  "item_code": {
+    "fieldname": "item_code",
+    "fieldtype": "Link",
+    "target": "Item",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "uom": {
+    "fieldname": "uom",
+    "fieldtype": "Link",
+    "target": "UOM",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "warehouse": {
+    "fieldname": "warehouse",
+    "fieldtype": "Link",
+    "target": "Warehouse",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "project_name": {
+    "fieldname": "project_name",
+    "fieldtype": "Link",
+    "target": "Project",
+    "same_module": false,
+    "target_modules": [
+      "Projects"
+    ]
+  },
+  "material_request": {
+    "fieldname": "material_request",
+    "fieldtype": "Link",
+    "target": "Material Request",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "brand": {
+    "fieldname": "brand",
+    "fieldtype": "Link",
+    "target": "Brand",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "item_group": {
+    "fieldname": "item_group",
+    "fieldtype": "Link",
+    "target": "Item Group",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "module": "Healthcare",
+    "doctype": "Lab Prescription",
+    "fieldname": "test_code",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Lab Test",
+    "fieldname": "template",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Lab Test Groups",
+    "fieldname": "test_template",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Normal Test Items",
+    "fieldname": "template",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Special Test Items",
+    "fieldname": "template",
+    "fieldtype": "Link"
+  }
+]

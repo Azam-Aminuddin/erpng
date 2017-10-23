@@ -1,0 +1,38 @@
+[
+  {
+    "module": "Maintenance",
+    "doctype": "Maintenance Schedule Detail",
+    "fieldname": "sales_person",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Maintenance",
+    "doctype": "Maintenance Schedule Item",
+    "fieldname": "sales_person",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Maintenance",
+    "doctype": "Maintenance Visit Purpose",
+    "fieldname": "service_person",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Sales Team",
+    "fieldname": "sales_person",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Sales Person",
+    "fieldname": "parent_sales_person",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Territory",
+    "fieldname": "territory_manager",
+    "fieldtype": "Link"
+  }
+]

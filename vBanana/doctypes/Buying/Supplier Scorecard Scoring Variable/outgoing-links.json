@@ -1,0 +1,9 @@
+{
+  "variable_label": {
+    "fieldname": "variable_label",
+    "fieldtype": "Link",
+    "target": "Supplier Scorecard Variable",
+    "same_module": true,
+    "target_modules": null
+  }
+}

@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Email",
+    "doctype": "Newsletter",
+    "fieldname": "email_group",
+    "fieldtype": "Table"
+  }
+]

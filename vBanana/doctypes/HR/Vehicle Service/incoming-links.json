@@ -1,0 +1,8 @@
+[
+  {
+    "module": "HR",
+    "doctype": "Vehicle Log",
+    "fieldname": "service_detail",
+    "fieldtype": "Table"
+  }
+]

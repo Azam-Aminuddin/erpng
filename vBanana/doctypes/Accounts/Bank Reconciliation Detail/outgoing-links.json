@@ -1,0 +1,11 @@
+{
+  "payment_document": {
+    "fieldname": "payment_document",
+    "fieldtype": "Link",
+    "target": "DocType",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  }
+}

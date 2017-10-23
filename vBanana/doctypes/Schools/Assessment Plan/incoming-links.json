@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Schools",
+    "doctype": "Assessment Plan",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Assessment Result",
+    "fieldname": "assessment_plan",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Assessment Result Tool",
+    "fieldname": "assessment_plan",
+    "fieldtype": "Link"
+  }
+]

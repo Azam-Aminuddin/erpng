@@ -1,0 +1,14 @@
+[
+  {
+    "module": "Email",
+    "doctype": "Email Group Member",
+    "fieldname": "email_group",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Email",
+    "doctype": "Newsletter Email Group",
+    "fieldname": "email_group",
+    "fieldtype": "Link"
+  }
+]

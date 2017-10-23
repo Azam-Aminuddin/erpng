@@ -1,0 +1,14 @@
+[
+  {
+    "module": "HR",
+    "doctype": "Employee",
+    "fieldname": "employment_type",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Leave Control Panel",
+    "fieldname": "employment_type",
+    "fieldtype": "Link"
+  }
+]

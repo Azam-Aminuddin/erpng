@@ -1,0 +1,18 @@
+{
+  "module": {
+    "fieldname": "module",
+    "fieldtype": "Link",
+    "target": "Module Def",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  },
+  "mappings": {
+    "fieldname": "mappings",
+    "fieldtype": "Table",
+    "target": "Data Migration Plan Mapping",
+    "same_module": true,
+    "target_modules": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "restaurant": {
+    "fieldname": "restaurant",
+    "fieldtype": "Link",
+    "target": "Restaurant",
+    "same_module": true,
+    "target_modules": null
+  },
+  "customer": {
+    "fieldname": "customer",
+    "fieldtype": "Link",
+    "target": "Customer",
+    "same_module": false,
+    "target_modules": [
+      "Selling"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "C-Form",
+    "fieldname": "invoices",
+    "fieldtype": "Table"
+  }
+]

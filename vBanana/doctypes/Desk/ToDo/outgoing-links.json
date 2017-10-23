@@ -1,0 +1,38 @@
+{
+  "owner": {
+    "fieldname": "owner",
+    "fieldtype": "Link",
+    "target": "User",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  },
+  "reference_type": {
+    "fieldname": "reference_type",
+    "fieldtype": "Link",
+    "target": "DocType",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  },
+  "role": {
+    "fieldname": "role",
+    "fieldtype": "Link",
+    "target": "Role",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  },
+  "assigned_by": {
+    "fieldname": "assigned_by",
+    "fieldtype": "Link",
+    "target": "User",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  }
+}

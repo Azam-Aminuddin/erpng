@@ -1,0 +1,9 @@
+{
+  "parameters": {
+    "fieldname": "parameters",
+    "fieldtype": "Table",
+    "target": "SMS Parameter",
+    "same_module": true,
+    "target_modules": null
+  }
+}

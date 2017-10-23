@@ -1,0 +1,14 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Asset",
+    "fieldname": "asset_category",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Item",
+    "fieldname": "asset_category",
+    "fieldtype": "Link"
+  }
+]

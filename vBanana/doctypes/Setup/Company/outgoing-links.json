@@ -1,0 +1,232 @@
+{
+  "default_letter_head": {
+    "fieldname": "default_letter_head",
+    "fieldtype": "Link",
+    "target": "Letter Head",
+    "same_module": false,
+    "target_modules": [
+      "Printing"
+    ]
+  },
+  "default_holiday_list": {
+    "fieldname": "default_holiday_list",
+    "fieldtype": "Link",
+    "target": "Holiday List",
+    "same_module": false,
+    "target_modules": [
+      "HR"
+    ]
+  },
+  "default_terms": {
+    "fieldname": "default_terms",
+    "fieldtype": "Link",
+    "target": "Terms and Conditions",
+    "same_module": true,
+    "target_modules": null
+  },
+  "default_currency": {
+    "fieldname": "default_currency",
+    "fieldtype": "Link",
+    "target": "Currency",
+    "same_module": false,
+    "target_modules": [
+      "Geo"
+    ]
+  },
+  "country": {
+    "fieldname": "country",
+    "fieldtype": "Link",
+    "target": "Country",
+    "same_module": false,
+    "target_modules": [
+      "Geo"
+    ]
+  },
+  "existing_company": {
+    "fieldname": "existing_company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": true,
+    "target_modules": null
+  },
+  "default_bank_account": {
+    "fieldname": "default_bank_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "default_cash_account": {
+    "fieldname": "default_cash_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "default_receivable_account": {
+    "fieldname": "default_receivable_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "round_off_account": {
+    "fieldname": "round_off_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "write_off_account": {
+    "fieldname": "write_off_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "exchange_gain_loss_account": {
+    "fieldname": "exchange_gain_loss_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "default_payable_account": {
+    "fieldname": "default_payable_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "default_expense_account": {
+    "fieldname": "default_expense_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "default_income_account": {
+    "fieldname": "default_income_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "default_payroll_payable_account": {
+    "fieldname": "default_payroll_payable_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "round_off_cost_center": {
+    "fieldname": "round_off_cost_center",
+    "fieldtype": "Link",
+    "target": "Cost Center",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "cost_center": {
+    "fieldname": "cost_center",
+    "fieldtype": "Link",
+    "target": "Cost Center",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "default_inventory_account": {
+    "fieldname": "default_inventory_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "stock_adjustment_account": {
+    "fieldname": "stock_adjustment_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "stock_received_but_not_billed": {
+    "fieldname": "stock_received_but_not_billed",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "expenses_included_in_valuation": {
+    "fieldname": "expenses_included_in_valuation",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "accumulated_depreciation_account": {
+    "fieldname": "accumulated_depreciation_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "depreciation_expense_account": {
+    "fieldname": "depreciation_expense_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "disposal_account": {
+    "fieldname": "disposal_account",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  },
+  "depreciation_cost_center": {
+    "fieldname": "depreciation_cost_center",
+    "fieldtype": "Link",
+    "target": "Cost Center",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  }
+}

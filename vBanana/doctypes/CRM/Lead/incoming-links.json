@@ -1,0 +1,26 @@
+[
+  {
+    "module": "CRM",
+    "doctype": "Opportunity",
+    "fieldname": "lead",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Customer",
+    "fieldname": "lead_name",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Quotation",
+    "fieldname": "lead",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Support",
+    "doctype": "Issue",
+    "fieldname": "lead",
+    "fieldtype": "Link"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "student": {
+    "fieldname": "student",
+    "fieldtype": "Link",
+    "target": "Student",
+    "same_module": true,
+    "target_modules": null
+  },
+  "student_category": {
+    "fieldname": "student_category",
+    "fieldtype": "Link",
+    "target": "Student Category",
+    "same_module": true,
+    "target_modules": null
+  },
+  "school_house": {
+    "fieldname": "school_house",
+    "fieldtype": "Link",
+    "target": "School House",
+    "same_module": true,
+    "target_modules": null
+  },
+  "program": {
+    "fieldname": "program",
+    "fieldtype": "Link",
+    "target": "Program",
+    "same_module": true,
+    "target_modules": null
+  },
+  "student_batch_name": {
+    "fieldname": "student_batch_name",
+    "fieldtype": "Link",
+    "target": "Student Batch Name",
+    "same_module": true,
+    "target_modules": null
+  },
+  "academic_year": {
+    "fieldname": "academic_year",
+    "fieldtype": "Link",
+    "target": "Academic Year",
+    "same_module": true,
+    "target_modules": null
+  },
+  "academic_term": {
+    "fieldname": "academic_term",
+    "fieldtype": "Link",
+    "target": "Academic Term",
+    "same_module": true,
+    "target_modules": null
+  },
+  "courses": {
+    "fieldname": "courses",
+    "fieldtype": "Table",
+    "target": "Program Enrollment Course",
+    "same_module": true,
+    "target_modules": null
+  },
+  "fees": {
+    "fieldname": "fees",
+    "fieldtype": "Table",
+    "target": "Program Fee",
+    "same_module": true,
+    "target_modules": null
+  },
+  "amended_from": {
+    "fieldname": "amended_from",
+    "fieldtype": "Link",
+    "target": "Program Enrollment",
+    "same_module": true,
+    "target_modules": null
+  }
+}

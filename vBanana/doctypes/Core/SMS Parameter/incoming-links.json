@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Core",
+    "doctype": "SMS Settings",
+    "fieldname": "parameters",
+    "fieldtype": "Table"
+  }
+]

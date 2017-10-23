@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Core",
+    "doctype": "Communication",
+    "fieldname": "email_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Core",
+    "doctype": "User Email",
+    "fieldname": "email_account",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Email",
+    "doctype": "Unhandled Email",
+    "fieldname": "email_account",
+    "fieldtype": "Link"
+  }
+]

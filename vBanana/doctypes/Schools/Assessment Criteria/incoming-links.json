@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Schools",
+    "doctype": "Assessment Plan Criteria",
+    "fieldname": "assessment_criteria",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Assessment Result Detail",
+    "fieldname": "assessment_criteria",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Course Assessment Criteria",
+    "fieldname": "assessment_criteria",
+    "fieldtype": "Link"
+  }
+]

@@ -1,0 +1,63 @@
+{
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": true,
+    "target_modules": null
+  },
+  "system_role": {
+    "fieldname": "system_role",
+    "fieldtype": "Link",
+    "target": "Role",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  },
+  "to_emp": {
+    "fieldname": "to_emp",
+    "fieldtype": "Link",
+    "target": "Employee",
+    "same_module": false,
+    "target_modules": [
+      "HR"
+    ]
+  },
+  "system_user": {
+    "fieldname": "system_user",
+    "fieldtype": "Link",
+    "target": "User",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  },
+  "to_designation": {
+    "fieldname": "to_designation",
+    "fieldtype": "Link",
+    "target": "Designation",
+    "same_module": false,
+    "target_modules": [
+      "HR"
+    ]
+  },
+  "approving_role": {
+    "fieldname": "approving_role",
+    "fieldtype": "Link",
+    "target": "Role",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  },
+  "approving_user": {
+    "fieldname": "approving_user",
+    "fieldtype": "Link",
+    "target": "User",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  }
+}

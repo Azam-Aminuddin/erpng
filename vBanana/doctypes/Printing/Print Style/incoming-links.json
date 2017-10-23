@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Printing",
+    "doctype": "Print Settings",
+    "fieldname": "print_style",
+    "fieldtype": "Link"
+  }
+]

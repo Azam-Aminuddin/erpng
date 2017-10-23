@@ -1,0 +1,18 @@
+{
+  "item_group": {
+    "fieldname": "item_group",
+    "fieldtype": "Link",
+    "target": "Item Group",
+    "same_module": true,
+    "target_modules": null
+  },
+  "fiscal_year": {
+    "fieldname": "fiscal_year",
+    "fieldtype": "Link",
+    "target": "Fiscal Year",
+    "same_module": false,
+    "target_modules": [
+      "Accounts"
+    ]
+  }
+}

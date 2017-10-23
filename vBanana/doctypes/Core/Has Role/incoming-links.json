@@ -1,0 +1,38 @@
+[
+  {
+    "module": "Core",
+    "doctype": "Custom Role",
+    "fieldname": "roles",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Core",
+    "doctype": "Page",
+    "fieldname": "roles",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Core",
+    "doctype": "Report",
+    "fieldname": "roles",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Core",
+    "doctype": "Role Permission for Page and Report",
+    "fieldname": "roles",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Core",
+    "doctype": "User",
+    "fieldname": "roles",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Core",
+    "doctype": "User Permission for Page and Report",
+    "fieldname": "roles",
+    "fieldtype": "Table"
+  }
+]

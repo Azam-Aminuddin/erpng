@@ -1,0 +1,20 @@
+{
+  "country": {
+    "fieldname": "country",
+    "fieldtype": "Link",
+    "target": "Country",
+    "same_module": false,
+    "target_modules": [
+      "Geo"
+    ]
+  },
+  "links": {
+    "fieldname": "links",
+    "fieldtype": "Table",
+    "target": "Dynamic Link",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  }
+}

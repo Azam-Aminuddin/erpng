@@ -1,0 +1,36 @@
+{
+  "document_type": {
+    "fieldname": "document_type",
+    "fieldtype": "Link",
+    "target": "DocType",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  },
+  "module": {
+    "fieldname": "module",
+    "fieldtype": "Link",
+    "target": "Module Def",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  },
+  "recipients": {
+    "fieldname": "recipients",
+    "fieldtype": "Table",
+    "target": "Email Alert Recipient",
+    "same_module": true,
+    "target_modules": null
+  },
+  "print_format": {
+    "fieldname": "print_format",
+    "fieldtype": "Link",
+    "target": "Print Format",
+    "same_module": false,
+    "target_modules": [
+      "Printing"
+    ]
+  }
+}

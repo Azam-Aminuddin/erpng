@@ -1,0 +1,9 @@
+{
+  "domain": {
+    "fieldname": "domain",
+    "fieldtype": "Link",
+    "target": "Domain",
+    "same_module": true,
+    "target_modules": null
+  }
+}

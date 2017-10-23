@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Workflow",
+    "doctype": "Workflow Transition",
+    "fieldname": "action",
+    "fieldtype": "Link"
+  }
+]

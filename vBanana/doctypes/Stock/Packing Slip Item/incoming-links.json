@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Stock",
+    "doctype": "Packing Slip",
+    "fieldname": "items",
+    "fieldtype": "Table"
+  }
+]

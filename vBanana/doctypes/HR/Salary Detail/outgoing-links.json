@@ -1,0 +1,9 @@
+{
+  "salary_component": {
+    "fieldname": "salary_component",
+    "fieldtype": "Link",
+    "target": "Salary Component",
+    "same_module": true,
+    "target_modules": null
+  }
+}

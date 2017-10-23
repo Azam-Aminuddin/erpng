@@ -1,0 +1,29 @@
+{
+  "item_code": {
+    "fieldname": "item_code",
+    "fieldtype": "Link",
+    "target": "Item",
+    "same_module": false,
+    "target_modules": [
+      "Stock"
+    ]
+  },
+  "sales_person": {
+    "fieldname": "sales_person",
+    "fieldtype": "Link",
+    "target": "Sales Person",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "sales_order": {
+    "fieldname": "sales_order",
+    "fieldtype": "Link",
+    "target": "Sales Order",
+    "same_module": false,
+    "target_modules": [
+      "Selling"
+    ]
+  }
+}

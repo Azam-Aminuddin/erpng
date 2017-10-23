@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Email",
+    "doctype": "Email Account",
+    "fieldname": "domain",
+    "fieldtype": "Link"
+  }
+]

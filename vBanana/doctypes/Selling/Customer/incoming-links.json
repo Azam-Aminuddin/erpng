@@ -1,0 +1,164 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Bank Guarantee",
+    "fieldname": "customer",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "C-Form",
+    "fieldname": "customer",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "POS Profile",
+    "fieldname": "customer",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Pricing Rule",
+    "fieldname": "customer",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Sales Invoice",
+    "fieldname": "customer",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Tax Rule",
+    "fieldname": "customer",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Purchase Order",
+    "fieldname": "customer",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "CRM",
+    "doctype": "Lead",
+    "fieldname": "customer",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "CRM",
+    "doctype": "Opportunity",
+    "fieldname": "customer",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Patient",
+    "fieldname": "customer",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Maintenance",
+    "doctype": "Maintenance Schedule",
+    "fieldname": "customer",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Maintenance",
+    "doctype": "Maintenance Visit",
+    "fieldname": "customer",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Manufacturing",
+    "doctype": "Production Planning Tool",
+    "fieldname": "customer",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Manufacturing",
+    "doctype": "Production Plan Sales Order",
+    "fieldname": "customer",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Projects",
+    "doctype": "Project",
+    "fieldname": "customer",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Restaurant",
+    "doctype": "Restaurant",
+    "fieldname": "default_customer",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Restaurant",
+    "doctype": "Restaurant Reservation",
+    "fieldname": "customer",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Installation Note",
+    "fieldname": "customer",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Quotation",
+    "fieldname": "customer",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Sales Order",
+    "fieldname": "customer",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "SMS Center",
+    "fieldname": "customer",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Delivery Note",
+    "fieldname": "customer",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Item Customer Detail",
+    "fieldname": "customer_name",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Serial No",
+    "fieldname": "customer",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Stock Entry",
+    "fieldname": "customer",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Support",
+    "doctype": "Issue",
+    "fieldname": "customer",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Support",
+    "doctype": "Warranty Claim",
+    "fieldname": "customer",
+    "fieldtype": "Link"
+  }
+]

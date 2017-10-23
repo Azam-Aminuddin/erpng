@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Healthcare",
+    "doctype": "Sensitivity Test Items",
+    "fieldname": "antibiotic",
+    "fieldtype": "Link"
+  }
+]

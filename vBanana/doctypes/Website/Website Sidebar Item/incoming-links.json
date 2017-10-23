@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Website",
+    "doctype": "Website Sidebar",
+    "fieldname": "sidebar_items",
+    "fieldtype": "Table"
+  }
+]

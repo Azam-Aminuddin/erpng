@@ -1,0 +1,20 @@
+[
+  {
+    "module": "HR",
+    "doctype": "Training Event",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Training Feedback",
+    "fieldname": "training_event",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Training Result",
+    "fieldname": "training_event",
+    "fieldtype": "Link"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "assessment_criteria_group": {
+    "fieldname": "assessment_criteria_group",
+    "fieldtype": "Link",
+    "target": "Assessment Criteria Group",
+    "same_module": true,
+    "target_modules": null
+  }
+}

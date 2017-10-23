@@ -1,0 +1,14 @@
+[
+  {
+    "module": "HR",
+    "doctype": "Expense Claim",
+    "fieldname": "vehicle_log",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Vehicle Log",
+    "fieldname": "amended_from",
+    "fieldtype": "Link"
+  }
+]

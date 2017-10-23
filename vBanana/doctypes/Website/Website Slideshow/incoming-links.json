@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Website",
+    "doctype": "Web Page",
+    "fieldname": "slideshow",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Item Group",
+    "fieldname": "slideshow",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Item",
+    "fieldname": "slideshow",
+    "fieldtype": "Link"
+  }
+]

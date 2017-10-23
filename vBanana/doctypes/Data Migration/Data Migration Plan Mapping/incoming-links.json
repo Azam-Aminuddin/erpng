@@ -1,0 +1,8 @@
+[
+  {
+    "module": "Data Migration",
+    "doctype": "Data Migration Plan",
+    "fieldname": "mappings",
+    "fieldtype": "Table"
+  }
+]

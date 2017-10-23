@@ -1,0 +1,14 @@
+[
+  {
+    "module": "Core",
+    "doctype": "Communication",
+    "fieldname": "in_reply_to",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Email",
+    "doctype": "Email Queue",
+    "fieldname": "communication",
+    "fieldtype": "Link"
+  }
+]

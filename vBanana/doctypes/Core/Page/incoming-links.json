@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Core",
+    "doctype": "Custom Role",
+    "fieldname": "page",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Core",
+    "doctype": "Role Permission for Page and Report",
+    "fieldname": "page",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Core",
+    "doctype": "User Permission for Page and Report",
+    "fieldname": "page",
+    "fieldtype": "Link"
+  }
+]

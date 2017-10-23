@@ -1,0 +1,16 @@
+{
+  "tags": {
+    "fieldname": "tags",
+    "fieldtype": "Table",
+    "target": "Tag",
+    "same_module": true,
+    "target_modules": null
+  },
+  "tagdocs": {
+    "fieldname": "tagdocs",
+    "fieldtype": "Table",
+    "target": "Tag Doc Category",
+    "same_module": true,
+    "target_modules": null
+  }
+}

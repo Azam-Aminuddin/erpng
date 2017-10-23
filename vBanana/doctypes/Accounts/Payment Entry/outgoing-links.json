@@ -1,0 +1,115 @@
+{
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "mode_of_payment": {
+    "fieldname": "mode_of_payment",
+    "fieldtype": "Link",
+    "target": "Mode of Payment",
+    "same_module": true,
+    "target_modules": null
+  },
+  "party_type": {
+    "fieldname": "party_type",
+    "fieldtype": "Link",
+    "target": "DocType",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  },
+  "paid_from": {
+    "fieldname": "paid_from",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": true,
+    "target_modules": null
+  },
+  "paid_from_account_currency": {
+    "fieldname": "paid_from_account_currency",
+    "fieldtype": "Link",
+    "target": "Currency",
+    "same_module": false,
+    "target_modules": [
+      "Geo"
+    ]
+  },
+  "paid_to": {
+    "fieldname": "paid_to",
+    "fieldtype": "Link",
+    "target": "Account",
+    "same_module": true,
+    "target_modules": null
+  },
+  "paid_to_account_currency": {
+    "fieldname": "paid_to_account_currency",
+    "fieldtype": "Link",
+    "target": "Currency",
+    "same_module": false,
+    "target_modules": [
+      "Geo"
+    ]
+  },
+  "references": {
+    "fieldname": "references",
+    "fieldtype": "Table",
+    "target": "Payment Entry Reference",
+    "same_module": true,
+    "target_modules": null
+  },
+  "deductions": {
+    "fieldname": "deductions",
+    "fieldtype": "Table",
+    "target": "Payment Entry Deduction",
+    "same_module": true,
+    "target_modules": null
+  },
+  "project": {
+    "fieldname": "project",
+    "fieldtype": "Link",
+    "target": "Project",
+    "same_module": false,
+    "target_modules": [
+      "Projects"
+    ]
+  },
+  "letter_head": {
+    "fieldname": "letter_head",
+    "fieldtype": "Link",
+    "target": "Letter Head",
+    "same_module": false,
+    "target_modules": [
+      "Printing"
+    ]
+  },
+  "print_heading": {
+    "fieldname": "print_heading",
+    "fieldtype": "Link",
+    "target": "Print Heading",
+    "same_module": false,
+    "target_modules": [
+      "Printing",
+      "Setup"
+    ]
+  },
+  "subscription": {
+    "fieldname": "subscription",
+    "fieldtype": "Link",
+    "target": "Subscription",
+    "same_module": true,
+    "target_modules": null
+  },
+  "amended_from": {
+    "fieldname": "amended_from",
+    "fieldtype": "Link",
+    "target": "Payment Entry",
+    "same_module": true,
+    "target_modules": null
+  }
+}

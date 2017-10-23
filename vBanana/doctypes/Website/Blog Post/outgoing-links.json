@@ -1,0 +1,16 @@
+{
+  "blog_category": {
+    "fieldname": "blog_category",
+    "fieldtype": "Link",
+    "target": "Blog Category",
+    "same_module": true,
+    "target_modules": null
+  },
+  "blogger": {
+    "fieldname": "blogger",
+    "fieldtype": "Link",
+    "target": "Blogger",
+    "same_module": true,
+    "target_modules": null
+  }
+}

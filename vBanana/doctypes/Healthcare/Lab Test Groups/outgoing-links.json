@@ -1,0 +1,16 @@
+{
+  "test_template": {
+    "fieldname": "test_template",
+    "fieldtype": "Link",
+    "target": "Lab Test Template",
+    "same_module": true,
+    "target_modules": null
+  },
+  "group_test_uom": {
+    "fieldname": "group_test_uom",
+    "fieldtype": "Link",
+    "target": "Lab Test UOM",
+    "same_module": true,
+    "target_modules": null
+  }
+}

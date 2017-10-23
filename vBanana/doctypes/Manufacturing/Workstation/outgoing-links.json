@@ -1,0 +1,18 @@
+{
+  "working_hours": {
+    "fieldname": "working_hours",
+    "fieldtype": "Table",
+    "target": "Workstation Working Hour",
+    "same_module": true,
+    "target_modules": null
+  },
+  "holiday_list": {
+    "fieldname": "holiday_list",
+    "fieldtype": "Link",
+    "target": "Holiday List",
+    "same_module": false,
+    "target_modules": [
+      "HR"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "item_group": {
+    "fieldname": "item_group",
+    "fieldtype": "Link",
+    "target": "Item Group",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "stock_uom": {
+    "fieldname": "stock_uom",
+    "fieldtype": "Link",
+    "target": "UOM",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  },
+  "default_warehouse": {
+    "fieldname": "default_warehouse",
+    "fieldtype": "Link",
+    "target": "Warehouse",
+    "same_module": true,
+    "target_modules": null
+  },
+  "stock_auth_role": {
+    "fieldname": "stock_auth_role",
+    "fieldtype": "Link",
+    "target": "Role",
+    "same_module": false,
+    "target_modules": [
+      "Core"
+    ]
+  }
+}

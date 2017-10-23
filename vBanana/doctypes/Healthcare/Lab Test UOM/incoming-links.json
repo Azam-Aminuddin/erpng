@@ -1,0 +1,20 @@
+[
+  {
+    "module": "Healthcare",
+    "doctype": "Lab Test Groups",
+    "fieldname": "group_test_uom",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Lab Test Template",
+    "fieldname": "test_uom",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Normal Test Template",
+    "fieldname": "test_uom",
+    "fieldtype": "Link"
+  }
+]

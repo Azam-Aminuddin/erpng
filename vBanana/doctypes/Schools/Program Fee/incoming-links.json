@@ -1,0 +1,14 @@
+[
+  {
+    "module": "Schools",
+    "doctype": "Program",
+    "fieldname": "fees",
+    "fieldtype": "Table"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Program Enrollment",
+    "fieldname": "fees",
+    "fieldtype": "Table"
+  }
+]

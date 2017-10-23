@@ -1,0 +1,25 @@
+{
+  "department": {
+    "fieldname": "department",
+    "fieldtype": "Link",
+    "target": "Department",
+    "same_module": true,
+    "target_modules": null
+  },
+  "branch": {
+    "fieldname": "branch",
+    "fieldtype": "Link",
+    "target": "Branch",
+    "same_module": true,
+    "target_modules": null
+  },
+  "company": {
+    "fieldname": "company",
+    "fieldtype": "Link",
+    "target": "Company",
+    "same_module": false,
+    "target_modules": [
+      "Setup"
+    ]
+  }
+}

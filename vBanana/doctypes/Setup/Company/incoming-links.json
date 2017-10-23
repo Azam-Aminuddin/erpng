@@ -1,0 +1,524 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Account",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Asset",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Asset Category Account",
+    "fieldname": "company_name",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Asset Movement",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Budget",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Cost Center",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "C-Form",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Fiscal Year Company",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "GL Entry",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Journal Entry",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Mode of Payment Account",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Party Account",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Payment Entry",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Payment Reconciliation",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Period Closing Voucher",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "POS Profile",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Pricing Rule",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Purchase Invoice",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Purchase Taxes and Charges Template",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Salary Component Account",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Sales Invoice",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Sales Taxes and Charges Template",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Shipping Rule",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Tax Rule",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Purchase Order",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Request for Quotation",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Supplier Quotation",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "CRM",
+    "doctype": "Lead",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "CRM",
+    "doctype": "Opportunity",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Consultation",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Lab Test",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Patient",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Patient Appointment",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Sample Collection",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Healthcare",
+    "doctype": "Vital Signs",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Appraisal",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Attendance",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Daily Work Summary",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Daily Work Summary Settings Company",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Employee",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Employee Attendance Tool",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Employee Loan",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Employee Loan Application",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Expense Claim",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Expense Claim Account",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Leave Application",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Leave Block List",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Leave Control Panel",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Offer Letter",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Process Payroll",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Salary Slip",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Salary Structure",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Training Event",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "HR",
+    "doctype": "Training Program",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Hub Node",
+    "doctype": "Hub Settings",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Maintenance",
+    "doctype": "Maintenance Schedule",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Maintenance",
+    "doctype": "Maintenance Visit",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Manufacturing",
+    "doctype": "BOM",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Manufacturing",
+    "doctype": "Production Order",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Manufacturing",
+    "doctype": "Production Planning Tool",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Portal",
+    "doctype": "Homepage",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Projects",
+    "doctype": "Project",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Projects",
+    "doctype": "Task",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Projects",
+    "doctype": "Timesheet",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Restaurant",
+    "doctype": "Restaurant",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Fees",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Fee Schedule",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Fee Structure",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Installation Note",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Quotation",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Selling",
+    "doctype": "Sales Order",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Authorization Rule",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Company",
+    "fieldname": "existing_company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Email Digest",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Setup",
+    "doctype": "Global Defaults",
+    "fieldname": "default_company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Shopping Cart",
+    "doctype": "Shopping Cart Settings",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Delivery Note",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Landed Cost Voucher",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Material Request",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Purchase Receipt",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Serial No",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Stock Entry",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Stock Ledger Entry",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Stock Reconciliation",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Stock",
+    "doctype": "Warehouse",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Support",
+    "doctype": "Issue",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Support",
+    "doctype": "Warranty Claim",
+    "fieldname": "company",
+    "fieldtype": "Link"
+  }
+]

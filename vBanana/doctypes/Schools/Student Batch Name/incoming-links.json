@@ -1,0 +1,38 @@
+[
+  {
+    "module": "Schools",
+    "doctype": "Fees",
+    "fieldname": "student_batch",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Fee Schedule Program",
+    "fieldname": "student_batch",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Program Enrollment",
+    "fieldname": "student_batch_name",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Student Group",
+    "fieldname": "batch",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Student Group Creation Tool Course",
+    "fieldname": "batch",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Schools",
+    "doctype": "Student Log",
+    "fieldname": "student_batch",
+    "fieldtype": "Link"
+  }
+]

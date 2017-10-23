@@ -1,0 +1,26 @@
+[
+  {
+    "module": "Accounts",
+    "doctype": "Pricing Rule",
+    "fieldname": "supplier_type",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Accounts",
+    "doctype": "Tax Rule",
+    "fieldname": "supplier_type",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Buying Settings",
+    "fieldname": "supplier_type",
+    "fieldtype": "Link"
+  },
+  {
+    "module": "Buying",
+    "doctype": "Supplier",
+    "fieldname": "supplier_type",
+    "fieldtype": "Link"
+  }
+]
