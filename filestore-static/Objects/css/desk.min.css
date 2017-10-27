@@ -9277,7 +9277,7 @@ h4.modal-title {
 .octicon-remove-close:before,
 .octicon-x:before { content: '\f081'} /*  */
 .octicon-zap:before { content: '\26A1'} /* ⚡ */
-.c3 svg{font:10px sans-serif;-webkit-tap-highlight-color:transparent}.c3 line,.c3 path{fill:none;stroke:#000}.c3 text{-webkit-user-select:none;-moz-user-select:none;user-select:none}.c3-bars path,.c3-event-rect,.c3-legend-item-tile,.c3-xgrid-focus,.c3-ygrid{shape-rendering:crispEdges}.c3-chart-arc path{stroke:#fff}.c3-chart-arc text{fill:#fff;font-size:13px}.c3-grid line{stroke:#aaa}.c3-grid text{fill:#aaa}.c3-xgrid,.c3-ygrid{stroke-dasharray:3 3}.c3-text.c3-empty{fill:gray;font-size:2em}.c3-line{stroke-width:1px}.c3-circle._expanded_{stroke-width:1px;stroke:#fff}.c3-selected-circle{fill:#fff;stroke-width:2px}.c3-bar{stroke-width:0}.c3-bar._expanded_{fill-opacity:.75}.c3-target.c3-focused{opacity:1}.c3-target.c3-focused path.c3-line,.c3-target.c3-focused path.c3-step{stroke-width:2px}.c3-target.c3-defocused{opacity:.3!important}.c3-region{fill:#4682b4;fill-opacity:.1}.c3-brush .extent{fill-opacity:.1}.c3-legend-item{font-size:12px}.c3-legend-item-hidden{opacity:.15}.c3-legend-background{opacity:.75;fill:#fff;stroke:#d3d3d3;stroke-width:1}.c3-title{font:14px sans-serif}.c3-tooltip-container{z-index:10}.c3-tooltip{border-collapse:collapse;border-spacing:0;background-color:#fff;empty-cells:show;-webkit-box-shadow:7px 7px 12px -9px #777;-moz-box-shadow:7px 7px 12px -9px #777;box-shadow:7px 7px 12px -9px #777;opacity:.9}.c3-tooltip tr{border:1px solid #CCC}.c3-tooltip th{background-color:#aaa;font-size:14px;padding:2px 5px;text-align:left;color:#FFF}.c3-tooltip td{font-size:13px;padding:3px 6px;background-color:#fff;border-left:1px dotted #999}.c3-tooltip td>span{display:inline-block;width:10px;height:10px;margin-right:6px}.c3-tooltip td.value{text-align:right}.c3-area{stroke-width:0;opacity:.2}.c3-chart-arcs-title{dominant-baseline:middle;font-size:1.3em}.c3-chart-arcs .c3-chart-arcs-background{fill:#e0e0e0;stroke:none}.c3-chart-arcs .c3-chart-arcs-gauge-unit{fill:#000;font-size:16px}.c3-chart-arcs .c3-chart-arcs-gauge-max,.c3-chart-arcs .c3-chart-arcs-gauge-min{fill:#777}.c3-chart-arc .c3-gauge-value{fill:#000}/* the element that this class is applied to, should have a max width for this to work*/
+/* the element that this class is applied to, should have a max width for this to work*/
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
 }
@@ -9719,6 +9719,9 @@ fieldset[disabled] .form-control {
     top: 26px;
   }
 }
+.barcode-wrapper {
+  text-align: center;
+}
 @media (min-width: 768px) {
   .video-modal .modal-dialog {
     width: 700px;
@@ -9905,6 +9908,10 @@ li.user-progress .progress-bar {
 }
 .frappe-rtl .checkbox .disp-area {
   margin-right: -20px;
+  margin-left: 0px;
+}
+.checkbox .disp-area {
+  margin-left: -20px;
 }
 .text-editor {
   height: 400px;
@@ -12538,6 +12545,15 @@ select.form-control {
 body[data-route^="Form/Communication"] textarea[data-fieldname="subject"] {
   height: 80px !important;
 }
+.frappe-control[data-fieldtype="Attach"] .attached-file {
+  position: relative;
+  margin-top: 5px;
+}
+.frappe-control[data-fieldtype="Attach"] .attached-file .close {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
 /* the element that this class is applied to, should have a max width for this to work*/
 html {
   min-height: 100%;
@@ -13095,77 +13111,77 @@ body[data-route*="Kanban"] .modal .add-assignment:hover i {
   outline: none;
   width: 100%;
 }
-/* graphs */
-.graph-container .graph-focus-margin {
+/* charts */
+.chart-container .graph-focus-margin {
   margin: 0px 5%;
 }
-.graph-container .graphics {
+.chart-container .graphics {
   margin-top: 10px;
   padding-top: 10px;
   padding-bottom: 10px;
   position: relative;
 }
-.graph-container .graph-stats-group {
+.chart-container .graph-stats-group {
   display: flex;
   justify-content: space-around;
   flex: 1;
 }
-.graph-container .graph-stats-container {
+.chart-container .graph-stats-container {
   display: flex;
   justify-content: space-around;
   padding-top: 10px;
 }
-.graph-container .graph-stats-container .stats {
+.chart-container .graph-stats-container .stats {
   padding-bottom: 15px;
 }
-.graph-container .graph-stats-container .stats-title {
+.chart-container .graph-stats-container .stats-title {
   color: #8D99A6;
 }
-.graph-container .graph-stats-container .stats-value {
+.chart-container .graph-stats-container .stats-value {
   font-size: 20px;
   font-weight: 300;
 }
-.graph-container .graph-stats-container .stats-description {
+.chart-container .graph-stats-container .stats-description {
   font-size: 12px;
   color: #8D99A6;
 }
-.graph-container .graph-stats-container .graph-data .stats-value {
+.chart-container .graph-stats-container .graph-data .stats-value {
   color: #98d85b;
 }
-.graph-container .axis,
-.graph-container .chart-label {
+.chart-container .axis,
+.chart-container .chart-label {
   font-size: 10px;
-  fill: #959ba1;
+  fill: #555b51;
 }
-.graph-container .axis line,
-.graph-container .chart-label line {
-  stroke: rgba(27, 31, 35, 0.1);
+.chart-container .axis line,
+.chart-container .chart-label line {
+  stroke: rgba(27, 31, 35, 0.2);
 }
-.graph-container .percentage-graph .progress {
+.chart-container .percentage-graph .progress {
   margin-bottom: 0px;
 }
-.graph-container .data-points circle {
+.chart-container .data-points circle {
   stroke: #fff;
   stroke-width: 2;
 }
-.graph-container .data-points path {
+.chart-container .data-points path {
   fill: none;
   stroke-opacity: 1;
   stroke-width: 2px;
 }
-.graph-container line.dashed {
+.chart-container line.dashed {
   stroke-dasharray: 5,3;
 }
-.graph-container .tick.x-axis-label {
+.chart-container .tick.x-axis-label {
   display: block;
 }
-.graph-container .tick .specific-value {
+.chart-container .tick .specific-value {
   text-anchor: start;
 }
-.graph-container .tick .y-value-text {
+.chart-container .tick .y-value-text {
   text-anchor: end;
 }
-.graph-container .tick .x-value-text {
+.chart-container .tick .x-value-text {
   text-anchor: middle;
 }
 .graph-svg-tip {
@@ -13235,6 +13251,9 @@ body[data-route*="Kanban"] .modal .add-assignment:hover i {
 .stroke.light-green {
   stroke: #98d85b;
 }
+.stroke.lightgreen {
+  stroke: #98d85b;
+}
 .stroke.green {
   stroke: #28a745;
 }
@@ -13269,6 +13288,9 @@ body[data-route*="Kanban"] .modal .add-assignment:hover i {
   fill: #ff5858;
 }
 .fill.light-green {
+  fill: #98d85b;
+}
+.fill.lightgreen {
   fill: #98d85b;
 }
 .fill.green {
@@ -13307,6 +13329,9 @@ body[data-route*="Kanban"] .modal .add-assignment:hover i {
 .background.light-green {
   background: #98d85b;
 }
+.background.lightgreen {
+  background: #98d85b;
+}
 .background.green {
   background: #28a745;
 }
@@ -13341,6 +13366,9 @@ body[data-route*="Kanban"] .modal .add-assignment:hover i {
   border-top: 3px solid #ff5858;
 }
 .border-top.light-green {
+  border-top: 3px solid #98d85b;
+}
+.border-top.lightgreen {
   border-top: 3px solid #98d85b;
 }
 .border-top.green {
