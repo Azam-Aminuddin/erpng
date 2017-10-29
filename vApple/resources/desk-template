@@ -43,6 +43,13 @@
 
 	if(!window.frappe) window.frappe = {};
 
+    if(!window.flags) {
+        frappe.flags = { no_socketio : true };
+    }
+    else {
+        frappe.flags.no_socketio = true;
+    }
+    
 	frappe.boot = ${FRAPPE.BOOT};
 
 	frappe.csrf_token = "${SID}";

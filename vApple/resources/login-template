@@ -132,7 +132,7 @@ p {
 		window.dev_server = 0;
     </script>
 </head>
-<body data-path="login">
+<body data-path="">
 	<div class="main-section">
 		<div>
 			<header>
